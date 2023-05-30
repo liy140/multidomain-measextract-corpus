@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN103108833A_28	1	1	MeasuredEntity			42	56	42	56	T3-1	in the reactor
+CN103108833A_28	1	1	MeasuredProperty			90	101	90	101	T2-1	temperature
+CN103108833A_28	1	1	Quantity	°C		66	74	66	74	T1-1	50-70 °C

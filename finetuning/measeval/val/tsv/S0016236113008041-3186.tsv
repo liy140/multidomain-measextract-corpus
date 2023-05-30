@@ -1,0 +1,18 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0016236113008041-3186	1	1	Quantity	ppm		109	129	109	129	T11-1	greater than 0.1 ppm
+S0016236113008041-3186	1	1	MeasuredProperty		{'HasQuantity': 'T11-1'}	94	108	94	108	T91-1	concentrations
+S0016236113008041-3186	1	1	MeasuredEntity		{'HasProperty': 'T91-1'}	67	79	67	79	T101-1	Rb, Nb and W
+S0016236113008041-3186	2	2	Quantity	ppm		65	69	196	200	T52-2	0.06
+S0016236113008041-3186	2	2	MeasuredProperty		{'HasQuantity': 'T52-2'}	35	48	166	179	T122-2	concentration
+S0016236113008041-3186	2	2	MeasuredEntity		{'HasProperty': 'T122-2'}	0	1	131	132	T112-2	W
+S0016236113008041-3186	2	3	Quantity	ppm		73	77	204	208	T63-3	0.42
+S0016236113008041-3186	2	3	MeasuredProperty		{'HasQuantity': 'T63-3'}	35	48	166	179	T123-3	concentration
+S0016236113008041-3186	2	3	MeasuredEntity		{'HasProperty': 'T123-3'}	0	1	131	132	T113-3	W
+S0016236113008041-3186	2	4	Quantity	ppm		81	89	212	220	T24-4	0.74 ppm
+S0016236113008041-3186	2	4	MeasuredProperty		{'HasQuantity': 'T24-4'}	35	48	166	179	T124-4	concentration
+S0016236113008041-3186	2	4	MeasuredEntity		{'HasProperty': 'T124-4'}	0	1	131	132	T114-4	W
+S0016236113008041-3186	2	5	Quantity	kg		106	122	237	253	T75-5	4.5, 6 and 13 kg
+S0016236113008041-3186	2	5	MeasuredEntity		{'HasQuantity': 'T75-5'}	94	105	225	236	T135-5	inventories
+S0016236113008041-3186	3	6	Quantity	ppm		75	83	343	351	T48-6	<0.1 ppm
+S0016236113008041-3186	3	6	MeasuredProperty		{'HasQuantity': 'T48-6'}	18	41	286	309	T158-6	flue gas concentrations
+S0016236113008041-3186	3	6	MeasuredEntity		{'HasProperty': 'T158-6'}	4	17	272	285	T148-6	trace element

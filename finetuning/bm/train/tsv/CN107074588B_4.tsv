@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN107074588B_4	1	1	MeasuredEntity			64	96	64	96	T3-1	transition metal oxide precursor
+CN107074588B_4	1	1	MeasuredProperty			103	114	103	114	T2-1	tap density
+CN107074588B_4	1	1	Quantity	g/cc		123	142	123	142	T1-1	1.0g/cc to 2.5 g/cc

@@ -1,0 +1,9 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0927775713009606-1361	1	1	Quantity	nm		77	85	77	85	T1-1	0.097 nm
+S0927775713009606-1361	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	61	73	61	73	T4-1	ionic radius
+S0927775713009606-1361	1	1	MeasuredEntity		{'HasProperty': 'T4-1'}	33	53	33	53	T3-1	divalent cation Cd2+
+S0927775713009606-1361	1	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	190	205	190	205	T3-2	internal cavity
+S0927775713009606-1361	1	2	MeasuredEntity		{'HasProperty': 'T3-2'}	213	226	213	226	T4-2	amylose helix
+S0927775713009606-1361	2	3	Quantity	nm		282	294	532	544	T1-3	0.19–0.21 nm
+S0927775713009606-1361	2	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	266	275	516	525	T4-3	distances
+S0927775713009606-1361	2	3	MeasuredEntity		{'HasProperty': 'T4-3'}	256	265	506	515	T3-3	H-bonding

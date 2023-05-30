@@ -1,0 +1,10 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0022459611006116-1200	4	1	Quantity			50	65	282	297	T1-1	from 5≤2θ/°≤120
+S0022459611006116-1200	4	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	42	48	274	280	T2-1	period
+S0022459611006116-1200	4	1	MeasuredEntity		{'HasProperty': 'T2-1'}	8	12	240	244	T3-1	data
+S0022459611006116-1200	4	2	Quantity	°		86	91	318	323	T1-2	0.02°
+S0022459611006116-1200	4	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	78	82	310	314	T2-2	size
+S0022459611006116-1200	4	2	MeasuredEntity		{'HasProperty': 'T2-2'}	73	77	305	309	T3-2	step
+S0022459611006116-1200	4	3	Quantity	h		92	101	324	333	T1-3	over 14 h
+S0022459611006116-1200	4	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	42	48	274	280	T5-3	period
+S0022459611006116-1200	4	3	MeasuredEntity		{'HasProperty': 'T5-3'}	8	12	240	244	T3-3	data

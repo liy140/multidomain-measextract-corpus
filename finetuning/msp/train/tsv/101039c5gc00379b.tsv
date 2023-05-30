@@ -1,0 +1,42 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101039c5gc00379b	7	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	93	98	1124	1129	T2-1	added
+101039c5gc00379b	7	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	54	80	1085	1111	T3-1	aqueous hydrazine solution
+101039c5gc00379b	7	1	Quantity	g	"{""unit"": ""g""}"	82	87	1113	1118	T1-1	0.4 g
+101039c5gc00379b	13	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	36	48	1690	1702	T2-2	calcinations
+101039c5gc00379b	13	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	13	25	1667	1679	T3-2	white powder
+101039c5gc00379b	13	2	Quantity	degC	"{""unit"": ""degC""}"	79	87	1733	1741	T1-2	550 degC
+101039c5gc00379b	13	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	36	48	1690	1702	T2-3	calcinations
+101039c5gc00379b	13	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	13	25	1667	1679	T3-3	white powder
+101039c5gc00379b	13	3	Quantity	h	"{""unit"": ""h""}"	92	95	1746	1749	T1-3	6 h
+101039c5gc00379b	1	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	188	196	188	196	T2-4	in water
+101039c5gc00379b	1	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	162	179	162	179	T3-4	Hydrogen peroxide
+101039c5gc00379b	1	4	Quantity	wt%	"{""unit"": ""wt%""}"	181	187	181	187	T1-4	50 wt%
+101039c5gc00379b	5	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	38	46	873	881	T2-5	pH range
+101039c5gc00379b	5	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	9	17	844	852	T3-5	solution
+101039c5gc00379b	5	5	Quantity			50	51	885	886	T1-5	8
+101039c5gc00379b	6	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	88	93	1006	1011	T2-6	added
+101039c5gc00379b	6	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	79	83	997	1001	T3-6	CTAB
+101039c5gc00379b	6	6	Quantity	g	"{""unit"": ""g""}"	73	78	991	996	T1-6	0.8 g
+101039c5gc00379b	4	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	251	260	800	809	T2-7	dissolved
+101039c5gc00379b	4	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	206	225	755	774	T3-7	(NH4)6H2W12O40*xH2O
+101039c5gc00379b	4	7	Quantity	g	"{""unit"": ""g""}"	200	205	749	754	T1-7	5.3 g
+101039c5gc00379b	4	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	251	260	800	809	T2-8	dissolved
+101039c5gc00379b	4	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	240	245	789	794	T3-8	CuCl2
+101039c5gc00379b	4	8	Quantity	g	"{""unit"": ""g""}"	230	236	779	785	T1-8	0.40 g
+101039c5gc00379b	4	9	MeasuredEntity		"{""HasQuantity"": ""T1-9""}"	269	284	818	833	T3-9	deionized water
+101039c5gc00379b	4	9	Quantity	g	"{""unit"": ""g""}"	264	268	813	817	T1-9	16 g
+101039c5gc00379b	2	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	114	126	363	375	T2-10	aq. solution
+101039c5gc00379b	2	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	99	108	348	357	T3-10	hydrazine
+101039c5gc00379b	2	10	Quantity	%	"{""unit"": ""%""}"	110	113	359	362	T1-10	80%
+101039c5gc00379b	2	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	162	168	411	417	T2-11	purity
+101039c5gc00379b	2	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	149	160	398	409	T3-11	cyclohexane
+101039c5gc00379b	2	11	Quantity	%	"{""unit"": ""%""}"	169	176	418	425	T1-11	> 99.9%
+101039c5gc00379b	12	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	29	39	1365	1375	T2-12	maintained
+101039c5gc00379b	12	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	4	13	1340	1349	T3-12	autoclave
+101039c5gc00379b	12	12	Quantity	degC	"{""unit"": ""degC""}"	43	51	1379	1387	T1-12	180 degC
+101039c5gc00379b	12	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	29	39	1365	1375	T2-13	maintained
+101039c5gc00379b	12	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	4	13	1340	1349	T3-13	autoclave
+101039c5gc00379b	12	13	Quantity	h	"{""unit"": ""h""}"	56	60	1392	1396	T1-13	24 h
+101039c5gc00379b	12	14	MeasuredProperty		"{""HasQuantity"": ""T1-14""}"	278	283	1614	1619	T2-14	dried
+101039c5gc00379b	12	14	MeasuredEntity		"{""HasProperty"": ""T2-14""}"	111	125	1447	1461	T3-14	white products
+101039c5gc00379b	12	14	Quantity	degC	"{""unit"": ""degC""}"	298	306	1634	1642	T1-14	100 degC

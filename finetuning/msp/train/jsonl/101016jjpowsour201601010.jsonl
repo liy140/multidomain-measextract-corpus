@@ -1,0 +1,11 @@
+{"text": "10.1016/j.jpowsour.2016.01.010\nCarbon-coated silicon nanotube arrays on carbon cloth as a hybrid anode for lithium-ion batteries\nSilicon nanotubes were fabricated by using ZnO nanowire as a sacrificial template [18].", "sentId": 1, "start": 0, "end": 216}
+{"text": "Typically, CC substrates (W0S1002, Phychemi Company Limited) were cut into small pieces (1-2 cm2), and then cleaned by sonication sequentially in acetone and alcohol for 10 min, respectively.", "sentId": 2, "start": 217, "end": 408}
+{"text": "The cleaned CC was then soaked in 0.0025 M zinc acetate dihydrate alcohol solution for 5 min and annealed in oven for 20 min at 300 degC to form a ZnO seed layer.", "sentId": 3, "start": 409, "end": 571}
+{"text": "A precursor 150 ml solution was prepared with 0.04 M zinc acetate dihydrate, 0.04 M hexamethylenetetramine and 0.009 M poly(ethylene imine).", "sentId": 4, "start": 572, "end": 712}
+{"text": "After preheating the precursor solution for 1 h at 95 degC, the seeded CC substrates were dipped into the solution for another 4 h and finally ZnO nanowire arrays were grown on the substrates.", "sentId": 5, "start": 713, "end": 905}
+{"text": "Subsequently, the substrates with ZnO nanowires were cleaned by deionized water and transferred into a chemical vapor deposition chamber to deposit a silicon shell.", "sentId": 6, "start": 906, "end": 1070}
+{"text": "The deposition of silicon shell was achieved at 500 degC for several min with passing 4 sccm SiH4 and 20 sccm Ar at a pressure of 100 Pa.", "sentId": 7, "start": 1071, "end": 1208}
+{"text": "To form a carbon coating on the surface of silicon shell, another deposition process was carried out at 650 degC for 90 min with passing 4 sccm C2H2 and 20 sccm Ar at a pressure of 500 Pa.", "sentId": 8, "start": 1209, "end": 1397}
+{"text": "Finally, the core ZnO nanowires were selectively removed via a reduction process at 600 degC for 12 h with 20% H2 in N2 at 600 Pa, leaving a carbon-coated Si NT.", "sentId": 9, "start": 1398, "end": 1559}
+{"text": "For comparison, the sample of Si NT arrays/", "sentId": 10, "start": 1560, "end": 1603}
+{"text": "CC was prepared without carbon deposition process.", "sentId": 11, "start": 1603, "end": 1653}

@@ -1,0 +1,6 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S016412121300188X-5066	4	1	Quantity	%		63	78	461	476	T1-1	from 78% to 95%
+S016412121300188X-5066	4	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	5	13	403	411	T3-1	improves
+S016412121300188X-5066	4	1	MeasuredEntity		{'HasProperty': 'T3-1'}	21	48	419	446	T2-1	precision of previous slice
+S016412121300188X-5066	5	2	Quantity			100	102	624	626	T1-2	30
+S016412121300188X-5066	5	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	103	122	627	646	T2-2	production programs

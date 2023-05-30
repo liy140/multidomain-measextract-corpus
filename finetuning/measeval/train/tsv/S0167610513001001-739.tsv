@@ -1,0 +1,6 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0167610513001001-739	1	1	Quantity	m		52	57	52	57	T1-1	180 m
+S0167610513001001-739	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	38	51	38	51	T3-1	gate midpoint
+S0167610513001001-739	2	2	Quantity	m s−1		21	31	81	91	T1-2	7.83 m s−1
+S0167610513001001-739	2	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	12	17	72	77	T4-2	speed
+S0167610513001001-739	2	2	MeasuredEntity		{'HasProperty': 'T4-2'}	7	11	67	71	T3-2	wind

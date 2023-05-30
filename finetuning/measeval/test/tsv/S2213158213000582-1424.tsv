@@ -1,0 +1,12 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S2213158213000582-1424	4	1	Quantity	ms		142	147	1084	1089	T1-1	50 ms
+S2213158213000582-1424	4	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	169	186	1111	1128	T4-1	auditory activity
+S2213158213000582-1424	4	1	MeasuredEntity		{'HasProperty': 'T4-1'}	148	168	1090	1110	T3-1	temporal and frontal
+S2213158213000582-1424	5	2	Quantity	ms		36	42	1286	1292	T1-2	100 ms
+S2213158213000582-1424	5	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	64	81	1314	1331	T4-2	auditory activity
+S2213158213000582-1424	5	2	MeasuredEntity		{'HasProperty': 'T4-2'}	43	63	1293	1313	T3-2	temporal and frontal
+S2213158213000582-1424	6	3	Quantity			177	180	1536	1539	T1-3	two
+S2213158213000582-1424	6	3	MeasuredEntity		{'HasQuantity': 'T1-3'}	181	188	1540	1547	T2-3	studies
+S2213158213000582-1424	7	4	Quantity	ms		36	42	1724	1730	T1-4	100 ms
+S2213158213000582-1424	7	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	43	60	1731	1748	T3-4	auditory activity
+S2213158213000582-1424	7	4	MeasuredEntity		{'HasProperty': 'T3-4'}	64	129	1752	1817	T4-4	middle temporal gyrus, parietal, cingulate, and occipital regions

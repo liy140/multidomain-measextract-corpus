@@ -1,0 +1,13 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0169433213008933-689	1	1	Quantity			184	190	184	190	T1-1	(80/20
+S0169433213008933-689	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	169	183	169	183	T3-1	gold/palladium
+S0169433213008933-689	1	1	MeasuredEntity		{'HasProperty': 'T3-1'}	192	197	192	197	T2-1	alloy
+S0169433213008933-689	2	2	Quantity	mBar		58	72	257	271	T1-2	0.06–0.07 mBar
+S0169433213008933-689	2	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	73	81	272	280	T3-2	pressure
+S0169433213008933-689	2	2	MeasuredEntity		{'HasProperty': 'T3-2'}	85	90	284	289	T4-2	Argon
+S0169433213008933-689	3	3	Quantity	s		32	37	323	328	T1-3	240 s
+S0169433213008933-689	3	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	18	27	309	318	T2-3	processed
+S0169433213008933-689	3	3	MeasuredEntity		{'HasProperty': 'T2-3'}	0	7	291	298	T4-3	Samples
+S0169433213008933-689	3	4	Quantity	mA		41	46	332	337	T1-4	30 mA
+S0169433213008933-689	3	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	47	54	338	345	T3-4	current
+S0169433213008933-689	3	4	MeasuredEntity		{'HasProperty': 'T3-4'}	18	27	309	318	T4-4	processed

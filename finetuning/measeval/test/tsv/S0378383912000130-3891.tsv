@@ -1,0 +1,8 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0378383912000130-3891	1	1	Quantity			94	97	94	97	T1-1	two
+S0378383912000130-3891	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	98	130	98	130	T2-1	permeable coarse-grained beaches
+S0378383912000130-3891	1	2	Quantity	mm		132	149	132	149	T2-2	1.5 mm and 8.5 mm
+S0378383912000130-3891	1	2	MeasuredProperty		{'HasQuantity': 'T2-2'}	150	158	150	158	T3-2	sediment
+S0378383912000130-3891	1	2	MeasuredEntity		{'HasProperty': 'T3-2'}	94	130	94	130	T4-2	two permeable coarse-grained beaches
+S0378383912000130-3891	3	3	Quantity			71	74	534	537	T1-3	two
+S0378383912000130-3891	3	3	MeasuredEntity		{'HasQuantity': 'T1-3'}	75	84	538	547	T2-3	sediments

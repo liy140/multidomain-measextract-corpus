@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20180254481A2_1	1	1	MeasuredEntity			226	246	226	246	T3-1	a nucleation process
+US20180254481A2_1	1	1	MeasuredProperty			430	442	430	442	T2-1	the pH value
+US20180254481A2_1	1	1	Quantity			494	506	494	506	T1-1	12.0 to 14.0
+US20180254481A2_1	1	2	MeasuredEntity			512	537	512	537	T3-2	a particle growth process
+US20180254481A2_1	1	2	MeasuredProperty			698	710	698	710	T2-2	the pH value
+US20180254481A2_1	1	2	Quantity			757	769	757	769	T1-2	10.5 to 12.0

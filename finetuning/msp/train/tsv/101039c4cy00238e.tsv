@@ -1,0 +1,179 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101039c4cy00238e	14	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	23	28	1635	1640	T2-1	dried
+101039c4cy00238e	14	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	4	18	1616	1630	T3-1	obtained solid
+101039c4cy00238e	14	1	Quantity	degC	"{""unit"": ""degC""}"	32	40	1644	1652	T1-1	120 degC
+101039c4cy00238e	14	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	23	28	1635	1640	T2-2	dried
+101039c4cy00238e	14	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	4	18	1616	1630	T3-2	obtained solid
+101039c4cy00238e	14	2	Quantity	hours	"{""unit"": ""hours""}"	45	53	1657	1665	T1-2	24 hours
+101039c4cy00238e	16	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	26	30	1850	1854	T2-3	kept
+101039c4cy00238e	16	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	4	21	1828	1845	T3-3	resulting mixture
+101039c4cy00238e	16	3	Quantity	degC	"{""unit"": ""degC""}"	34	41	1858	1865	T1-3	40 degC
+101039c4cy00238e	16	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	26	30	1850	1854	T2-4	kept
+101039c4cy00238e	16	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	4	21	1828	1845	T3-4	resulting mixture
+101039c4cy00238e	16	4	Quantity	hours	"{""unit"": ""hours""}"	46	54	1870	1878	T1-4	24 hours
+101039c4cy00238e	16	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	64	76	1888	1900	T2-5	precipitated
+101039c4cy00238e	16	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	4	21	1828	1845	T3-5	resulting mixture
+101039c4cy00238e	16	5	Quantity	degC	"{""unit"": ""degC""}"	108	116	1932	1940	T1-5	100 degC
+101039c4cy00238e	16	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	64	76	1888	1900	T2-6	precipitated
+101039c4cy00238e	16	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	4	21	1828	1845	T3-6	resulting mixture
+101039c4cy00238e	16	6	Quantity	hours	"{""unit"": ""hours""}"	121	129	1945	1953	T1-6	48 hours
+101039c4cy00238e	28	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	67	72	3199	3204	T2-7	added
+101039c4cy00238e	28	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	21	43	3153	3175	T3-7	p-toluenesulfonic acid
+101039c4cy00238e	28	7	Quantity	mg	"{""unit"": ""mg""}"	0	6	3132	3138	T1-7	645 mg
+101039c4cy00238e	28	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	67	72	3199	3204	T2-8	added
+101039c4cy00238e	28	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	21	43	3153	3175	T3-8	p-toluenesulfonic acid
+101039c4cy00238e	28	8	Quantity	mmol	"{""unit"": ""mmol""}"	8	16	3140	3148	T1-8	3.4 mmol
+101039c4cy00238e	28	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	67	72	3199	3204	T2-9	added
+101039c4cy00238e	28	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	56	61	3188	3193	T3-9	ether
+101039c4cy00238e	28	9	Quantity	mL	"{""unit"": ""mL""}"	47	52	3179	3184	T1-9	13 mL
+101039c4cy00238e	28	10	MeasuredEntity		"{""HasQuantity"": ""T1-10""}"	86	90	3218	3222	T3-10	MeOH
+101039c4cy00238e	28	10	Quantity	mL	"{""unit"": ""mL""}"	76	82	3208	3214	T1-10	100 mL
+101039c4cy00238e	6	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	15	26	636	647	T2-11	resistivity
+101039c4cy00238e	6	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	0	13	621	634	T3-11	Milli-Q water
+101039c4cy00238e	6	11	Quantity	MΩ cm-1	"{""unit"": ""M\u03a9 cm-1""}"	27	39	648	660	T1-11	18.2 MΩ cm-1
+101039c4cy00238e	6	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	60	66	681	687	T2-12	filter
+101039c4cy00238e	6	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	0	13	621	634	T3-12	Milli-Q water
+101039c4cy00238e	6	12	Quantity	μm	"{""unit"": ""\u03bcm""}"	52	59	673	680	T1-12	0.22 μm
+101039c4cy00238e	6	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	15	39	636	660	T2-13	resistivity 18.2 MΩ cm-1
+101039c4cy00238e	6	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	0	13	621	634	T3-13	Milli-Q water
+101039c4cy00238e	6	13	Quantity	degC	"{""unit"": ""degC""}"	43	50	664	671	T1-13	25 degC
+101039c4cy00238e	15	14	MeasuredProperty		"{""HasQuantity"": ""T1-14""}"	21	30	1687	1696	T2-14	dispersed
+101039c4cy00238e	15	14	MeasuredEntity		"{""HasProperty"": ""T2-14""}"	10	15	1676	1681	T3-14	P-123
+101039c4cy00238e	15	14	Quantity	g	"{""unit"": ""g""}"	1	6	1667	1672	T1-14	1.5 g
+101039c4cy00238e	15	15	MeasuredEntity		"{""HasQuantity"": ""T1-15""}"	43	56	1709	1722	T3-15	Milli-Q water
+101039c4cy00238e	15	15	Quantity	mL	"{""unit"": ""mL""}"	34	39	1700	1705	T1-15	11 mL
+101039c4cy00238e	15	16	MeasuredEntity		"{""HasQuantity"": ""T1-16""}"	70	73	1736	1739	T3-16	HCl
+101039c4cy00238e	15	16	Quantity	mL	"{""unit"": ""mL""}"	61	66	1727	1732	T1-16	45 mL
+101039c4cy00238e	15	17	MeasuredEntity		"{""HasQuantity"": ""T1-17""}"	70	73	1736	1739	T3-17	HCl
+101039c4cy00238e	15	17	Quantity	M	"{""unit"": ""M""}"	75	78	1741	1744	T1-17	2 M
+101039c4cy00238e	15	18	MeasuredProperty		"{""HasQuantity"": ""T1-18""}"	21	30	1687	1696	T2-18	dispersed
+101039c4cy00238e	15	18	MeasuredEntity		"{""HasProperty"": ""T2-18""}"	1	15	1667	1681	T3-18	1.5 g of P-123
+101039c4cy00238e	15	18	Quantity	degC	"{""unit"": ""degC""}"	83	90	1749	1756	T1-18	40 degC
+101039c4cy00238e	15	19	MeasuredProperty		"{""HasQuantity"": ""T1-19""}"	124	129	1790	1795	T2-19	added
+101039c4cy00238e	15	19	MeasuredEntity		"{""HasProperty"": ""T2-19""}"	99	107	1765	1773	T3-19	Nb(OEt)5
+101039c4cy00238e	15	19	Quantity	g	"{""unit"": ""g""}"	92	95	1758	1761	T1-19	5 g
+101039c4cy00238e	15	20	MeasuredProperty		"{""HasQuantity"": ""T1-20""}"	124	129	1790	1795	T2-20	added
+101039c4cy00238e	15	20	MeasuredEntity		"{""HasProperty"": ""T2-20""}"	99	107	1765	1773	T3-20	Nb(OEt)5
+101039c4cy00238e	15	20	Quantity	mmol	"{""unit"": ""mmol""}"	109	118	1775	1784	T1-20	15.7 mmol
+101039c4cy00238e	24	21	MeasuredProperty		"{""HasQuantity"": ""T1-21""}"	64	70	2691	2697	T2-21	heated
+101039c4cy00238e	24	21	MeasuredEntity		"{""HasProperty"": ""T2-21""}"	4	20	2631	2647	T3-21	reaction mixture
+101039c4cy00238e	24	21	Quantity	degC	"{""unit"": ""degC""}"	74	158	2701	2785	T1-21	40 degC for 30 hours, 60-65 degC for 66 hours, 80 degC for 48 hours, and 95-100 degC
+101039c4cy00238e	24	22	MeasuredProperty		"{""HasQuantity"": ""T1-22""}"	64	70	2691	2697	T2-22	heated
+101039c4cy00238e	24	22	MeasuredEntity		"{""HasProperty"": ""T2-22""}"	4	20	2631	2647	T3-22	reaction mixture
+101039c4cy00238e	24	22	Quantity	hours	"{""unit"": ""hours""}"	86	141	2713	2768	T1-22	30 hours, 60-65 degC for 66 hours, 80 degC for 48 hours
+101039c4cy00238e	24	23	MeasuredProperty		"{""HasQuantity"": ""T1-23""}"	64	70	2691	2697	T2-23	heated
+101039c4cy00238e	24	23	MeasuredEntity		"{""HasProperty"": ""T2-23""}"	4	20	2631	2647	T3-23	reaction mixture
+101039c4cy00238e	24	23	Quantity	days	"{""unit"": ""days""}"	163	169	2790	2796	T1-23	5 days
+101039c4cy00238e	30	24	MeasuredProperty		"{""HasQuantity"": ""T1-24""}"	17	25	3371	3379	T2-24	washings
+101039c4cy00238e	30	24	MeasuredEntity		"{""HasProperty"": ""T2-24""}"	42	46	3396	3400	T3-24	MeOH
+101039c4cy00238e	30	24	Quantity	mL	"{""unit"": ""mL""}"	48	54	3402	3408	T1-24	100 mL
+101039c4cy00238e	31	25	MeasuredProperty		"{""HasQuantity"": ""T1-25""}"	51	56	3467	3472	T2-25	dried
+101039c4cy00238e	31	25	MeasuredEntity		"{""HasProperty"": ""T2-25""}"	11	46	3427	3462	T3-25	template-free mesoporous Nb2O5*nH2O
+101039c4cy00238e	31	25	Quantity	degC	"{""unit"": ""degC""}"	74	82	3490	3498	T1-25	120 degC
+101039c4cy00238e	31	26	MeasuredProperty		"{""HasQuantity"": ""T1-26""}"	51	56	3467	3472	T2-26	dried
+101039c4cy00238e	31	26	MeasuredEntity		"{""HasProperty"": ""T2-26""}"	11	46	3427	3462	T3-26	template-free mesoporous Nb2O5*nH2O
+101039c4cy00238e	31	26	Quantity	hours	"{""unit"": ""hours""}"	87	95	3503	3511	T1-26	24 hours
+101039c4cy00238e	5	27	MeasuredProperty		"{""HasQuantity"": ""T1-27""}"	42	76	547	581	T2-27	used as structure-directing agents
+101039c4cy00238e	5	27	MeasuredEntity		"{""HasProperty"": ""T2-27""}"	0	32	505	537	T3-27	Pluronic (P123) and dodecylamine
+101039c4cy00238e	5	27	Quantity	%	"{""unit"": ""%""}"	33	36	538	541	T1-27	98%
+101039c4cy00238e	9	28	MeasuredProperty		"{""HasQuantity"": ""T1-28""}"	40	45	1081	1086	T2-28	added
+101039c4cy00238e	9	28	MeasuredEntity		"{""HasProperty"": ""T2-28""}"	17	22	1058	1063	T3-28	NH4OH
+101039c4cy00238e	9	28	Quantity	M	"{""unit"": ""M""}"	24	27	1065	1068	T1-28	1 M
+101039c4cy00238e	23	29	MeasuredProperty		"{""HasQuantity"": ""T1-29""}"	8	16	2549	2557	T2-29	addition
+101039c4cy00238e	23	29	MeasuredEntity		"{""HasProperty"": ""T2-29""}"	52	55	2593	2596	T3-29	HCl
+101039c4cy00238e	23	29	Quantity	μL	"{""unit"": ""\u03bcL""}"	20	27	2561	2568	T1-29	27.6 μL
+101039c4cy00238e	23	30	MeasuredProperty		"{""HasQuantity"": ""T1-30""}"	8	16	2549	2557	T2-30	addition
+101039c4cy00238e	23	30	MeasuredEntity		"{""HasProperty"": ""T2-30""}"	39	55	2580	2596	T3-30	concentrated HCl
+101039c4cy00238e	23	30	Quantity	mmol	"{""unit"": ""mmol""}"	29	37	2570	2578	T1-30	0.3 mmol
+101039c4cy00238e	25	31	MeasuredProperty		"{""HasQuantity"": ""T1-31""}"	60	65	2858	2863	T2-31	dried
+101039c4cy00238e	25	31	MeasuredEntity		"{""HasProperty"": ""T2-31""}"	4	9	2802	2807	T3-31	solid
+101039c4cy00238e	25	31	Quantity	degC	"{""unit"": ""degC""}"	69	129	2867	2927	T1-31	95-100 degC for 2 hours, 120 degC for 48 hours, and 140 degC
+101039c4cy00238e	25	32	MeasuredProperty		"{""HasQuantity"": ""T1-32""}"	60	65	2858	2863	T2-32	dried
+101039c4cy00238e	25	32	MeasuredEntity		"{""HasProperty"": ""T2-32""}"	4	9	2802	2807	T3-32	solid
+101039c4cy00238e	25	32	Quantity	hours	"{""unit"": ""hours""}"	85	142	2883	2940	T1-32	2 hours, 120 degC for 48 hours, and 140 degC for 48 hours
+101039c4cy00238e	4	33	MeasuredEntity		"{""HasQuantity"": ""T1-33""}"	11	16	421	426	T3-33	Nb2O5
+101039c4cy00238e	4	33	Quantity	%	"{""unit"": ""%""}"	33	41	443	451	T1-33	99.9985%
+101039c4cy00238e	8	34	MeasuredProperty		"{""HasQuantity"": ""T1-34""}"	98	107	983	992	T2-34	dissolved
+101039c4cy00238e	8	34	MeasuredEntity		"{""HasProperty"": ""T2-34""}"	75	80	960	965	T3-34	NbCl5
+101039c4cy00238e	8	34	Quantity	g	"{""unit"": ""g""}"	68	71	953	956	T1-34	5 g
+101039c4cy00238e	8	35	MeasuredEntity		"{""HasQuantity"": ""T1-35""}"	75	80	960	965	T3-35	NbCl5
+101039c4cy00238e	8	35	Quantity	mmol	"{""unit"": ""mmol""}"	82	91	967	976	T1-35	18.5 mmol
+101039c4cy00238e	8	36	MeasuredEntity		"{""HasQuantity"": ""T1-36""}"	115	122	1000	1007	T3-36	ethanol
+101039c4cy00238e	8	36	Quantity	%	"{""unit"": ""%""}"	111	114	996	999	T1-36	99%
+101039c4cy00238e	8	37	MeasuredEntity		"{""HasQuantity"": ""T1-37""}"	115	122	1000	1007	T3-37	ethanol
+101039c4cy00238e	8	37	Quantity	mL	"{""unit"": ""mL""}"	124	129	1009	1014	T1-37	10 mL
+101039c4cy00238e	10	38	MeasuredProperty		"{""HasQuantity"": ""T1-38""}"	125	130	1283	1288	T2-38	dried
+101039c4cy00238e	10	38	MeasuredEntity		"{""HasProperty"": ""T2-38""}"	4	15	1162	1173	T3-38	precipitate
+101039c4cy00238e	10	38	Quantity	degC	"{""unit"": ""degC""}"	134	142	1292	1300	T1-38	120 degC
+101039c4cy00238e	10	39	MeasuredProperty		"{""HasQuantity"": ""T1-39""}"	56	70	1214	1228	T2-39	centrifugation
+101039c4cy00238e	10	39	MeasuredEntity		"{""HasProperty"": ""T2-39""}"	4	15	1162	1173	T3-39	precipitate
+101039c4cy00238e	10	39	Quantity	rpm	"{""unit"": ""rpm""}"	72	80	1230	1238	T1-39	3000 rpm
+101039c4cy00238e	10	40	MeasuredProperty		"{""HasQuantity"": ""T1-40""}"	125	130	1283	1288	T2-40	dried
+101039c4cy00238e	10	40	MeasuredEntity		"{""HasProperty"": ""T2-40""}"	4	15	1162	1173	T3-40	precipitate
+101039c4cy00238e	10	40	Quantity	hours	"{""unit"": ""hours""}"	147	155	1305	1313	T1-40	24 hours
+101039c4cy00238e	10	41	MeasuredProperty		"{""HasQuantity"": ""T1-41""}"	83	89	1241	1247	T2-41	washed
+101039c4cy00238e	10	41	MeasuredEntity		"{""HasProperty"": ""T2-41""}"	4	15	1162	1173	T3-41	precipitate
+101039c4cy00238e	10	41	Quantity	times	"{""unit"": ""times""}"	90	100	1248	1258	T1-41	four times
+101039c4cy00238e	11	42	MeasuredProperty		"{""HasQuantity"": ""T1-42""}"	31	40	1345	1354	T2-42	dissolved
+101039c4cy00238e	11	42	MeasuredEntity		"{""HasProperty"": ""T2-42""}"	8	13	1322	1327	T3-42	NbCl5
+101039c4cy00238e	11	42	Quantity	g	"{""unit"": ""g""}"	1	4	1315	1318	T1-42	5 g
+101039c4cy00238e	11	43	MeasuredEntity		"{""HasQuantity"": ""T1-43""}"	8	13	1322	1327	T3-43	NbCl5
+101039c4cy00238e	11	43	Quantity	mmol	"{""unit"": ""mmol""}"	15	24	1329	1338	T1-43	18.5 mmol
+101039c4cy00238e	11	44	MeasuredEntity		"{""HasQuantity"": ""T1-44""}"	51	64	1365	1378	T3-44	Milli-Q water
+101039c4cy00238e	11	44	Quantity	mL	"{""unit"": ""mL""}"	44	50	1358	1364	T1-44	200 mL
+101039c4cy00238e	13	45	MeasuredProperty		"{""HasQuantity"": ""T1-45""}"	6	14	1446	1454	T2-45	stirring
+101039c4cy00238e	13	45	MeasuredEntity		"{""HasProperty"": ""T2-45""}"	48	65	1488	1505	T3-45	white precipitate
+101039c4cy00238e	13	45	Quantity	h	"{""unit"": ""h""}"	19	22	1459	1462	T1-45	3 h
+101039c4cy00238e	13	46	MeasuredProperty		"{""HasQuantity"": ""T1-46""}"	70	81	1510	1521	T2-46	centrifuged
+101039c4cy00238e	13	46	MeasuredEntity		"{""HasProperty"": ""T2-46""}"	48	65	1488	1505	T3-46	white precipitate
+101039c4cy00238e	13	46	Quantity	rpm	"{""unit"": ""rpm""}"	83	91	1523	1531	T1-46	3000 rpm
+101039c4cy00238e	13	47	MeasuredProperty		"{""HasQuantity"": ""T1-47""}"	97	103	1537	1543	T2-47	washed
+101039c4cy00238e	13	47	MeasuredEntity		"{""HasProperty"": ""T2-47""}"	48	65	1488	1505	T3-47	white precipitate
+101039c4cy00238e	13	47	Quantity	times	"{""unit"": ""times""}"	104	114	1544	1554	T1-47	four times
+101039c4cy00238e	18	48	MeasuredEntity		"{""HasQuantity"": ""T1-48""}"	77	80	2129	2132	T3-48	HCl
+101039c4cy00238e	18	48	Quantity	%	"{""unit"": ""%""}"	74	76	2126	2128	T1-48	1%
+101039c4cy00238e	18	49	MeasuredEntity		"{""HasQuantity"": ""T1-49""}"	88	92	2140	2144	T3-49	EtOH
+101039c4cy00238e	18	49	Quantity	%	"{""unit"": ""%""}"	84	87	2136	2139	T1-49	95%
+101039c4cy00238e	18	50	MeasuredEntity		"{""HasQuantity"": ""T1-50""}"	88	92	2140	2144	T3-50	EtOH
+101039c4cy00238e	18	50	Quantity	mL	"{""unit"": ""mL""}"	94	100	2146	2152	T1-50	300 mL
+101039c4cy00238e	18	51	MeasuredEntity		"{""HasQuantity"": ""T1-51""}"	120	124	2172	2176	T3-51	EtOH
+101039c4cy00238e	18	51	Quantity	%	"{""unit"": ""%""}"	116	119	2168	2171	T1-51	95%
+101039c4cy00238e	18	52	MeasuredEntity		"{""HasQuantity"": ""T1-52""}"	120	124	2172	2176	T3-52	EtOH
+101039c4cy00238e	18	52	Quantity	mL	"{""unit"": ""mL""}"	131	137	2183	2189	T1-52	120 mL
+101039c4cy00238e	19	53	MeasuredProperty		"{""HasQuantity"": ""T1-53""}"	51	56	2243	2248	T2-53	dried
+101039c4cy00238e	19	53	MeasuredEntity		"{""HasProperty"": ""T2-53""}"	11	46	2203	2238	T3-53	template-free mesoporous Nb2O5*nH2O
+101039c4cy00238e	19	53	Quantity	degC	"{""unit"": ""degC""}"	72	80	2264	2272	T1-53	120 degC
+101039c4cy00238e	19	54	MeasuredProperty		"{""HasQuantity"": ""T1-54""}"	51	56	2243	2248	T2-54	dried
+101039c4cy00238e	19	54	MeasuredEntity		"{""HasProperty"": ""T2-54""}"	25	46	2217	2238	T3-54	mesoporous Nb2O5*nH2O
+101039c4cy00238e	19	54	Quantity	hours	"{""unit"": ""hours""}"	85	93	2277	2285	T1-54	18 hours
+101039c4cy00238e	21	55	MeasuredProperty		"{""HasQuantity"": ""T1-55""}"	13	21	2300	2308	T2-55	Nb(OEt)5
+101039c4cy00238e	21	55	MeasuredEntity		"{""HasProperty"": ""T2-55""}"	2	9	2289	2296	T3-55	mixture
+101039c4cy00238e	21	55	Quantity	g	"{""unit"": ""g""}"	23	29	2310	2316	T1-55	3.25 g
+101039c4cy00238e	21	56	MeasuredProperty		"{""HasQuantity"": ""T1-56""}"	13	21	2300	2308	T2-56	Nb(OEt)5
+101039c4cy00238e	21	56	MeasuredEntity		"{""HasProperty"": ""T2-56""}"	2	9	2289	2296	T3-56	mixture
+101039c4cy00238e	21	56	Quantity	mmol	"{""unit"": ""mmol""}"	31	40	2318	2327	T1-56	10.3 mmol
+101039c4cy00238e	21	57	MeasuredProperty		"{""HasQuantity"": ""T1-57""}"	46	58	2333	2345	T2-57	dodecylamine
+101039c4cy00238e	21	57	MeasuredEntity		"{""HasProperty"": ""T2-57""}"	2	9	2289	2296	T3-57	mixture
+101039c4cy00238e	21	57	Quantity	g	"{""unit"": ""g""}"	60	66	2347	2353	T1-57	0.57 g
+101039c4cy00238e	21	58	MeasuredProperty		"{""HasQuantity"": ""T1-58""}"	46	58	2333	2345	T2-58	dodecylamine
+101039c4cy00238e	21	58	MeasuredEntity		"{""HasProperty"": ""T2-58""}"	2	9	2289	2296	T3-58	mixture
+101039c4cy00238e	21	58	Quantity	mmol	"{""unit"": ""mmol""}"	68	76	2355	2363	T1-58	3.1 mmol
+101039c4cy00238e	26	59	MeasuredProperty		"{""HasQuantity"": ""T1-59""}"	25	31	2967	2973	T2-59	washed
+101039c4cy00238e	26	59	MeasuredEntity		"{""HasProperty"": ""T2-59""}"	4	15	2946	2957	T3-59	white solid
+101039c4cy00238e	26	59	Quantity	times	"{""unit"": ""times""}"	32	42	2974	2984	T1-59	four times
+101039c4cy00238e	27	60	MeasuredProperty		"{""HasQuantity"": ""T1-60""}"	52	69	3082	3099	T2-60	vigorous stirring
+101039c4cy00238e	27	60	MeasuredEntity		"{""HasProperty"": ""T2-60""}"	0	18	3030	3048	T3-60	Each washing cycle
+101039c4cy00238e	27	60	Quantity	hours	"{""unit"": ""hours""}"	37	45	3067	3075	T1-60	24 hours
+101039c4cy00238e	29	61	MeasuredProperty		"{""HasQuantity"": ""T1-61""}"	86	91	3329	3334	T2-61	added
+101039c4cy00238e	29	61	MeasuredEntity		"{""HasProperty"": ""T2-61""}"	41	63	3284	3306	T3-61	p-toluenesulfonic acid
+101039c4cy00238e	29	61	Quantity	mg	"{""unit"": ""mg""}"	21	26	3264	3269	T1-61	65 mg
+101039c4cy00238e	29	62	MeasuredEntity		"{""HasQuantity"": ""T1-62""}"	41	63	3284	3306	T3-62	p-toluenesulfonic acid
+101039c4cy00238e	29	62	Quantity	mmol	"{""unit"": ""mmol""}"	28	36	3271	3279	T1-62	0.3 mmol
+101039c4cy00238e	29	63	MeasuredProperty		"{""HasQuantity"": ""T1-63""}"	86	91	3329	3334	T2-63	added
+101039c4cy00238e	29	63	MeasuredEntity		"{""HasProperty"": ""T2-63""}"	75	80	3318	3323	T3-63	ether
+101039c4cy00238e	29	63	Quantity	mL	"{""unit"": ""mL""}"	67	71	3310	3314	T1-63	3 mL
+101039c4cy00238e	29	64	MeasuredEntity		"{""HasQuantity"": ""T1-64""}"	105	109	3348	3352	T3-64	MeOH
+101039c4cy00238e	29	64	Quantity	mL	"{""unit"": ""mL""}"	95	101	3338	3344	T1-64	100 mL
+101039c4cy00238e	22	65	MeasuredProperty		"{""HasQuantity"": ""T1-65""}"	11	19	2430	2438	T2-65	addition
+101039c4cy00238e	22	65	MeasuredEntity		"{""HasProperty"": ""T2-65""}"	34	47	2453	2466	T3-65	Milli-Q water
+101039c4cy00238e	22	65	Quantity	mL	"{""unit"": ""mL""}"	23	30	2442	2449	T1-65	65.4 mL

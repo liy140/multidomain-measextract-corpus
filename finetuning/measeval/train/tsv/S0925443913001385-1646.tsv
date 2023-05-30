@@ -1,0 +1,6 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0925443913001385-1646	1	1	Quantity	%		277	283	277	283	T1-1	10–30%
+S0925443913001385-1646	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	247	275	247	275	T2-1	isokinetic sucrose gradients
+S0925443913001385-1646	9	2	Quantity	%		55	58	1438	1441	T1-2	63%
+S0925443913001385-1646	9	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	8	36	1391	1419	T2-2	levels in the subject sample
+S0925443913001385-1646	9	2	MeasuredEntity		{'HasProperty': 'T2-2'}	62	75	1445	1458	T4-2	control value

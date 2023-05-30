@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN108701827A_10	1	1	MeasuredEntity			8	42	8	42	T3-1	positive electrode active material
+CN108701827A_10	1	1	MeasuredProperty			98	109	98	109	T2-1	tap density
+CN108701827A_10	1	1	Quantity	g/cc		113	128	113	128	T1-1	1.7 to 3.0 g/cc

@@ -1,0 +1,32 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jphyse201309020	2	1	MeasuredEntity		"{""HasQuantity"": ""T1-1""}"	30	38	273	281	T3-1	graphite
+101016jphyse201309020	2	1	Quantity	mesh	"{""unit"": ""mesh""}"	40	48	283	291	T1-1	500 mesh
+101016jphyse201309020	2	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	57	69	300	312	T2-2	weight ratio
+101016jphyse201309020	2	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	4	38	247	281	T3-2	mixture of ZnO powder and graphite
+101016jphyse201309020	2	2	Quantity			73	78	316	321	T1-2	1:0.8
+101016jphyse201309020	3	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	16	22	379	385	T2-3	heated
+101016jphyse201309020	3	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	4	11	367	374	T3-3	furnace
+101016jphyse201309020	3	3	Quantity	degC	"{""unit"": ""degC""}"	26	35	389	398	T1-3	1150 degC
+101016jphyse201309020	11	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	33	43	1125	1135	T2-4	desiccated
+101016jphyse201309020	11	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	13	27	1105	1119	T3-4	nanocomposites
+101016jphyse201309020	11	4	Quantity	degC	"{""unit"": ""degC""}"	47	54	1139	1146	T1-4	50 degC
+101016jphyse201309020	11	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	77	94	1169	1186	T2-5	thermally reduced
+101016jphyse201309020	11	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	13	27	1105	1119	T3-5	nanocomposites
+101016jphyse201309020	11	5	Quantity	degC	"{""unit"": ""degC""}"	98	106	1190	1198	T1-5	300 degC
+101016jphyse201309020	8	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	50	64	829	843	T2-6	ultrasonicated
+101016jphyse201309020	8	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	31	45	810	824	T3-6	graphite oxide
+101016jphyse201309020	8	6	Quantity	g	"{""unit"": ""g""}"	25	30	804	809	T1-6	0.5 g
+101016jphyse201309020	8	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	50	64	829	843	T2-7	ultrasonicated
+101016jphyse201309020	8	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	95	98	874	877	T3-7	PVP
+101016jphyse201309020	8	7	Quantity	g	"{""unit"": ""g""}"	89	94	868	873	T1-7	0.1 g
+101016jphyse201309020	4	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	52	63	544	555	T2-8	carried out
+101016jphyse201309020	4	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	19	47	511	539	T3-8	white snowflake-like product
+101016jphyse201309020	4	8	Quantity	min	"{""unit"": ""min""}"	0	17	492	509	T1-8	After about 5 min
+101016jphyse201309020	4	9	MeasuredEntity		"{""HasQuantity"": ""T1-9""}"	110	115	602	607	T3-9	flask
+101016jphyse201309020	4	9	Quantity	mL	"{""unit"": ""mL""}"	102	109	594	601	T1-9	5000 mL
+101016jphyse201309020	10	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	28	35	975	982	T2-10	stirred
+101016jphyse201309020	10	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	16	23	963	970	T3-10	mixture
+101016jphyse201309020	10	10	Quantity	h	"{""unit"": ""h""}"	60	63	1007	1010	T1-10	2 h
+101016jphyse201309020	9	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	24	29	923	928	T2-11	added
+101016jphyse201309020	9	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	11	18	910	917	T3-11	ZnO NWs
+101016jphyse201309020	9	11	Quantity	g	"{""unit"": ""g""}"	5	10	904	909	T1-11	0.5 g

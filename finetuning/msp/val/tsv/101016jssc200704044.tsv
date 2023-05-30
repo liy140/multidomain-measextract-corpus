@@ -1,0 +1,12 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jssc200704044	8	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	69	77	678	686	T2-1	diameter
+101016jssc200704044	8	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	49	56	658	665	T3-1	pellets
+101016jssc200704044	8	1	Quantity	mm	"{""unit"": ""mm""}"	63	68	672	677	T1-1	10 mm
+101016jssc200704044	8	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	87	96	696	705	T2-2	thickness
+101016jssc200704044	8	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	49	56	658	665	T3-2	pellets
+101016jssc200704044	8	2	Quantity	mm	"{""unit"": ""mm""}"	82	86	691	695	T1-2	2 mm
+101016jssc200704044	3	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	138	146	402	410	T2-3	prefired
+101016jssc200704044	3	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	27	66	291	330	T3-3	high-purity SrCO3, MoO3, and Ni powders
+101016jssc200704044	3	3	Quantity			150	153	414	417	T1-3	900
+101016jssc200704044	4	4	Quantity	h	"{""unit"": ""h""}"	8	12	427	431	T1-4	24 h
+101016jssc200704044	6	5	Quantity	h	"{""unit"": ""h""}"	8	12	524	528	T1-5	24 h

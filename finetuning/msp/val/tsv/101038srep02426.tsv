@@ -1,0 +1,24 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101038srep02426	3	1	MeasuredEntity		"{""HasQuantity"": ""T1-1""}"	17	25	389	397	T3-1	Sr(NO3)2
+101038srep02426	3	1	Quantity	%	"{""unit"": ""%""}"	36	40	408	412	T1-1	99+%
+101038srep02426	3	2	MeasuredEntity		"{""HasQuantity"": ""T1-2""}"	43	56	415	428	T3-2	Co(NO3)2*6H2O
+101038srep02426	3	2	Quantity	%	"{""unit"": ""%""}"	67	71	439	443	T1-2	98+%
+101038srep02426	3	3	MeasuredEntity		"{""HasQuantity"": ""T1-3""}"	78	91	450	463	T3-3	Fe(NO3)3*6H2O
+101038srep02426	3	3	Quantity	%	"{""unit"": ""%""}"	102	105	474	477	T1-3	98%
+101038srep02426	2	4	MeasuredEntity		"{""HasQuantity"": ""T1-4""}"	26	39	319	332	T3-4	Ln(NO3)3*6H2O
+101038srep02426	2	4	Quantity	%	"{""unit"": ""%""}"	49	54	342	347	T1-4	99.9%
+101038srep02426	4	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	19	25	563	569	T2-5	heated
+101038srep02426	4	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	4	13	548	557	T3-5	solutions
+101038srep02426	4	5	Quantity	degC	"{""unit"": ""degC""}"	26	39	570	583	T1-5	up to 350degC
+101038srep02426	4	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	107	115	651	659	T2-6	calcined
+101038srep02426	4	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	82	94	626	638	T3-6	fine powders
+101038srep02426	4	6	Quantity	degC	"{""unit"": ""degC""}"	119	126	663	670	T1-6	600degC
+101038srep02426	4	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	107	115	651	659	T2-7	calcined
+101038srep02426	4	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	82	94	626	638	T3-7	fine powders
+101038srep02426	4	7	Quantity	hours	"{""unit"": ""hours""}"	131	138	675	682	T1-7	4 hours
+101038srep02426	5	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	44	52	728	736	T2-8	calcined
+101038srep02426	5	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	4	21	688	705	T3-8	resulting powders
+101038srep02426	5	8	Quantity	degC	"{""unit"": ""degC""}"	62	69	746	753	T1-8	900degC
+101038srep02426	5	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	44	52	728	736	T2-9	calcined
+101038srep02426	5	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	4	21	688	705	T3-9	resulting powders
+101038srep02426	5	9	Quantity	hours	"{""unit"": ""hours""}"	74	81	758	765	T1-9	4 hours

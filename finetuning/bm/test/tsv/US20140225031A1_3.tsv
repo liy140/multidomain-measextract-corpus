@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20140225031A1_3	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	7	34	7	34	T3-1	lithium metal complex oxide
+US20140225031A1_3	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	68	99	68	99	T2-1	average particle diameter (D50)
+US20140225031A1_3	1	1	Quantity	μm	"{""unit"": ""\u03bcm""}"	117	130	117	130	T1-1	1 μm to 10 μm

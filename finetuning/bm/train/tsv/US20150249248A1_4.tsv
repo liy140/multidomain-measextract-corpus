@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20150249248A1_4	1	1	MeasuredEntity			69	104	69	104	T3-1	the Li—Ni composite oxide particles
+US20150249248A1_4	1	1	MeasuredProperty			113	138	113	138	T2-1	average particle diameter
+US20150249248A1_4	1	1	Quantity	μm		142	152	142	152	T1-1	1 to 20 μm
+US20150249248A1_4	1	2	MeasuredEntity			69	104	69	104	T3-2	the Li—Ni composite oxide particles
+US20150249248A1_4	1	2	MeasuredProperty			159	184	159	184	T2-2	BET specific surface area
+US20150249248A1_4	1	2	Quantity	m2/g		188	203	188	203	T1-2	0.1 to 1.6 m2/g

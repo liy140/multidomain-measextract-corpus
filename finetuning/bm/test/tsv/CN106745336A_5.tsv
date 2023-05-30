@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN106745336A_5	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	832	867	832	867	T3-1	reaction system during the reaction
+CN106745336A_5	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	822	824	822	824	T2-1	pH
+CN106745336A_5	1	1	Quantity			885	890	885	890	T1-1	11-12

@@ -1,0 +1,57 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101002cplu201402021	2	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	70	77	417	424	T2-1	stirred
+101002cplu201402021	2	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	12	16	359	363	T3-1	F127
+101002cplu201402021	2	1	Quantity	g	"{""unit"": ""g""}"	18	23	365	370	T1-1	1.6 g
+101002cplu201402021	2	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	70	77	417	424	T2-2	stirred
+101002cplu201402021	2	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	26	33	373	380	T3-2	ethanol
+101002cplu201402021	2	2	Quantity	g	"{""unit"": ""g""}"	35	40	382	387	T1-2	8.0 g
+101002cplu201402021	2	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	70	77	417	424	T2-3	stirred
+101002cplu201402021	2	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	53	56	400	403	T3-3	HCl
+101002cplu201402021	2	3	Quantity	M	"{""unit"": ""M""}"	47	52	394	399	T1-3	0.2 M
+101002cplu201402021	2	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	70	77	417	424	T2-4	stirred
+101002cplu201402021	2	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	47	56	394	403	T3-4	0.2 M HCl
+101002cplu201402021	2	4	Quantity	g	"{""unit"": ""g""}"	58	63	405	410	T1-4	1.0 g
+101002cplu201402021	2	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	70	77	417	424	T2-5	stirred
+101002cplu201402021	2	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	12	56	359	403	T3-5	F127 (1.6 g), ethanol (8.0 g), and 0.2 M HCl
+101002cplu201402021	2	5	Quantity	h	"{""unit"": ""h""}"	82	85	429	432	T1-5	2 h
+101002cplu201402021	2	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	70	77	417	424	T2-6	stirred
+101002cplu201402021	2	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	12	56	359	403	T3-6	F127 (1.6 g), ethanol (8.0 g), and 0.2 M HCl
+101002cplu201402021	2	6	Quantity	degC	"{""unit"": ""degC""}"	89	96	436	443	T1-6	40 degC
+101002cplu201402021	4	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	51	55	656	660	T2-7	held
+101002cplu201402021	4	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	4	11	609	616	T3-7	mixture
+101002cplu201402021	4	7	Quantity	h	"{""unit"": ""h""}"	60	64	665	669	T1-7	24 h
+101002cplu201402021	4	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	51	55	656	660	T2-8	held
+101002cplu201402021	4	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	4	11	609	616	T3-8	mixture
+101002cplu201402021	4	8	Quantity	degC	"{""unit"": ""degC""}"	68	76	673	681	T1-8	100 degC
+101002cplu201402021	9	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	22	36	1221	1235	T2-9	sulfur content
+101002cplu201402021	9	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	4	16	1203	1215	T3-9	both samples
+101002cplu201402021	9	9	Quantity	wt %	"{""unit"": ""wt %""}"	41	48	1240	1247	T1-9	50 wt %
+101002cplu201402021	6	10	MeasuredEntity		"{""HasQuantity"": ""T1-10""}"	49	51	875	877	T3-10	HF
+101002cplu201402021	6	10	Quantity	wt %	"{""unit"": ""wt %""}"	41	48	867	874	T1-10	10 wt %
+101002cplu201402021	3	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	86	91	558	563	T2-11	added
+101002cplu201402021	3	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	6	10	478	482	T3-11	TEOS
+101002cplu201402021	3	11	Quantity	g	"{""unit"": ""g""}"	12	18	484	490	T1-11	2.08 g
+101002cplu201402021	3	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	86	91	558	563	T2-12	added
+101002cplu201402021	3	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	21	27	493	499	T3-12	MWCNTs
+101002cplu201402021	3	12	Quantity	g	"{""unit"": ""g""}"	29	34	501	506	T1-12	1.0 g
+101002cplu201402021	3	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	86	91	558	563	T2-13	added
+101002cplu201402021	3	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	51	80	523	552	T3-13	solution of resols in ethanol
+101002cplu201402021	3	13	Quantity	wt %	"{""unit"": ""wt %""}"	43	50	515	522	T1-13	20 wt %
+101002cplu201402021	3	14	MeasuredProperty		"{""HasQuantity"": ""T1-14""}"	108	115	580	587	T2-14	stirred
+101002cplu201402021	3	14	MeasuredEntity		"{""HasProperty"": ""T2-14""}"	6	91	478	563	T3-14	TEOS (2.08 g), MWCNTs (1.0 g), and a 20 wt % solution of resols in ethanol were added
+101002cplu201402021	3	14	Quantity	h	"{""unit"": ""h""}"	128	131	600	603	T1-14	5 h
+101002cplu201402021	5	15	MeasuredProperty		"{""HasQuantity"": ""T1-15""}"	31	41	751	761	T2-15	carbonized
+101002cplu201402021	5	15	MeasuredEntity		"{""HasProperty"": ""T2-15""}"	4	26	724	746	T3-15	as-synthesized product
+101002cplu201402021	5	15	Quantity	degC	"{""unit"": ""degC""}"	84	92	804	812	T1-15	900 degC
+101002cplu201402021	5	16	MeasuredProperty		"{""HasQuantity"": ""T1-16""}"	31	41	751	761	T2-16	carbonized
+101002cplu201402021	5	16	MeasuredEntity		"{""HasProperty"": ""T2-16""}"	4	26	724	746	T3-16	as-synthesized product
+101002cplu201402021	5	16	Quantity	min	"{""unit"": ""min""}"	97	104	817	824	T1-16	300 min
+101002cplu201402021	7	17	MeasuredProperty		"{""HasQuantity"": ""T1-17""}"	6	18	901	913	T2-17	weight ratio
+101002cplu201402021	7	17	MeasuredEntity		"{""HasProperty"": ""T2-17""}"	31	81	926	976	T3-17	MWCNT@MPC composite was mixed with sublimed sulfur
+101002cplu201402021	7	17	Quantity			22	25	917	920	T1-17	1:1
+101002cplu201402021	7	18	MeasuredProperty		"{""HasQuantity"": ""T1-18""}"	118	124	1013	1019	T2-18	heated
+101002cplu201402021	7	18	MeasuredEntity		"{""HasProperty"": ""T2-18""}"	31	81	926	976	T3-18	MWCNT@MPC composite was mixed with sublimed sulfur
+101002cplu201402021	7	18	Quantity	h	"{""unit"": ""h""}"	141	145	1036	1040	T1-18	12 h
+101002cplu201402021	7	19	MeasuredProperty		"{""HasQuantity"": ""T1-19""}"	118	124	1013	1019	T2-19	heated
+101002cplu201402021	7	19	MeasuredEntity		"{""HasProperty"": ""T2-19""}"	31	81	926	976	T3-19	MWCNT@MPC composite was mixed with sublimed sulfur
+101002cplu201402021	7	19	Quantity	degC	"{""unit"": ""degC""}"	128	136	1023	1031	T1-19	155 degC

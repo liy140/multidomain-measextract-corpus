@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20140186710A1_8	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	116	146	116	146	T3-1	slurry for the particle growth
+US20140186710A1_8	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	154	175	154	175	T2-1	ammonia concentration
+US20140186710A1_8	1	1	Quantity	g/l	"{""unit"": ""g/l""}"	179	190	179	190	T1-1	5 to 20 g/l

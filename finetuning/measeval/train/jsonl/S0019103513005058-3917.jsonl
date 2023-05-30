@@ -1,0 +1,8 @@
+{"text": "Most gases are removed from the atmosphere to the surface according to a prescribed deposition velocity.", "sentId": 1, "start": 0, "end": 104}
+{"text": "The deposition velocity is a scaling factor that affects the transport of species from the bulk atmosphere to the surface in the absence of rain.", "sentId": 2, "start": 105, "end": 250}
+{"text": "The deposition velocity is coupled to the gas concentrations computed by chemical kinetics.", "sentId": 3, "start": 251, "end": 342}
+{"text": "Following Zahnle et al. (2008), we apply a deposition velocity of 0.02 cm s−1 to all species, with two exceptions.", "sentId": 4, "start": 343, "end": 457}
+{"text": "First, the deposition velocities for O2, H2, and CO are set to zero (following Zahnle et al., 2008).", "sentId": 5, "start": 458, "end": 558}
+{"text": "Second, all species with a zero deposition velocity in Catling et al. (2010) are prescribed a zero deposition velocity because we consider them to be nonreactive.", "sentId": 6, "start": 559, "end": 721}
+{"text": "These species include NO3, N2O5, N2O, CH3O, CH3ONO, CH3ONO2, CH2ONO2, CH3O2, CH3OH, CH2OOH, Cl2, CH2OH, CH2O2, OClO, ClOO, ClONO, ClNO, ClNO2, CH3OCl, Cl2O2, Cl2O, ClO3, and Cl2O4.", "sentId": 7, "start": 722, "end": 902}
+{"text": "The deposition velocity multiplied by the species number density at the lower boundary, in addition to the flux term from eddy diffusion, determines the flux of species to the surface.", "sentId": 8, "start": 903, "end": 1087}

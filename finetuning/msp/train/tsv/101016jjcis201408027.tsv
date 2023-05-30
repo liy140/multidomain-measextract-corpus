@@ -1,0 +1,68 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jjcis201408027	6	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	175	180	859	864	T2-1	dried
+101016jjcis201408027	6	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	56	64	740	748	T3-1	products
+101016jjcis201408027	6	1	Quantity	degC	"{""unit"": ""degC""}"	197	204	881	888	T1-1	80 degC
+101016jjcis201408027	10	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	56	61	1378	1383	T2-2	added
+101016jjcis201408027	10	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	22	30	1344	1352	T3-2	CH3CSNH2
+101016jjcis201408027	10	2	Quantity	g	"{""unit"": ""g""}"	32	40	1354	1362	T1-2	0.0225 g
+101016jjcis201408027	10	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	56	61	1378	1383	T2-3	added
+101016jjcis201408027	10	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	22	30	1344	1352	T3-3	CH3CSNH2
+101016jjcis201408027	10	3	Quantity	mmol	"{""unit"": ""mmol""}"	42	50	1364	1372	T1-3	0.3 mmol
+101016jjcis201408027	9	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	88	97	1262	1271	T2-4	dispersed
+101016jjcis201408027	9	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	38	64	1212	1238	T3-4	β-Bi2O3 hollow microsphere
+101016jjcis201408027	9	4	Quantity	g	"{""unit"": ""g""}"	66	74	1240	1248	T1-4	0.4660 g
+101016jjcis201408027	9	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	88	97	1262	1271	T2-5	dispersed
+101016jjcis201408027	9	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	38	64	1212	1238	T3-5	β-Bi2O3 hollow microsphere
+101016jjcis201408027	9	5	Quantity	mmol	"{""unit"": ""mmol""}"	76	82	1250	1256	T1-5	1 mmol
+101016jjcis201408027	9	6	MeasuredEntity		"{""HasQuantity"": ""T1-6""}"	107	122	1281	1296	T3-6	deionized water
+101016jjcis201408027	9	6	Quantity	mL	"{""unit"": ""mL""}"	101	106	1275	1280	T1-6	50 mL
+101016jjcis201408027	4	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	60	69	439	448	T2-7	dissolved
+101016jjcis201408027	4	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	25	38	404	417	T3-7	Bi(NO3)3*5H2O
+101016jjcis201408027	4	7	Quantity	g	"{""unit"": ""g""}"	40	46	419	425	T1-7	2.91 g
+101016jjcis201408027	4	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	60	69	439	448	T2-8	dissolved
+101016jjcis201408027	4	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	25	38	404	417	T3-8	Bi(NO3)3*5H2O
+101016jjcis201408027	4	8	Quantity	mmol	"{""unit"": ""mmol""}"	48	54	427	433	T1-8	6 mmol
+101016jjcis201408027	4	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	145	153	524	532	T2-9	stirring
+101016jjcis201408027	4	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	93	101	472	480	T3-9	glycerol
+101016jjcis201408027	4	9	Quantity	mL	"{""unit"": ""mL""}"	103	108	482	487	T1-9	30 mL
+101016jjcis201408027	4	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	145	153	524	532	T2-10	stirring
+101016jjcis201408027	4	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	114	121	493	500	T3-10	ethanol
+101016jjcis201408027	4	10	Quantity	mL	"{""unit"": ""mL""}"	123	128	502	507	T1-10	30 mL
+101016jjcis201408027	5	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	16	24	550	558	T2-11	stirring
+101016jjcis201408027	5	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	30	38	564	572	T3-11	solution
+101016jjcis201408027	5	11	Quantity	min	"{""unit"": ""min""}"	6	12	540	546	T1-11	40 min
+101016jjcis201408027	5	12	MeasuredEntity		"{""HasQuantity"": ""T1-12""}"	67	105	601	639	T3-12	Teflon-lined stainless steel autoclave
+101016jjcis201408027	5	12	Quantity	mL	"{""unit"": ""mL""}"	60	66	594	600	T1-12	100 mL
+101016jjcis201408027	5	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	107	113	641	647	T2-13	heated
+101016jjcis201408027	5	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	30	38	564	572	T3-13	solution
+101016jjcis201408027	5	13	Quantity	degC	"{""unit"": ""degC""}"	117	125	651	659	T1-13	160 degC
+101016jjcis201408027	5	14	MeasuredProperty		"{""HasQuantity"": ""T1-14""}"	130	140	664	674	T2-14	maintained
+101016jjcis201408027	5	14	MeasuredEntity		"{""HasProperty"": ""T2-14""}"	30	38	564	572	T3-14	solution
+101016jjcis201408027	5	14	Quantity	h	"{""unit"": ""h""}"	145	148	679	682	T1-14	3 h
+101016jjcis201408027	11	15	MeasuredProperty		"{""HasQuantity"": ""T1-15""}"	16	24	1419	1427	T2-15	stirring
+101016jjcis201408027	11	15	MeasuredEntity		"{""HasProperty"": ""T2-15""}"	41	53	1444	1456	T3-15	precipitates
+101016jjcis201408027	11	15	Quantity	min	"{""unit"": ""min""}"	6	12	1409	1415	T1-15	30 min
+101016jjcis201408027	11	16	MeasuredProperty		"{""HasQuantity"": ""T1-16""}"	16	24	1419	1427	T2-16	stirring
+101016jjcis201408027	11	16	MeasuredEntity		"{""HasProperty"": ""T2-16""}"	41	53	1444	1456	T3-16	precipitates
+101016jjcis201408027	11	16	Quantity	degC	"{""unit"": ""degC""}"	28	35	1431	1438	T1-16	50 degC
+101016jjcis201408027	11	17	MeasuredProperty		"{""HasQuantity"": ""T1-17""}"	81	99	1484	1502	T2-17	dried under vacuum
+101016jjcis201408027	11	17	MeasuredEntity		"{""HasProperty"": ""T2-17""}"	41	53	1444	1456	T3-17	precipitates
+101016jjcis201408027	11	17	Quantity	degC	"{""unit"": ""degC""}"	103	110	1506	1513	T1-17	80 degC
+101016jjcis201408027	11	18	MeasuredProperty		"{""HasQuantity"": ""T1-18""}"	81	99	1484	1502	T2-18	dried under vacuum
+101016jjcis201408027	11	18	MeasuredEntity		"{""HasProperty"": ""T2-18""}"	41	53	1444	1456	T3-18	precipitates
+101016jjcis201408027	11	18	Quantity	h	"{""unit"": ""h""}"	115	118	1518	1521	T1-18	6 h
+101016jjcis201408027	13	19	MeasuredProperty		"{""HasQuantity"": ""T1-19""}"	23	30	1677	1684	T2-19	labeled
+101016jjcis201408027	13	19	MeasuredEntity		"{""HasProperty"": ""T2-19""}"	38	51	1692	1705	T3-19	β-Bi2O3/Bi2S3
+101016jjcis201408027	13	19	Quantity	%	"{""unit"": ""%""}"	53	65	1707	1719	T1-19	5%, 10%, 25%
+101016jjcis201408027	7	20	MeasuredProperty		"{""HasQuantity"": ""T1-20""}"	56	68	956	968	T2-20	heating rate
+101016jjcis201408027	7	20	MeasuredEntity		"{""HasProperty"": ""T2-20""}"	13	21	913	921	T3-20	products
+101016jjcis201408027	7	20	Quantity	degC/min	"{""unit"": ""degC/min""}"	45	55	945	955	T1-20	2 degC/min
+101016jjcis201408027	7	21	MeasuredProperty		"{""HasQuantity"": ""T1-21""}"	107	117	1007	1017	T2-21	maintained
+101016jjcis201408027	7	21	MeasuredEntity		"{""HasProperty"": ""T2-21""}"	13	21	913	921	T3-21	products
+101016jjcis201408027	7	21	Quantity	degC	"{""unit"": ""degC""}"	121	129	1021	1029	T1-21	270 degC
+101016jjcis201408027	7	22	MeasuredProperty		"{""HasQuantity"": ""T1-22""}"	35	41	935	941	T2-22	heated
+101016jjcis201408027	7	22	MeasuredEntity		"{""HasProperty"": ""T2-22""}"	13	21	913	921	T3-22	products
+101016jjcis201408027	7	22	Quantity	degC	"{""unit"": ""degC""}"	94	102	994	1002	T1-22	270 degC
+101016jjcis201408027	7	23	MeasuredProperty		"{""HasQuantity"": ""T1-23""}"	107	129	1007	1029	T2-23	maintained at 270 degC
+101016jjcis201408027	7	23	MeasuredEntity		"{""HasProperty"": ""T2-23""}"	13	21	913	921	T3-23	products
+101016jjcis201408027	7	23	Quantity	h	"{""unit"": ""h""}"	134	137	1034	1037	T1-23	2 h

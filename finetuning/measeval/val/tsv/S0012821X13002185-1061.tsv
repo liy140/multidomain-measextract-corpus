@@ -1,0 +1,14 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0012821X13002185-1061	1	1	Quantity	Ma		147	155	147	155	T21-1	∼33.7 Ma
+S0012821X13002185-1061	1	1	MeasuredEntity		{'HasQuantity': 'T21-1'}	141	144	141	144	T61-1	Oi1
+S0012821X13002185-1061	2	2	Quantity	%		88	108	296	316	T12-2	between 60% and 100%
+S0012821X13002185-1061	2	2	MeasuredProperty		{'HasQuantity': 'T12-2'}	117	144	325	352	T72-2	present today on Antarctica
+S0012821X13002185-1061	2	2	MeasuredEntity		{'HasProperty': 'T72-2'}	77	87	285	295	T32-2	ice volume
+S0012821X13002185-1061	2	3	Quantity	ka		155	162	363	370	T53-3	∼400 ka
+S0012821X13002185-1061	2	3	MeasuredProperty		{'HasQuantity': 'T53-3'}	59	87	267	295	T83-3	emplacement of an ice volume
+S0012821X13002185-1061	2	3	MeasuredEntity		{'HasProperty': 'T83-3'}	0	3	208	211	T43-3	Oi1
+S0012821X13002185-1061	2	4	Quantity	year		182	194	390	402	T104-4	million-year
+S0012821X13002185-1061	2	4	MeasuredEntity		{'HasQuantity': 'T104-4'}	195	204	403	412	T114-4	timescale
+S0012821X13002185-1061	4	5	Quantity	Ma		126	131	870	875	T145-5	∼2 Ma
+S0012821X13002185-1061	4	5	MeasuredProperty		{'HasQuantity': 'T145-5'}	120	125	864	869	T135-5	began
+S0012821X13002185-1061	4	5	MeasuredEntity		{'HasProperty': 'T135-5'}	107	114	851	858	T125-5	decline

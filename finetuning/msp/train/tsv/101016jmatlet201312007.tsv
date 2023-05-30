@@ -1,0 +1,37 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jmatlet201312007	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	243	255	243	255	T2-1	total volume
+101016jmatlet201312007	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	159	237	159	237	T3-1	200 mg KMnO4, 100 mg NaOH and 100 mg glucose were dissolved in deionized water
+101016jmatlet201312007	1	1	Quantity	mL	"{""unit"": ""mL""}"	256	261	256	261	T1-1	30 mL
+101016jmatlet201312007	1	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	209	218	209	218	T2-2	dissolved
+101016jmatlet201312007	1	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	166	171	166	171	T3-2	KMnO4
+101016jmatlet201312007	1	2	Quantity	mg	"{""unit"": ""mg""}"	159	165	159	165	T1-2	200 mg
+101016jmatlet201312007	1	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	209	218	209	218	T2-3	dissolved
+101016jmatlet201312007	1	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	180	184	180	184	T3-3	NaOH
+101016jmatlet201312007	1	3	Quantity	mg	"{""unit"": ""mg""}"	173	179	173	179	T1-3	100 mg
+101016jmatlet201312007	1	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	209	218	209	218	T2-4	dissolved
+101016jmatlet201312007	1	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	196	203	196	203	T3-4	glucose
+101016jmatlet201312007	1	4	Quantity	mg	"{""unit"": ""mg""}"	189	195	189	195	T1-4	100 mg
+101016jmatlet201312007	1	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	330	336	330	336	T2-5	heated
+101016jmatlet201312007	1	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	283	291	283	291	T3-5	solution
+101016jmatlet201312007	1	5	Quantity	degC	"{""unit"": ""degC""}"	340	348	340	348	T1-5	200 degC
+101016jmatlet201312007	1	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	330	336	330	336	T2-6	heated
+101016jmatlet201312007	1	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	283	291	283	291	T3-6	solution
+101016jmatlet201312007	1	6	Quantity	h	"{""unit"": ""h""}"	353	357	353	357	T1-6	72 h
+101016jmatlet201312007	6	7	MeasuredEntity		"{""HasQuantity"": ""T1-7""}"	4	16	1186	1198	T3-7	mass loading
+101016jmatlet201312007	6	7	Quantity	mg	"{""unit"": ""mg""}"	26	32	1208	1214	T1-7	7.6 mg
+101016jmatlet201312007	6	8	MeasuredEntity		"{""HasQuantity"": ""T1-8""}"	4	16	1186	1198	T3-8	mass loading
+101016jmatlet201312007	6	8	Quantity	mg/cm2	"{""unit"": ""mg/cm2""}"	34	44	1216	1226	T1-8	9.5 mg/cm2
+101016jmatlet201312007	2	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	73	78	480	485	T2-9	dried
+101016jmatlet201312007	2	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	4	11	411	418	T3-9	product
+101016jmatlet201312007	2	9	Quantity	degC	"{""unit"": ""degC""}"	82	89	489	496	T1-9	60 degC
+101016jmatlet201312007	2	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	73	78	480	485	T2-10	dried
+101016jmatlet201312007	2	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	4	11	411	418	T3-10	product
+101016jmatlet201312007	2	10	Quantity	h	"{""unit"": ""h""}"	94	98	501	505	T1-10	10 h
+101016jmatlet201312007	5	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	82	92	1061	1071	T2-11	mass ratio
+101016jmatlet201312007	5	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	26	76	1005	1055	T3-11	acetylene black: polytetrafluorene-ethylene (PTFE)
+101016jmatlet201312007	5	11	Quantity			96	103	1075	1082	T1-11	80:15:5
+101016jmatlet201312007	5	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	150	155	1129	1134	T2-12	dried
+101016jmatlet201312007	5	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	109	116	1088	1095	T3-12	mixture
+101016jmatlet201312007	5	12	Quantity	degC	"{""unit"": ""degC""}"	159	166	1138	1145	T1-12	60 degC
+101016jmatlet201312007	4	13	MeasuredEntity		"{""HasQuantity"": ""T1-13""}"	117	132	861	876	T3-13	Na2SO4 solution
+101016jmatlet201312007	4	13	Quantity	M	"{""unit"": ""M""}"	113	116	857	860	T1-13	1 M

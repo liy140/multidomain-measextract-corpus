@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20120231340A1_4	1	1	MeasuredEntity			3	39	3	39	T3-1	The transition metal mixed hydroxide
+US20120231340A1_4	1	1	MeasuredProperty			74	99	74	99	T2-1	average particle diameter
+US20120231340A1_4	1	1	Quantity	μm		103	121	103	121	T1-1	from 1 μm to 10 μm

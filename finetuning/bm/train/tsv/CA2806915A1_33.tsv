@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CA2806915A1_33	1	1	MeasuredEntity			36	58	36	58	T3-1	the precursor material
+CA2806915A1_33	1	1	MeasuredProperty			65	77	65	77	T2-1	surface area
+CA2806915A1_33	1	1	Quantity	m2/g		78	105	78	105	T1-1	in the range from 2-20 m2/g

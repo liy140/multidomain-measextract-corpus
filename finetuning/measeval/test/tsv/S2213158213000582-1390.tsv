@@ -1,0 +1,12 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S2213158213000582-1390	1	1	Quantity	ms		23	28	23	28	T1-1	50 ms
+S2213158213000582-1390	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	0	19	0	19	T3-1	Group contrast maps
+S2213158213000582-1390	1	2	Quantity			99	103	99	103	T3-2	0.05
+S2213158213000582-1390	1	2	MeasuredProperty		{'HasQuantity': 'T3-2'}	95	96	95	96	T2-2	q
+S2213158213000582-1390	1	2	MeasuredEntity		{'HasProperty': 'T2-2'}	91	94	91	94	T1-2	FDR
+S2213158213000582-1390	2	3	Quantity	ms		128	133	234	239	T1-3	50-ms
+S2213158213000582-1390	2	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	134	142	240	248	T4-3	activity
+S2213158213000582-1390	2	3	MeasuredEntity		{'HasProperty': 'T4-3'}	94	127	200	233	T3-3	left and right IFG (L-IFG, R-IFG)
+S2213158213000582-1390	3	4	Quantity	ms		90	95	348	353	T1-4	50 ms
+S2213158213000582-1390	3	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	96	104	354	362	T3-4	activity
+S2213158213000582-1390	3	4	MeasuredEntity		{'HasProperty': 'T3-4'}	57	89	315	347	T2-4	left supramarginal gyrus (L-SMG)

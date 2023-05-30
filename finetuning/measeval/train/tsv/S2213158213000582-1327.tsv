@@ -1,0 +1,10 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S2213158213000582-1327	3	1	Quantity			295	297	636	638	T1-1	96
+S2213158213000582-1327	3	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	298	326	639	667	T2-1	cortical gray-matter regions
+S2213158213000582-1327	3	2	Quantity			328	330	669	671	T1-2	48
+S2213158213000582-1327	3	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	331	338	672	679	T3-2	regions
+S2213158213000582-1327	3	3	Quantity			360	362	701	703	T1-3	21
+S2213158213000582-1327	3	3	MeasuredEntity		{'HasQuantity': 'T1-3'}	363	383	704	724	T2-3	sub-cortical regions
+S2213158213000582-1327	4	4	Quantity	mm per side		79	92	831	844	T1-4	5 mm per side
+S2213158213000582-1327	4	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	69	75	821	827	T4-4	voxels
+S2213158213000582-1327	4	4	MeasuredEntity		{'HasProperty': 'T4-4'}	46	63	798	815	T3-4	cubic source grid

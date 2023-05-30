@@ -1,0 +1,9 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0006322312001096-1271	5	1	Quantity	elderly participants		38	62	783	807	T1-1	274 elderly participants
+S0006322312001096-1271	5	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	18	34	763	779	T3-1	validation study
+S0006322312001096-1271	5	2	Quantity	%		233	243	978	988	T21-2	almost 90%
+S0006322312001096-1271	5	2	MeasuredProperty		{'HasQuantity': 'T21-2'}	80	107	825	852	T31-2	sensitivity and specificity
+S0006322312001096-1271	5	2	MeasuredEntity		{'HasProperty': 'T31-2'}	111	137	856	882	T41-2	the questionnaire measures
+S0006322312001096-1271	5	3	Quantity	%		278	295	1023	1040	T12-3	approximately 80%
+S0006322312001096-1271	5	3	MeasuredProperty		{'HasQuantity': 'T12-3'}	80	107	825	852	T32-3	sensitivity and specificity
+S0006322312001096-1271	5	3	MeasuredEntity		{'HasProperty': 'T32-3'}	111	137	856	882	T42-3	the questionnaire measures

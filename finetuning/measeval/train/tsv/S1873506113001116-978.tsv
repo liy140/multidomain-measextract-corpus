@@ -1,0 +1,6 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S1873506113001116-978	4	1	Quantity			20	23	551	554	T1-1	two
+S1873506113001116-978	4	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	34	45	565	576	T2-1	hiPSC lines
+S1873506113001116-978	5	2	Quantity	passages		52	63	790	801	T1-2	10 passages
+S1873506113001116-978	5	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	11	19	749	757	T2-2	cultured
+S1873506113001116-978	5	2	MeasuredEntity		{'HasProperty': 'T2-2'}	4	10	742	748	T3-2	hiPSCs

@@ -1,0 +1,55 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101039c6cy00580b	6	1	MeasuredEntity		"{""HasQuantity"": ""T1-1""}"	62	65	884	887	T3-1	H2O
+101039c6cy00580b	6	1	Quantity	mL	"{""unit"": ""mL""}"	53	58	875	880	T1-1	30 mL
+101039c6cy00580b	7	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	50	61	984	995	T2-2	molar ratio
+101039c6cy00580b	7	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	65	85	999	1019	T3-2	n(Pd(NO3)2):n(NaBH4)
+101039c6cy00580b	7	2	Quantity			88	91	1022	1025	T1-2	1:5
+101039c6cy00580b	7	3	MeasuredEntity		"{""HasQuantity"": ""T1-3""}"	115	118	1049	1052	T3-3	H2O
+101039c6cy00580b	7	3	Quantity	mL	"{""unit"": ""mL""}"	106	111	1040	1045	T1-3	30 mL
+101039c6cy00580b	9	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	111	116	1270	1275	T2-4	dried
+101039c6cy00580b	9	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	13	35	1172	1194	T3-4	resulted grey products
+101039c6cy00580b	9	4	Quantity	degC	"{""unit"": ""degC""}"	120	127	1279	1286	T1-4	60 degC
+101039c6cy00580b	9	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	66	72	1225	1231	T2-5	washed
+101039c6cy00580b	9	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	13	35	1172	1194	T3-5	resulted grey products
+101039c6cy00580b	9	5	Quantity	times	"{""unit"": ""times""}"	96	106	1255	1265	T1-5	four times
+101039c6cy00580b	3	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	28	34	243	249	T2-6	placed
+101039c6cy00580b	3	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	19	23	234	238	T3-6	urea
+101039c6cy00580b	3	6	Quantity	g	"{""unit"": ""g""}"	11	15	226	230	T1-6	16 g
+101039c6cy00580b	3	7	MeasuredEntity		"{""HasQuantity"": ""T1-7""}"	48	64	263	279	T3-7	alumina crucible
+101039c6cy00580b	3	7	Quantity	mL	"{""unit"": ""mL""}"	42	47	257	262	T1-7	50 mL
+101039c6cy00580b	3	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	86	92	301	307	T2-8	heated
+101039c6cy00580b	3	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	19	23	234	238	T3-8	urea
+101039c6cy00580b	3	8	Quantity	degC min-1	"{""unit"": ""degC min-1""}"	113	126	328	341	T1-8	15 degC min-1
+101039c6cy00580b	3	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	86	92	301	307	T2-9	heated
+101039c6cy00580b	3	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	19	23	234	238	T3-9	urea
+101039c6cy00580b	3	9	Quantity	degC	"{""unit"": ""degC""}"	136	144	351	359	T1-9	550 degC
+101039c6cy00580b	3	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	158	164	373	379	T2-10	heated
+101039c6cy00580b	3	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	19	23	234	238	T3-10	urea
+101039c6cy00580b	3	10	Quantity	degC	"{""unit"": ""degC""}"	168	176	383	391	T1-10	550 degC
+101039c6cy00580b	3	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	158	164	373	379	T2-11	heated
+101039c6cy00580b	3	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	19	23	234	238	T3-11	urea
+101039c6cy00580b	3	11	Quantity	h	"{""unit"": ""h""}"	181	184	396	399	T1-11	2 h
+101039c6cy00580b	5	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	18	23	695	700	T2-12	dried
+101039c6cy00580b	5	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	4	13	681	690	T3-12	resultant
+101039c6cy00580b	5	12	Quantity	degC	"{""unit"": ""degC""}"	27	34	704	711	T1-12	60 degC
+101039c6cy00580b	5	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	86	91	763	768	T2-13	added
+101039c6cy00580b	5	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	53	81	730	758	T3-13	dried thin g-C3N4 nanosheets
+101039c6cy00580b	5	13	Quantity	g	"{""unit"": ""g""}"	42	45	719	722	T1-13	1 g
+101039c6cy00580b	5	14	MeasuredEntity		"{""HasQuantity"": ""T1-14""}"	107	110	784	787	T3-14	H2O
+101039c6cy00580b	5	14	Quantity	mL	"{""unit"": ""mL""}"	97	103	774	780	T1-14	100 mL
+101039c6cy00580b	5	15	MeasuredProperty		"{""HasQuantity"": ""T1-15""}"	124	132	801	809	T2-15	stirring
+101039c6cy00580b	5	15	MeasuredEntity		"{""HasProperty"": ""T2-15""}"	53	81	730	758	T3-15	dried thin g-C3N4 nanosheets
+101039c6cy00580b	5	15	Quantity	min	"{""unit"": ""min""}"	137	143	814	820	T1-15	30 min
+101039c6cy00580b	4	16	MeasuredProperty		"{""HasQuantity"": ""T1-16""}"	67	72	588	593	T2-16	added
+101039c6cy00580b	4	16	MeasuredEntity		"{""HasProperty"": ""T2-16""}"	44	62	565	583	T3-16	as-prepared g-C3N4
+101039c6cy00580b	4	16	Quantity	g	"{""unit"": ""g""}"	31	36	552	557	T1-16	1.0 g
+101039c6cy00580b	4	17	MeasuredEntity		"{""HasQuantity"": ""T1-17""}"	88	95	609	616	T3-17	ethanol
+101039c6cy00580b	4	17	Quantity	mL	"{""unit"": ""mL""}"	78	84	599	605	T1-17	100 mL
+101039c6cy00580b	4	18	MeasuredProperty		"{""HasQuantity"": ""T1-18""}"	104	113	625	634	T2-18	sonicated
+101039c6cy00580b	4	18	MeasuredEntity		"{""HasProperty"": ""T2-18""}"	31	95	552	616	T3-18	1.0 g of the as-prepared g-C3N4 was added into 100 mL of ethanol
+101039c6cy00580b	4	18	Quantity	h	"{""unit"": ""h""}"	118	121	639	642	T1-18	2 h
+101039c6cy00580b	8	19	MeasuredEntity		"{""HasQuantity"": ""T1-19""}"	6	14	1096	1104	T3-19	stirring
+101039c6cy00580b	8	19	Quantity	min	"{""unit"": ""min""}"	19	25	1109	1115	T1-19	10 min
+101039c6cy00580b	8	20	MeasuredProperty		"{""HasQuantity"": ""T1-20""}"	55	59	1145	1149	T2-20	aged
+101039c6cy00580b	8	20	MeasuredEntity		"{""HasProperty"": ""T2-20""}"	31	50	1121	1140	T3-20	resulted suspension
+101039c6cy00580b	8	20	Quantity	h	"{""unit"": ""h""}"	64	67	1154	1157	T1-20	2 h

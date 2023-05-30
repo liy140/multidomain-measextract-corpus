@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN103108833A_14	1	1	MeasuredEntity			58	67	58	67	T3-1	precursor
+CN103108833A_14	1	1	MeasuredProperty			89	101	89	101	T2-1	sodium level
+CN103108833A_14	1	1	Quantity	ppm		115	122	115	122	T1-1	300 ppm

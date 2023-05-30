@@ -1,0 +1,6 @@
+{"text": "Fig. 8 shows the mean difference between wind speeds measured by the lidar and sonic anemometer against anemometer wind speed.", "sentId": 1, "start": 0, "end": 126}
+{"text": "The data was divided into bins of 1 m s−1.", "sentId": 2, "start": 127, "end": 169}
+{"text": "The error bars show the standard error of the data in each bin.", "sentId": 3, "start": 170, "end": 233}
+{"text": "The mean difference between the two instruments remains fairly constant, with the lidar overestimating the wind speed by between 0 and 0.5 m s−1.", "sentId": 4, "start": 234, "end": 379}
+{"text": "At wind speeds greater than 20 m s−1 the lidar appears to be overestimating the wind speed.", "sentId": 5, "start": 380, "end": 471}
+{"text": "Further observations would be required to determine whether this is an accurate reflection of the performance of this method at very high wind speeds.", "sentId": 6, "start": 472, "end": 622}

@@ -1,0 +1,13 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103512002801-1342	1	1	Quantity	RRh		43	47	43	47	T31-1	1RRh
+S0019103512002801-1342	1	1	MeasuredProperty		{'HasQuantity': 'T31-1'}	35	41	35	41	T81-1	radius
+S0019103512002801-1342	1	1	MeasuredEntity		{'HasProperty': 'T81-1'}	0	4	0	4	T71-1	Rhea
+S0019103512002801-1342	1	2	Quantity	km		50	56	50	56	T12-2	764 km
+S0019103512002801-1342	1	2	MeasuredProperty		{'HasQuantity': 'T12-2'}	35	41	35	41	T82-2	radius
+S0019103512002801-1342	1	2	MeasuredEntity		{'HasProperty': 'T82-2'}	0	4	0	4	T72-2	Rhea
+S0019103512002801-1342	2	3	Quantity	Rs		74	86	133	145	T43-3	about 8.74Rs
+S0019103512002801-1342	2	3	MeasuredProperty		{'HasQuantity': 'T43-3'}	62	70	121	129	T93-3	distance
+S0019103512002801-1342	2	3	MeasuredEntity		{'HasProperty': 'T93-3'}	42	56	101	115	T103-3	circular orbit
+S0019103512002801-1342	2	4	Quantity	Rs		104	107	163	166	T54-4	1Rs
+S0019103512002801-1342	2	5	Quantity	km		110	119	169	178	T65-5	60,268 km
+S0019103512002801-1342	2	5	MeasuredEntity		{'HasQuantity': 'T65-5'}	104	107	163	166	T1-5	1Rs

@@ -1,0 +1,9 @@
+{"text": "In the previous section we discussed models where the net heating efficiency ηnet was fixed at a constant value at all altitudes.", "sentId": 1, "start": 0, "end": 129}
+{"text": "In this section we discuss more realistic models of HD209458b that rely on new approximations of photoelectron heating efficiency and derive an estimate of ηnet based on these models.", "sentId": 2, "start": 130, "end": 313}
+{"text": "Here we also include radiative cooling from recombination and, in one case, H Lyman α emissions by excited H (Murray-Clay et al., 2009).", "sentId": 3, "start": 314, "end": 450}
+{"text": "Our aim was to calculate the most likely range of temperatures in the thermosphere of HD209458b based on average solar fluxes. Fig. 4 shows the temperature and velocity profiles at 1–5Rp based on different approximations (see Table 2 for the input parameters).", "sentId": 4, "start": 451, "end": 711}
+{"text": "Model C1 assumes a constant photoelectron heating efficiency of 93% at all altitudes and photoelectron energies.", "sentId": 5, "start": 712, "end": 824}
+{"text": "This heating efficiency is appropriate for photoelectrons created by 50 eV photons at an electron mixing ratio of xe = 0.1 (Cecchi-Pestellini et al., 2009).", "sentId": 6, "start": 825, "end": 981}
+{"text": "Model C2 is otherwise similar to C1 but the heating efficiency varies with photoelectron energy and altitude (see below).", "sentId": 7, "start": 982, "end": 1103}
+{"text": "Models C3 and C4 are also based on C1, but C3 includes the substellar tidal forces in the equations of motion (e.g., Garcia Munoz, 2007) and C4 includes Lyman α cooling.", "sentId": 8, "start": 1104, "end": 1273}
+{"text": "All of these models are based on the outflow boundary conditions for temperature, velocity, and density.", "sentId": 9, "start": 1274, "end": 1378}

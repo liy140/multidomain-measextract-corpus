@@ -1,0 +1,12 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0960148113002735-1989	1	1	Quantity	s		68	74	68	74	T1-1	1800 s
+S0960148113002735-1989	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	63	67	63	67	T3-1	time
+S0960148113002735-1989	1	1	MeasuredEntity		{'HasProperty': 'T3-1'}	44	59	44	59	T4-1	mutual topology
+S0960148113002735-1989	2	2	Quantity	%		125	128	365	368	T1-2	57%
+S0960148113002735-1989	2	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	121	123	361	363	T3-2	CP
+S0960148113002735-1989	2	2	MeasuredEntity		{'HasProperty': 'T3-2'}	136	153	376	393	T5-2	separate topology
+S0960148113002735-1989	2	3	Quantity	s		157	163	397	403	T1-3	1800 s
+S0960148113002735-1989	2	3	MeasuredEntity		{'HasQuantity': 'T1-3'}	136	153	376	393	T3-3	separate topology
+S0960148113002735-1989	3	4	Quantity	s		62	74	495	507	T1-4	until 2700 s
+S0960148113002735-1989	3	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	33	46	466	479	T4-4	extract power
+S0960148113002735-1989	3	4	MeasuredEntity		{'HasProperty': 'T4-4'}	4	21	437	454	T3-4	separate topology

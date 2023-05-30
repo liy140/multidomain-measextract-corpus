@@ -1,0 +1,29 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103511004994-1399	1	1	Quantity			32	45	32	45	T1-1	62 satellites
+S0019103511004994-1399	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	49	55	49	55	T2-1	Saturn
+S0019103511004994-1399	1	2	Quantity	Saturn radii RS		92	112	92	112	T1-2	3.95 Saturn radii RS
+S0019103511004994-1399	1	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	80	88	80	88	T4-2	distance
+S0019103511004994-1399	1	2	MeasuredEntity		{'HasProperty': 'T4-2'}	0	9	0	9	T2-2	Enceladus
+S0019103511004994-1399	1	3	Quantity	km		120	129	120	129	T1-3	60,268 km
+S0019103511004994-1399	1	3	MeasuredEntity		{'HasQuantity': 'T1-3'}	114	117	114	117	T3-3	1RS
+S0019103511004994-1399	1	4	MeasuredEntity		{'HasProperty': 'T2-4'}	0	9	0	9	T4-4	Enceladus
+S0019103511004994-1399	2	4	Quantity	km		38	44	241	247	T1-4	252 km
+S0019103511004994-1399	2	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	18	29	221	232	T2-4	radius REnc
+S0019103511004994-1399	3	5	Quantity			69	73	512	516	T1-5	1979
+S0019103511004994-1399	3	5	MeasuredProperty		{'HasQuantity': 'T1-5'}	37	49	480	492	T3-5	first flybys
+S0019103511004994-1399	3	5	MeasuredEntity		{'HasProperty': 'T3-5'}	57	67	500	510	T2-5	Pioneer 11
+S0019103511004994-1399	3	6	Quantity			87	91	530	534	T3-6	1980
+S0019103511004994-1399	3	6	MeasuredProperty		{'HasQuantity': 'T3-6'}	37	49	480	492	T1-6	first flybys
+S0019103511004994-1399	3	6	MeasuredEntity		{'HasProperty': 'T1-6'}	76	85	519	528	T2-6	Voyager 1
+S0019103511004994-1399	3	7	Quantity			108	112	551	555	T1-7	1981
+S0019103511004994-1399	3	7	MeasuredProperty		{'HasQuantity': 'T1-7'}	37	49	480	492	T3-7	first flybys
+S0019103511004994-1399	3	7	MeasuredEntity		{'HasProperty': 'T3-7'}	97	106	540	549	T2-7	Voyager 2
+S0019103511004994-1399	4	8	Quantity			47	62	735	750	T1-8	since July 2004
+S0019103511004994-1399	4	8	MeasuredProperty		{'HasQuantity': 'T1-8'}	27	46	715	734	T3-8	orbit around Saturn
+S0019103511004994-1399	4	8	MeasuredEntity		{'HasProperty': 'T3-8'}	4	22	692	710	T2-8	Cassini spacecraft
+S0019103511004994-1399	4	9	Quantity			87	95	775	783	T1-9	14 times
+S0019103511004994-1399	4	9	MeasuredProperty		{'HasQuantity': 'T1-9'}	68	86	756	774	T3-9	flown by Enceladus
+S0019103511004994-1399	4	9	MeasuredEntity		{'HasProperty': 'T3-9'}	4	22	692	710	T2-9	Cassini spacecraft
+S0019103511004994-1399	4	10	Quantity			96	117	784	805	T1-10	between 2005 and 2010
+S0019103511004994-1399	4	10	MeasuredProperty		{'HasQuantity': 'T1-10'}	68	95	756	783	T3-10	flown by Enceladus 14 times
+S0019103511004994-1399	4	10	MeasuredEntity		{'HasProperty': 'T3-10'}	4	22	692	710	T2-10	Cassini spacecraft

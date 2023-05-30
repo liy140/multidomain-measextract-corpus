@@ -1,0 +1,22 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101039c7ta05788a	4	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	52	58	611	617	T2-1	raised
+101039c7ta05788a	4	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	4	28	563	587	T3-1	temperature of the tubes
+101039c7ta05788a	4	1	Quantity	K h-1	"{""unit"": ""K h-1""}"	41	50	600	609	T1-1	100 K h-1
+101039c7ta05788a	4	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	4	15	563	574	T2-2	temperature
+101039c7ta05788a	4	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	23	28	582	587	T3-2	tubes
+101039c7ta05788a	4	2	Quantity	K	"{""unit"": ""K""}"	62	68	621	627	T1-2	1423 K
+101039c7ta05788a	4	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	73	103	632	662	T2-3	maintained at that temperature
+101039c7ta05788a	4	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	23	28	582	587	T3-3	tubes
+101039c7ta05788a	4	3	Quantity	h	"{""unit"": ""h""}"	108	112	667	671	T1-3	12 h
+101039c7ta05788a	4	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	123	134	682	693	T2-4	cooled down
+101039c7ta05788a	4	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	23	28	582	587	T3-4	tubes
+101039c7ta05788a	4	4	Quantity	K	"{""unit"": ""K""}"	138	144	697	703	T1-4	1073 K
+101039c7ta05788a	4	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	123	134	682	693	T2-5	cooled down
+101039c7ta05788a	4	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	23	28	582	587	T3-5	tubes
+101039c7ta05788a	4	5	Quantity	h	"{""unit"": ""h""}"	148	152	707	711	T1-5	24 h
+101039c7ta05788a	4	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	160	169	719	728	T2-6	annealing
+101039c7ta05788a	4	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	196	201	755	760	T3-6	tubes
+101039c7ta05788a	4	6	Quantity	K	"{""unit"": ""K""}"	173	179	732	738	T1-6	1073 K
+101039c7ta05788a	4	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	160	169	719	728	T2-7	annealing
+101039c7ta05788a	4	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	196	201	755	760	T3-7	tubes
+101039c7ta05788a	4	7	Quantity	days	"{""unit"": ""days""}"	184	190	743	749	T1-7	8 days

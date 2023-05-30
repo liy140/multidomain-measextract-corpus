@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN104704659A_5	1	1	MeasuredEntity			332	368	332	368	T3-1	controls such that the reaction tank
+CN104704659A_5	1	1	MeasuredProperty			369	390	369	390	T2-1	ammonia concentration
+CN104704659A_5	1	1	Quantity	mol/L		394	403	394	403	T1-1	1.4 mol/L

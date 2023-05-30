@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0021979713004438-1415	3	1	Quantity	°C		56	68	345	357	T11-1	25 ± 0.02 °C
+S0021979713004438-1415	3	1	MeasuredProperty		{'HasQuantity': 'T11-1'}	4	15	293	304	T21-1	temperature
+S0021979713004438-1415	3	1	MeasuredEntity		{'HasProperty': 'T21-1'}	23	37	312	326	T31-1	measuring cell

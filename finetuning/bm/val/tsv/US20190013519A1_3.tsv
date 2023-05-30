@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20190013519A1_3	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	491	510	491	510	T3-1	secondary particles
+US20190013519A1_3	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	521	546	521	546	T2-1	average particle diameter
+US20190013519A1_3	1	1	Quantity	μm	"{""unit"": ""\u03bcm""}"	547	607	547	607	T1-1	greater than or equal to 4 μm and less than or equal to 8 μm

@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+EP2602849A2_13	1	1	MeasuredEntity			92	109	92	109	T3-1	the first process
+EP2602849A2_13	1	1	MeasuredProperty			65	67	65	67	T2-1	pH
+EP2602849A2_13	1	1	Quantity			128	150	128	150	T1-1	in a range of 10 to 11
+EP2602849A2_13	1	2	MeasuredEntity			186	204	186	204	T3-2	the second process
+EP2602849A2_13	1	2	MeasuredProperty			158	160	158	160	T2-2	pH
+EP2602849A2_13	1	2	Quantity			223	249	223	249	T1-2	in a range of 11.5 to 12.0

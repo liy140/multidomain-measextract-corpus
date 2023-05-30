@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20190359498A1_4	1	1	MeasuredEntity			74	99	74	99	T3-1	active material precursor
+US20190359498A1_4	1	1	MeasuredProperty			55	66	55	66	T2-1	tap density
+US20190359498A1_4	1	1	Quantity	g/ml		109	118	109	118	T1-1	1.95 g/ml

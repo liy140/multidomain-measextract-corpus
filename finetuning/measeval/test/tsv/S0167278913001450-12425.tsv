@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0167278913001450-12425	1	1	Quantity	m		48	74	48	74	T1-1	100, 500, 1000, and 1500 m
+S0167278913001450-12425	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	41	47	41	47	T3-1	depths
+S0167278913001450-12425	1	1	MeasuredEntity		{'HasProperty': 'T3-1'}	15	37	15	37	T4-1	steady quadrupole flow

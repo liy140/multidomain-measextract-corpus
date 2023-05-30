@@ -1,0 +1,47 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jelectacta201404084	4	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	95	109	646	660	T2-1	slowly dropped
+101016jelectacta201404084	4	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	47	90	598	641	T3-1	aqueous solution containing 6.4 g KOH (98%)
+101016jelectacta201404084	4	1	Quantity	ml	"{""unit"": ""ml""}"	40	46	591	597	T1-1	100 ml
+101016jelectacta201404084	4	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	81	90	632	641	T2-2	KOH (98%)
+101016jelectacta201404084	4	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	40	63	591	614	T3-2	100 ml aqueous solution
+101016jelectacta201404084	4	2	Quantity	g	"{""unit"": ""g""}"	75	80	626	631	T1-2	6.4 g
+101016jelectacta201404084	4	3	MeasuredEntity		"{""HasQuantity"": ""T1-3""}"	81	84	632	635	T3-3	KOH
+101016jelectacta201404084	4	3	Quantity	%	"{""unit"": ""%""}"	86	89	637	640	T1-3	98%
+101016jelectacta201404084	4	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	146	150	697	701	T2-4	kept
+101016jelectacta201404084	4	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	119	141	670	692	T3-4	precipitation reaction
+101016jelectacta201404084	4	4	Quantity	h	"{""unit"": ""h""}"	155	159	706	710	T1-4	24 h
+101016jelectacta201404084	4	5	Quantity	degC	"{""unit"": ""degC""}"	20	27	571	578	T1-5	60 degC
+101016jelectacta201404084	4	6	Quantity	min	"{""unit"": ""min""}"	32	38	583	589	T1-6	10 min
+101016jelectacta201404084	5	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	32	37	744	749	T2-7	mixed
+101016jelectacta201404084	5	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	54	71	766	783	T3-7	lithium carbonate
+101016jelectacta201404084	5	7	Quantity	%	"{""unit"": ""%""}"	73	76	785	788	T1-7	98%
+101016jelectacta201404084	6	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	43	57	834	848	T2-8	excess lithium
+101016jelectacta201404084	6	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	20	30	811	821	T3-8	precursors
+101016jelectacta201404084	6	8	Quantity	wt%	"{""unit"": ""wt%""}"	36	42	827	833	T1-8	10 wt%
+101016jelectacta201404084	6	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	71	85	862	876	T2-9	excess lithium
+101016jelectacta201404084	6	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	20	30	811	821	T3-9	precursors
+101016jelectacta201404084	6	9	Quantity	wt%	"{""unit"": ""wt%""}"	65	70	856	861	T1-9	5 wt%
+101016jelectacta201404084	6	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	131	148	922	939	T2-10	deficient lithium
+101016jelectacta201404084	6	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	20	30	811	821	T3-10	precursors
+101016jelectacta201404084	6	10	Quantity	wt%	"{""unit"": ""wt%""}"	125	130	916	921	T1-10	5 wt%
+101016jelectacta201404084	7	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	30	39	986	995	T2-11	calcining
+101016jelectacta201404084	7	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	44	51	1000	1007	T3-11	mixture
+101016jelectacta201404084	7	11	Quantity	degC	"{""unit"": ""degC""}"	55	63	1011	1019	T1-11	900 degC
+101016jelectacta201404084	7	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	30	39	986	995	T2-12	calcining
+101016jelectacta201404084	7	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	44	51	1000	1007	T3-12	mixture
+101016jelectacta201404084	7	12	Quantity	h	"{""unit"": ""h""}"	68	72	1024	1028	T1-12	12 h
+101016jelectacta201404084	3	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	67	76	437	446	T2-13	dissolved
+101016jelectacta201404084	3	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	18	27	388	397	T3-13	MnSO4*H2O
+101016jelectacta201404084	3	13	Quantity	g	"{""unit"": ""g""}"	11	17	381	387	T1-13	8.74 g
+101016jelectacta201404084	3	14	MeasuredEntity		"{""HasQuantity"": ""T1-14""}"	18	27	388	397	T3-14	MnSO4*H2O
+101016jelectacta201404084	3	14	Quantity	%	"{""unit"": ""%""}"	29	32	399	402	T1-14	99%
+101016jelectacta201404084	3	15	MeasuredProperty		"{""HasQuantity"": ""T1-15""}"	67	76	437	446	T2-15	dissolved
+101016jelectacta201404084	3	15	MeasuredEntity		"{""HasProperty"": ""T2-15""}"	45	55	415	425	T3-15	NiSO4*6H2O
+101016jelectacta201404084	3	15	Quantity	g	"{""unit"": ""g""}"	38	44	408	414	T1-15	7.20 g
+101016jelectacta201404084	3	16	MeasuredEntity		"{""HasQuantity"": ""T1-16""}"	89	92	459	462	T3-16	H2O
+101016jelectacta201404084	3	16	Quantity	ml	"{""unit"": ""ml""}"	82	88	452	458	T1-16	400 ml
+101016jelectacta201404084	3	17	MeasuredEntity		"{""HasQuantity"": ""T1-17""}"	45	55	415	425	T3-17	NiSO4*6H2O
+101016jelectacta201404084	3	17	Quantity	%	"{""unit"": ""%""}"	57	60	427	430	T1-17	98%
+101016jelectacta201404084	3	18	MeasuredProperty		"{""HasQuantity"": ""T1-18""}"	155	160	525	530	T2-18	added
+101016jelectacta201404084	3	18	MeasuredEntity		"{""HasProperty"": ""T2-18""}"	128	145	498	515	T3-18	ammonia hydroxide
+101016jelectacta201404084	3	18	Quantity	ml	"{""unit"": ""ml""}"	122	127	492	497	T1-18	10 ml

@@ -1,0 +1,33 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jjpowsour201205003	7	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	118	129	680	691	T2-1	calcination
+101016jjpowsour201205003	7	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	43	74	605	636	T3-1	hydrothermal reaction of K2SnO3
+101016jjpowsour201205003	7	1	Quantity	degC	"{""unit"": ""degC""}"	133	141	695	703	T1-1	400 degC
+101016jjpowsour201205003	9	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	42	51	845	854	T2-2	dispersed
+101016jjpowsour201205003	9	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	33	37	836	840	T3-2	SnO2
+101016jjpowsour201205003	9	2	Quantity	mg	"{""unit"": ""mg""}"	24	29	827	832	T1-2	50 mg
+101016jjpowsour201205003	9	3	MeasuredEntity		"{""HasQuantity"": ""T1-3""}"	64	69	867	872	T3-3	water
+101016jjpowsour201205003	9	3	Quantity	mL	"{""unit"": ""mL""}"	55	60	858	863	T1-3	50 mL
+101016jjpowsour201205003	10	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	46	51	934	939	T2-4	added
+101016jjpowsour201205003	10	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	14	31	902	919	T3-4	Na2PdCl4 solution
+101016jjpowsour201205003	10	4	Quantity	mL	"{""unit"": ""mL""}"	6	10	894	898	T1-4	2 mL
+101016jjpowsour201205003	10	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	73	80	961	968	T2-5	stirred
+101016jjpowsour201205003	10	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	61	68	949	956	T3-5	mixture
+101016jjpowsour201205003	10	5	Quantity	h	"{""unit"": ""h""}"	85	88	973	976	T1-5	1 h
+101016jjpowsour201205003	10	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	46	51	934	939	T2-6	added
+101016jjpowsour201205003	10	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	14	31	902	919	T3-6	Na2PdCl4 solution
+101016jjpowsour201205003	10	6	Quantity	mM	"{""unit"": ""mM""}"	33	40	921	928	T1-6	0.06 mM
+101016jjpowsour201205003	11	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	55	60	1033	1038	T2-7	added
+101016jjpowsour201205003	11	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	28	42	1006	1020	T3-7	NaBH4 solution
+101016jjpowsour201205003	11	7	Quantity	mL	"{""unit"": ""mL""}"	19	24	997	1002	T1-7	10 mL
+101016jjpowsour201205003	11	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	55	76	1033	1054	T2-8	added to the solution
+101016jjpowsour201205003	11	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	28	42	1006	1020	T3-8	NaBH4 solution
+101016jjpowsour201205003	11	8	Quantity	M	"{""unit"": ""M""}"	44	49	1022	1027	T1-8	0.1 M
+101016jjpowsour201205003	11	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	55	76	1033	1054	T2-9	added to the solution
+101016jjpowsour201205003	11	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	28	42	1006	1020	T3-9	NaBH4 solution
+101016jjpowsour201205003	11	9	Quantity	degC	"{""unit"": ""degC""}"	80	86	1058	1064	T1-9	0 degC
+101016jjpowsour201205003	12	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	61	73	1179	1191	T2-10	vacuum-dried
+101016jjpowsour201205003	12	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	9	11	1127	1129	T3-10	it
+101016jjpowsour201205003	12	10	Quantity	degC	"{""unit"": ""degC""}"	77	84	1195	1202	T1-10	70 degC
+101016jjpowsour201205003	12	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	61	73	1179	1191	T2-11	vacuum-dried
+101016jjpowsour201205003	12	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	9	11	1127	1129	T3-11	it
+101016jjpowsour201205003	12	11	Quantity	h	"{""unit"": ""h""}"	89	92	1207	1210	T1-11	6 h

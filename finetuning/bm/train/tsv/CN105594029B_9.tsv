@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN105594029B_9	1	1	MeasuredEntity			539	563	539	563	T3-1	in the reaction solution
+CN105594029B_9	1	1	MeasuredProperty			530	532	530	532	T2-1	pH
+CN105594029B_9	1	1	Quantity			567	579	567	579	T1-1	11.8 to 12.3

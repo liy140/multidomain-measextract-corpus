@@ -1,0 +1,28 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101103PhysRevB96054448	3	1	MeasuredEntity		"{""HasQuantity"": ""T1-1""}"	126	130	264	268	T3-1	MnO2
+101103PhysRevB96054448	3	1	Quantity	%	"{""unit"": ""%""}"	131	138	269	276	T1-1	99.997%
+101103PhysRevB96054448	3	2	MeasuredEntity		"{""HasQuantity"": ""T1-2""}"	214	217	352	355	T3-2	PbO
+101103PhysRevB96054448	3	2	Quantity	%	"{""unit"": ""%""}"	219	226	357	364	T1-2	99.999%
+101103PhysRevB96054448	3	3	MeasuredEntity		"{""HasQuantity"": ""T1-3""}"	229	232	367	370	T3-3	CdO
+101103PhysRevB96054448	3	3	Quantity	%	"{""unit"": ""%""}"	234	240	372	378	T1-3	99.99%
+101103PhysRevB96054448	4	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	44	51	440	447	T2-4	treated
+101103PhysRevB96054448	4	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	84	105	480	501	T3-4	CdMn7O12 and PbMn7O12
+101103PhysRevB96054448	4	4	Quantity	GPa	"{""unit"": ""GPa""}"	55	60	451	456	T1-4	6 GPa
+101103PhysRevB96054448	4	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	44	51	440	447	T2-5	treated
+101103PhysRevB96054448	4	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	84	105	480	501	T3-5	CdMn7O12 and PbMn7O12
+101103PhysRevB96054448	4	5	Quantity	K	"{""unit"": ""K""}"	65	71	461	467	T1-5	1373 K
+101103PhysRevB96054448	4	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	44	51	440	447	T2-6	treated
+101103PhysRevB96054448	4	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	84	105	480	501	T3-6	CdMn7O12 and PbMn7O12
+101103PhysRevB96054448	4	6	Quantity	h	"{""unit"": ""h""}"	76	79	472	475	T1-6	2 h
+101103PhysRevB96054448	4	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	44	51	440	447	T2-7	treated
+101103PhysRevB96054448	4	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	142	150	538	546	T3-7	SrMn7O12
+101103PhysRevB96054448	4	7	Quantity	GPa	"{""unit"": ""GPa""}"	113	118	509	514	T1-7	6 GPa
+101103PhysRevB96054448	4	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	44	51	440	447	T2-8	treated
+101103PhysRevB96054448	4	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	142	150	538	546	T3-8	SrMn7O12
+101103PhysRevB96054448	4	8	Quantity	K	"{""unit"": ""K""}"	123	129	519	525	T1-8	1573 K
+101103PhysRevB96054448	4	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	44	51	440	447	T2-9	treated
+101103PhysRevB96054448	4	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	142	150	538	546	T3-9	SrMn7O12
+101103PhysRevB96054448	4	9	Quantity	h	"{""unit"": ""h""}"	134	137	530	533	T1-9	2 h
+101103PhysRevB96054448	4	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	156	203	552	599	T2-10	duration of heating to the desired temperatures
+101103PhysRevB96054448	4	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	4	39	400	435	T3-10	mixtures were placed in Au capsules
+101103PhysRevB96054448	4	10	Quantity	min	"{""unit"": ""min""}"	208	214	604	610	T1-10	10 min

@@ -1,0 +1,17 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103512004009-4492	2	1	Quantity	Rp		57	62	266	271	T81-1	7.2Rp
+S0019103512004009-4492	2	1	MeasuredProperty		{'HasQuantity': 'T81-1'}	46	56	255	265	T101-1	located at
+S0019103512004009-4492	2	1	MeasuredEntity		{'HasProperty': 'T101-1'}	34	42	243	251	T91-1	C1 model
+S0019103512004009-4492	2	2	Quantity	km s−1		77	87	286	296	T12-2	7.2 km s−1
+S0019103512004009-4492	2	2	MeasuredEntity		{'HasQuantity': 'T12-2'}	69	74	278	283	T112-2	c(ξc)
+S0019103512004009-4492	3	3	Quantity	K		68	88	366	386	T33-3	approximately 7100 K
+S0019103512004009-4492	3	3	MeasuredProperty		{'HasQuantity': 'T33-3'}	4	31	302	329	T43-3	volume averaged temperature
+S0019103512004009-4492	3	3	MeasuredEntity		{'HasProperty': 'T43-3'}	39	47	337	345	T53-3	C1 model
+S0019103512004009-4492	3	4	Quantity	K		118	124	416	422	T24-4	7100 K
+S0019103512004009-4492	3	4	MeasuredProperty		{'HasQuantity': 'T24-4'}	113	115	411	413	T1-4	T0
+S0019103512004009-4492	3	4	MeasuredEntity		{'HasProperty': 'T1-4'}	39	47	337	345	T2-4	C1 model
+S0019103512004009-4492	3	5	Quantity			141	145	439	443	T1-5	∼ 16
+S0019103512004009-4492	3	5	MeasuredProperty		{'HasQuantity': 'T1-5'}	138	140	436	438	T2-5	X0
+S0019103512004009-4492	3	5	MeasuredEntity		{'HasProperty': 'T2-5'}	39	47	337	345	T3-5	C1 model
+S0019103512004009-4492	4	6	Quantity	mH		185	190	657	662	T65-6	0.9mH
+S0019103512004009-4492	4	6	MeasuredEntity		{'HasQuantity': 'T65-6'}	158	177	630	649	T75-6	mean atomic weight2

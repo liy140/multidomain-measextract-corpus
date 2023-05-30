@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20130183585A1_5	1	1	MeasuredEntity			97	112	97	112	T3-1	the metal oxide
+US20130183585A1_5	1	1	MeasuredProperty			163	174	163	174	T2-1	tap density
+US20130183585A1_5	1	1	Quantity	g/cc		178	198	178	198	T1-1	1.0 g/cc to 2.0 g/cc

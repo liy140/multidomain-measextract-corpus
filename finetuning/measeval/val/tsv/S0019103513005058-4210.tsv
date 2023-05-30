@@ -1,0 +1,19 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103513005058-4210	1	4	MeasuredEntity		{'HasProperty': 'T124-4'}	33	44	33	44	T204-4	perchlorate
+S0019103513005058-4210	2	1	Quantity	m		54	57	143	146	T11-1	2 m
+S0019103513005058-4210	2	1	MeasuredProperty		{'HasQuantity': 'T11-1'}	45	50	134	139	T21-1	depth
+S0019103513005058-4210	2	1	MeasuredEntity		{'HasProperty': 'T21-1'}	17	21	106	110	T41-1	soil
+S0019103513005058-4210	2	2	Quantity	wt. %		141	157	230	246	T82-2	4.3 × 10−8 wt. %
+S0019103513005058-4210	2	2	MeasuredProperty		{'HasQuantity': 'T82-2'}	123	137	212	226	T212-2	concentrations
+S0019103513005058-4210	2	2	MeasuredEntity		{'HasProperty': 'T212-2'}	81	90	170	179	T62-2	Ca(ClO4)2
+S0019103513005058-4210	2	3	Quantity	wt. %		162	179	251	268	T93-3	4.0 × 10−10 wt. %
+S0019103513005058-4210	2	3	MeasuredProperty		{'HasQuantity': 'T93-3'}	123	137	212	226	T213-3	concentrations
+S0019103513005058-4210	2	3	MeasuredEntity		{'HasProperty': 'T213-3'}	94	103	183	192	T203-3	Mg(ClO4)2
+S0019103513005058-4210	3	4	Quantity	wt. %		118	131	402	415	T104-4	0.4–0.6 wt. %
+S0019103513005058-4210	3	4	MeasuredProperty		{'HasQuantity': 'T104-4'}	70	88	354	372	T124-4	observed abundance
+S0019103513005058-4210	4	5	Quantity			110	115	548	553	T155-5	∼1:60
+S0019103513005058-4210	4	5	MeasuredProperty		{'HasQuantity': 'T155-5'}	103	109	541	547	T225-5	ratios
+S0019103513005058-4210	4	5	MeasuredEntity		{'HasProperty': 'T225-5'}	83	102	521	540	T145-5	perchlorate:nitrate
+S0019103513005058-4210	4	6	Quantity			201	208	639	646	T196-6	∼1:1000
+S0019103513005058-4210	4	6	MeasuredProperty		{'HasQuantity': 'T196-6'}	103	109	541	547	T136-6	ratios
+S0019103513005058-4210	4	6	MeasuredEntity		{'HasProperty': 'T136-6'}	178	197	616	635	T186-6	perchlorate:nitrate

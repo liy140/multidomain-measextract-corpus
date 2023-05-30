@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103512003995-2579	4	1	Quantity	3Rp		110	119	562	571	T1-1	below 3Rp
+S0019103512003995-2579	4	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	86	109	538	561	T4-1	hydrostatic equilibrium
+S0019103512003995-2579	4	1	MeasuredEntity		{'HasProperty': 'T4-1'}	49	64	501	516	T2-1	density profile
+S0019103512003995-2579	5	2	Quantity	K		100	106	673	679	T1-2	6300 K
+S0019103512003995-2579	5	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	80	96	653	669	T3-2	mean temperature
+S0019103512003995-2579	5	2	MeasuredEntity		{'HasProperty': 'T3-2'}	13	52	586	625	T4-2	neutral density profile of the C2 model

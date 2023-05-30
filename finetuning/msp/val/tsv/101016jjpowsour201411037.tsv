@@ -1,0 +1,16 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jjpowsour201411037	2	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	250	274	555	579	T2-1	high energy ball-milling
+101016jjpowsour201411037	2	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	4	178	309	483	T3-1	stoichiometric amounts of CH3COOLi*2H2O (Aladdin Chemistry), CH3COONa*3H2O (Aladdin Chemistry), TiO2 (Aladdin Chemistry) were mixed with oxalic acid dehydrate chelating agent
+101016jjpowsour201411037	2	1	Quantity	rpm	"{""unit"": ""rpm""}"	289	296	594	601	T1-1	400 rpm
+101016jjpowsour201411037	2	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	250	274	555	579	T2-2	high energy ball-milling
+101016jjpowsour201411037	2	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	4	178	309	483	T3-2	stoichiometric amounts of CH3COOLi*2H2O (Aladdin Chemistry), CH3COONa*3H2O (Aladdin Chemistry), TiO2 (Aladdin Chemistry) were mixed with oxalic acid dehydrate chelating agent
+101016jjpowsour201411037	2	2	Quantity	h	"{""unit"": ""h""}"	318	322	623	627	T1-2	15 h
+101016jjpowsour201411037	3	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	34	39	663	668	T2-3	dried
+101016jjpowsour201411037	3	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	4	29	633	658	T3-3	obtained precursor slurry
+101016jjpowsour201411037	3	3	Quantity	degC	"{""unit"": ""degC""}"	43	50	672	679	T1-3	80 degC
+101016jjpowsour201411037	3	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	60	70	689	699	T2-4	calcinated
+101016jjpowsour201411037	3	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	4	29	633	658	T3-4	obtained precursor slurry
+101016jjpowsour201411037	3	4	Quantity	degC	"{""unit"": ""degC""}"	74	82	703	711	T1-4	900 degC
+101016jjpowsour201411037	3	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	60	70	689	699	T2-5	calcinated
+101016jjpowsour201411037	3	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	4	29	633	658	T3-5	obtained precursor slurry
+101016jjpowsour201411037	3	5	Quantity	h	"{""unit"": ""h""}"	87	91	716	720	T1-5	10 h

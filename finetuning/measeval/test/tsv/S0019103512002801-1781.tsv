@@ -1,0 +1,15 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103512002801-1781	1	1	Quantity	keV		94	102	94	102	T1-1	≈ 90 keV
+S0019103512002801-1781	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	85	93	85	93	T3-1	energy E
+S0019103512002801-1781	1	1	MeasuredEntity		{'HasProperty': 'T3-1'}	67	76	67	76	T4-1	electrons
+S0019103512002801-1781	1	2	Quantity	°		123	129	123	129	T1-2	≈ 170°
+S0019103512002801-1781	1	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	109	122	109	122	T3-2	pitch angle α
+S0019103512002801-1781	1	2	MeasuredEntity		{'HasProperty': 'T3-2'}	67	76	67	76	T4-2	electrons
+S0019103512002801-1781	4	3	Quantity	°		73	77	398	402	T1-3	170°
+S0019103512002801-1781	4	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	78	89	403	414	T3-3	pitch angle
+S0019103512002801-1781	4	3	MeasuredEntity		{'HasProperty': 'T3-3'}	90	99	415	424	T4-3	electrons
+S0019103512002801-1781	4	4	Quantity	s		106	116	431	441	T1-4	about 15 s
+S0019103512002801-1781	4	4	MeasuredEntity		{'HasQuantity': 'T1-4'}	60	99	385	424	T3-4	a bounce for 170° pitch angle electrons
+S0019103512002801-1781	4	5	Quantity	°		212	218	537	543	T1-5	≈ 170°
+S0019103512002801-1781	4	5	MeasuredProperty		{'HasQuantity': 'T1-5'}	170	175	495	500	T4-5	angle
+S0019103512002801-1781	4	5	MeasuredEntity		{'HasProperty': 'T4-5'}	164	169	489	494	T3-5	pitch

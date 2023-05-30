@@ -1,0 +1,6 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0022399913003358-943	8	1	Quantity	participants		31	47	1464	1480	T1-1	530 participants
+S0022399913003358-943	8	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	5	27	1438	1460	T2-1	cross-sectional sample
+S0022399913003358-943	8	2	Quantity	%		49	52	1482	1485	T1-2	50%
+S0022399913003358-943	8	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	53	74	1486	1507	T3-2	with chronic tinnitus
+S0022399913003358-943	8	2	MeasuredEntity		{'HasProperty': 'T3-2'}	31	47	1464	1480	T2-2	530 participants

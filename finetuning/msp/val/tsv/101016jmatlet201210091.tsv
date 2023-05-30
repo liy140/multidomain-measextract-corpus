@@ -1,0 +1,47 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jmatlet201210091	2	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	168	177	350	359	T2-1	dissolved
+101016jmatlet201210091	2	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	31	44	213	226	T3-1	La(NO3)3*6H2O
+101016jmatlet201210091	2	1	Quantity	mmol	"{""unit"": ""mmol""}"	22	30	204	212	T1-1	2.5 mmol
+101016jmatlet201210091	2	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	168	177	350	359	T2-2	dissolved
+101016jmatlet201210091	2	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	53	74	235	256	T3-2	50% Mn(NO3)2 solution
+101016jmatlet201210091	2	2	Quantity	g	"{""unit"": ""g""}"	46	52	228	234	T1-2	2.24 g
+101016jmatlet201210091	2	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	57	65	239	247	T2-3	Mn(NO3)2
+101016jmatlet201210091	2	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	66	74	248	256	T3-3	solution
+101016jmatlet201210091	2	3	Quantity	%	"{""unit"": ""%""}"	53	56	235	238	T1-3	50%
+101016jmatlet201210091	2	4	MeasuredEntity		"{""HasQuantity"": ""T1-4""}"	94	98	276	280	T3-4	Mn2+
+101016jmatlet201210091	2	4	Quantity	mmol	"{""unit"": ""mmol""}"	87	93	269	275	T1-4	7 mmol
+101016jmatlet201210091	2	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	168	177	350	359	T2-5	dissolved
+101016jmatlet201210091	2	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	109	133	291	315	T3-5	citric acid (C6H8O7*H2O)
+101016jmatlet201210091	2	5	Quantity	mmol	"{""unit"": ""mmol""}"	101	108	283	290	T1-5	10 mmol
+101016jmatlet201210091	2	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	168	177	350	359	T2-6	dissolved
+101016jmatlet201210091	2	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	143	147	325	329	T3-6	urea
+101016jmatlet201210091	2	6	Quantity	mmol	"{""unit"": ""mmol""}"	135	142	317	324	T1-6	45 mmol
+101016jmatlet201210091	2	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	168	177	350	359	T2-7	dissolved
+101016jmatlet201210091	2	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	158	162	340	344	T3-7	P123
+101016jmatlet201210091	2	7	Quantity	g	"{""unit"": ""g""}"	152	157	334	339	T1-7	1.0 g
+101016jmatlet201210091	2	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	215	222	397	404	T2-8	ethanol
+101016jmatlet201210091	2	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	191	198	373	380	T3-8	solvent
+101016jmatlet201210091	2	8	Quantity	mL	"{""unit"": ""mL""}"	210	214	392	396	T1-8	2 mL
+101016jmatlet201210091	2	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	229	244	411	426	T2-9	ethylene glycol
+101016jmatlet201210091	2	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	191	198	373	380	T3-9	solvent
+101016jmatlet201210091	2	9	Quantity	mL	"{""unit"": ""mL""}"	224	228	406	410	T1-9	8 mL
+101016jmatlet201210091	2	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	254	257	436	439	T2-10	H2O
+101016jmatlet201210091	2	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	191	198	373	380	T3-10	solvent
+101016jmatlet201210091	2	10	Quantity	mL	"{""unit"": ""mL""}"	249	253	431	435	T1-10	2 mL
+101016jmatlet201210091	3	11	MeasuredEntity		"{""HasQuantity"": ""T1-11""}"	80	99	521	540	T3-11	stainless autoclave
+101016jmatlet201210091	3	11	Quantity	mL	"{""unit"": ""mL""}"	74	79	515	520	T1-11	70 mL
+101016jmatlet201210091	3	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	105	111	546	552	T2-12	heated
+101016jmatlet201210091	3	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	33	50	474	491	T3-12	obtained solution
+101016jmatlet201210091	3	12	Quantity	degC	"{""unit"": ""degC""}"	115	123	556	564	T1-12	100 degC
+101016jmatlet201210091	3	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	105	111	546	552	T2-13	heated
+101016jmatlet201210091	3	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	33	50	474	491	T3-13	obtained solution
+101016jmatlet201210091	3	13	Quantity	h	"{""unit"": ""h""}"	128	132	569	573	T1-13	48 h
+101016jmatlet201210091	4	14	MeasuredProperty		"{""HasQuantity"": ""T1-14""}"	67	82	642	657	T2-14	dried overnight
+101016jmatlet201210091	4	14	MeasuredEntity		"{""HasProperty"": ""T2-14""}"	4	17	579	592	T3-14	solid product
+101016jmatlet201210091	4	14	Quantity	degC	"{""unit"": ""degC""}"	86	93	661	668	T1-14	60 degC
+101016jmatlet201210091	4	15	MeasuredProperty		"{""HasQuantity"": ""T1-15""}"	117	125	692	700	T2-15	calcined
+101016jmatlet201210091	4	15	MeasuredEntity		"{""HasProperty"": ""T2-15""}"	100	112	675	687	T3-15	gray product
+101016jmatlet201210091	4	15	Quantity	degC	"{""unit"": ""degC""}"	129	137	704	712	T1-15	600 degC
+101016jmatlet201210091	4	16	MeasuredProperty		"{""HasQuantity"": ""T1-16""}"	117	125	692	700	T2-16	calcined
+101016jmatlet201210091	4	16	MeasuredEntity		"{""HasProperty"": ""T2-16""}"	100	112	675	687	T3-16	gray product
+101016jmatlet201210091	4	16	Quantity	h	"{""unit"": ""h""}"	142	145	717	720	T1-16	8 h

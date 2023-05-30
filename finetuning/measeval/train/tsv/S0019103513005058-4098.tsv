@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103513005058-4098	4	1	Quantity	K		80	99	418	437	T1-1	from 211 K to 284 K
+S0019103513005058-4098	4	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	70	79	408	417	T4-1	increased
+S0019103513005058-4098	4	1	MeasuredEntity		{'HasProperty': 'T4-1'}	47	66	385	404	T3-1	surface temperature
+S0019103513005058-4098	4	2	Quantity	%		127	131	465	469	T1-2	∼35%
+S0019103513005058-4098	4	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	115	123	453	461	T4-2	increase
+S0019103513005058-4098	4	2	MeasuredEntity		{'HasProperty': 'T4-2'}	103	114	441	452	T3-2	temperature

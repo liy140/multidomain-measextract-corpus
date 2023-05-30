@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S1873506114000075-665	2	1	Quantity	mm		37	43	100	106	T1-1	100-mm
+S1873506114000075-665	2	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	44	50	107	113	T3-1	dishes
+S1873506114000075-665	7	2	Quantity	μm		11	27	419	435	T1-2	50 μm and 100 μm
+S1873506114000075-665	7	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	0	9	408	417	T3-2	Scale bar
+S1873506114000075-665	11	3	Quantity	μm		11	17	586	592	T1-3	100 μm
+S1873506114000075-665	11	3	MeasuredEntity		{'HasQuantity': 'T1-3'}	0	9	575	584	T2-3	Scale bar

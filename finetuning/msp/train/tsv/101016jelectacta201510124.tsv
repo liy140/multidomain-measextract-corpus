@@ -1,0 +1,36 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jelectacta201510124	5	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	52	76	521	545	T2-1	n evaporated the solvent
+101016jelectacta201510124	5	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	4	22	473	491	T3-1	resulting solution
+101016jelectacta201510124	5	1	Quantity	degC	"{""unit"": ""degC""}"	80	87	549	556	T1-1	80 degC
+101016jelectacta201510124	6	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	32	42	603	613	T2-2	calcinated
+101016jelectacta201510124	6	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	4	27	575	598	T3-2	dried white precipitate
+101016jelectacta201510124	6	2	Quantity	degC	"{""unit"": ""degC""}"	53	90	624	661	T1-2	400 degC for 5 h and then at 850 degC
+101016jelectacta201510124	6	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	32	42	603	613	T2-3	calcinated
+101016jelectacta201510124	6	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	4	27	575	598	T3-3	dried white precipitate
+101016jelectacta201510124	6	3	Quantity	h	"{""unit"": ""h""}"	66	99	637	670	T1-3	5 h and then at 850 degC for 12 h
+101016jelectacta201510124	6	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	107	119	678	690	T2-4	heating rate
+101016jelectacta201510124	6	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	32	42	603	613	T3-4	calcinated
+101016jelectacta201510124	6	4	Quantity	degC min-1	"{""unit"": ""degC min-1""}"	123	135	694	706	T1-4	1 degC min-1
+101016jelectacta201510124	7	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	40	49	747	756	T2-5	dissolved
+101016jelectacta201510124	7	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	31	35	738	742	T3-5	PVDF
+101016jelectacta201510124	7	5	Quantity	g	"{""unit"": ""g""}"	21	26	728	733	T1-5	0.4 g
+101016jelectacta201510124	7	6	MeasuredEntity		"{""HasQuantity"": ""T1-6""}"	64	89	771	796	T3-6	N-methylpyrrolidone (NMP)
+101016jelectacta201510124	7	6	Quantity	mL	"{""unit"": ""mL""}"	55	60	762	767	T1-6	10 mL
+101016jelectacta201510124	7	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	121	130	828	837	T2-7	dispersed
+101016jelectacta201510124	7	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	108	116	815	823	T3-7	LiTiOPO4
+101016jelectacta201510124	7	7	Quantity	g	"{""unit"": ""g""}"	99	104	806	811	T1-7	2.0 g
+101016jelectacta201510124	7	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	121	155	828	862	T2-8	dispersed into the formed solution
+101016jelectacta201510124	7	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	108	116	815	823	T3-8	LiTiOPO4
+101016jelectacta201510124	7	8	Quantity	h	"{""unit"": ""h""}"	174	177	881	884	T1-8	2 h
+101016jelectacta201510124	8	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	16	21	902	907	T2-9	dried
+101016jelectacta201510124	8	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	4	11	890	897	T3-9	mixture
+101016jelectacta201510124	8	9	Quantity	degC	"{""unit"": ""degC""}"	43	50	929	936	T1-9	80 degC
+101016jelectacta201510124	8	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	81	91	967	977	T2-10	calcinated
+101016jelectacta201510124	8	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	4	11	890	897	T3-10	mixture
+101016jelectacta201510124	8	10	Quantity	degC	"{""unit"": ""degC""}"	112	120	998	1006	T1-10	650 degC
+101016jelectacta201510124	8	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	81	91	967	977	T2-11	calcinated
+101016jelectacta201510124	8	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	4	11	890	897	T3-11	mixture
+101016jelectacta201510124	8	11	Quantity	h	"{""unit"": ""h""}"	125	128	1011	1014	T1-11	3 h
+101016jelectacta201510124	8	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	136	148	1022	1034	T2-12	heating rate
+101016jelectacta201510124	8	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	4	11	890	897	T3-12	mixture
+101016jelectacta201510124	8	12	Quantity	degC min-1	"{""unit"": ""degC min-1""}"	152	164	1038	1050	T1-12	1 degC min-1

@@ -1,0 +1,8 @@
+{"text": "Woods et al. (2000) studied the variability of solar Lyman α emissions based on satellite observations spanning four and a half solar cycles between 1947 and 1999.", "sentId": 1, "start": 0, "end": 163}
+{"text": "They found that the variability ranges between 1% and 37% during one period of solar rotation (27 days), and the average variability during one solar rotation was found to be 9 ± 6%.", "sentId": 2, "start": 164, "end": 346}
+{"text": "This result agrees well with the estimated variability of the Lyman α emissions from HD209458.", "sentId": 3, "start": 347, "end": 441}
+{"text": "The rotation period of HD209458 is estimated to be ∼10–11 days (Silva-Valio, 2008).", "sentId": 4, "start": 442, "end": 525}
+{"text": "The G140M observations covered three different transits and took place within a month and a half.", "sentId": 5, "start": 526, "end": 623}
+{"text": "Each observation covered approximately 2 h in time.", "sentId": 6, "start": 624, "end": 675}
+{"text": "Thus the data can be affected by short-term variability and it is essential that such variability be properly accounted for.", "sentId": 7, "start": 676, "end": 800}
+{"text": "For this reason, we compare our models with the results of Ben-Jaffel (2007, 2008) and Ben-Jaffel and Hosseini (2010) who analyzed the data in the time tag mode and accounted for variability before calculating transit depths.", "sentId": 8, "start": 801, "end": 1026}

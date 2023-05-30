@@ -1,0 +1,29 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S175058361300203X-1240	2	1	MeasuredEntity		{'HasProperty': 'T2-1'}	253	272	365	384	T4-1	reservoir at Ketzin
+S175058361300203X-1240	2	2	MeasuredEntity		{'HasProperty': 'T3-2'}	253	272	365	384	T2-2	reservoir at Ketzin
+S175058361300203X-1240	2	4	MeasuredEntity		{'HasProperty': 'T4-4'}	253	272	365	384	T2-4	reservoir at Ketzin
+S175058361300203X-1240	2	5	MeasuredEntity		{'HasProperty': 'T4-5'}	253	272	365	384	T2-5	reservoir at Ketzin
+S175058361300203X-1240	3	1	Quantity	MPa		96	117	482	503	T1-1	approximately 6.2 MPa
+S175058361300203X-1240	3	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	41	49	427	435	T2-1	pressure
+S175058361300203X-1240	3	2	Quantity	°C		122	127	508	513	T1-2	34 °C
+S175058361300203X-1240	3	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	54	65	440	451	T3-2	temperature
+S175058361300203X-1240	5	3	Quantity			3	16	639	652	T1-3	October 2009,
+S175058361300203X-1240	5	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	42	92	678	728	T3-3	reached values of approximately 7.73 MPa and 38 °C
+S175058361300203X-1240	5	3	MeasuredEntity		{'HasProperty': 'T3-3'}	17	41	653	677	T2-3	pressure and temperature
+S175058361300203X-1240	5	4	Quantity	MPa		60	82	696	718	T1-4	approximately 7.73 MPa
+S175058361300203X-1240	5	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	17	25	653	661	T4-4	pressure
+S175058361300203X-1240	5	5	Quantity	°C		87	92	723	728	T1-5	38 °C
+S175058361300203X-1240	5	5	MeasuredProperty		{'HasQuantity': 'T1-5'}	30	41	666	677	T4-5	temperature
+S175058361300203X-1240	8	6	Quantity	kg/m3		72	88	1098	1114	T1-6	around 260 kg/m3
+S175058361300203X-1240	8	6	MeasuredProperty		{'HasQuantity': 'T1-6'}	60	67	1086	1093	T5-6	density
+S175058361300203X-1240	8	6	MeasuredEntity		{'HasProperty': 'T5-6'}	56	59	1082	1085	T2-6	CO2
+S175058361300203X-1240	8	7	Quantity	°C		113	118	1139	1144	T1-7	38 °C
+S175058361300203X-1240	8	7	MeasuredEntity		{'HasQuantity': 'T1-7'}	96	111	1122	1137	T2-7	injection point
+S175058361300203X-1240	8	8	Quantity			123	134	1149	1160	T1-8	autumn 2009
+S175058361300203X-1240	8	8	MeasuredProperty		{'HasQuantity': 'T1-8'}	72	119	1098	1145	T3-8	around 260 kg/m3 at the injection point (38 °C)
+S175058361300203X-1240	8	8	MeasuredEntity		{'HasProperty': 'T3-8'}	56	67	1082	1093	T2-8	CO2 density
+S175058361300203X-1240	8	9	Quantity	kg/m3		151	165	1177	1191	T1-9	near 320 kg/m3
+S175058361300203X-1240	8	9	MeasuredProperty		{'HasQuantity': 'T1-9'}	60	67	1086	1093	T5-9	density
+S175058361300203X-1240	8	9	MeasuredEntity		{'HasProperty': 'T5-9'}	56	59	1082	1085	T2-9	CO2
+S175058361300203X-1240	8	10	Quantity	°C		239	244	1265	1270	T1-10	34 °C
+S175058361300203X-1240	8	10	MeasuredEntity		{'HasQuantity': 'T1-10'}	218	237	1244	1263	T3-10	ambient temperature

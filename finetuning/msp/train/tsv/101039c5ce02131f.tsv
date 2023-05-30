@@ -1,0 +1,22 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101039c5ce02131f	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	165	174	165	174	T2-1	calcining
+101039c5ce02131f	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	175	180	175	180	T3-1	CaCO3
+101039c5ce02131f	1	1	Quantity	degC	"{""unit"": ""degC""}"	184	192	184	192	T1-1	900 degC
+101039c5ce02131f	1	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	165	174	165	174	T2-2	calcining
+101039c5ce02131f	1	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	175	180	175	180	T3-2	CaCO3
+101039c5ce02131f	1	2	Quantity	hours	"{""unit"": ""hours""}"	197	204	197	204	T1-2	8 hours
+101039c5ce02131f	3	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	54	59	410	415	T2-3	mixed
+101039c5ce02131f	3	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	6	15	362	371	T3-3	chemicals
+101039c5ce02131f	3	3	Quantity	min	"{""unit"": ""min""}"	97	103	453	459	T1-3	20 min
+101039c5ce02131f	5	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	34	77	530	573	T2-4	s placed in a high-purity graphite crucible
+101039c5ce02131f	5	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	5	11	501	507	T3-4	pellet
+101039c5ce02131f	5	4	Quantity	g	"{""unit"": ""g""}"	13	30	509	526	T1-4	approximate 0.2 g
+101039c5ce02131f	5	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	79	85	575	581	T2-5	purity
+101039c5ce02131f	5	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	48	77	544	573	T3-5	high-purity graphite crucible
+101039c5ce02131f	5	5	Quantity	%	"{""unit"": ""%""}"	86	91	582	587	T1-5	99.9%
+101039c5ce02131f	5	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	99	113	595	609	T2-6	inner diameter
+101039c5ce02131f	5	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	48	77	544	573	T3-6	high-purity graphite crucible
+101039c5ce02131f	5	6	Quantity	mm	"{""unit"": ""mm""}"	93	98	589	594	T1-6	10 mm
+101039c5ce02131f	5	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	124	136	620	632	T2-7	inner height
+101039c5ce02131f	5	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	48	77	544	573	T3-7	high-purity graphite crucible
+101039c5ce02131f	5	7	Quantity	mm	"{""unit"": ""mm""}"	118	123	614	619	T1-7	10 mm

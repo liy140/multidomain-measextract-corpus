@@ -1,0 +1,13 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0032063312003054-2264	2	1	Quantity	eV		69	76	266	273	T1-1	∼400eV.
+S0032063312003054-2264	2	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	48	51	245	248	T2-1	DEF
+S0032063312003054-2264	2	1	MeasuredEntity		{'HasProperty': 'T2-1'}	55	65	252	262	T3-1	heavy-ions
+S0032063312003054-2264	3	2	Quantity	eV		50	55	517	522	T1-2	∼10eV
+S0032063312003054-2264	3	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	34	42	501	509	T3-2	energies
+S0032063312003054-2264	3	2	MeasuredEntity		{'HasProperty': 'T3-2'}	18	28	485	495	T2-2	heavy-ions
+S0032063312003054-2264	3	3	Quantity	km		113	126	580	593	T1-3	around 100 km
+S0032063312003054-2264	3	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	4	14	471	481	T2-3	gyroradius
+S0032063312003054-2264	3	3	MeasuredEntity		{'HasProperty': 'T2-3'}	18	28	485	495	T3-3	heavy-ions
+S0032063312003054-2264	3	4	Quantity	km		230	236	697	703	T1-4	400 km
+S0032063312003054-2264	3	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	171	186	638	653	T2-4	horizontal size
+S0032063312003054-2264	3	4	MeasuredEntity		{'HasProperty': 'T2-4'}	192	226	659	693	T3-4	closed crustal magnetic field line

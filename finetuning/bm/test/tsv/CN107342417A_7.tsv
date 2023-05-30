@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN107342417A_7	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	165	172	165	172	T3-1	ammonia
+CN107342417A_7	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	148	161	148	161	T2-1	concentration
+CN107342417A_7	1	1	Quantity	g/l	"{""unit"": ""g/l""}"	192	201	192	201	T1-1	10-12 g/l
+CN107342417A_7	1	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	234	241	234	241	T3-2	ammonia
+CN107342417A_7	1	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	217	230	217	230	T2-2	concentration
+CN107342417A_7	1	2	Quantity	g/l	"{""unit"": ""g/l""}"	317	326	317	326	T1-2	10-12 g/l

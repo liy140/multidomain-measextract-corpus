@@ -1,0 +1,18 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0167577X14001256-517	3	1	Quantity	nJ		65	75	355	365	T1-1	0.5–0.6 nJ
+S0167577X14001256-517	3	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	49	61	339	351	T3-1	laser energy
+S0167577X14001256-517	3	1	MeasuredEntity		{'HasProperty': 'T3-1'}	4	31	294	321	T2-1	3DAP observation conditions
+S0167577X14001256-517	3	2	Quantity	kHz		110	117	400	407	T1-2	250 kHz
+S0167577X14001256-517	3	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	79	106	369	396	T3-2	laser-pulse repetition rate
+S0167577X14001256-517	3	2	MeasuredEntity		{'HasProperty': 'T3-2'}	4	31	294	321	T2-2	3DAP observation conditions
+S0167577X14001256-517	3	3	Quantity	kV		140	146	430	436	T1-3	4–7 kV
+S0167577X14001256-517	3	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	121	136	411	426	T2-3	DC bias voltage
+S0167577X14001256-517	3	3	MeasuredEntity		{'HasProperty': 'T2-3'}	4	31	294	321	T3-3	3DAP observation conditions
+S0167577X14001256-517	3	4	Quantity	K		178	183	468	473	T1-4	55 K.
+S0167577X14001256-517	3	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	154	174	444	464	T2-4	specimen temperature
+S0167577X14001256-517	3	4	MeasuredEntity		{'HasProperty': 'T2-4'}	4	31	294	321	T3-4	3DAP observation conditions
+S0167577X14001256-517	3	5	Quantity	%		267	271	557	561	T1-5	0.4%
+S0167577X14001256-517	3	5	MeasuredEntity		{'HasQuantity': 'T1-5'}	238	263	528	553	T4-5	constant evaporation rate
+S0167577X14001256-517	4	6	Quantity	kV		123	138	724	739	T1-6	range of 2–4 kV
+S0167577X14001256-517	4	6	MeasuredProperty		{'HasQuantity': 'T1-6'}	112	122	713	723	T2-6	DC voltage
+S0167577X14001256-517	4	6	MeasuredEntity		{'HasProperty': 'T2-6'}	90	106	691	707	T3-6	3DAP observation

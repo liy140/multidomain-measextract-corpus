@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0927024813002961-1085	3	1	Quantity	°C		144	149	324	329	T1-1	25 °C
+S0927024813002961-1085	3	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	119	142	299	322	T3-1	cold module temperature
+S0927024813002961-1085	3	1	MeasuredEntity		{'HasProperty': 'T3-1'}	0	3	180	183	T2-1	STC
+S0927024813002961-1085	3	2	Quantity	W/m2		173	182	353	362	T1-2	1000 W/m2
+S0927024813002961-1085	3	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	156	171	336	351	T3-2	high irradiance
+S0927024813002961-1085	3	2	MeasuredEntity		{'HasProperty': 'T3-2'}	0	3	180	183	T2-2	STC

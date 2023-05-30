@@ -1,0 +1,15 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103512003533-3348	3	1	Quantity	°		78	80	326	328	T41-1	2°
+S0019103512003533-3348	3	1	MeasuredProperty		{'HasQuantity': 'T41-1'}	52	60	300	308	T51-1	latitude
+S0019103512003533-3348	3	1	MeasuredEntity		{'HasProperty': 'T51-1'}	4	29	252	277	T131-1	simulations in this study
+S0019103512003533-3348	3	2	Quantity	°		85	88	333	336	T22-2	10°
+S0019103512003533-3348	3	2	MeasuredProperty		{'HasQuantity': 'T22-2'}	65	74	313	322	T32-2	longitude
+S0019103512003533-3348	3	2	MeasuredEntity		{'HasProperty': 'T32-2'}	4	29	252	277	T132-2	simulations in this study
+S0019103512003533-3348	3	3	Quantity	scale heights		133	150	381	398	T83-3	0.4 scale heights
+S0019103512003533-3348	3	3	MeasuredProperty		{'HasQuantity': 'T83-3'}	110	129	358	377	T73-3	vertical resolution
+S0019103512003533-3348	3	3	MeasuredEntity		{'HasProperty': 'T73-3'}	4	29	252	277	T133-3	simulations in this study
+S0019103512003533-3348	3	4	MeasuredEntity		{'HasProperty': 'T104-4'}	4	29	252	277	T134-4	simulations in this study
+S0019103512003533-3348	4	4	Quantity	s		30	33	430	433	T14-4	5 s
+S0019103512003533-3348	4	4	MeasuredProperty		{'HasQuantity': 'T14-4'}	4	25	404	425	T104-4	time integration step
+S0019103512003533-3348	4	5	Quantity			58	61	458	461	T145-5	500
+S0019103512003533-3348	4	5	MeasuredEntity		{'HasQuantity': 'T145-5'}	62	78	462	478	T125-5	Saturn rotations

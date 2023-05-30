@@ -1,0 +1,7 @@
+{"text": "An energy-based criterion was used to predict debonding of the particles.", "sentId": 1, "start": 0, "end": 73}
+{"text": "The method used has been fully described elsewhere [49] and essentially it proposes that the criterion for debonding is based upon the energy released by the debonding process.", "sentId": 2, "start": 74, "end": 250}
+{"text": "To obtain the parameters needed for this energy-based criterion, a finite-element analysis modelling study has been used to derive the change in strain-energy arising from the cavitation process, with the addition of the strain-energy stored in the particle prior to debonding.", "sentId": 3, "start": 251, "end": 528}
+{"text": "The applied stress used for these simulations was derived from experimental observations.", "sentId": 4, "start": 529, "end": 618}
+{"text": "Namely, as implied above, the debonding of the silica nanoparticles from the epoxy matrix polymer appears to take place during the elastic deformation region and, as shown in Table 1, the yield stress for all modified epoxy polymers is approximately equal, irrespective of particle size.", "sentId": 5, "start": 619, "end": 906}
+{"text": "It has therefore been assumed that the debonding takes place at an applied uniaxial stress of about 70 MPa, which equates to a hydrostatic stress at the crack tip of about 210 MPa.", "sentId": 6, "start": 907, "end": 1087}
+{"text": "Thus, the finite-element analysis simulations were analysed for an applied hydrostatic stress of 210 MPa.", "sentId": 7, "start": 1088, "end": 1193}

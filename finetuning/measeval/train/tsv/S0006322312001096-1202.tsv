@@ -1,0 +1,30 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0006322312001096-1202	2	1	Quantity	items		4	12	220	228	T1-1	20 items
+S0006322312001096-1202	2	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	20	25	236	241	T3-1	CES-D
+S0006322312001096-1202	2	2	Quantity	point		182	192	398	408	T1-2	four point
+S0006322312001096-1202	2	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	193	198	409	414	T3-2	scale
+S0006322312001096-1202	2	3	Quantity	day		204	221	420	437	T51-3	less than one day
+S0006322312001096-1202	2	3	MeasuredProperty		{'HasQuantity': 'T51-3'}	200	201	416	417	T1-3	0
+S0006322312001096-1202	2	3	MeasuredEntity		{'HasProperty': 'T1-3'}	182	198	398	414	T3-3	four point scale
+S0006322312001096-1202	2	4	Quantity	days		227	235	443	451	T62-4	1–2 days
+S0006322312001096-1202	2	4	MeasuredProperty		{'HasQuantity': 'T62-4'}	223	224	439	440	T1-4	1
+S0006322312001096-1202	2	4	MeasuredEntity		{'HasProperty': 'T1-4'}	182	198	398	414	T3-4	four point scale
+S0006322312001096-1202	2	5	Quantity	days		241	249	457	465	T33-5	3–4 days
+S0006322312001096-1202	2	5	MeasuredProperty		{'HasQuantity': 'T33-5'}	237	238	453	454	T2-5	2
+S0006322312001096-1202	2	5	MeasuredEntity		{'HasProperty': 'T2-5'}	182	198	398	414	T3-5	four point scale
+S0006322312001096-1202	2	6	Quantity	days		259	267	475	483	T44-6	5–7 days
+S0006322312001096-1202	2	6	MeasuredProperty		{'HasQuantity': 'T44-6'}	255	256	471	472	T2-6	3
+S0006322312001096-1202	2	6	MeasuredEntity		{'HasProperty': 'T2-6'}	182	198	398	414	T3-6	four point scale
+S0006322312001096-1202	3	7	Quantity			46	62	532	548	T1-7	between 0 and 60
+S0006322312001096-1202	3	7	MeasuredEntity		{'HasQuantity': 'T1-7'}	34	45	520	531	T2-7	total score
+S0006322312001096-1202	3	8	Quantity			90	93	576	579	T1-8	≥16
+S0006322312001096-1202	3	8	MeasuredProperty		{'HasQuantity': 'T1-8'}	82	89	568	575	T3-8	scoring
+S0006322312001096-1202	3	8	MeasuredEntity		{'HasProperty': 'T3-8'}	94	137	580	623	T4-8	defined as having CES-D depressive symptoms
+S0006322312001096-1202	4	9	Quantity	Whitehall II participants		25	54	655	684	T1-9	274 Whitehall II participants
+S0006322312001096-1202	4	9	MeasuredEntity		{'HasQuantity': 'T1-9'}	5	21	635	651	T3-9	validation study
+S0006322312001096-1202	4	10	Quantity	%		89	92	719	722	T25-10	89%
+S0006322312001096-1202	4	10	MeasuredProperty		{'HasQuantity': 'T25-10'}	56	67	686	697	T85-10	sensitivity
+S0006322312001096-1202	4	10	MeasuredEntity		{'HasProperty': 'T85-10'}	154	186	784	816	T2-10	structured psychiatric interview
+S0006322312001096-1202	4	11	Quantity	%		97	100	727	730	T16-11	86%
+S0006322312001096-1202	4	11	MeasuredProperty		{'HasQuantity': 'T16-11'}	72	83	702	713	T96-11	specificity
+S0006322312001096-1202	4	11	MeasuredEntity		{'HasProperty': 'T96-11'}	154	186	784	816	T2-11	structured psychiatric interview

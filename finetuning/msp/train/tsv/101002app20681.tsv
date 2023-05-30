@@ -1,0 +1,87 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101002app20681	29	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	60	64	3512	3516	T2-1	kept
+101002app20681	29	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	19	54	3471	3506	T3-1	peroxide-containing composite films
+101002app20681	29	1	Quantity	degC	"{""unit"": ""degC""}"	80	86	3532	3538	T1-1	70degC
+101002app20681	29	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	60	64	3512	3516	T2-2	kept
+101002app20681	29	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	19	54	3471	3506	T3-2	peroxide-containing composite films
+101002app20681	29	2	Quantity	h	"{""unit"": ""h""}"	91	94	3543	3546	T1-2	2 h
+101002app20681	29	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	164	169	3616	3621	T2-3	cured
+101002app20681	29	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	119	126	3571	3578	T3-3	samples
+101002app20681	29	3	Quantity	degC	"{""unit"": ""degC""}"	173	180	3625	3632	T1-3	170degC
+101002app20681	29	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	164	169	3616	3621	T2-4	cured
+101002app20681	29	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	119	126	3571	3578	T3-4	samples
+101002app20681	29	4	Quantity	min	"{""unit"": ""min""}"	185	191	3637	3643	T1-4	30 min
+101002app20681	26	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	43	58	3157	3172	T2-5	complete mixing
+101002app20681	26	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	62	82	3176	3196	T3-5	TEOS, water, and HCl
+101002app20681	26	5	Quantity	min	"{""unit"": ""min""}"	105	111	3219	3225	T1-5	30 min
+101002app20681	4	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	26	30	478	482	T2-6	pure
+101002app20681	4	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	0	20	452	472	T3-6	Tetrahydrofuran (THF
+101002app20681	4	6	Quantity	%	"{""unit"": ""%""}"	22	25	474	477	T1-6	99%
+101002app20681	3	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	25	32	391	398	T2-7	density
+101002app20681	3	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	0	23	366	389	T3-7	Tetraethoxysilane (TEOS
+101002app20681	3	7	Quantity	kg/m3	"{""unit"": ""kg/m3""}"	35	44	401	410	T1-7	930 kg/m3
+101002app20681	5	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	39	58	557	576	T2-8	particle size range
+101002app20681	5	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	4	37	522	555	T3-8	precipitated silica (Ultrasil VN3
+101002app20681	5	8	Quantity	nm	"{""unit"": ""nm""}"	61	70	579	588	T1-8	40-100 nm
+101002app20681	5	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	72	86	590	604	T2-9	oil absorption
+101002app20681	5	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	4	37	522	555	T3-9	precipitated silica (Ultrasil VN3
+101002app20681	5	9	Quantity	g/kg	"{""unit"": ""g/kg""}"	89	97	607	615	T1-9	2.4 g/kg
+101002app20681	5	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	99	101	617	619	T2-10	pH
+101002app20681	5	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	4	37	522	555	T3-10	precipitated silica (Ultrasil VN3
+101002app20681	5	10	Quantity			104	105	622	623	T1-10	6
+101002app20681	8	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	111	122	939	950	T2-11	molar ratio
+101002app20681	8	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	68	103	896	931	T3-11	ammonium hydroxide and benzoic acid
+101002app20681	8	11	Quantity			107	110	935	938	T1-11	1:1
+101002app20681	8	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	59	67	887	895	T2-12	reacting
+101002app20681	8	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	68	103	896	931	T3-12	ammonium hydroxide and benzoic acid
+101002app20681	8	12	Quantity	degC	"{""unit"": ""degC""}"	149	155	977	983	T1-12	60degC
+101002app20681	8	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	59	67	887	895	T2-13	reacting
+101002app20681	8	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	68	103	896	931	T3-13	ammonium hydroxide and benzoic acid
+101002app20681	8	13	Quantity	min	"{""unit"": ""min""}"	160	166	988	994	T1-13	30 min
+101002app20681	14	14	MeasuredProperty		"{""HasQuantity"": ""T1-14""}"	4	22	1688	1706	T2-14	proportion of TEOS
+101002app20681	14	14	MeasuredEntity		"{""HasProperty"": ""T2-14""}"	52	55	1736	1739	T3-14	ACM
+101002app20681	14	14	Quantity	wt %	"{""unit"": ""wt %""}"	32	44	1716	1728	T1-14	0 to 50 wt %
+101002app20681	22	15	MeasuredProperty		"{""HasQuantity"": ""T1-15""}"	38	43	2576	2581	T2-15	dried
+101002app20681	22	15	MeasuredEntity		"{""HasProperty"": ""T2-15""}"	4	23	2542	2561	T3-15	precipitated silica
+101002app20681	22	15	Quantity	degC	"{""unit"": ""degC""}"	47	54	2585	2592	T1-15	120degC
+101002app20681	22	16	MeasuredProperty		"{""HasQuantity"": ""T1-16""}"	38	43	2576	2581	T2-16	dried
+101002app20681	22	16	MeasuredEntity		"{""HasProperty"": ""T2-16""}"	4	23	2542	2561	T3-16	precipitated silica
+101002app20681	22	16	Quantity	h	"{""unit"": ""h""}"	59	63	2597	2601	T1-16	24 h
+101002app20681	13	17	MeasuredProperty		"{""HasQuantity"": ""T1-17""}"	64	75	1496	1507	T2-17	molar ratio
+101002app20681	13	17	MeasuredEntity		"{""HasProperty"": ""T2-17""}"	0	55	1432	1487	T3-17	TEOS, deionized water, and concentrated HCl as catalyst
+101002app20681	13	17	Quantity			79	91	1511	1523	T1-17	1 : 2 : 0.06
+101002app20681	13	18	MeasuredProperty		"{""HasQuantity"": ""T1-18""}"	119	136	1551	1568	T2-18	vigorous stirring
+101002app20681	13	18	MeasuredEntity		"{""HasProperty"": ""T2-18""}"	0	55	1432	1487	T3-18	TEOS, deionized water, and concentrated HCl as catalyst
+101002app20681	13	18	Quantity	min	"{""unit"": ""min""}"	141	147	1573	1579	T1-18	15 min
+101002app20681	15	19	MeasuredEntity		"{""HasQuantity"": ""T1-19""}"	15	19	1756	1760	T3-19	TEOS
+101002app20681	15	19	Quantity	wt %	"{""unit"": ""wt %""}"	0	14	1741	1755	T1-19	Beyond 50 wt %
+101002app20681	1	20	MeasuredProperty		"{""HasQuantity"": ""T1-20""}"	188	204	188	204	T2-20	Mooney viscosity
+101002app20681	1	20	MeasuredEntity		"{""HasProperty"": ""T2-20""}"	122	136	122	136	T3-20	Acrylic rubber
+101002app20681	1	20	Quantity	ML1+4 at 100degC	"{""unit"": ""ML1+4 at 100degC""}"	206	227	206	227	T1-20	ML1+4 at 100degC = 51
+101002app20681	1	21	MeasuredProperty		"{""HasQuantity"": ""T1-21""}"	155	162	155	162	T2-21	density
+101002app20681	1	21	MeasuredEntity		"{""HasProperty"": ""T2-21""}"	122	141	122	141	T3-21	Acrylic rubber (ACM
+101002app20681	1	21	Quantity	kg/cm3	"{""unit"": ""kg/cm3""}"	175	186	175	186	T1-21	1100 kg/cm3
+101002app20681	6	22	MeasuredProperty		"{""HasQuantity"": ""T1-22""}"	27	33	688	694	T2-22	purity
+101002app20681	6	22	MeasuredEntity		"{""HasProperty"": ""T2-22""}"	0	21	661	682	T3-22	Benzoyl peroxide (BPO
+101002app20681	6	22	Quantity	%	"{""unit"": ""%""}"	23	26	684	687	T1-22	97%
+101002app20681	17	23	MeasuredProperty		"{""HasQuantity"": ""T1-23""}"	56	63	1908	1915	T2-23	stirred
+101002app20681	17	23	MeasuredEntity		"{""HasProperty"": ""T2-23""}"	4	22	1856	1874	T3-23	precursor solution
+101002app20681	17	23	Quantity	min	"{""unit"": ""min""}"	68	74	1920	1926	T1-23	30 min
+101002app20681	18	24	MeasuredProperty		"{""HasQuantity"": ""T1-24""}"	12	23	2006	2017	T2-24	evaporation
+101002app20681	18	24	MeasuredEntity		"{""HasProperty"": ""T2-24""}"	31	38	2025	2032	T3-24	solvent
+101002app20681	18	24	Quantity	h	"{""unit"": ""h""}"	87	91	2081	2085	T1-24	24 h
+101002app20681	18	25	MeasuredProperty		"{""HasQuantity"": ""T1-25""}"	130	141	2124	2135	T2-25	evaporation
+101002app20681	18	25	MeasuredEntity		"{""HasProperty"": ""T2-25""}"	31	38	2025	2032	T3-25	solvent
+101002app20681	18	25	Quantity	days	"{""unit"": ""days""}"	146	152	2140	2146	T1-25	4 days
+101002app20681	12	26	MeasuredProperty		"{""HasQuantity"": ""T1-26""}"	2	12	1279	1289	T2-26	proportion
+101002app20681	12	26	MeasuredEntity		"{""HasProperty"": ""T2-26""}"	20	37	1297	1314	T3-26	rubber to solvent
+101002app20681	12	26	Quantity			62	68	1339	1345	T1-26	1 : 10
+101002app20681	21	27	MeasuredProperty		"{""HasQuantity"": ""T1-27""}"	92	99	2474	2481	T2-27	loading
+101002app20681	21	27	MeasuredEntity		"{""HasProperty"": ""T2-27""}"	51	70	2433	2452	T3-27	precipitated silica
+101002app20681	21	27	Quantity	wt %	"{""unit"": ""wt %""}"	71	84	2453	2466	T1-27	up to 30 wt %
+101002app20681	27	28	MeasuredProperty		"{""HasQuantity"": ""T1-28""}"	66	73	3293	3300	T2-28	stirred
+101002app20681	27	28	MeasuredEntity		"{""HasProperty"": ""T2-28""}"	4	16	3231	3243	T3-28	crosslinkers
+101002app20681	27	28	Quantity	min	"{""unit"": ""min""}"	86	92	3313	3319	T1-28	30 min
+101002app20681	28	29	MeasuredProperty		"{""HasQuantity"": ""T1-29""}"	68	98	3411	3441	T2-29	controlled solvent evaporation
+101002app20681	28	29	MeasuredEntity		"{""HasProperty"": ""T2-29""}"	4	9	3347	3352	T3-29	films
+101002app20681	28	29	Quantity	h	"{""unit"": ""h""}"	103	107	3446	3450	T1-29	24 h

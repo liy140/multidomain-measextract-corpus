@@ -1,0 +1,22 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103512003533-5251	1	1	Quantity	K		92	104	92	104	T31-1	below ∼460 K
+S0019103512003533-5251	1	1	MeasuredProperty		{'HasQuantity': 'T31-1'}	0	26	0	26	T11-1	High latitude temperatures
+S0019103512003533-5251	1	1	MeasuredEntity		{'HasProperty': 'T11-1'}	30	55	30	55	T21-1	Saturn’s upper atmosphere
+S0019103512003533-5251	2	2	Quantity	K		164	174	464	474	T62-2	440 ± 50 K
+S0019103512003533-5251	2	2	MeasuredProperty		{'HasQuantity': 'T62-2'}	106	127	406	427	T42-2	inferred temperatures
+S0019103512003533-5251	2	2	MeasuredEntity		{'HasProperty': 'T42-2'}	148	160	448	460	T52-2	auroral oval
+S0019103512003533-5251	2	3	Quantity	K		229	245	529	545	T93-3	(563–624) ± 30 K
+S0019103512003533-5251	2	3	MeasuredProperty		{'HasQuantity': 'T93-3'}	188	200	488	500	T73-3	temperatures
+S0019103512003533-5251	2	3	MeasuredEntity		{'HasProperty': 'T73-3'}	204	225	504	525	T83-3	Saturn’s auroral oval
+S0019103512003533-5251	2	4	Quantity	K		351	369	651	669	T124-4	up to around 650 K
+S0019103512003533-5251	2	4	MeasuredProperty		{'HasQuantity': 'T124-4'}	320	340	620	640	T104-4	auroral temperatures
+S0019103512003533-5251	2	4	MeasuredEntity		{'HasProperty': 'T104-4'}	344	350	644	650	T114-4	Saturn
+S0019103512003533-5251	3	5	Quantity	K		61	66	762	767	T135-5	650 K
+S0019103512003533-5251	3	5	MeasuredProperty		{'HasQuantity': 'T135-5'}	117	135	818	836	T145-5	polar temperatures
+S0019103512003533-5251	3	5	MeasuredEntity		{'HasProperty': 'T145-5'}	163	169	864	870	T165-5	Saturn
+S0019103512003533-5251	3	6	Quantity	K		173	180	874	881	T176-6	⩽ 650 K
+S0019103512003533-5251	3	6	MeasuredProperty		{'HasQuantity': 'T176-6'}	117	135	818	836	T146-6	polar temperatures
+S0019103512003533-5251	3	6	MeasuredEntity		{'HasProperty': 'T146-6'}	163	169	864	870	T166-6	Saturn
+S0019103512003533-5251	3	7	Quantity	K		231	238	932	939	T197-7	> 650 K
+S0019103512003533-5251	3	7	MeasuredProperty		{'HasQuantity': 'T197-7'}	117	135	818	836	T147-7	polar temperatures
+S0019103512003533-5251	3	7	MeasuredEntity		{'HasProperty': 'T147-7'}	163	169	864	870	T167-7	Saturn

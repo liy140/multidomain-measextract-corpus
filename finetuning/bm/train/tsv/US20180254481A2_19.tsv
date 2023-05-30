@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20180254481A2_19	1	1	MeasuredEntity			8	31	8	31	T3-1	cathode active material
+US20180254481A2_19	1	1	MeasuredProperty			118	139	118	139	T2-1	specific surface area
+US20180254481A2_19	1	1	Quantity	m2/g		143	163	143	163	T1-1	0.7 m2/g to 3.0 m2/g

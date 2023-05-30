@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+EP2619140B1_16	1	1	MeasuredEntity			69	81	69	81	T3-1	the solution
+EP2619140B1_16	1	1	MeasuredProperty			87	89	87	89	T2-1	pH
+EP2619140B1_16	1	1	Quantity			90	119	90	119	T1-1	in the range from about 11-13

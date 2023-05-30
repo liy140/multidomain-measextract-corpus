@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN106795008B_6	1	1	MeasuredEntity			349	355	349	355	T3-1	powder
+CN106795008B_6	1	1	MeasuredProperty			365	391	365	391	T2-1	particle size distribution
+CN106795008B_6	1	1	Quantity	μm		395	427	395	427	T1-1	10 μm. ltoreq.D 50. ltoreq.20 μm
+CN106795008B_6	1	2	MeasuredEntity			349	355	349	355	T3-2	powder
+CN106795008B_6	1	2	MeasuredProperty			431	452	431	452	T2-2	specific surface area
+CN106795008B_6	1	2	Quantity			456	460	456	460	T1-2	0.9.

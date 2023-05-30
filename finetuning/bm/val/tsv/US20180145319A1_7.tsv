@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20180145319A1_7	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	100	112	100	112	T3-1	the solution
+US20180145319A1_7	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	94	96	94	96	T2-1	pH
+US20180145319A1_7	1	1	Quantity			159	178	159	178	T1-1	a range of 10 to 12
+US20180145319A1_7	1	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	100	112	100	112	T3-2	the solution
+US20180145319A1_7	1	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	244	246	244	246	T2-2	pH
+US20180145319A1_7	1	2	Quantity			272	290	272	290	T1-2	a range of 9 to 10

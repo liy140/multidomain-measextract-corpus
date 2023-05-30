@@ -1,0 +1,9 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0960148113002048-3775	2	1	Quantity			59	62	131	134	T1-1	two
+S0960148113002048-3775	2	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	63	75	135	147	T2-1	major trends
+S0960148113002048-3775	6	2	Quantity	Hz		50	62	713	725	T1-2	0.01–0.03 Hz
+S0960148113002048-3775	6	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	35	46	698	709	T3-2	frequencies
+S0960148113002048-3775	6	2	MeasuredEntity		{'HasProperty': 'T3-2'}	30	34	693	697	T2-2	wind
+S0960148113002048-3775	7	3	Quantity	Hz		47	61	985	999	T1-3	above 0.003 Hz
+S0960148113002048-3775	7	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	35	46	973	984	T3-3	frequencies
+S0960148113002048-3775	7	3	MeasuredEntity		{'HasProperty': 'T3-3'}	30	34	968	972	T2-3	wind

@@ -1,0 +1,3 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0031405612000728-769	1	1	Quantity			56	61	56	61	T1-1	seven
+S0031405612000728-769	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	62	68	62	68	T2-1	months

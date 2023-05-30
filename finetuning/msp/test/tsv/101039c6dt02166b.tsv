@@ -1,0 +1,56 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101039c6dt02166b	4	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	96	102	613	619	T2-1	loaded
+101039c6dt02166b	4	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	74	82	591	599	T3-1	elements
+101039c6dt02166b	4	1	Quantity	g	"{""unit"": ""g""}"	84	88	601	605	T1-1	10 g
+101039c6dt02166b	4	2	MeasuredEntity		"{""HasQuantity"": ""T1-2""}"	112	133	629	650	T3-2	tungsten carbide jars
+101039c6dt02166b	4	2	Quantity	ml	"{""unit"": ""ml""}"	106	111	623	628	T1-2	20 ml
+101039c6dt02166b	4	3	MeasuredEntity		"{""HasQuantity"": ""T1-3""}"	159	172	676	689	T3-3	same material
+101039c6dt02166b	4	3	Quantity	balls	"{""unit"": ""balls""}"	144	151	661	668	T1-3	7 balls
+101039c6dt02166b	2	4	MeasuredEntity		"{""HasQuantity"": ""T1-4""}"	14	16	329	331	T3-4	Ba
+101039c6dt02166b	2	4	Quantity	%	"{""unit"": ""%""}"	23	27	338	342	T1-4	99+%
+101039c6dt02166b	2	5	MeasuredEntity		"{""HasQuantity"": ""T1-5""}"	30	32	345	347	T3-5	Se
+101039c6dt02166b	2	5	Quantity	%	"{""unit"": ""%""}"	41	48	356	363	T1-5	99.999%
+101039c6dt02166b	2	6	MeasuredEntity		"{""HasQuantity"": ""T1-6""}"	54	56	369	371	T3-6	Cr
+101039c6dt02166b	2	6	Quantity	%	"{""unit"": ""%""}"	76	79	391	394	T1-6	99%
+101039c6dt02166b	2	7	Quantity	Mesh	"{""unit"": ""Mesh""}"	65	74	380	389	T1-7	-325 Mesh
+101039c6dt02166b	10	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	29	37	1426	1434	T2-8	inserted
+101039c6dt02166b	10	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	17	23	1414	1420	T3-8	sample
+101039c6dt02166b	10	8	Quantity	g	"{""unit"": ""g""}"	6	9	1403	1406	T1-8	5 g
+101039c6dt02166b	10	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	94	108	1491	1505	T2-9	inner diameter
+101039c6dt02166b	10	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	43	69	1440	1466	T3-9	high density graphite dies
+101039c6dt02166b	10	9	Quantity	mm	"{""unit"": ""mm""}"	112	117	1509	1514	T1-9	15 mm
+101039c6dt02166b	7	10	MeasuredEntity		"{""HasQuantity"": ""T1-10""}"	30	41	955	966	T3-10	title phase
+101039c6dt02166b	7	10	Quantity	g	"{""unit"": ""g""}"	19	22	944	947	T1-10	5 g
+101039c6dt02166b	7	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	132	138	1057	1063	T2-11	heated
+101039c6dt02166b	7	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	43	53	968	978	T3-11	precursors
+101039c6dt02166b	7	11	Quantity	K	"{""unit"": ""K""}"	142	147	1067	1072	T1-11	873 K
+101039c6dt02166b	7	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	132	138	1057	1063	T2-12	heated
+101039c6dt02166b	7	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	43	53	968	978	T3-12	precursors
+101039c6dt02166b	7	12	Quantity	hours	"{""unit"": ""hours""}"	151	159	1076	1084	T1-12	10 hours
+101039c6dt02166b	8	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	21	34	1158	1171	T2-13	slowly cooled
+101039c6dt02166b	8	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	4	11	1141	1148	T3-13	mixture
+101039c6dt02166b	8	13	Quantity	hours	"{""unit"": ""hours""}"	62	70	1199	1207	T1-13	10 hours
+101039c6dt02166b	5	14	MeasuredProperty		"{""HasQuantity"": ""T1-14""}"	89	96	780	787	T2-14	program
+101039c6dt02166b	5	14	MeasuredEntity		"{""HasProperty"": ""T2-14""}"	4	33	695	724	T3-14	mechanical alloying synthesis
+101039c6dt02166b	5	14	Quantity	cycles	"{""unit"": ""cycles""}"	100	109	791	800	T1-14	15 cycles
+101039c6dt02166b	5	15	MeasuredProperty		"{""HasQuantity"": ""T1-15""}"	89	96	780	787	T2-15	program
+101039c6dt02166b	5	15	MeasuredEntity		"{""HasProperty"": ""T2-15""}"	4	33	695	724	T3-15	mechanical alloying synthesis
+101039c6dt02166b	5	15	Quantity	minutes	"{""unit"": ""minutes""}"	113	122	804	813	T1-15	2 minutes
+101039c6dt02166b	5	16	MeasuredProperty		"{""HasQuantity"": ""T1-16""}"	128	133	819	824	T2-16	speed
+101039c6dt02166b	5	16	MeasuredEntity		"{""HasProperty"": ""T2-16""}"	4	33	695	724	T3-16	mechanical alloying synthesis
+101039c6dt02166b	5	16	Quantity	rpm	"{""unit"": ""rpm""}"	137	144	828	835	T1-16	700 rpm
+101039c6dt02166b	11	17	MeasuredProperty		"{""HasQuantity"": ""T1-17""}"	20	26	1536	1542	T2-17	raised
+101039c6dt02166b	11	17	MeasuredEntity		"{""HasProperty"": ""T2-17""}"	4	15	1520	1531	T3-17	temperature
+101039c6dt02166b	11	17	Quantity	minutes	"{""unit"": ""minutes""}"	30	40	1546	1556	T1-17	45 minutes
+101039c6dt02166b	11	18	MeasuredProperty		"{""HasQuantity"": ""T1-18""}"	20	26	1536	1542	T2-18	raised
+101039c6dt02166b	11	18	MeasuredEntity		"{""HasProperty"": ""T2-18""}"	4	15	1520	1531	T3-18	temperature
+101039c6dt02166b	11	18	Quantity	K	"{""unit"": ""K""}"	44	49	1560	1565	T1-18	973 K
+101039c6dt02166b	11	19	MeasuredProperty		"{""HasQuantity"": ""T1-19""}"	68	75	1584	1591	T2-19	plateau
+101039c6dt02166b	11	19	MeasuredEntity		"{""HasProperty"": ""T2-19""}"	4	15	1520	1531	T3-19	temperature
+101039c6dt02166b	11	19	Quantity	minutes	"{""unit"": ""minutes""}"	83	93	1599	1609	T1-19	40 minutes
+101039c6dt02166b	11	20	MeasuredProperty		"{""HasQuantity"": ""T1-20""}"	114	123	1630	1639	T2-20	ramp down
+101039c6dt02166b	11	20	MeasuredEntity		"{""HasProperty"": ""T2-20""}"	4	15	1520	1531	T3-20	temperature
+101039c6dt02166b	11	20	Quantity	minutes	"{""unit"": ""minutes""}"	103	113	1619	1629	T1-20	45 minutes
+101039c6dt02166b	12	21	MeasuredProperty		"{""HasQuantity"": ""T1-21""}"	17	23	1678	1684	T2-21	raised
+101039c6dt02166b	12	21	MeasuredEntity		"{""HasProperty"": ""T2-21""}"	4	12	1665	1673	T3-21	pressure
+101039c6dt02166b	12	21	Quantity	MPa	"{""unit"": ""MPa""}"	24	45	1685	1706	T1-21	from 28 MPa to 50 MPa

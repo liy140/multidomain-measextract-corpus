@@ -1,0 +1,31 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jjelechem201503033	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	225	231	225	231	T2-1	purity
+101016jjelechem201503033	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	209	217	209	217	T3-1	Nb foils
+101016jjelechem201503033	1	1	Quantity	%	"{""unit"": ""%""}"	219	224	219	224	T1-1	99.8%
+101016jjelechem201503033	2	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	51	57	297	303	T2-2	K2HPO4
+101016jjelechem201503033	2	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	69	86	315	332	T3-2	glycerol solution
+101016jjelechem201503033	2	2	Quantity	wt.%	"{""unit"": ""wt.%""}"	43	50	289	296	T1-2	10 wt.%
+101016jjelechem201503033	5	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	38	44	641	647	T2-3	heated
+101016jjelechem201503033	5	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	4	32	607	635	T3-3	Nb2O5 films on Nb substrates
+101016jjelechem201503033	5	3	Quantity	degC	"{""unit"": ""degC""}"	48	56	651	659	T1-3	440 degC
+101016jjelechem201503033	5	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	69	81	672	684	T2-4	heating rate
+101016jjelechem201503033	5	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	4	32	607	635	T3-4	Nb2O5 films on Nb substrates
+101016jjelechem201503033	5	4	Quantity	degC min-1	"{""unit"": ""degC min-1""}"	85	97	688	700	T1-4	1 degC min-1
+101016jjelechem201503033	3	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	18	24	380	386	T2-5	biased
+101016jjelechem201503033	3	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	4	12	366	374	T3-5	Nb foils
+101016jjelechem201503033	3	5	Quantity	V	"{""unit"": ""V""}"	28	39	390	401	T1-5	10 and 20 V
+101016jjelechem201503033	3	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	98	109	460	471	T2-6	thicknesses
+101016jjelechem201503033	3	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	76	92	438	454	T3-6	nanoporous films
+101016jjelechem201503033	3	6	Quantity	μm	"{""unit"": ""\u03bcm""}"	110	133	472	495	T1-6	ranging from 7 to 18 μm
+101016jjelechem201503033	3	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	18	24	380	386	T2-7	biased
+101016jjelechem201503033	3	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	4	12	366	374	T3-7	Nb foils
+101016jjelechem201503033	3	7	Quantity	degC	"{""unit"": ""degC""}"	56	64	418	426	T1-7	180 degC
+101016jjelechem201503033	3	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	18	24	380	386	T2-8	biased
+101016jjelechem201503033	3	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	4	12	366	374	T3-8	Nb foils
+101016jjelechem201503033	3	8	Quantity	min	"{""unit"": ""min""}"	44	52	406	414	T1-8	5-25 min
+101016jjelechem201503033	6	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	6	15	708	717	T2-9	annealing
+101016jjelechem201503033	6	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	44	51	746	753	T3-9	furnace
+101016jjelechem201503033	6	9	Quantity	degC	"{""unit"": ""degC""}"	19	27	721	729	T1-9	440 degC
+101016jjelechem201503033	6	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	6	15	708	717	T2-10	annealing
+101016jjelechem201503033	6	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	44	51	746	753	T3-10	furnace
+101016jjelechem201503033	6	10	Quantity	min	"{""unit"": ""min""}"	32	38	734	740	T1-10	20 min

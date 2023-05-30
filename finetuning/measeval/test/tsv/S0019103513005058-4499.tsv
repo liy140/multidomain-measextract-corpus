@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103513005058-4499	1	1	MeasuredEntity		{'HasProperty': 'T3-1'}	92	96	92	96	T4-1	Mars
+S0019103513005058-4499	4	1	Quantity	K		49	61	689	701	T1-1	toward 280 K
+S0019103513005058-4499	4	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	23	42	663	682	T3-1	surface temperature

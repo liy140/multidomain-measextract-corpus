@@ -1,0 +1,47 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101002rcm7385	21	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	53	58	1954	1959	T2-1	yield
+101002rcm7385	21	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	4	11	1905	1912	T3-1	product
+101002rcm7385	21	1	Quantity	%	"{""unit"": ""%""}"	59	62	1960	1963	T1-1	10%
+101002rcm7385	5	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	21	31	426	436	T2-2	HPLC grade
+101002rcm7385	5	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	0	14	405	419	T3-2	Sodium acetate
+101002rcm7385	5	2	Quantity	%	"{""unit"": ""%""}"	16	19	421	424	T1-2	99%
+101002rcm7385	11	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	33	40	868	875	T2-3	charged
+101002rcm7385	11	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	106	110	941	945	T3-3	H2O2
+101002rcm7385	11	3	Quantity	mL	"{""unit"": ""mL""}"	2	98	837	933	T1-3	25-mL round-bottomed flask was charged at 0 degC with 0.7 g of hexamethylenetetramine and 2.3 mL
+101002rcm7385	11	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	33	40	868	875	T2-4	charged
+101002rcm7385	11	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	65	87	900	922	T3-4	hexamethylenetetramine
+101002rcm7385	11	4	Quantity	g	"{""unit"": ""g""}"	56	61	891	896	T1-4	0.7 g
+101002rcm7385	11	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	33	40	868	875	T2-5	charged
+101002rcm7385	11	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	106	110	941	945	T3-5	H2O2
+101002rcm7385	11	5	Quantity	%	"{""unit"": ""%""}"	102	105	937	940	T1-5	50%
+101002rcm7385	11	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	33	40	868	875	T2-6	charged
+101002rcm7385	11	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	106	110	941	945	T3-6	H2O2
+101002rcm7385	11	6	Quantity	degC	"{""unit"": ""degC""}"	44	50	879	885	T1-6	0 degC
+101002rcm7385	15	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	122	127	1300	1305	T2-7	dried
+101002rcm7385	15	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	110	117	1288	1295	T3-7	product
+101002rcm7385	15	7	Quantity	mg	"{""unit"": ""mg""}"	87	93	1265	1271	T1-7	100-mg
+101002rcm7385	19	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	18	38	1677	1697	T2-8	purged with a stream
+101002rcm7385	19	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	5	13	1664	1672	T3-8	solution
+101002rcm7385	19	8	Quantity	mL s-1	"{""unit"": ""mL s-1""}"	40	52	1699	1711	T1-8	10-15 mL s-1
+101002rcm7385	19	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	18	24	1677	1683	T2-9	purged
+101002rcm7385	19	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	5	13	1664	1672	T3-9	solution
+101002rcm7385	19	9	Quantity	degC	"{""unit"": ""degC""}"	67	75	1726	1734	T1-9	120 degC
+101002rcm7385	19	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	18	24	1677	1683	T2-10	purged
+101002rcm7385	19	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	5	13	1664	1672	T3-10	solution
+101002rcm7385	19	10	Quantity	h	"{""unit"": ""h""}"	94	97	1753	1756	T1-10	1 h
+101002rcm7385	4	11	MeasuredEntity		"{""HasQuantity"": ""T1-11""}"	0	25	251	276	T3-11	Lithium acetate dihydrate
+101002rcm7385	4	11	Quantity	%	"{""unit"": ""%""}"	27	34	278	285	T1-11	99.999%
+101002rcm7385	4	12	MeasuredEntity		"{""HasQuantity"": ""T1-12""}"	37	48	288	299	T3-12	acetic acid
+101002rcm7385	4	12	Quantity	%	"{""unit"": ""%""}"	50	56	301	307	T1-12	99.99%
+101002rcm7385	13	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	53	58	1060	1065	T2-13	added
+101002rcm7385	13	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	28	39	1035	1046	T3-13	citric acid
+101002rcm7385	13	13	Quantity	g	"{""unit"": ""g""}"	41	47	1048	1054	T1-13	1.15 g
+101002rcm7385	13	14	MeasuredProperty		"{""HasQuantity"": ""T1-14""}"	53	58	1060	1065	T2-14	added
+101002rcm7385	13	14	MeasuredEntity		"{""HasProperty"": ""T2-14""}"	28	39	1035	1046	T3-14	citric acid
+101002rcm7385	13	14	Quantity	min	"{""unit"": ""min""}"	76	88	1083	1095	T1-14	every 15 min
+101002rcm7385	17	15	MeasuredProperty		"{""HasQuantity"": ""T1-15""}"	85	90	1525	1530	T2-15	ratio
+101002rcm7385	17	15	MeasuredEntity		"{""HasProperty"": ""T2-15""}"	13	78	1453	1518	T3-15	HMTD was dissolved in boiling (freshly distilled) n-butyl acetate
+101002rcm7385	17	15	Quantity			80	84	1520	1524	T1-15	1:80
+101002rcm7385	18	16	MeasuredProperty		"{""HasQuantity"": ""T1-16""}"	115	123	1648	1656	T2-16	diameter
+101002rcm7385	18	16	MeasuredEntity		"{""HasProperty"": ""T2-16""}"	99	108	1632	1641	T3-16	capillary
+101002rcm7385	18	16	Quantity	mm	"{""unit"": ""mm""}"	110	114	1643	1647	T1-16	1 mm

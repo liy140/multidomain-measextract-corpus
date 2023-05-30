@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0012821X12004384-1599	1	1	Quantity	yrs		76	88	76	88	T21-1	from 103 yrs
+S0012821X12004384-1599	1	1	MeasuredProperty		{'HasQuantity': 'T21-1'}	89	95	89	95	T41-1	before
+S0012821X12004384-1599	1	1	MeasuredEntity		{'HasProperty': 'T41-1'}	100	109	100	109	T31-1	CIE onset
+S0012821X12004384-1599	1	2	Quantity	m		111	123	111	123	T12-2	above 2618 m
+S0012821X12004384-1599	1	2	MeasuredProperty		{'HasQuantity': 'T12-2'}	89	95	89	95	T42-2	before
+S0012821X12004384-1599	1	2	MeasuredEntity		{'HasProperty': 'T42-2'}	100	109	100	109	T32-2	CIE onset

@@ -1,0 +1,13 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016japcatb201305035	4	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	127	132	609	614	T2-1	dried
+101016japcatb201305035	4	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	16	28	498	510	T3-1	precipitates
+101016japcatb201305035	4	1	Quantity	degC	"{""unit"": ""degC""}"	136	144	618	626	T1-1	120 degC
+101016japcatb201305035	4	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	159	167	641	649	T2-2	calcined
+101016japcatb201305035	4	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	16	28	498	510	T3-2	precipitates
+101016japcatb201305035	4	2	Quantity	degC	"{""unit"": ""degC""}"	171	179	653	661	T1-2	500 degC
+101016japcatb201305035	4	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	159	167	641	649	T2-3	calcined
+101016japcatb201305035	4	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	16	28	498	510	T3-3	precipitates
+101016japcatb201305035	4	3	Quantity	h	"{""unit"": ""h""}"	184	187	666	669	T1-3	5 h
+101016japcatb201305035	6	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	4	16	770	782	T2-4	molar ratios
+101016japcatb201305035	6	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	20	25	786	791	T3-4	Ce/Nb
+101016japcatb201305035	6	4	Quantity			31	48	797	814	T1-4	1/3, 1/1, and 3/1

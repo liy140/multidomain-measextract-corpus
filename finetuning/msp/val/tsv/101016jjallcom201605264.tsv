@@ -1,0 +1,32 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jjallcom201605264	4	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	124	129	622	627	T2-1	dried
+101016jjallcom201605264	4	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	13	21	511	519	T3-1	products
+101016jjallcom201605264	4	1	Quantity	degC	"{""unit"": ""degC""}"	150	157	648	655	T1-1	80 degC
+101016jjallcom201605264	4	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	124	129	622	627	T2-2	dried
+101016jjallcom201605264	4	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	13	21	511	519	T3-2	products
+101016jjallcom201605264	4	2	Quantity	h	"{""unit"": ""h""}"	162	166	660	664	T1-2	12 h
+101016jjallcom201605264	1	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	249	258	249	258	T2-3	dissolved
+101016jjallcom201605264	1	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	207	216	207	216	T3-3	d-glucose
+101016jjallcom201605264	1	3	Quantity	mol	"{""unit"": ""mol""}"	198	206	198	206	T1-3	0.01 mol
+101016jjallcom201605264	1	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	249	258	249	258	T2-4	dissolved
+101016jjallcom201605264	1	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	230	243	230	243	T3-4	Ni(NO3)2*6H2O
+101016jjallcom201605264	1	4	Quantity	mol	"{""unit"": ""mol""}"	221	229	221	229	T1-4	0.02 mol
+101016jjallcom201605264	1	5	MeasuredEntity		"{""HasQuantity"": ""T1-5""}"	268	282	268	282	T3-5	utrapure water
+101016jjallcom201605264	1	5	Quantity	ml	"{""unit"": ""ml""}"	262	267	262	267	T1-5	50 ml
+101016jjallcom201605264	3	6	MeasuredEntity		"{""HasQuantity"": ""T1-6""}"	77	99	418	440	T3-6	Teflon-lined autoclave
+101016jjallcom201605264	3	6	Quantity	ml	"{""unit"": ""ml""}"	70	76	411	417	T1-6	100 ml
+101016jjallcom201605264	3	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	112	134	453	475	T2-7	hydrothermal treatment
+101016jjallcom201605264	3	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	31	48	372	389	T3-7	resultant mixture
+101016jjallcom201605264	3	7	Quantity	degC	"{""unit"": ""degC""}"	138	146	479	487	T1-7	180 degC
+101016jjallcom201605264	3	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	112	134	453	475	T2-8	hydrothermal treatment
+101016jjallcom201605264	3	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	31	48	372	389	T3-8	resultant mixture
+101016jjallcom201605264	3	8	Quantity	h	"{""unit"": ""h""}"	151	155	492	496	T1-8	20 h
+101016jjallcom201605264	5	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	48	57	714	723	T2-9	annealing
+101016jjallcom201605264	5	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	21	29	687	695	T3-9	products
+101016jjallcom201605264	5	9	Quantity	degC	"{""unit"": ""degC""}"	61	86	727	752	T1-9	270, 350, 430 or 550 degC
+101016jjallcom201605264	5	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	109	121	775	787	T2-10	heating rate
+101016jjallcom201605264	5	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	21	29	687	695	T3-10	products
+101016jjallcom201605264	5	10	Quantity	degC min-1	"{""unit"": ""degC min-1""}"	125	137	791	803	T1-10	2 degC min-1
+101016jjallcom201605264	5	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	48	57	714	723	T2-11	annealing
+101016jjallcom201605264	5	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	21	29	687	695	T3-11	products
+101016jjallcom201605264	5	11	Quantity	h	"{""unit"": ""h""}"	91	94	757	760	T1-11	3 h

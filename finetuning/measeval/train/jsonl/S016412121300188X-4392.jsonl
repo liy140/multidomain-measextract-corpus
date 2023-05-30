@@ -1,0 +1,2 @@
+{"text": "The accuracy of hash function H is given as Hashed Slice Precision, HSP = UH/US .", "sentId": 1, "start": 0, "end": 81}
+{"text": "A precision of 1.00 (US = UH) means the hash function is 100% accurate (i.e., it produces a unique hash value for every distinct slice) whereas a precision of 1/US means that the hash function produces the same hash value for every slice leaving UH = 1.", "sentId": 2, "start": 82, "end": 335}

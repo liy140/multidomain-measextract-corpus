@@ -1,0 +1,4 @@
+{"text": "[42] believe that the natural evolution of the Internet should be to harness multipath-capable end systems in order to achieve resource pooling.", "sentId": 1, "start": 0, "end": 144}
+{"text": "[9] show that opportunistic networks typically exhibit the path explosion phenomenon.", "sentId": 2, "start": 145, "end": 230}
+{"text": "In our work, the nodes benefit from pooling the capacity of their many and varied contacts, making effective use of the network resources available to them.", "sentId": 3, "start": 231, "end": 387}
+{"text": "If traffic is spread across the resources of a node’s many and varied contacts in the right way, with the right reaction to the right congestion signals from the network, then traffic can quickly move away from congested regions.", "sentId": 4, "start": 388, "end": 617}

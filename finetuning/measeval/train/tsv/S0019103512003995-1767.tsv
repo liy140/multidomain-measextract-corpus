@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103512003995-1767	2	1	Quantity	nm		110	117	240	247	T1-1	1083 nm
+S0019103512003995-1767	2	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	118	122	248	252	T4-1	line
+S0019103512003995-1767	2	1	MeasuredEntity		{'HasProperty': 'T4-1'}	107	109	237	239	T3-1	He

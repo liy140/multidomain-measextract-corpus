@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+EP3719887A1_2	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	162	191	162	191	T3-1	composite hydroxide particles
+EP3719887A1_2	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	261	274	261	274	T2-1	particle size
+EP3719887A1_2	1	1	Quantity	µm	"{""unit"": ""\u00b5m""}"	280	346	280	346	T1-1	is greater than or equal to - 1 µm and less than or equal to +1 µm

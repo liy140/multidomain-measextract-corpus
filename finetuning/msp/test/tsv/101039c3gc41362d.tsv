@@ -1,0 +1,89 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101039c3gc41362d	5	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	30	35	645	650	T2-1	dried
+101039c3gc41362d	5	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	14	25	629	640	T3-1	Au catalyst
+101039c3gc41362d	5	1	Quantity	degC	"{""unit"": ""degC""}"	49	56	664	671	T1-1	80 degC
+101039c3gc41362d	5	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	66	73	681	688	T2-2	reduced
+101039c3gc41362d	5	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	14	25	629	640	T3-2	Au catalyst
+101039c3gc41362d	5	2	Quantity	h	"{""unit"": ""h""}"	78	81	693	696	T1-2	4 h
+101039c3gc41362d	5	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	66	73	681	688	T2-3	reduced
+101039c3gc41362d	5	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	14	25	629	640	T3-3	Au catalyst
+101039c3gc41362d	5	3	Quantity	degC	"{""unit"": ""degC""}"	85	93	700	708	T1-3	225 degC
+101039c3gc41362d	5	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	100	102	715	717	T2-4	H2
+101039c3gc41362d	5	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	106	108	721	723	T3-4	N2
+101039c3gc41362d	5	4	Quantity	%	"{""unit"": ""%""}"	97	99	712	714	T1-4	5%
+101039c3gc41362d	5	5	MeasuredEntity		"{""HasQuantity"": ""T1-5""}"	97	108	712	723	T3-5	5% H2 in N2
+101039c3gc41362d	5	5	Quantity	mL min-1	"{""unit"": ""mL min-1""}"	110	122	725	737	T1-5	100 mL min-1
+101039c3gc41362d	6	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	137	142	876	881	T2-6	mixed
+101039c3gc41362d	6	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	90	98	829	837	T3-6	solution
+101039c3gc41362d	6	6	Quantity	L	"{""unit"": ""L""}"	115	118	854	857	T1-6	1 L
+101039c3gc41362d	6	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	102	113	841	852	T2-7	HAuCl4*3H2O
+101039c3gc41362d	6	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	90	98	829	837	T3-7	solution
+101039c3gc41362d	6	7	Quantity	μg mL-1	"{""unit"": ""\u03bcg mL-1""}"	120	131	859	870	T1-7	100 μg mL-1
+101039c3gc41362d	6	8	MeasuredEntity		"{""HasQuantity"": ""T1-8""}"	159	201	898	940	T3-8	2 wt% solution of poly(vinyl alcohol) (PVA
+101039c3gc41362d	6	8	Quantity	g	"{""unit"": ""g""}"	148	153	887	892	T1-8	2.5 g
+101039c3gc41362d	6	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	177	201	916	940	T2-9	poly(vinyl alcohol) (PVA
+101039c3gc41362d	6	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	165	173	904	912	T3-9	solution
+101039c3gc41362d	6	9	Quantity	wt%	"{""unit"": ""wt%""}"	159	164	898	903	T1-9	2 wt%
+101039c3gc41362d	6	10	MeasuredEntity		"{""HasQuantity"": ""T1-10""}"	177	201	916	940	T3-10	poly(vinyl alcohol) (PVA
+101039c3gc41362d	6	10	Quantity	MW	"{""unit"": ""MW""}"	203	213	942	952	T1-10	MW ~ 10000
+101039c3gc41362d	9	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	38	46	1224	1232	T2-11	filtered
+101039c3gc41362d	9	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	19	33	1205	1219	T3-11	Au/AC catalyst
+101039c3gc41362d	9	11	Quantity	h	"{""unit"": ""h""}"	53	56	1239	1242	T1-11	2 h
+101039c3gc41362d	12	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	6	14	1564	1572	T2-12	stirring
+101039c3gc41362d	12	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	31	39	1589	1597	T3-12	solution
+101039c3gc41362d	12	12	Quantity	min	"{""unit"": ""min""}"	19	25	1577	1583	T1-12	30 min
+101039c3gc41362d	12	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	44	48	1602	1606	T2-13	aged
+101039c3gc41362d	12	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	31	39	1589	1597	T3-13	solution
+101039c3gc41362d	12	13	Quantity	degC	"{""unit"": ""degC""}"	52	60	1610	1618	T1-13	100 degC
+101039c3gc41362d	12	14	MeasuredProperty		"{""HasQuantity"": ""T1-14""}"	44	48	1602	1606	T2-14	aged
+101039c3gc41362d	12	14	MeasuredEntity		"{""HasProperty"": ""T2-14""}"	31	39	1589	1597	T3-14	solution
+101039c3gc41362d	12	14	Quantity	h	"{""unit"": ""h""}"	65	69	1623	1627	T1-14	24 h
+101039c3gc41362d	3	15	MeasuredProperty		"{""HasQuantity"": ""T1-15""}"	31	41	379	389	T2-15	suspension
+101039c3gc41362d	3	15	MeasuredEntity		"{""HasProperty"": ""T2-15""}"	57	68	405	416	T3-15	metal oxide
+101039c3gc41362d	3	15	Quantity	g	"{""unit"": ""g""}"	70	73	418	421	T1-15	2 g
+101039c3gc41362d	3	16	MeasuredEntity		"{""HasQuantity"": ""T1-16""}"	88	93	436	441	T3-16	water
+101039c3gc41362d	3	16	Quantity	mL	"{""unit"": ""mL""}"	95	100	443	448	T1-16	25 mL
+101039c3gc41362d	7	17	MeasuredProperty		"{""HasQuantity"": ""T1-17""}"	51	56	1006	1011	T2-17	added
+101039c3gc41362d	7	17	MeasuredEntity		"{""HasProperty"": ""T2-17""}"	24	29	979	984	T3-17	NaBH4
+101039c3gc41362d	7	17	Quantity	M	"{""unit"": ""M""}"	18	23	973	978	T1-17	0.1 M
+101039c3gc41362d	7	18	MeasuredProperty		"{""HasQuantity"": ""T1-18""}"	51	56	1006	1011	T2-18	added
+101039c3gc41362d	7	18	MeasuredEntity		"{""HasProperty"": ""T2-18""}"	24	29	979	984	T3-18	NaBH4
+101039c3gc41362d	7	18	Quantity	mL	"{""unit"": ""mL""}"	40	45	995	1000	T1-18	20 mL
+101039c3gc41362d	2	19	MeasuredProperty		"{""HasQuantity"": ""T1-19""}"	14	25	244	255	T2-19	HAuCl4*3H2O
+101039c3gc41362d	2	19	MeasuredEntity		"{""HasProperty"": ""T2-19""}"	2	10	232	240	T3-19	solution
+101039c3gc41362d	2	19	Quantity	mg	"{""unit"": ""mg""}"	27	33	257	263	T1-19	175 mg
+101039c3gc41362d	2	20	MeasuredProperty		"{""HasQuantity"": ""T1-20""}"	38	53	268	283	T2-20	deionized water
+101039c3gc41362d	2	20	MeasuredEntity		"{""HasProperty"": ""T2-20""}"	2	10	232	240	T3-20	solution
+101039c3gc41362d	2	20	Quantity	mL	"{""unit"": ""mL""}"	55	60	285	290	T1-20	80 mL
+101039c3gc41362d	2	21	MeasuredProperty		"{""HasQuantity"": ""T1-21""}"	77	79	307	309	T2-21	pH
+101039c3gc41362d	2	21	MeasuredEntity		"{""HasProperty"": ""T2-21""}"	2	10	232	240	T3-21	solution
+101039c3gc41362d	2	21	Quantity			80	82	310	312	T1-21	10
+101039c3gc41362d	2	22	MeasuredProperty		"{""HasQuantity"": ""T1-22""}"	86	92	316	322	T2-22	adding
+101039c3gc41362d	2	22	MeasuredEntity		"{""HasProperty"": ""T2-22""}"	95	108	325	338	T3-22	NaOH solution
+101039c3gc41362d	2	22	Quantity	M	"{""unit"": ""M""}"	110	115	340	345	T1-22	0.2 M
+101039c3gc41362d	4	23	MeasuredEntity		"{""HasQuantity"": ""T1-23""}"	6	14	457	465	T3-23	stirring
+101039c3gc41362d	4	23	Quantity	h	"{""unit"": ""h""}"	19	23	470	474	T1-23	18 h
+101039c3gc41362d	8	24	MeasuredEntity		"{""HasQuantity"": ""T1-24""}"	51	77	1118	1144	T3-24	activated carbon (Darco(r)
+101039c3gc41362d	8	24	Quantity	mesh	"{""unit"": ""mesh""}"	79	87	1146	1154	T1-24	100 mesh
+101039c3gc41362d	8	25	MeasuredProperty		"{""HasQuantity"": ""T1-25""}"	92	98	1159	1165	T2-25	adding
+101039c3gc41362d	8	25	MeasuredEntity		"{""HasProperty"": ""T2-25""}"	110	117	1177	1184	T3-25	support
+101039c3gc41362d	8	25	Quantity	g	"{""unit"": ""g""}"	99	102	1166	1169	T1-25	2 g
+101039c3gc41362d	11	26	MeasuredProperty		"{""HasQuantity"": ""T1-26""}"	218	223	1494	1499	T2-26	added
+101039c3gc41362d	11	26	MeasuredEntity		"{""HasProperty"": ""T2-26""}"	146	197	1422	1473	T3-26	aqueous solution of Ce(NO3)3*6H2O or ZrO(NO3)2*xH2O
+101039c3gc41362d	11	26	Quantity	M	"{""unit"": ""M""}"	199	204	1475	1480	T1-26	0.8 M
+101039c3gc41362d	11	27	MeasuredProperty		"{""HasQuantity"": ""T1-27""}"	218	223	1494	1499	T2-27	added
+101039c3gc41362d	11	27	MeasuredEntity		"{""HasProperty"": ""T2-27""}"	146	197	1422	1473	T3-27	aqueous solution of Ce(NO3)3*6H2O or ZrO(NO3)2*xH2O
+101039c3gc41362d	11	27	Quantity	mL	"{""unit"": ""mL""}"	206	212	1482	1488	T1-27	375 mL
+101039c3gc41362d	11	28	MeasuredEntity		"{""HasQuantity"": ""T1-28""}"	229	265	1505	1541	T3-28	solution of NH4OH in deionized water
+101039c3gc41362d	11	28	Quantity	M	"{""unit"": ""M""}"	267	272	1543	1548	T1-28	0.8 M
+101039c3gc41362d	11	29	MeasuredEntity		"{""HasQuantity"": ""T1-29""}"	229	265	1505	1541	T3-29	solution of NH4OH in deionized water
+101039c3gc41362d	11	29	Quantity	L	"{""unit"": ""L""}"	274	279	1550	1555	T1-29	1.1 L
+101039c3gc41362d	14	30	MeasuredProperty		"{""HasQuantity"": ""T1-30""}"	70	78	1815	1823	T2-30	air flow
+101039c3gc41362d	14	30	MeasuredEntity		"{""HasProperty"": ""T2-30""}"	52	60	1797	1805	T3-30	calcined
+101039c3gc41362d	14	30	Quantity	mL min-1	"{""unit"": ""mL min-1""}"	82	94	1827	1839	T1-30	100 mL min-1
+101039c3gc41362d	14	31	MeasuredProperty		"{""HasQuantity"": ""T1-31""}"	52	60	1797	1805	T2-31	calcined
+101039c3gc41362d	14	31	MeasuredEntity		"{""HasProperty"": ""T2-31""}"	70	78	1815	1823	T3-31	air flow
+101039c3gc41362d	14	31	Quantity	degC	"{""unit"": ""degC""}"	98	106	1843	1851	T1-31	400 degC
+101039c3gc41362d	14	32	MeasuredProperty		"{""HasQuantity"": ""T1-32""}"	52	60	1797	1805	T2-32	calcined
+101039c3gc41362d	14	32	MeasuredEntity		"{""HasProperty"": ""T2-32""}"	4	23	1749	1768	T3-32	resulting particles
+101039c3gc41362d	14	32	Quantity	h	"{""unit"": ""h""}"	111	114	1856	1859	T1-32	4 h

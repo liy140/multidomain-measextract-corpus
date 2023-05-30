@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN108701827A_6	1	1	MeasuredEntity			423	447	423	447	T3-1	coprecipitation reaction
+CN108701827A_6	1	1	MeasuredProperty			453	455	453	455	T2-1	pH
+CN108701827A_6	1	1	Quantity			459	473	459	473	T1-1	10.50 to 12.00
+CN108701827A_6	1	2	MeasuredEntity			423	447	423	447	T3-2	coprecipitation reaction
+CN108701827A_6	1	2	MeasuredProperty			480	491	480	491	T2-2	temperature
+CN108701827A_6	1	2	Quantity	℃		495	507	495	507	T1-2	50 ℃ to 70 ℃

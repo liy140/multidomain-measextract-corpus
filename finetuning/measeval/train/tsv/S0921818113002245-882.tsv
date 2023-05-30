@@ -1,0 +1,8 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0921818113002245-882	2	1	Quantity	varves		138	148	186	196	T1-1	873 varves
+S0921818113002245-882	2	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	128	134	176	182	T2-1	series
+S0921818113002245-882	4	2	Quantity			106	113	549	556	T1-2	AD 1850
+S0921818113002245-882	4	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	114	136	557	579	T2-2	lead pollution horizon
+S0921818113002245-882	5	3	Quantity	m		66	78	694	706	T1-3	above 10.5 m
+S0921818113002245-882	5	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	79	84	707	712	T4-3	depth
+S0921818113002245-882	5	3	MeasuredEntity		{'HasProperty': 'T4-3'}	56	65	684	693	T2-3	sediments

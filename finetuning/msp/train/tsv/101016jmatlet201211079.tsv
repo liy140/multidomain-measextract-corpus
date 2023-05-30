@@ -1,0 +1,24 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jmatlet201211079	7	1	MeasuredEntity		"{""HasQuantity"": ""T1-1""}"	63	72	530	539	T3-1	autoclave
+101016jmatlet201211079	7	1	Quantity	mL	"{""unit"": ""mL""}"	56	62	523	529	T1-1	100 mL
+101016jmatlet201211079	7	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	78	84	545	551	T2-2	heated
+101016jmatlet201211079	7	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	4	11	471	478	T3-2	mixture
+101016jmatlet201211079	7	2	Quantity	degC	"{""unit"": ""degC""}"	88	96	555	563	T1-2	140 degC
+101016jmatlet201211079	7	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	78	84	545	551	T2-3	heated
+101016jmatlet201211079	7	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	4	11	471	478	T3-3	mixture
+101016jmatlet201211079	7	3	Quantity	h	"{""unit"": ""h""}"	101	105	568	572	T1-3	12 h
+101016jmatlet201211079	6	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	43	48	425	430	T2-4	added
+101016jmatlet201211079	6	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	5	32	387	414	T3-4	hydrazine hydrate (N2H4.H2O
+101016jmatlet201211079	6	4	Quantity	ml	"{""unit"": ""ml""}"	0	4	382	386	T1-4	8 ml
+101016jmatlet201211079	6	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	43	48	425	430	T2-5	added
+101016jmatlet201211079	6	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	5	32	387	414	T3-5	hydrazine hydrate (N2H4.H2O
+101016jmatlet201211079	6	5	Quantity	%	"{""unit"": ""%""}"	34	37	416	419	T1-5	99%
+101016jmatlet201211079	6	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	64	72	446	454	T2-6	stirring
+101016jmatlet201211079	6	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	5	32	387	414	T3-6	hydrazine hydrate (N2H4.H2O
+101016jmatlet201211079	6	6	Quantity	min	"{""unit"": ""min""}"	77	83	459	465	T1-6	30 min
+101016jmatlet201211079	8	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	140	145	714	719	T2-7	dried
+101016jmatlet201211079	8	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	39	47	613	621	T3-7	products
+101016jmatlet201211079	8	7	Quantity	degC	"{""unit"": ""degC""}"	159	166	733	740	T1-7	50 degC
+101016jmatlet201211079	8	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	140	145	714	719	T2-8	dried
+101016jmatlet201211079	8	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	39	47	613	621	T3-8	products
+101016jmatlet201211079	8	8	Quantity	h	"{""unit"": ""h""}"	171	174	745	748	T1-8	3 h

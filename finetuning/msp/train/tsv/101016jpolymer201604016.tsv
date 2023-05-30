@@ -1,0 +1,31 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jpolymer201604016	2	1	MeasuredEntity		"{""HasQuantity"": ""T1-1""}"	249	252	257	260	T3-1	THF
+101016jpolymer201604016	2	1	Quantity	ml	"{""unit"": ""ml""}"	254	258	262	266	T1-1	6 ml
+101016jpolymer201604016	2	2	MeasuredEntity		"{""HasQuantity"": ""T1-2""}"	209	222	217	230	T3-2	GO composites
+101016jpolymer201604016	2	2	Quantity	wt %	"{""unit"": ""wt %""}"	202	208	210	216	T1-2	1 wt %
+101016jpolymer201604016	2	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	236	245	244	253	T2-3	dissolved
+101016jpolymer201604016	2	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	181	196	189	204	T3-3	telechelic PDMS
+101016jpolymer201604016	2	3	Quantity	mg	"{""unit"": ""mg""}"	224	230	232	238	T1-3	990 mg
+101016jpolymer201604016	3	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	27	52	358	383	T2-4	suspended in the solution
+101016jpolymer201604016	3	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	6	14	337	345	T3-4	dried GO
+101016jpolymer201604016	3	4	Quantity	mg	"{""unit"": ""mg""}"	16	21	347	352	T1-4	10 mg
+101016jpolymer201604016	3	5	MeasuredEntity		"{""HasQuantity"": ""T1-5""}"	170	216	501	547	T3-5	probe sonicator (Branson Digital Sonifier 450)
+101016jpolymer201604016	3	5	Quantity	W	"{""unit"": ""W""}"	164	169	495	500	T1-5	400 W
+101016jpolymer201604016	3	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	145	155	476	486	T2-6	sonication
+101016jpolymer201604016	3	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	44	52	375	383	T3-6	solution
+101016jpolymer201604016	3	6	Quantity	min	"{""unit"": ""min""}"	240	246	571	577	T1-6	10 min
+101016jpolymer201604016	3	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	145	155	476	486	T2-7	sonication
+101016jpolymer201604016	3	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	44	52	375	383	T3-7	solution
+101016jpolymer201604016	3	7	Quantity	kJ	"{""unit"": ""kJ""}"	248	253	579	584	T1-7	24 kJ
+101016jpolymer201604016	3	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	226	235	557	566	T2-8	amplitude
+101016jpolymer201604016	3	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	145	155	476	486	T3-8	sonication
+101016jpolymer201604016	3	8	Quantity	%	"{""unit"": ""%""}"	222	225	553	556	T1-8	10%
+101016jpolymer201604016	8	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	12	22	1503	1513	T2-9	evaporated
+101016jpolymer201604016	8	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	0	7	1491	1498	T3-9	Solvent
+101016jpolymer201604016	8	9	Quantity	days	"{""unit"": ""days""}"	36	42	1527	1533	T1-9	2 days
+101016jpolymer201604016	9	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	64	70	1732	1738	T2-10	heated
+101016jpolymer201604016	9	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	46	59	1714	1727	T3-10	sol precursor
+101016jpolymer201604016	9	10	Quantity	degC	"{""unit"": ""degC""}"	74	82	1742	1750	T1-10	160 degC
+101016jpolymer201604016	9	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	64	70	1732	1738	T2-11	heated
+101016jpolymer201604016	9	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	46	59	1714	1727	T3-11	sol precursor
+101016jpolymer201604016	9	11	Quantity	h	"{""unit"": ""h""}"	104	108	1772	1776	T1-11	24 h

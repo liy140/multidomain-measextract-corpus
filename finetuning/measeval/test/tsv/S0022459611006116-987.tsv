@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0022459611006116-987	1	1	Quantity	K		119	130	119	130	T1-1	1323–1423 K
+S0022459611006116-987	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	77	97	77	97	T2-1	solid state reaction
+S0022459611006116-987	1	1	MeasuredEntity		{'HasProperty': 'T2-1'}	101	115	101	115	T3-1	Mg3N2 and MgF2
+S0022459611006116-987	5	2	Quantity	K		74	93	609	628	T1-2	between 5 and 300 K
+S0022459611006116-987	5	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	27	38	562	573	T4-2	temperature
+S0022459611006116-987	5	2	MeasuredEntity		{'HasProperty': 'T4-2'}	4	21	539	556	T3-2	nitride fluorides

@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN106795008B_19	1	1	MeasuredEntity			36	53	36	53	T3-1	the seed crystals
+CN106795008B_19	1	1	MeasuredProperty			61	89	61	89	T2-1	median particle diameter D50
+CN106795008B_19	1	1	Quantity	μ ι η		93	116	93	116	T1-1	between 0.1 and 3 μ ι η

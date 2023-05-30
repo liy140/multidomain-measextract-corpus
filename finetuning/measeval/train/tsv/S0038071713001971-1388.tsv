@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0038071713001971-1388	2	1	Quantity	%		10	13	178	181	T1-1	55%
+S0038071713001971-1388	2	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	45	103	213	271	T4-1	stimulated (encouraged) by a certain set of soil variables
+S0038071713001971-1388	2	1	MeasuredEntity		{'HasProperty': 'T4-1'}	18	39	186	207	T2-1	OTUs in healthy soils
+S0038071713001971-1388	2	2	Quantity	%		124	127	292	295	T1-2	63%
+S0038071713001971-1388	2	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	147	175	315	343	T5-2	were inhibited (discouraged)
+S0038071713001971-1388	2	2	MeasuredEntity		{'HasProperty': 'T5-2'}	18	22	186	190	T3-2	OTUs

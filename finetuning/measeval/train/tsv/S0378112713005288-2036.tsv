@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0378112713005288-2036	4	1	Quantity	m		94	106	665	677	T1-1	within 100 m
+S0378112713005288-2036	4	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	58	86	629	657	T4-1	majority of oak regeneration
+S0378112713005288-2036	4	1	MeasuredEntity		{'HasProperty': 'T4-1'}	112	123	683	694	T3-1	seed source

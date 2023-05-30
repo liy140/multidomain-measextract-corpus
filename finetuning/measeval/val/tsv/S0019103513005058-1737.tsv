@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103513005058-1737	1	1	Quantity	g cm−3		97	105	97	105	T11-1	1 g cm−3
+S0019103513005058-1737	1	1	MeasuredProperty		{'HasQuantity': 'T11-1'}	81	93	81	93	T31-1	soil density
+S0019103513005058-1737	1	1	MeasuredEntity		{'HasProperty': 'T31-1'}	27	36	27	36	T51-1	Mars soil
+S0019103513005058-1737	1	2	Quantity	m		132	141	132	141	T22-2	1.5–2.6 m
+S0019103513005058-1737	1	2	MeasuredProperty		{'HasQuantity': 'T22-2'}	142	147	142	147	T42-2	depth
+S0019103513005058-1737	1	2	MeasuredEntity		{'HasProperty': 'T42-2'}	27	36	27	36	T52-2	Mars soil

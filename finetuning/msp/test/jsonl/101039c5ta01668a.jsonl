@@ -1,0 +1,12 @@
+{"text": "10.1039/c5ta01668a\nHysteresis-free and highly stable perovskite solar cells produced via a chlorine-mediated interdiffusion method\nAll chemicals were purchased from commercial suppliers and used as received unless stated otherwise.", "sentId": 1, "start": 0, "end": 231}
+{"text": "PbI2 (Sigma Aldrich, 99%) and methyl ammonium iodide (MAI) (Wako Chem., 98%) were dissolved in anhydrous N,N-dimethylformamide (Wako chem., 99.5%)", "sentId": 2, "start": 232, "end": 378}
+{"text": "(50 mg ml-1), respectively.", "sentId": 4, "start": 431, "end": 458}
+{"text": "For chlorine doping, 5-20 wt% MACl (Wako chem.) was mixed with the MAI solution.", "sentId": 5, "start": 459, "end": 539}
+{"text": "PC61BM (Solenne or Lumitec, 99%) solution (2 wt%) dissolved in anhydrous chlorobenzene (Wako chem., 99%) was used for coating of the electron selective layer.", "sentId": 6, "start": 540, "end": 698}
+{"text": "All the solutions were filtered using 0.45 μm syringe filters to avoid the risk of particle formation.", "sentId": 7, "start": 699, "end": 801}
+{"text": "UV-curable resins (NagaseChemtex XNR5516Z) were used to seal devices with cavity glasses.", "sentId": 8, "start": 802, "end": 891}
+{"text": "The X-ray diffraction patterns of MAPbI3 and MAPbI3-xClx were collected using Bruker D8 advanced X-ray diffractometer (CuKα radiation, λ = 1.54050 Å).", "sentId": 9, "start": 892, "end": 1042}
+{"text": "The top surface and cross-sectional images were taken by a high resolution scanning electron microscope at 5 kV accelerating voltage (Hitachi-4800).", "sentId": 10, "start": 1043, "end": 1191}
+{"text": "Additionally, elemental mapping was done using energy dispersive X-ray measurement mode at accelerating voltage of 10 kV.", "sentId": 11, "start": 1192, "end": 1313}
+{"text": "S9+) and incident monochromatic photon to current conversion efficiency (IPCE) spectra or External quantum efficiency (EQE) were measured with a CEP-200BX spectrometer (Bunkokeiki, Tokyo, Japan) at room temperature.", "sentId": 13, "start": 1485, "end": 1700}
+{"text": "Histogram of over 240 devices were generated from the devices using 0.18 cm2 aperture mask.", "sentId": 15, "start": 1788, "end": 1879}

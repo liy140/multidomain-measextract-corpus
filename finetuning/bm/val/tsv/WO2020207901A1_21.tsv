@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+WO2020207901A1_21	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	72	83	72	83	T3-1	the primary
+WO2020207901A1_21	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	84	110	84	110	T2-1	particle size distribution
+WO2020207901A1_21	1	1	Quantity			159	190	159	190	T1-1	in the range of from 0.5 to 1.1

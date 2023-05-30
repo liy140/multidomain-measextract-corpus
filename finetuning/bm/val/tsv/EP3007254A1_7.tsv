@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+EP3007254A1_7	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	720	743	720	743	T3-1	the secondary particles
+EP3007254A1_7	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	754	775	754	775	T2-1	average particle size
+EP3007254A1_7	1	1	Quantity	µm	"{""unit"": ""\u00b5m""}"	779	792	779	792	T1-1	1 µm to 15 µm
+EP3007254A1_7	1	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	720	743	720	743	T3-2	the secondary particles
+EP3007254A1_7	1	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	876	902	876	902	T2-2	particle size distribution
+EP3007254A1_7	1	2	Quantity			906	918	906	918	T1-2	0.65 or less

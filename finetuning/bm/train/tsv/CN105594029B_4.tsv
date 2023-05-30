@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN105594029B_4	1	1	MeasuredEntity			257	297	257	297	T3-1	transfer metal composite oxide particles
+CN105594029B_4	1	1	MeasuredProperty			233	249	233	249	T2-1	average diameter
+CN105594029B_4	1	1	Quantity	um		327	337	327	337	T1-1	5 to 10 um

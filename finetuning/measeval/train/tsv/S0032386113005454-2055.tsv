@@ -1,0 +1,21 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0032386113005454-2055	2	1	Quantity	Hz		28	32	193	197	T1-1	1 Hz
+S0032386113005454-2055	2	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	2	24	167	189	T2-1	double-cantilever mode
+S0032386113005454-2055	2	2	Quantity	mm3		67	82	232	247	T1-2	60 × 10 × 3 mm3
+S0032386113005454-2055	2	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	86	90	251	255	T3-2	size
+S0032386113005454-2055	2	2	MeasuredEntity		{'HasProperty': 'T3-2'}	52	66	217	231	T2-2	test specimens
+S0032386113005454-2055	3	3	Quantity	°C		31	48	288	305	T1-3	−100 °C to 200 °C
+S0032386113005454-2055	3	3	MeasuredEntity		{'HasQuantity': 'T1-3'}	4	21	261	278	T2-3	temperature range
+S0032386113005454-2055	3	4	Quantity	°C/min		72	80	329	337	T1-4	4 °C/min
+S0032386113005454-2055	3	4	MeasuredEntity		{'HasQuantity': 'T1-4'}	56	68	313	325	T2-4	heating rate
+S0032386113005454-2055	6	5	Quantity			49	65	798	814	T1-5	room temperature
+S0032386113005454-2055	6	5	MeasuredEntity		{'HasQuantity': 'T1-5'}	22	27	771	776	T2-5	epoxy
+S0032386113005454-2055	6	6	Quantity			117	122	866	871	T1-6	0.725
+S0032386113005454-2055	6	6	MeasuredEntity		{'HasQuantity': 'T1-6'}	84	96	833	845	T2-6	front factor
+S0032386113005454-2055	7	7	Quantity			45	61	944	960	T1-7	room temperature
+S0032386113005454-2055	7	7	MeasuredEntity		{'HasQuantity': 'T1-7'}	23	28	922	927	T2-7	epoxy
+S0032386113005454-2055	7	8	Quantity	g/m3		109	118	1008	1017	T1-8	1.20 g/m3
+S0032386113005454-2055	7	8	MeasuredProperty		{'HasQuantity': 'T1-8'}	4	11	903	910	T4-8	density
+S0032386113005454-2055	7	8	MeasuredEntity		{'HasProperty': 'T4-8'}	23	28	922	927	T3-8	epoxy
+S0032386113005454-2055	7	9	Quantity	°C		122	127	1021	1026	T1-9	20 °C
+S0032386113005454-2055	7	9	MeasuredEntity		{'HasQuantity': 'T1-9'}	45	61	944	960	T2-9	room temperature

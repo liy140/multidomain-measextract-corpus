@@ -1,0 +1,4 @@
+{"text": "The STIM GCM calculates the transport by winds and molecular and turbulent diffusion of key neutral species (H, H2, He, CH4, H2O), following the procedures outlined by Müller-Wodarg et al. (2006).", "sentId": 1, "start": 0, "end": 196}
+{"text": "The global spherical grid has flexible resolution.", "sentId": 2, "start": 197, "end": 247}
+{"text": "For simulations in this study we assumed spacing in latitude and longitude of 2° and 10°, respectively, and a vertical resolution of 0.4 scale heights.", "sentId": 3, "start": 248, "end": 399}
+{"text": "Our time integration step was 5 s and we ran the code for 500 Saturn rotations to reach steady state.", "sentId": 4, "start": 400, "end": 501}

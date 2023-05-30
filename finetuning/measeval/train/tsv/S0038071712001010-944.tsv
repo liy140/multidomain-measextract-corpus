@@ -1,0 +1,10 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0038071712001010-944	2	1	Quantity	%		140	144	224	228	T1-1	115%
+S0038071712001010-944	2	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	49	92	133	176	T2-1	G. mosseae plus G. intraradices combination
+S0038071712001010-944	2	1	MeasuredEntity		{'HasProperty': 'T2-1'}	109	127	193	211	T3-1	mycorrhizal growth
+S0038071712001010-944	2	2	Quantity	%		172	176	256	260	T1-2	169%
+S0038071712001010-944	2	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	49	92	133	176	T2-2	G. mosseae plus G. intraradices combination
+S0038071712001010-944	2	2	MeasuredEntity		{'HasProperty': 'T2-2'}	109	127	193	211	T3-2	mycorrhizal growth
+S0038071712001010-944	2	3	Quantity			203	208	287	292	T1-3	0.001
+S0038071712001010-944	2	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	199	200	283	284	T3-3	P
+S0038071712001010-944	2	3	MeasuredEntity		{'HasProperty': 'T3-3'}	109	136	193	220	T2-3	mycorrhizal growth response

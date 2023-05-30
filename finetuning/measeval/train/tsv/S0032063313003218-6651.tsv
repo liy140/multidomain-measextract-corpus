@@ -1,0 +1,27 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0032063313003218-6651	3	1	Quantity	kR		219	223	396	400	T1-1	~1kR
+S0032063313003218-6651	3	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	183	217	360	394	T3-1	limit of present HST detectability
+S0032063313003218-6651	4	2	Quantity	° latitude		103	116	527	540	T1-2	~74° latitude
+S0032063313003218-6651	4	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	93	99	517	523	T4-2	maxima
+S0032063313003218-6651	4	2	MeasuredEntity		{'HasProperty': 'T4-2'}	35	50	459	474	T5-2	case ES with EF
+S0032063313003218-6651	4	3	Quantity	°		180	184	604	608	T1-3	~80°
+S0032063313003218-6651	4	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	190	257	614	681	T4-3	boundary between open (region I) and closed field lines (region II)
+S0032063313003218-6651	4	3	MeasuredEntity		{'HasProperty': 'T4-3'}	35	50	459	474	T2-3	case ES with EF
+S0032063313003218-6651	5	4	Quantity	kR		59	64	742	747	T1-4	~88kR
+S0032063313003218-6651	5	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	43	55	726	738	T3-4	auroral oval
+S0032063313003218-6651	5	4	MeasuredEntity		{'HasProperty': 'T3-4'}	69	76	752	759	T2-4	case ES
+S0032063313003218-6651	5	5	Quantity	kR		81	86	764	769	T1-5	~79kR
+S0032063313003218-6651	5	5	MeasuredProperty		{'HasQuantity': 'T1-5'}	43	55	726	738	T4-5	auroral oval
+S0032063313003218-6651	5	5	MeasuredEntity		{'HasProperty': 'T4-5'}	91	98	774	781	T3-5	case EF
+S0032063313003218-6651	6	6	Quantity	mWm−2		37	48	820	831	T1-6	(~7.85mWm−2
+S0032063313003218-6651	6	6	MeasuredProperty		{'HasQuantity': 'T1-6'}	4	24	787	807	T3-6	electron energy flux
+S0032063313003218-6651	6	6	MeasuredEntity		{'HasProperty': 'T3-6'}	29	36	812	819	T4-6	case EF
+S0032063313003218-6651	6	7	Quantity			53	57	836	840	T1-7	~10%
+S0032063313003218-6651	6	7	MeasuredProperty		{'HasQuantity': 'T1-7'}	4	24	787	807	T4-7	electron energy flux
+S0032063313003218-6651	6	7	MeasuredEntity		{'HasProperty': 'T4-7'}	29	36	812	819	T3-7	case EF
+S0032063313003218-6651	6	8	Quantity	mWm−2		80	89	863	872	T1-8	~8.8mWm−2
+S0032063313003218-6651	6	8	MeasuredProperty		{'HasQuantity': 'T1-8'}	4	24	787	807	T3-8	electron energy flux
+S0032063313003218-6651	6	8	MeasuredEntity		{'HasProperty': 'T3-8'}	71	78	854	861	T2-8	case ES
+S0032063313003218-6651	7	9	Quantity	kR		95	100	1023	1028	T1-9	~15kR
+S0032063313003218-6651	7	9	MeasuredProperty		{'HasQuantity': 'T1-9'}	43	91	971	1019	T3-9	observable polar emission (region II/I boundary)
+S0032063313003218-6651	7	9	MeasuredEntity		{'HasProperty': 'T3-9'}	4	23	932	951	T2-9	model also predicts

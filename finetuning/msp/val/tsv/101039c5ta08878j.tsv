@@ -1,0 +1,31 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101039c5ta08878j	5	1	MeasuredEntity		"{""HasQuantity"": ""T1-1""}"	91	95	788	792	T3-1	CeO2
+101039c5ta08878j	5	1	Quantity	%	"{""unit"": ""%""}"	104	110	801	807	T1-1	99.99%
+101039c5ta08878j	5	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	132	140	829	837	T2-2	calcined
+101039c5ta08878j	5	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	42	122	739	819	T3-2	ball milling stoichiometric amounts of La2O3 and CeO2 (Sigma, 99.99%) in ethanol
+101039c5ta08878j	5	2	Quantity	h	"{""unit"": ""h""}"	145	148	842	845	T1-2	6 h
+101039c5ta08878j	7	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	116	121	1080	1085	T2-3	fired
+101039c5ta08878j	7	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	4	75	968	1039	T3-3	Pr0.5Ba0.4Ca0.1MnO3 slurry was applied on both sides of the LSGM pellet
+101039c5ta08878j	7	3	Quantity	degC	"{""unit"": ""degC""}"	125	133	1089	1097	T1-3	950 degC
+101039c5ta08878j	7	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	116	121	1080	1085	T2-4	fired
+101039c5ta08878j	7	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	4	75	968	1039	T3-4	Pr0.5Ba0.4Ca0.1MnO3 slurry was applied on both sides of the LSGM pellet
+101039c5ta08878j	7	4	Quantity	h	"{""unit"": ""h""}"	145	148	1109	1112	T1-4	4 h
+101039c5ta08878j	4	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	4	13	620	629	T2-5	thickness
+101039c5ta08878j	4	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	21	37	637	653	T3-5	LSGM electrolyte
+101039c5ta08878j	4	5	Quantity	μm	"{""unit"": ""\u03bcm""}"	60	66	676	682	T1-5	250 μm
+101039c5ta08878j	3	6	MeasuredEntity		"{""HasQuantity"": ""T1-6""}"	250	259	381	390	T3-6	sintering
+101039c5ta08878j	3	6	Quantity	degC	"{""unit"": ""degC""}"	263	272	394	403	T1-6	1475 degC
+101039c5ta08878j	3	7	MeasuredEntity		"{""HasQuantity"": ""T1-7""}"	300	305	431	436	T3-7	La2O3
+101039c5ta08878j	3	7	Quantity	%	"{""unit"": ""%""}"	313	319	444	450	T1-7	99.99%
+101039c5ta08878j	3	8	MeasuredEntity		"{""HasQuantity"": ""T1-8""}"	322	327	453	458	T3-8	SrCO3
+101039c5ta08878j	3	8	Quantity	%	"{""unit"": ""%""}"	336	342	467	473	T1-8	99.99%
+101039c5ta08878j	3	9	MeasuredEntity		"{""HasQuantity"": ""T1-9""}"	345	350	476	481	T3-9	Ga2O3
+101039c5ta08878j	3	9	Quantity	%	"{""unit"": ""%""}"	359	365	490	496	T1-9	99.99%
+101039c5ta08878j	3	10	MeasuredEntity		"{""HasQuantity"": ""T1-10""}"	372	375	503	506	T3-10	MgO
+101039c5ta08878j	3	10	Quantity	%	"{""unit"": ""%""}"	384	389	515	520	T1-10	99.9%
+101039c5ta08878j	3	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	404	426	535	557	T2-11	ball milled in ethanol
+101039c5ta08878j	3	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	274	398	405	529	T3-11	Stoichiometric amounts of La2O3 (Sigma 99.99%), SrCO3 (Sigma, 99.99%), Ga2O3 (Sigma, 99.99%), and MgO (Sigma, 99.9%) powders
+101039c5ta08878j	3	11	Quantity	h	"{""unit"": ""h""}"	431	435	562	566	T1-11	24 h
+101039c5ta08878j	3	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	467	475	598	606	T2-12	calcined
+101039c5ta08878j	3	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	455	462	586	593	T3-12	mixture
+101039c5ta08878j	3	12	Quantity	h	"{""unit"": ""h""}"	480	483	611	614	T1-12	6 h

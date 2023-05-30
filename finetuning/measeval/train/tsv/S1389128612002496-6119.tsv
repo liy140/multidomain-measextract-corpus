@@ -1,0 +1,5 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S1389128612002496-6119	3	1	Quantity	ms		26	46	205	225	T1-1	from 10 ms to 0.1 ms
+S1389128612002496-6119	3	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	12	14	191	193	T4-1	Tb
+S1389128612002496-6119	4	2	Quantity	ms		11	24	320	333	T1-2	around 0.5 ms
+S1389128612002496-6119	4	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	5	7	314	316	T3-2	Tb

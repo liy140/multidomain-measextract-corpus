@@ -1,0 +1,41 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101039c4ta04367g	7	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	28	33	474	479	T2-1	added
+101039c4ta04367g	7	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	0	15	446	461	T3-1	Graphite powder
+101039c4ta04367g	7	1	Quantity	g	"{""unit"": ""g""}"	17	22	463	468	T1-1	0.1 g
+101039c4ta04367g	7	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	55	62	501	508	T2-2	stirred
+101039c4ta04367g	7	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	43	50	489	496	T3-2	mixture
+101039c4ta04367g	7	2	Quantity	min	"{""unit"": ""min""}"	67	72	513	518	T1-2	1 min
+101039c4ta04367g	8	3	MeasuredEntity		"{""HasQuantity"": ""T1-3""}"	58	75	578	595	T3-3	n ultrasonic bath
+101039c4ta04367g	8	3	Quantity	W	"{""unit"": ""W""}"	77	82	597	602	T1-3	200 W
+101039c4ta04367g	8	4	MeasuredEntity		"{""HasQuantity"": ""T1-4""}"	58	75	578	595	T3-4	n ultrasonic bath
+101039c4ta04367g	8	4	Quantity	kHz	"{""unit"": ""kHz""}"	87	93	607	613	T1-4	42 kHz
+101039c4ta04367g	13	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	86	92	1036	1042	T2-5	adding
+101039c4ta04367g	13	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	99	104	1049	1054	T3-5	water
+101039c4ta04367g	13	5	Quantity	g	"{""unit"": ""g""}"	93	98	1043	1048	T1-5	120 g
+101039c4ta04367g	13	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	147	154	1097	1104	T2-6	washing
+101039c4ta04367g	13	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	172	199	1122	1149	T3-6	water and hydrogen peroxide
+101039c4ta04367g	13	6	Quantity	times	"{""unit"": ""times""}"	155	166	1105	1116	T1-6	three times
+101039c4ta04367g	4	7	MeasuredEntity		"{""HasQuantity"": ""T1-7""}"	24	38	211	225	T3-7	sulphuric acid
+101039c4ta04367g	4	7	Quantity	%	"{""unit"": ""%""}"	40	46	227	233	T1-7	95-98%
+101039c4ta04367g	4	8	MeasuredEntity		"{""HasQuantity"": ""T1-8""}"	52	67	239	254	T3-8	phosphoric acid
+101039c4ta04367g	4	8	Quantity	wt%	"{""unit"": ""wt%""}"	69	75	256	262	T1-8	85 wt%
+101039c4ta04367g	6	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	19	28	373	382	T2-9	dissolved
+101039c4ta04367g	6	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	1	6	355	360	T3-9	KMnO4
+101039c4ta04367g	6	9	Quantity	g	"{""unit"": ""g""}"	8	13	362	367	T1-9	0.4 g
+101039c4ta04367g	6	10	MeasuredEntity		"{""HasQuantity"": ""T1-10""}"	58	63	412	417	T3-10	H2SO4
+101039c4ta04367g	6	10	Quantity	g	"{""unit"": ""g""}"	65	70	419	424	T1-10	6.0 g
+101039c4ta04367g	6	11	MeasuredEntity		"{""HasQuantity"": ""T1-11""}"	76	81	430	435	T3-11	H3PO4
+101039c4ta04367g	6	11	Quantity	g	"{""unit"": ""g""}"	83	89	437	443	T1-11	26.0 g
+101039c4ta04367g	16	12	MeasuredEntity		"{""HasQuantity"": ""T1-12""}"	31	39	1508	1516	T3-12	graphite
+101039c4ta04367g	16	12	Quantity	g	"{""unit"": ""g""}"	25	30	1502	1507	T1-12	0.1 g
+101039c4ta04367g	16	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	57	64	1534	1541	T2-13	weighed
+101039c4ta04367g	16	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	45	52	1522	1529	T3-13	product
+101039c4ta04367g	16	13	Quantity	g	"{""unit"": ""g""}"	71	78	1548	1555	T1-13	0.105 g
+101039c4ta04367g	5	14	MeasuredEntity		"{""HasQuantity"": ""T1-14""}"	0	17	299	316	T3-14	Hydrogen peroxide
+101039c4ta04367g	5	14	Quantity	wt%	"{""unit"": ""wt%""}"	19	25	318	324	T1-14	30 wt%
+101039c4ta04367g	15	15	MeasuredProperty		"{""HasQuantity"": ""T1-15""}"	64	69	1355	1360	T2-15	dried
+101039c4ta04367g	15	15	MeasuredEntity		"{""HasProperty"": ""T2-15""}"	52	58	1343	1349	T3-15	sheets
+101039c4ta04367g	15	15	Quantity	degC	"{""unit"": ""degC""}"	99	144	1390	1435	T1-15	60 degC and then in a vacuum oven at 100 degC
+101039c4ta04367g	15	16	MeasuredProperty		"{""HasQuantity"": ""T1-16""}"	64	69	1355	1360	T2-16	dried
+101039c4ta04367g	15	16	MeasuredEntity		"{""HasProperty"": ""T2-16""}"	52	58	1343	1349	T3-16	sheets
+101039c4ta04367g	15	16	Quantity	hours	"{""unit"": ""hours""}"	149	156	1440	1447	T1-16	4 hours

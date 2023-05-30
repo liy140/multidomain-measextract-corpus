@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S2213671113000921-1279	2	1	Quantity	%		95	111	278	294	T1-1	greater than 70%
+S2213671113000921-1279	2	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	69	89	252	272	T2-1	gene targeting rates
+S2213671113000921-1279	2	1	MeasuredEntity		{'HasProperty': 'T2-1'}	4	8	187	191	T4-1	SOX2

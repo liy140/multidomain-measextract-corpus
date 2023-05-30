@@ -1,0 +1,4 @@
+{"text": "In this section, we propose a strategy to further reduce the distortion area, which is called two-dimensional scaling.", "sentId": 1, "start": 0, "end": 118}
+{"text": "Two-dimensional scaling works with any quantization method, such as uniform scaling or logarithmic scaling.", "sentId": 2, "start": 119, "end": 226}
+{"text": "We then calculate the upper bound of the distortion area produced by two-dimensional scaling.", "sentId": 3, "start": 227, "end": 320}
+{"text": "Finally, we consider both quantization schemes, namely, uniform scaling and logarithmic scaling, and compare the error of two-dimensional scaling with that of the existing quantization-based algorithms.", "sentId": 4, "start": 321, "end": 523}

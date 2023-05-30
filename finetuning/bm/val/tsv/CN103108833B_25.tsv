@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN103108833B_25	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	46	54	46	54	T3-1	precurso
+CN103108833B_25	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	72	97	72	97	T2-1	average particle diameter
+CN103108833B_25	1	1	Quantity	microns	"{""unit"": ""microns""}"	98	123	98	123	T1-1	in the range 7-13 microns

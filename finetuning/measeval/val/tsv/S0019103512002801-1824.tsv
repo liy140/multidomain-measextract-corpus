@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103512002801-1824	1	1	Quantity	%		101	119	101	119	T11-1	between 6% and 13%
+S0019103512002801-1824	1	1	MeasuredProperty		{'HasQuantity': 'T11-1'}	29	54	29	54	T41-1	observed ∣B∣ disturbances
+S0019103512002801-1824	1	1	MeasuredEntity		{'HasProperty': 'T41-1'}	58	62	58	62	T51-1	Rhea
+S0019103512002801-1824	1	2	Quantity	%		133	137	133	137	T32-2	6–8%
+S0019103512002801-1824	1	2	MeasuredProperty		{'HasQuantity': 'T32-2'}	29	54	29	54	T42-2	observed ∣B∣ disturbances
+S0019103512002801-1824	1	2	MeasuredEntity		{'HasProperty': 'T42-2'}	141	150	141	150	T22-2	Enceladus

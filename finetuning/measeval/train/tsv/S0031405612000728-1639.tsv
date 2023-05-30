@@ -1,0 +1,12 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0031405612000728-1639	4	1	Quantity			38	39	786	787	T1-1	7
+S0031405612000728-1639	4	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	40	46	788	794	T2-1	months
+S0031405612000728-1639	7	2	Quantity	days		25	48	1303	1326	T1-2	range from 4 to 88 days
+S0031405612000728-1639	7	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	19	24	1297	1302	T4-2	rates
+S0031405612000728-1639	7	2	MeasuredEntity		{'HasProperty': 'T4-2'}	0	18	1278	1296	T3-2	Aggregate turnover
+S0031405612000728-1639	7	3	Quantity	day		128	141	1406	1419	T1-3	over a 60 day
+S0031405612000728-1639	7	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	142	148	1420	1426	T4-3	period
+S0031405612000728-1639	7	3	MeasuredEntity		{'HasProperty': 'T4-3'}	94	113	1372	1391	T3-3	aggregate stability
+S0031405612000728-1639	7	4	Quantity	day		235	249	1513	1527	T1-4	over a 120 day
+S0031405612000728-1639	7	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	250	256	1528	1534	T2-4	period
+S0031405612000728-1639	7	4	MeasuredEntity		{'HasProperty': 'T2-4'}	208	234	1486	1512	T4-4	aggregate water repellency

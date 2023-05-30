@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20150336803A1_2	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	74	99	74	99	T3-1	active material precursor
+US20150336803A1_2	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	55	66	55	66	T2-1	tap density
+US20150336803A1_2	1	1	Quantity			109	127	109	127	T1-1	1.95 g/ml or lower

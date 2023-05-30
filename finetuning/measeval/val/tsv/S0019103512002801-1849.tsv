@@ -1,0 +1,9 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103512002801-1849	1	1	Quantity			34	37	34	37	T31-1	350
+S0019103512002801-1849	1	1	MeasuredEntity		{'HasQuantity': 'T31-1'}	38	47	38	47	T41-1	electrons
+S0019103512002801-1849	2	2	Quantity	%		43	45	127	129	T12-2	1%
+S0019103512002801-1849	2	2	MeasuredProperty		{'HasQuantity': 'T12-2'}	46	58	130	142	T22-2	level of Erk
+S0019103512002801-1849	2	2	MeasuredEntity		{'HasProperty': 'T22-2'}	26	35	110	119	T52-2	electrons
+S0019103512002801-1849	2	3	Quantity	keV		60	65	144	149	T63-3	1 keV
+S0019103512002801-1849	2	3	MeasuredProperty		{'HasQuantity': 'T63-3'}	46	58	130	142	T23-3	level of Erk
+S0019103512002801-1849	2	3	MeasuredEntity		{'HasProperty': 'T23-3'}	26	35	110	119	T53-3	electrons

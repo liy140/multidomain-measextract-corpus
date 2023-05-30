@@ -1,0 +1,37 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jjpowsour201204074	5	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	11	30	509	528	T2-1	continuous stirring
+101016jjpowsour201204074	5	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	36	43	534	541	T3-1	mixture
+101016jjpowsour201204074	5	1	Quantity	h	"{""unit"": ""h""}"	6	10	504	508	T1-1	24 h
+101016jjpowsour201204074	5	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	48	52	546	550	T2-2	aged
+101016jjpowsour201204074	5	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	36	43	534	541	T3-2	mixture
+101016jjpowsour201204074	5	2	Quantity	degC	"{""unit"": ""degC""}"	56	63	554	561	T1-2	60 degC
+101016jjpowsour201204074	5	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	48	52	546	550	T2-3	aged
+101016jjpowsour201204074	5	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	36	43	534	541	T3-3	mixture
+101016jjpowsour201204074	5	3	Quantity	h	"{""unit"": ""h""}"	69	73	567	571	T1-3	60 h
+101016jjpowsour201204074	6	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	18	26	643	651	T2-4	calcined
+101016jjpowsour201204074	6	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	4	13	629	638	T3-4	precursor
+101016jjpowsour201204074	6	4	Quantity	degC	"{""unit"": ""degC""}"	30	38	655	663	T1-4	900 degC
+101016jjpowsour201204074	6	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	18	26	643	651	T2-5	calcined
+101016jjpowsour201204074	6	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	4	13	629	638	T3-5	precursor
+101016jjpowsour201204074	6	5	Quantity	h	"{""unit"": ""h""}"	52	55	677	680	T1-5	1 h
+101016jjpowsour201204074	6	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	63	75	688	700	T2-6	heating rate
+101016jjpowsour201204074	6	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	4	13	629	638	T3-6	precursor
+101016jjpowsour201204074	6	6	Quantity	degC min-1	"{""unit"": ""degC min-1""}"	79	91	704	716	T1-6	5 degC min-1
+101016jjpowsour201204074	4	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	29	38	389	398	T2-7	dissolved
+101016jjpowsour201204074	4	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	9	24	369	384	T3-7	lithium acetate
+101016jjpowsour201204074	4	7	Quantity	g	"{""unit"": ""g""}"	0	8	360	368	T1-7	1.6632 g
+101016jjpowsour201204074	4	8	MeasuredEntity		"{""HasQuantity"": ""T1-8""}"	53	74	413	434	T3-8	ethanol-water mixture
+101016jjpowsour201204074	4	8	Quantity	mL	"{""unit"": ""mL""}"	44	49	404	409	T1-8	26 mL
+101016jjpowsour201204074	4	9	MeasuredEntity		"{""HasQuantity"": ""T1-9""}"	53	74	413	434	T3-9	ethanol-water mixture
+101016jjpowsour201204074	4	9	Quantity	in volume	"{""unit"": ""in volume""}"	76	90	436	450	T1-9	12:1 in volume
+101016jjpowsour201204074	3	10	MeasuredEntity		"{""HasQuantity"": ""T1-10""}"	55	62	248	255	T3-10	ethanol
+101016jjpowsour201204074	3	10	Quantity	mL	"{""unit"": ""mL""}"	49	54	242	247	T1-10	24 mL
+101016jjpowsour201204074	3	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	68	78	261	271	T2-11	sonication
+101016jjpowsour201204074	3	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	11	62	204	255	T3-11	0.3 g purified CNTs were dispersed in 24 mL ethanol
+101016jjpowsour201204074	3	11	Quantity	h	"{""unit"": ""h""}"	83	86	276	279	T1-11	1 h
+101016jjpowsour201204074	3	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	127	132	320	325	T2-12	added
+101016jjpowsour201204074	3	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	103	122	296	315	T3-12	tetrabutyl titanate
+101016jjpowsour201204074	3	12	Quantity	g	"{""unit"": ""g""}"	96	102	289	295	T1-12	10.2 g
+101016jjpowsour201204074	3	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	36	45	229	238	T2-13	dispersed
+101016jjpowsour201204074	3	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	17	30	210	223	T3-13	purified CNTs
+101016jjpowsour201204074	3	13	Quantity	g	"{""unit"": ""g""}"	11	16	204	209	T1-13	0.3 g

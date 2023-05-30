@@ -1,0 +1,2 @@
+{"text": "Site conditions: imperfections in a turbine's surroundings are not considered in our model; for example: turbulence intensity, terrain slope, blockage effects, blade fouling (by dirt, ice, insects, etc.), or masking by surrounding terrain.", "sentId": 1, "start": 0, "end": 239}
+{"text": "These impacts are highly site specific and hard to quantify with a single factor, with the only source we found estimating that they reduce output by 2–5%, plus 1% per 3% increase in turbulence intensity [36].", "sentId": 2, "start": 240, "end": 449}

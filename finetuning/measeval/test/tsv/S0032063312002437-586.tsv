@@ -1,0 +1,10 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0032063312002437-586	3	1	Quantity	km		147	153	369	375	T1-1	400 km
+S0032063312002437-586	3	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	135	143	357	365	T4-1	altitude
+S0032063312002437-586	3	1	MeasuredEntity		{'HasProperty': 'T4-1'}	76	86	298	308	T5-1	ionosphere
+S0032063312002437-586	3	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	135	143	357	365	T3-2	altitude
+S0032063312002437-586	3	2	MeasuredEntity		{'HasProperty': 'T3-2'}	76	86	298	308	T2-2	ionosphere
+S0032063312002437-586	4	2	Quantity			24	36	448	460	T1-2	below 400 km
+S0032063312002437-586	7	3	Quantity	km		84	91	1115	1122	T1-3	∼140 km
+S0032063312002437-586	7	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	36	44	1067	1075	T2-3	altitude
+S0032063312002437-586	7	3	MeasuredEntity		{'HasProperty': 'T2-3'}	72	82	1103	1113	T4-3	ionosphere

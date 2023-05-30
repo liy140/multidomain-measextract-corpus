@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN106745336A_4	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	90	131	90	131	T3-1	nickel cobalt lithium manganate precursor
+CN106745336A_4	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	138	149	138	149	T2-1	tap density
+CN106745336A_4	1	1	Quantity	g/cm3	"{""unit"": ""g/cm3""}"	153	166	153	166	T1-1	1.8-2.4 g/cm3
+CN106745336A_4	1	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	90	131	90	131	T3-2	nickel cobalt lithium manganate precursor
+CN106745336A_4	1	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	168	189	168	189	T2-2	specific surface area
+CN106745336A_4	1	2	Quantity	m2/g	"{""unit"": ""m2/g""}"	190	200	190	200	T1-2	4 - 10m2/g

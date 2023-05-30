@@ -1,0 +1,11 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0927024813002961-1334	3	1	Quantity	%		146	158	331	343	T1-1	less than 5%
+S0927024813002961-1334	3	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	118	142	303	327	T2-1	annual energy prediction
+S0927024813002961-1334	8	2	Quantity	W/m2		74	86	816	828	T1-2	650–750 W/m2
+S0927024813002961-1334	8	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	54	70	796	812	T3-2	irradiance range
+S0927024813002961-1334	8	2	MeasuredEntity		{'HasProperty': 'T3-2'}	36	43	778	785	T4-2	devices
+S0927024813002961-1334	8	3	Quantity	W/m2		124	132	866	874	T1-3	700 W/m2
+S0927024813002961-1334	8	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	54	64	796	806	T5-3	irradiance
+S0927024813002961-1334	8	3	MeasuredEntity		{'HasProperty': 'T5-3'}	36	43	778	785	T3-3	devices
+S0927024813002961-1334	8	4	Quantity	°C		137	142	879	884	T1-4	25 °C
+S0927024813002961-1334	8	4	MeasuredEntity		{'HasQuantity': 'T1-4'}	36	43	778	785	T3-4	devices

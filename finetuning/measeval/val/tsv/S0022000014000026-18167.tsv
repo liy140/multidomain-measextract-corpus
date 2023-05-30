@@ -1,0 +1,8 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0022000014000026-18167	7	1	Quantity			220	221	1274	1275	T11-1	7
+S0022000014000026-18167	7	1	MeasuredEntity		{'HasQuantity': 'T11-1'}	230	247	1284	1301	T41-1	wires per channel
+S0022000014000026-18167	7	2	Quantity	bit		223	228	1277	1282	T22-2	1-bit
+S0022000014000026-18167	7	2	MeasuredEntity		{'HasQuantity': 'T22-2'}	230	235	1284	1289	T32-2	wires
+S0022000014000026-18167	30	3	Quantity	%		121	124	5350	5353	T63-3	10%
+S0022000014000026-18167	30	3	MeasuredProperty		{'HasQuantity': 'T63-3'}	103	114	5332	5343	T53-3	probability
+S0022000014000026-18167	30	3	MeasuredEntity		{'HasProperty': 'T53-3'}	131	135	5360	5364	T73-3	node

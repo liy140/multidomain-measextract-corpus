@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20160293952A1_5	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	213	240	213	240	T3-1	nickel-containing hydroxide
+US20160293952A1_5	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	246	257	246	257	T2-1	temperature
+US20160293952A1_5	1	1	Quantity	° C.	"{""unit"": ""\u00b0 C.""}"	261	275	261	275	T1-1	105 to 800° C.

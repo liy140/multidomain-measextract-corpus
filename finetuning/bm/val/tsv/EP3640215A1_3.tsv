@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+EP3640215A1_3	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	350	375	350	375	T3-1	active material precursor
+EP3640215A1_3	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	387	404	387	404	T2-1	particle diameter
+EP3640215A1_3	1	1	Quantity	µm	"{""unit"": ""\u00b5m""}"	414	433	414	433	T1-1	9 µm to about 20 µm

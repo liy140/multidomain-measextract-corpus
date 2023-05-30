@@ -1,0 +1,8 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S2213671113000738-647	1	1	Quantity			14	17	14	17	T1-1	two
+S2213671113000738-647	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	18	25	18	25	T2-1	animals
+S2213671113000738-647	2	2	Quantity			14	17	170	173	T1-2	two
+S2213671113000738-647	2	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	18	25	174	181	T2-2	animals
+S2213671113000738-647	6	3	Quantity	weeks		134	149	1066	1081	T1-3	within 12 weeks
+S2213671113000738-647	6	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	50	68	982	1000	T2-3	generate teratomas
+S2213671113000738-647	6	3	MeasuredEntity		{'HasProperty': 'T2-3'}	76	133	1008	1065	T3-3	testes of a severe combined immunodeficiency (SCID) mouse

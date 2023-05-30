@@ -1,0 +1,12 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0378112713005288-1916	4	1	Quantity	m		76	87	434	445	T1-1	up to 100 m
+S0378112713005288-1916	4	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	66	75	424	433	T4-1	distances
+S0378112713005288-1916	4	1	MeasuredEntity		{'HasProperty': 'T4-1'}	143	167	501	525	T3-1	animal-dispersed species
+S0378112713005288-1916	5	2	Quantity			81	85	624	628	T1-2	0.23
+S0378112713005288-1916	5	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	77	78	620	621	T4-2	R
+S0378112713005288-1916	5	2	MeasuredEntity		{'HasProperty': 'T4-2'}	34	39	577	582	T2-2	rowan
+S0378112713005288-1916	5	3	Quantity			90	94	633	637	T1-3	0.28
+S0378112713005288-1916	5	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	77	78	620	621	T4-3	R
+S0378112713005288-1916	5	3	MeasuredEntity		{'HasProperty': 'T4-3'}	44	47	587	590	T3-3	oak
+S0378112713005288-1916	5	4	Quantity			116	124	659	667	T1-4	< 0.0001
+S0378112713005288-1916	5	4	MeasuredEntity		{'HasQuantity': 'T1-4'}	114	115	657	658	T3-4	p

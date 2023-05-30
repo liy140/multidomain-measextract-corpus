@@ -1,0 +1,32 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jmatlet201405013	3	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	138	147	356	365	T2-1	dissolved
+101016jmatlet201405013	3	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	7	37	225	255	T3-1	sodium tungstate (Na2WO4*2H2O)
+101016jmatlet201405013	3	1	Quantity	mol	"{""unit"": ""mol""}"	39	48	257	266	T1-1	0.005 mol
+101016jmatlet201405013	3	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	138	147	356	365	T2-2	dissolved
+101016jmatlet201405013	3	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	51	90	269	308	T3-2	hydroxylamine hydrochloride (NH2OH*HCl)
+101016jmatlet201405013	3	2	Quantity	mol	"{""unit"": ""mol""}"	92	100	310	318	T1-2	0.01 mol
+101016jmatlet201405013	3	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	138	147	356	365	T2-3	dissolved
+101016jmatlet201405013	3	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	103	121	321	339	T3-3	sulfourea (CH4N2S)
+101016jmatlet201405013	3	3	Quantity	mol	"{""unit"": ""mol""}"	123	131	341	349	T1-3	0.02 mol
+101016jmatlet201405013	3	4	MeasuredEntity		"{""HasQuantity"": ""T1-4""}"	157	172	375	390	T3-4	deionized water
+101016jmatlet201405013	3	4	Quantity	ml	"{""unit"": ""ml""}"	151	156	369	374	T1-4	30 ml
+101016jmatlet201405013	6	5	MeasuredEntity		"{""HasQuantity"": ""T1-5""}"	48	86	633	671	T3-5	Teflon-lined stainless steel autoclave
+101016jmatlet201405013	6	5	Quantity	ml	"{""unit"": ""ml""}"	42	47	627	632	T1-5	50 ml
+101016jmatlet201405013	6	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	109	116	694	701	T2-6	treated
+101016jmatlet201405013	6	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	4	18	589	603	T3-6	final solution
+101016jmatlet201405013	6	6	Quantity	degC	"{""unit"": ""degC""}"	120	128	705	713	T1-6	180 degC
+101016jmatlet201405013	6	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	109	116	694	701	T2-7	treated
+101016jmatlet201405013	6	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	4	18	589	603	T3-7	final solution
+101016jmatlet201405013	6	7	Quantity	h	"{""unit"": ""h""}"	133	137	718	722	T1-7	24 h
+101016jmatlet201405013	5	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	4	12	471	479	T2-8	pH value
+101016jmatlet201405013	5	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	20	27	487	494	T3-8	mixture
+101016jmatlet201405013	5	8	Quantity			44	45	511	512	T1-8	6
+101016jmatlet201405013	5	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	49	57	516	524	T2-9	dropping
+101016jmatlet201405013	5	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	66	116	533	583	T3-9	hydrochloric acid (HCl) or ammonia water (NH3*H2O)
+101016jmatlet201405013	5	9	Quantity	mol/L	"{""unit"": ""mol/L""}"	58	65	525	532	T1-9	2 mol/L
+101016jmatlet201405013	8	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	116	128	883	895	T2-10	dried in air
+101016jmatlet201405013	8	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	23	42	790	809	T3-10	as-prepared samples
+101016jmatlet201405013	8	10	Quantity	degC	"{""unit"": ""degC""}"	132	139	899	906	T1-10	60 degC
+101016jmatlet201405013	8	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	116	121	883	888	T2-11	dried
+101016jmatlet201405013	8	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	23	42	790	809	T3-11	as-prepared samples
+101016jmatlet201405013	8	11	Quantity	h	"{""unit"": ""h""}"	144	148	911	915	T1-11	10 h

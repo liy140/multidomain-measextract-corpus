@@ -1,0 +1,33 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jjpowsour201512048	2	1	MeasuredEntity		"{""HasQuantity"": ""T1-1""}"	75	80	354	359	T3-1	LiPF6
+101016jjpowsour201512048	2	1	Quantity	M	"{""unit"": ""M""}"	71	74	350	353	T1-1	1 M
+101016jjpowsour201512048	2	2	MeasuredEntity		"{""HasQuantity"": ""T1-2""}"	84	136	363	415	T3-2	ethylene carbonate (EC) and dimethyl carbonate (DMC)
+101016jjpowsour201512048	2	2	Quantity	by volume	"{""unit"": ""by volume""}"	138	151	417	430	T1-2	1:1 by volume
+101016jjpowsour201512048	4	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	69	78	555	564	T2-3	dissolved
+101016jjpowsour201512048	4	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	38	64	524	550	T3-3	copper acetate monohydrate
+101016jjpowsour201512048	4	3	Quantity	mmol	"{""unit"": ""mmol""}"	26	34	512	520	T1-3	5.0 mmol
+101016jjpowsour201512048	4	4	MeasuredEntity		"{""HasQuantity"": ""T1-4""}"	90	122	576	608	T3-4	distilled water/pyridine mixture
+101016jjpowsour201512048	4	4	Quantity	mL	"{""unit"": ""mL""}"	84	89	570	575	T1-4	40 mL
+101016jjpowsour201512048	4	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	124	127	610	613	T2-5	v:v
+101016jjpowsour201512048	4	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	90	122	576	608	T3-5	distilled water/pyridine mixture
+101016jjpowsour201512048	4	5	Quantity			130	133	616	619	T1-5	1:3
+101016jjpowsour201512048	4	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	139	145	625	631	T2-6	heated
+101016jjpowsour201512048	4	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	26	122	512	608	T3-6	5.0 mmol of copper acetate monohydrate was dissolved into 40 mL distilled water/pyridine mixture
+101016jjpowsour201512048	4	6	Quantity	degC	"{""unit"": ""degC""}"	149	156	635	642	T1-6	80 degC
+101016jjpowsour201512048	4	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	201	210	687	696	T2-7	dissolved
+101016jjpowsour201512048	4	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	170	196	656	682	T3-7	sodium sulfide nonahydrate
+101016jjpowsour201512048	4	7	Quantity	mmol	"{""unit"": ""mmol""}"	158	166	644	652	T1-7	5.0 mmol
+101016jjpowsour201512048	4	8	MeasuredEntity		"{""HasQuantity"": ""T1-8""}"	225	240	711	726	T3-8	distilled water
+101016jjpowsour201512048	4	8	Quantity	mL	"{""unit"": ""mL""}"	216	221	702	707	T1-8	20 mL
+101016jjpowsour201512048	6	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	21	28	845	852	T2-9	reacted
+101016jjpowsour201512048	6	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	13	20	837	844	T3-9	mixture
+101016jjpowsour201512048	6	9	Quantity	h	"{""unit"": ""h""}"	33	36	857	860	T1-9	2 h
+101016jjpowsour201512048	6	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	21	28	845	852	T2-10	reacted
+101016jjpowsour201512048	6	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	13	20	837	844	T3-10	mixture
+101016jjpowsour201512048	6	10	Quantity	degC	"{""unit"": ""degC""}"	40	47	864	871	T1-10	80 degC
+101016jjpowsour201512048	6	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	180	197	1004	1021	T2-11	dried in a vacuum
+101016jjpowsour201512048	6	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	53	67	877	891	T3-11	final products
+101016jjpowsour201512048	6	11	Quantity	degC	"{""unit"": ""degC""}"	201	208	1025	1032	T1-11	60 degC
+101016jjpowsour201512048	6	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	180	197	1004	1021	T2-12	dried in a vacuum
+101016jjpowsour201512048	6	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	53	67	877	891	T3-12	final products
+101016jjpowsour201512048	6	12	Quantity	h	"{""unit"": ""h""}"	213	217	1037	1041	T1-12	12 h

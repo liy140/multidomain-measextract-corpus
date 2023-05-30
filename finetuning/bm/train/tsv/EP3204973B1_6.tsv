@@ -1,0 +1,10 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+EP3204973B1_6	1	1	MeasuredEntity			5	31	5	31	T3-1	lithium metal oxide powder
+EP3204973B1_6	1	1	MeasuredProperty			357	383	357	383	T2-1	particle size distribution
+EP3204973B1_6	1	1	Quantity	µm		389	402	389	402	T1-1	10µm≤D50≤20µm
+EP3204973B1_6	1	2	MeasuredEntity			5	31	5	31	T3-2	lithium metal oxide powder
+EP3204973B1_6	1	2	MeasuredProperty			407	428	407	428	T2-2	specific surface area
+EP3204973B1_6	1	2	Quantity	m<sup>2</sup>/g		434	487	434	487	T1-2	0.9≤BET≤5, the BET being expressed in m<sup>2</sup>/g
+EP3204973B1_6	1	3	MeasuredEntity			5	31	5	31	T3-3	lithium metal oxide powder
+EP3204973B1_6	1	3	MeasuredProperty			609	669	609	669	T2-3	sodium (Na<sub>wt</sub>) and sulfur (S<sub>wt</sub>) content
+EP3204973B1_6	1	3	Quantity	wt%		687	729	687	729	T1-3	is more than 0.4 wt% and less than 1.6 wt%

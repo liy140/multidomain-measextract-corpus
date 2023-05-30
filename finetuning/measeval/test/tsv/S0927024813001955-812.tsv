@@ -1,0 +1,15 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0927024813001955-812	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	0	112	0	112	T3-1	P3HT (poly(3-hexylthiophene-2,5-diyl), Rieke) and PCBM ([6,6]-phenyl-C61-buyric acid methyl ester, Sigma Aldrich
+S0927024813001955-812	1	1	MeasuredEntity		{'HasProperty': 'T3-1'}	151	164	151	164	T2-1	chlorobenzene
+S0927024813001955-812	2	1	Quantity	mg/mL		28	40	194	206	T1-1	41.73 mg/mL.
+S0927024813001955-812	2	2	Quantity	h		67	70	233	236	T1-2	2 h
+S0927024813001955-812	2	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	55	62	221	228	T4-2	stirred
+S0927024813001955-812	2	2	MeasuredEntity		{'HasProperty': 'T4-2'}	41	50	207	216	T3-2	Each vial
+S0927024813001955-812	2	3	Quantity	rpm		74	81	240	247	T1-3	800 rpm
+S0927024813001955-812	2	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	55	62	221	228	T4-3	stirred
+S0927024813001955-812	2	3	MeasuredEntity		{'HasProperty': 'T4-3'}	41	50	207	216	T3-3	Each vial
+S0927024813001955-812	2	4	Quantity	°C		86	91	252	257	T1-4	60 °C
+S0927024813001955-812	2	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	55	62	221	228	T3-4	stirred
+S0927024813001955-812	2	4	MeasuredEntity		{'HasProperty': 'T3-4'}	41	50	207	216	T2-4	Each vial
+S0927024813001955-812	3	5	Quantity			4	7	275	278	T1-5	two
+S0927024813001955-812	3	5	MeasuredEntity		{'HasQuantity': 'T1-5'}	8	17	279	288	T2-5	solutions

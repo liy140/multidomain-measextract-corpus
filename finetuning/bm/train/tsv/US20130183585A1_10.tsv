@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20130183585A1_10	1	1	MeasuredEntity			92	151	92	151	T3-1	positive active material for a rechargeable lithium battery
+US20130183585A1_10	1	1	MeasuredProperty			158	169	158	169	T2-1	tap density
+US20130183585A1_10	1	1	Quantity	g/cc		173	193	173	193	T1-1	1.5 g/cc to 2.5 g/cc

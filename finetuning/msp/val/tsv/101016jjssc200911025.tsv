@@ -1,0 +1,53 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jjssc200911025	2	1	MeasuredEntity		"{""HasQuantity"": ""T1-1""}"	0	6	283	289	T3-1	Pr6O11
+101016jjssc200911025	2	1	Quantity	%	"{""unit"": ""%""}"	20	25	303	308	T1-1	99.9%
+101016jjssc200911025	2	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	53	60	336	343	T2-2	heating
+101016jjssc200911025	2	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	61	67	344	350	T3-2	Pr6O11
+101016jjssc200911025	2	2	Quantity	degC	"{""unit"": ""degC""}"	71	80	354	363	T1-2	1000 degC
+101016jjssc200911025	2	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	53	60	336	343	T2-3	heating
+101016jjssc200911025	2	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	61	67	344	350	T3-3	Pr6O11
+101016jjssc200911025	2	3	Quantity	h	"{""unit"": ""h""}"	85	89	368	372	T1-3	24 h
+101016jjssc200911025	2	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	110	112	393	395	T2-4	H2
+101016jjssc200911025	2	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	113	123	396	406	T3-4	atmosphere
+101016jjssc200911025	2	4	Quantity	%	"{""unit"": ""%""}"	107	109	390	392	T1-4	5%
+101016jjssc200911025	1	5	MeasuredEntity		"{""HasQuantity"": ""T1-5""}"	181	186	181	186	T3-5	Ln2O3
+101016jjssc200911025	1	5	Quantity	%	"{""unit"": ""%""}"	218	224	218	224	T1-5	99.99%
+101016jjssc200911025	1	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	231	236	231	236	T2-6	fired
+101016jjssc200911025	1	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	181	186	181	186	T3-6	Ln2O3
+101016jjssc200911025	1	6	Quantity	degC	"{""unit"": ""degC""}"	240	249	240	249	T1-6	1000 degC
+101016jjssc200911025	1	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	231	236	231	236	T2-7	fired
+101016jjssc200911025	1	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	181	186	181	186	T3-7	Ln2O3
+101016jjssc200911025	1	7	Quantity	h	"{""unit"": ""h""}"	254	258	254	258	T1-7	12 h
+101016jjssc200911025	3	8	MeasuredEntity		"{""HasQuantity"": ""T1-8""}"	0	3	408	411	T3-8	KOH
+101016jjssc200911025	3	8	Quantity	%	"{""unit"": ""%""}"	45	50	453	458	T1-8	99.9%
+101016jjssc200911025	3	9	MeasuredEntity		"{""HasQuantity"": ""T1-9""}"	53	67	461	475	T3-9	iridium powder
+101016jjssc200911025	3	9	Quantity	%	"{""unit"": ""%""}"	80	86	488	494	T1-9	99.99%
+101016jjssc200911025	3	10	MeasuredEntity		"{""HasQuantity"": ""T1-10""}"	92	95	500	503	T3-10	MgO
+101016jjssc200911025	3	10	Quantity	%	"{""unit"": ""%""}"	109	116	517	524	T1-10	99.998%
+101016jjssc200911025	5	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	123	129	765	771	T2-11	heated
+101016jjssc200911025	5	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	0	118	642	760	T3-11	Ln2O3 (Pr, Nd, Sm, Eu, Gd) (0.5 mmol), MgO (1 mmol), Ir (0.5 mmol), and KOH (4 g) were loaded into sealed silver tubes
+101016jjssc200911025	5	11	Quantity	degC	"{""unit"": ""degC""}"	167	217	809	859	T1-11	700 degC at 10 degC/min, held for 24 h at 700 degC
+101016jjssc200911025	5	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	123	129	765	771	T2-12	heated
+101016jjssc200911025	5	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	0	118	642	760	T3-12	Ln2O3 (Pr, Nd, Sm, Eu, Gd) (0.5 mmol), MgO (1 mmol), Ir (0.5 mmol), and KOH (4 g) were loaded into sealed silver tubes
+101016jjssc200911025	5	12	Quantity	h	"{""unit"": ""h""}"	201	205	843	847	T1-12	24 h
+101016jjssc200911025	5	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	224	230	866	872	T2-13	cooled
+101016jjssc200911025	5	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	0	118	642	760	T3-13	Ln2O3 (Pr, Nd, Sm, Eu, Gd) (0.5 mmol), MgO (1 mmol), Ir (0.5 mmol), and KOH (4 g) were loaded into sealed silver tubes
+101016jjssc200911025	5	13	Quantity	degC/min	"{""unit"": ""degC/min""}"	246	258	888	900	T1-13	0.2 degC/min
+101016jjssc200911025	5	14	MeasuredProperty		"{""HasQuantity"": ""T1-14""}"	87	118	729	760	T2-14	loaded into sealed silver tubes
+101016jjssc200911025	5	14	MeasuredEntity		"{""HasProperty"": ""T2-14""}"	72	75	714	717	T3-14	KOH
+101016jjssc200911025	5	14	Quantity	g	"{""unit"": ""g""}"	77	80	719	722	T1-14	4 g
+101016jjssc200911025	5	15	MeasuredProperty		"{""HasQuantity"": ""T1-15""}"	87	118	729	760	T2-15	loaded into sealed silver tubes
+101016jjssc200911025	5	15	MeasuredEntity		"{""HasProperty"": ""T2-15""}"	39	42	681	684	T3-15	MgO
+101016jjssc200911025	5	15	Quantity	mmol	"{""unit"": ""mmol""}"	44	50	686	692	T1-15	1 mmol
+101016jjssc200911025	5	16	MeasuredProperty		"{""HasQuantity"": ""T1-16""}"	123	129	765	771	T2-16	heated
+101016jjssc200911025	5	16	MeasuredEntity		"{""HasProperty"": ""T2-16""}"	0	118	642	760	T3-16	Ln2O3 (Pr, Nd, Sm, Eu, Gd) (0.5 mmol), MgO (1 mmol), Ir (0.5 mmol), and KOH (4 g) were loaded into sealed silver tubes
+101016jjssc200911025	5	16	Quantity	degC/min	"{""unit"": ""degC/min""}"	179	190	821	832	T1-16	10 degC/min
+101016jjssc200911025	5	17	MeasuredProperty		"{""HasQuantity"": ""T1-17""}"	224	230	866	872	T2-17	cooled
+101016jjssc200911025	5	17	MeasuredEntity		"{""HasProperty"": ""T2-17""}"	0	118	642	760	T3-17	Ln2O3 (Pr, Nd, Sm, Eu, Gd) (0.5 mmol), MgO (1 mmol), Ir (0.5 mmol), and KOH (4 g) were loaded into sealed silver tubes
+101016jjssc200911025	5	17	Quantity	degC	"{""unit"": ""degC""}"	234	242	876	884	T1-17	600 degC
+101016jjssc200911025	5	18	MeasuredProperty		"{""HasQuantity"": ""T1-18""}"	87	118	729	760	T2-18	loaded into sealed silver tubes
+101016jjssc200911025	5	18	MeasuredEntity		"{""HasProperty"": ""T2-18""}"	53	55	695	697	T3-18	Ir
+101016jjssc200911025	5	18	Quantity	mmol	"{""unit"": ""mmol""}"	57	65	699	707	T1-18	0.5 mmol
+101016jjssc200911025	5	19	MeasuredProperty		"{""HasQuantity"": ""T1-19""}"	87	118	729	760	T2-19	loaded into sealed silver tubes
+101016jjssc200911025	5	19	MeasuredEntity		"{""HasProperty"": ""T2-19""}"	0	5	642	647	T3-19	Ln2O3
+101016jjssc200911025	5	19	Quantity	mmol	"{""unit"": ""mmol""}"	28	36	670	678	T1-19	0.5 mmol

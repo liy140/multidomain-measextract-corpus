@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20200006770A1_1	1	1	MeasuredEntity			248	266	248	266	T3-1	nucleation process
+US20200006770A1_1	1	1	MeasuredProperty			454	456	454	456	T2-1	pH
+US20200006770A1_1	1	1	Quantity			514	526	514	526	T1-1	12.0 to 14.0
+US20200006770A1_1	1	2	MeasuredEntity			534	557	534	557	T3-2	particle growth process
+US20200006770A1_1	1	2	MeasuredProperty			722	724	722	724	T2-2	pH
+US20200006770A1_1	1	2	Quantity			734	789	734	789	T1-2	less than in the nucleation process and is 10.5 to 12.0

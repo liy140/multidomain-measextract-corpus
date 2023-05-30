@@ -1,0 +1,6 @@
+{"text": "The results in Table 3 indicate that when there is no attack RED has no obvious influence on the normal TCP flows (ρna and rna are almost the same for DropTail and RED).", "sentId": 1, "start": 0, "end": 169}
+{"text": "However, when LDDoS attacks are present, RED significantly improves the throughput of normal TCP.", "sentId": 2, "start": 170, "end": 267}
+{"text": "Note that in this case, RED drops 25% packets, much more than the 7.6% from DropTail.", "sentId": 3, "start": 268, "end": 353}
+{"text": "In other words, when the aggregate rate of the LDDoS flows is very close to the bottleneck bandwidth of network, deploying RED is able to drop more attack packets while increasing the throughput of the normal TCP flows.", "sentId": 4, "start": 354, "end": 573}
+{"text": "Admittedly RED might also drop more legitimate packets than DropTail here, however it achieves a higher normal-TCP-flow throughput ρa than DropTail.", "sentId": 5, "start": 574, "end": 722}
+{"text": "The throughput ρa of normal TCP flows is considered to be more important than its drop ratio ra when a network is under an LDDoS attack.", "sentId": 6, "start": 723, "end": 859}

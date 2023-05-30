@@ -1,0 +1,70 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jcolsurfa201208033	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	206	208	206	208	T2-1	Mw
+101016jcolsurfa201208033	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	182	204	182	204	T3-1	Polyethyleneimine (PEI
+101016jcolsurfa201208033	1	1	Quantity	kDa	"{""unit"": ""kDa""}"	209	219	209	219	T1-1	50-100 kDa
+101016jcolsurfa201208033	1	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	260	262	260	262	T2-2	Mw
+101016jcolsurfa201208033	1	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	222	258	222	258	T3-2	poly(allylamine hydrochloride) (PAH)
+101016jcolsurfa201208033	1	2	Quantity	kDa	"{""unit"": ""kDa""}"	263	269	263	269	T1-2	70 kDa
+101016jcolsurfa201208033	1	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	314	316	314	316	T2-3	Mw
+101016jcolsurfa201208033	1	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	272	312	272	312	T3-3	poly(styrenesulfonate sodium salt) (PSS)
+101016jcolsurfa201208033	1	3	Quantity	kDa	"{""unit"": ""kDa""}"	317	323	317	323	T1-3	70 kDa
+101016jcolsurfa201208033	1	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	393	401	393	401	T2-4	in water
+101016jcolsurfa201208033	1	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	354	385	354	385	T3-4	water-soluble polypyrrole (PPY)
+101016jcolsurfa201208033	1	4	Quantity	wt%	"{""unit"": ""wt%""}"	387	392	387	392	T1-4	5 wt%
+101016jcolsurfa201208033	7	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	38	47	1318	1327	T2-5	incubated
+101016jcolsurfa201208033	7	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	14	32	1294	1312	T3-5	sample suspensions
+101016jcolsurfa201208033	7	5	Quantity	min	"{""unit"": ""min""}"	76	82	1356	1362	T1-5	20 min
+101016jcolsurfa201208033	8	6	MeasuredEntity		"{""HasQuantity"": ""T1-6""}"	148	171	1511	1534	T3-6	hydrochloric acid (HCl)
+101016jcolsurfa201208033	8	6	Quantity	M	"{""unit"": ""M""}"	144	147	1507	1510	T1-6	1 M
+101016jcolsurfa201208033	2	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	93	99	555	561	T2-7	stored
+101016jcolsurfa201208033	2	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	4	19	466	481	T3-7	aniline monomer
+101016jcolsurfa201208033	2	7	Quantity	degC	"{""unit"": ""degC""}"	103	111	565	573	T1-7	0-5 degC
+101016jcolsurfa201208033	2	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	234	245	696	707	T2-8	resistivity
+101016jcolsurfa201208033	2	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	117	122	579	584	T3-8	water
+101016jcolsurfa201208033	2	8	Quantity	MΩ cm	"{""unit"": ""M\u03a9 cm""}"	246	268	708	730	T1-8	higher than 18.2 MΩ cm
+101016jcolsurfa201208033	3	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	47	50	778	781	T2-9	PEI
+101016jcolsurfa201208033	3	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	51	59	782	790	T3-9	solution
+101016jcolsurfa201208033	3	9	Quantity	mg/mL	"{""unit"": ""mg/mL""}"	61	68	792	799	T1-9	1 mg/mL
+101016jcolsurfa201208033	3	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	78	82	809	813	T2-10	NaCl
+101016jcolsurfa201208033	3	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	51	59	782	790	T3-10	solution
+101016jcolsurfa201208033	3	10	Quantity	M	"{""unit"": ""M""}"	72	77	803	808	T1-10	0.5 M
+101016jcolsurfa201208033	3	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	99	105	830	836	T2-11	adsorb
+101016jcolsurfa201208033	3	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	1	59	732	790	T3-11	Sulfur particles were separately dispersed in PEI solution
+101016jcolsurfa201208033	3	11	Quantity	min	"{""unit"": ""min""}"	110	116	841	847	T1-11	30 min
+101016jcolsurfa201208033	4	12	MeasuredEntity		"{""HasQuantity"": ""T1-12""}"	95	99	944	948	T3-12	NaCl
+101016jcolsurfa201208033	4	12	Quantity	M	"{""unit"": ""M""}"	89	94	938	943	T1-12	0.5 M
+101016jcolsurfa201208033	4	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	76	83	925	932	T2-13	washing
+101016jcolsurfa201208033	4	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	95	99	944	948	T3-13	NaCl
+101016jcolsurfa201208033	4	13	Quantity	times	"{""unit"": ""times""}"	64	75	913	924	T1-13	three times
+101016jcolsurfa201208033	6	14	MeasuredEntity		"{""HasQuantity"": ""T1-14""}"	104	140	1231	1267	T3-14	glutaraldehyde (GA) aqueous solution
+101016jcolsurfa201208033	6	14	Quantity	%	"{""unit"": ""%""}"	101	103	1228	1230	T1-14	5%
+101016jcolsurfa201208033	6	15	MeasuredProperty		"{""HasQuantity"": ""T1-15""}"	88	97	1215	1224	T2-15	dispersed
+101016jcolsurfa201208033	6	15	MeasuredEntity		"{""HasProperty"": ""T2-15""}"	61	77	1188	1204	T3-15	coated particles
+101016jcolsurfa201208033	6	15	Quantity	min	"{""unit"": ""min""}"	145	151	1272	1278	T1-15	30 min
+101016jcolsurfa201208033	9	16	MeasuredProperty		"{""HasQuantity"": ""T1-16""}"	131	143	1682	1694	T2-16	slowly added
+101016jcolsurfa201208033	9	16	MeasuredEntity		"{""HasProperty"": ""T2-16""}"	57	100	1608	1651	T3-16	aqueous ammonium persulphate (APS) solution
+101016jcolsurfa201208033	9	16	Quantity	min	"{""unit"": ""min""}"	6	12	1557	1563	T1-16	30 min
+101016jcolsurfa201208033	9	17	MeasuredProperty		"{""HasQuantity"": ""T1-17""}"	131	143	1682	1694	T2-17	slowly added
+101016jcolsurfa201208033	9	17	MeasuredEntity		"{""HasProperty"": ""T2-17""}"	57	100	1608	1651	T3-17	aqueous ammonium persulphate (APS) solution
+101016jcolsurfa201208033	9	17	Quantity	wt%	"{""unit"": ""wt%""}"	48	56	1599	1607	T1-17	22.8 wt%
+101016jcolsurfa201208033	9	18	MeasuredEntity		"{""HasQuantity"": ""T1-18""}"	160	184	1711	1735	T3-18	oxidative polymerization
+101016jcolsurfa201208033	9	18	Quantity	degC	"{""unit"": ""degC""}"	188	196	1739	1747	T1-18	0-3 degC
+101016jcolsurfa201208033	9	19	MeasuredProperty		"{""HasQuantity"": ""T1-19""}"	215	226	1766	1777	T2-19	carried out
+101016jcolsurfa201208033	9	19	MeasuredEntity		"{""HasProperty"": ""T2-19""}"	202	210	1753	1761	T3-19	reaction
+101016jcolsurfa201208033	9	19	Quantity	h	"{""unit"": ""h""}"	231	235	1782	1786	T1-19	24 h
+101016jcolsurfa201208033	12	20	MeasuredProperty		"{""HasQuantity"": ""T1-20""}"	22	27	2045	2050	T2-20	dried
+101016jcolsurfa201208033	12	20	MeasuredEntity		"{""HasProperty"": ""T2-20""}"	4	17	2027	2040	T3-20	final product
+101016jcolsurfa201208033	12	20	Quantity	h	"{""unit"": ""h""}"	68	72	2091	2095	T1-20	24 h
+101016jcolsurfa201208033	5	21	MeasuredEntity		"{""HasQuantity"": ""T1-21""}"	65	85	1015	1035	T3-21	PAH and PSS solution
+101016jcolsurfa201208033	5	21	Quantity	mg/mL	"{""unit"": ""mg/mL""}"	87	94	1037	1044	T1-21	2 mg/mL
+101016jcolsurfa201208033	5	22	MeasuredProperty		"{""HasQuantity"": ""T1-22""}"	104	108	1054	1058	T2-22	NaCl
+101016jcolsurfa201208033	5	22	MeasuredEntity		"{""HasProperty"": ""T2-22""}"	65	85	1015	1035	T3-22	PAH and PSS solution
+101016jcolsurfa201208033	5	22	Quantity	M	"{""unit"": ""M""}"	98	103	1048	1053	T1-22	0.5 M
+101016jcolsurfa201208033	5	23	MeasuredEntity		"{""HasQuantity"": ""T1-23""}"	171	175	1121	1125	T3-23	NaCl
+101016jcolsurfa201208033	5	23	Quantity	M	"{""unit"": ""M""}"	165	170	1115	1120	T1-23	0.5 M
+101016jcolsurfa201208033	5	24	MeasuredProperty		"{""HasQuantity"": ""T1-24""}"	154	161	1104	1111	T2-24	washing
+101016jcolsurfa201208033	5	24	MeasuredEntity		"{""HasProperty"": ""T2-24""}"	23	34	973	984	T3-24	suspensions
+101016jcolsurfa201208033	5	24	Quantity	times	"{""unit"": ""times""}"	142	153	1092	1103	T1-24	three times
+101016jcolsurfa201208033	5	25	MeasuredProperty		"{""HasQuantity"": ""T1-25""}"	52	61	1002	1011	T2-25	dispersed
+101016jcolsurfa201208033	5	25	MeasuredEntity		"{""HasProperty"": ""T2-25""}"	23	34	973	984	T3-25	suspensions
+101016jcolsurfa201208033	5	25	Quantity	min	"{""unit"": ""min""}"	122	128	1072	1078	T1-25	30 min

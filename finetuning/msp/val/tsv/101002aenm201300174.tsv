@@ -1,0 +1,45 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101002aenm201300174	3	1	MeasuredEntity		"{""HasQuantity"": ""T1-1""}"	0	2	295	297	T3-1	Si
+101002aenm201300174	3	1	Quantity	%	"{""unit"": ""%""}"	4	9	299	304	T1-1	99.9%
+101002aenm201300174	3	2	MeasuredEntity		"{""HasQuantity"": ""T1-2""}"	12	14	307	309	T3-2	Sn
+101002aenm201300174	3	2	Quantity	%	"{""unit"": ""%""}"	16	21	311	316	T1-2	99.5%
+101002aenm201300174	3	3	MeasuredEntity		"{""HasQuantity"": ""T1-3""}"	27	29	322	324	T3-3	Sb
+101002aenm201300174	3	3	Quantity	%	"{""unit"": ""%""}"	31	38	326	333	T1-3	99.999%
+101002aenm201300174	8	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	16	33	731	748	T2-4	ground and sieved
+101002aenm201300174	8	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	4	10	719	725	T3-4	ingots
+101002aenm201300174	8	4	Quantity	μm	"{""unit"": ""\u03bcm""}"	38	43	753	758	T1-4	50 μm
+101002aenm201300174	8	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	48	59	763	774	T2-5	hot pressed
+101002aenm201300174	8	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	65	77	780	792	T3-5	graphite die
+101002aenm201300174	8	5	Quantity	mm	"{""unit"": ""mm""}"	83	90	798	805	T1-5	12.7 mm
+101002aenm201300174	8	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	99	107	814	822	T2-6	pressure
+101002aenm201300174	8	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	4	33	719	748	T3-6	ingots were ground and sieved
+101002aenm201300174	8	6	Quantity	MPa	"{""unit"": ""MPa""}"	111	117	826	832	T1-6	80 MPa
+101002aenm201300174	8	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	48	59	763	774	T2-7	hot pressed
+101002aenm201300174	8	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	4	33	719	748	T3-7	ingots were ground and sieved
+101002aenm201300174	8	7	Quantity	K	"{""unit"": ""K""}"	121	127	836	842	T1-7	1025 K
+101002aenm201300174	8	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	48	59	763	774	T2-8	hot pressed
+101002aenm201300174	8	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	4	33	719	748	T3-8	ingots were ground and sieved
+101002aenm201300174	8	8	Quantity	h	"{""unit"": ""h""}"	132	135	847	850	T1-8	2 h
+101002aenm201300174	2	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	111	112	189	190	T2-9	x
+101002aenm201300174	2	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	81	109	159	187	T3-9	Mg2(1+x)Si0.45Sn0.537Sb0.013
+101002aenm201300174	2	9	Quantity			115	119	193	197	T1-9	0.04
+101002aenm201300174	2	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	111	112	189	190	T2-10	x
+101002aenm201300174	2	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	81	109	159	187	T3-10	Mg2(1+x)Si0.45Sn0.537Sb0.013
+101002aenm201300174	2	10	Quantity			121	125	199	203	T1-10	0.06
+101002aenm201300174	2	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	111	112	189	190	T2-11	x
+101002aenm201300174	2	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	81	109	159	187	T3-11	Mg2(1+x)Si0.45Sn0.537Sb0.013
+101002aenm201300174	2	11	Quantity			127	131	205	209	T1-11	0.08
+101002aenm201300174	2	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	111	112	189	190	T2-12	x
+101002aenm201300174	2	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	81	109	159	187	T3-12	Mg2(1+x)Si0.45Sn0.537Sb0.013
+101002aenm201300174	2	12	Quantity			133	137	211	215	T1-12	0.10
+101002aenm201300174	2	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	111	112	189	190	T2-13	x
+101002aenm201300174	2	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	81	109	159	187	T3-13	Mg2(1+x)Si0.45Sn0.537Sb0.013
+101002aenm201300174	2	13	Quantity			139	143	217	221	T1-13	0.12
+101002aenm201300174	2	14	MeasuredEntity		"{""HasQuantity"": ""T1-14""}"	197	209	275	287	T3-14	Elemental Mg
+101002aenm201300174	2	14	Quantity	%	"{""unit"": ""%""}"	211	214	289	292	T1-14	99%
+101002aenm201300174	7	15	MeasuredProperty		"{""HasQuantity"": ""T1-15""}"	50	56	645	651	T2-15	heated
+101002aenm201300174	7	15	MeasuredEntity		"{""HasProperty"": ""T2-15""}"	4	13	599	608	T3-15	crucibles
+101002aenm201300174	7	15	Quantity	K	"{""unit"": ""K""}"	60	65	655	660	T1-15	973 K
+101002aenm201300174	7	16	MeasuredProperty		"{""HasQuantity"": ""T1-16""}"	50	56	645	651	T2-16	heated
+101002aenm201300174	7	16	MeasuredEntity		"{""HasProperty"": ""T2-16""}"	4	13	599	608	T3-16	crucibles
+101002aenm201300174	7	16	Quantity	h	"{""unit"": ""h""}"	70	74	665	669	T1-16	10 h

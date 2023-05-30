@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN107342417B_1	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	609	637	609	637	T3-1	secondary particle aggregate
+CN107342417B_1	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	584	601	584	601	T2-1	particle size D50
+CN107342417B_1	1	1	Quantity	mu m	"{""unit"": ""mu m""}"	642	652	642	652	T1-1	11-15 mu m

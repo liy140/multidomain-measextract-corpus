@@ -1,0 +1,26 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101038ncomms5358	2	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	39	47	107	115	T2-1	reacting
+101038ncomms5358	2	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	55	61	123	129	T3-1	Na2SO4
+101038ncomms5358	2	1	Quantity	g	"{""unit"": ""g""}"	48	54	116	122	T1-1	1.54 g
+101038ncomms5358	2	2	MeasuredEntity		"{""HasQuantity"": ""T1-2""}"	55	61	123	129	T3-2	Na2SO4
+101038ncomms5358	2	2	Quantity	%	"{""unit"": ""%""}"	69	72	137	140	T1-2	99%
+101038ncomms5358	2	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	39	47	107	115	T2-3	reacting
+101038ncomms5358	2	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	85	90	153	158	T3-3	FeSO4
+101038ncomms5358	2	3	Quantity	g	"{""unit"": ""g""}"	78	84	146	152	T1-3	2.73 g
+101038ncomms5358	7	4	MeasuredEntity		"{""HasQuantity"": ""T1-4""}"	83	89	733	739	T3-4	NO2BF4
+101038ncomms5358	7	4	Quantity	%	"{""unit"": ""%""}"	103	106	753	756	T1-4	96%
+101038ncomms5358	7	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	157	166	807	816	T2-5	H2O level
+101038ncomms5358	7	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	129	149	779	799	T3-5	acetonitrile solvent
+101038ncomms5358	7	5	Quantity	p.p.m.	"{""unit"": ""p.p.m.""}"	167	176	817	826	T1-5	<5 p.p.m.
+101038ncomms5358	8	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	99	104	928	933	T2-6	dried
+101038ncomms5358	8	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	66	80	895	909	T3-6	final products
+101038ncomms5358	8	6	Quantity	degC	"{""unit"": ""degC""}"	108	115	937	944	T1-6	60 degC
+101038ncomms5358	5	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	82	94	386	398	T2-7	ball milling
+101038ncomms5358	5	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	99	109	403	413	T3-7	precursors
+101038ncomms5358	5	7	Quantity	h	"{""unit"": ""h""}"	114	117	418	421	T1-7	4 h
+101038ncomms5358	5	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	130	139	434	443	T2-8	annealing
+101038ncomms5358	5	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	144	151	448	455	T3-8	mixture
+101038ncomms5358	5	8	Quantity	degC	"{""unit"": ""degC""}"	155	163	459	467	T1-8	350 degC
+101038ncomms5358	5	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	130	139	434	443	T2-9	annealing
+101038ncomms5358	5	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	144	151	448	455	T3-9	mixture
+101038ncomms5358	5	9	Quantity	h	"{""unit"": ""h""}"	168	172	472	476	T1-9	24 h

@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+EP2067196B1_6	1	1	MeasuredEntity			233	256	233	256	T3-1	the secondary particles
+EP2067196B1_6	1	1	MeasuredProperty			121	147	121	147	T2-1	particle size distribution
+EP2067196B1_6	1	1	Quantity			258	274	258	274	T1-1	is less than 1.4
+EP2067196B1_6	1	2	MeasuredEntity			421	444	421	444	T3-2	the secondary particles
+EP2067196B1_6	1	2	MeasuredProperty			309	335	309	335	T2-2	particle size distribution
+EP2067196B1_6	1	2	Quantity			446	462	446	462	T1-2	is less than 1.2

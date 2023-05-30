@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN106745336B_7	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	132	183	132	183	T3-1	ammonia in the bottom liquid of the reaction vessel
+CN106745336B_7	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	111	124	111	124	T2-1	concentration
+CN106745336B_7	1	1	Quantity	g/l	"{""unit"": ""g/l""}"	203	215	203	215	T1-1	12 to 14 g/l
+CN106745336B_7	1	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	238	245	238	245	T3-2	ammonia
+CN106745336B_7	1	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	246	259	246	259	T2-2	concentration
+CN106745336B_7	1	2	Quantity	g/l	"{""unit"": ""g/l""}"	303	311	303	311	T1-2	12-14g/l

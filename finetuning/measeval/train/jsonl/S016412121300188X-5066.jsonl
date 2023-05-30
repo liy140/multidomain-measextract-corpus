@@ -1,0 +1,8 @@
+{"text": "This paper extends our previous work which introduced coherent dependence clusters (Islam et al., 2010b) and decluvi (Islam et al., 2010a).", "sentId": 1, "start": 0, "end": 139}
+{"text": "Previous work established the existence of coherent dependence clusters and detailed the functionalities of the visualization tool.", "sentId": 2, "start": 140, "end": 271}
+{"text": "This paper extends previous work in many ways, firstly by introducing an efficient hashing algorithm for slice approximation.", "sentId": 3, "start": 272, "end": 397}
+{"text": "This improves on the precision of previous slice approximation from 78% to 95%, resulting in precise and accurate clustering.", "sentId": 4, "start": 398, "end": 523}
+{"text": "The coherent cluster existence study is extended to empirically validate the results by considering 30 production programs.", "sentId": 5, "start": 524, "end": 647}
+{"text": "Additional case studies show that coherent clusters can help reveal the structure of a program and identify structural defects.", "sentId": 6, "start": 648, "end": 775}
+{"text": "We also introduce the notion of inter-cluster dependence which will form the base of reverse engineering efforts in future.", "sentId": 7, "start": 776, "end": 899}
+{"text": "Finally, we also present studies which show the lack of correlation between coherent clusters and bug fixes and show that coherent clusters remain surprisingly stable during system evolution.", "sentId": 8, "start": 900, "end": 1091}

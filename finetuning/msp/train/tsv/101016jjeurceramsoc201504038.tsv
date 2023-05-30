@@ -1,0 +1,65 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jjeurceramsoc201504038	1	1	MeasuredEntity		"{""HasQuantity"": ""T1-1""}"	251	258	251	258	T3-1	α-Al2O3
+101016jjeurceramsoc201504038	1	1	Quantity	%	"{""unit"": ""%""}"	260	266	260	266	T1-1	99.98%
+101016jjeurceramsoc201504038	1	2	MeasuredEntity		"{""HasQuantity"": ""T1-2""}"	300	304	300	304	T3-2	Y2O3
+101016jjeurceramsoc201504038	1	2	Quantity	%	"{""unit"": ""%""}"	306	313	306	313	T1-2	99.999%
+101016jjeurceramsoc201504038	2	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	38	49	390	401	T2-3	ball-milled
+101016jjeurceramsoc201504038	2	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	4	11	356	363	T3-3	powders
+101016jjeurceramsoc201504038	2	3	Quantity	h	"{""unit"": ""h""}"	100	104	452	456	T1-3	10 h
+101016jjeurceramsoc201504038	2	4	MeasuredEntity		"{""HasQuantity"": ""T1-4""}"	119	122	471	474	T3-4	MgO
+101016jjeurceramsoc201504038	2	4	Quantity	%	"{""unit"": ""%""}"	131	138	483	490	T1-4	99.998%
+101016jjeurceramsoc201504038	2	5	MeasuredEntity		"{""HasQuantity"": ""T1-5""}"	164	187	516	539	T3-5	tetraethoxysilane (TEOS
+101016jjeurceramsoc201504038	2	5	Quantity	%	"{""unit"": ""%""}"	189	197	541	549	T1-5	>99.999%
+101016jjeurceramsoc201504038	2	6	MeasuredEntity		"{""HasQuantity"": ""T1-6""}"	119	129	471	481	T3-6	MgO powder
+101016jjeurceramsoc201504038	2	6	Quantity	wt%	"{""unit"": ""wt%""}"	110	118	462	470	T1-6	0.08 wt%
+101016jjeurceramsoc201504038	2	7	MeasuredEntity		"{""HasQuantity"": ""T1-7""}"	164	187	516	539	T3-7	tetraethoxysilane (TEOS
+101016jjeurceramsoc201504038	2	7	Quantity	wt%	"{""unit"": ""wt%""}"	156	163	508	515	T1-7	0.8 wt%
+101016jjeurceramsoc201504038	3	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	20	33	602	615	T2-8	solid loading
+101016jjeurceramsoc201504038	3	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	4	10	586	592	T3-8	slurry
+101016jjeurceramsoc201504038	3	8	Quantity	g/ml	"{""unit"": ""g/ml""}"	37	45	619	627	T1-8	1.8 g/ml
+101016jjeurceramsoc201504038	3	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	50	55	632	637	T2-9	dried
+101016jjeurceramsoc201504038	3	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	4	10	586	592	T3-9	slurry
+101016jjeurceramsoc201504038	3	9	Quantity	degC	"{""unit"": ""degC""}"	59	66	641	648	T1-9	80 degC
+101016jjeurceramsoc201504038	3	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	50	55	632	637	T2-10	dried
+101016jjeurceramsoc201504038	3	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	4	10	586	592	T3-10	slurry
+101016jjeurceramsoc201504038	3	10	Quantity	h	"{""unit"": ""h""}"	71	74	653	656	T1-10	4 h
+101016jjeurceramsoc201504038	3	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	137	153	719	735	T2-11	screen pore size
+101016jjeurceramsoc201504038	3	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	112	127	694	709	T3-11	200-mesh screen
+101016jjeurceramsoc201504038	3	11	Quantity	μm	"{""unit"": ""\u03bcm""}"	157	163	739	745	T1-11	~74 μm
+101016jjeurceramsoc201504038	3	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	188	196	770	778	T2-12	calcined
+101016jjeurceramsoc201504038	3	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	169	183	751	765	T3-12	powder mixture
+101016jjeurceramsoc201504038	3	12	Quantity	degC	"{""unit"": ""degC""}"	200	208	782	790	T1-12	600 degC
+101016jjeurceramsoc201504038	3	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	188	196	770	778	T2-13	calcined
+101016jjeurceramsoc201504038	3	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	169	183	751	765	T3-13	powder mixture
+101016jjeurceramsoc201504038	3	13	Quantity	h	"{""unit"": ""h""}"	213	216	795	798	T1-13	4 h
+101016jjeurceramsoc201504038	7	14	MeasuredEntity		"{""HasQuantity"": ""T1-14""}"	4	16	1144	1156	T3-14	heating rate
+101016jjeurceramsoc201504038	7	14	Quantity	degC/min	"{""unit"": ""degC/min""}"	21	31	1161	1171	T1-14	5 degC/min
+101016jjeurceramsoc201504038	7	15	MeasuredEntity		"{""HasQuantity"": ""T1-15""}"	41	53	1181	1193	T3-15	cooling rate
+101016jjeurceramsoc201504038	7	15	Quantity	degC/min	"{""unit"": ""degC/min""}"	58	69	1198	1209	T1-15	10 degC/min
+101016jjeurceramsoc201504038	10	16	MeasuredProperty		"{""HasQuantity"": ""T1-16""}"	28	44	1437	1453	T2-16	thermally etched
+101016jjeurceramsoc201504038	10	16	MeasuredEntity		"{""HasProperty"": ""T2-16""}"	13	22	1422	1431	T3-16	specimens
+101016jjeurceramsoc201504038	10	16	Quantity	degC	"{""unit"": ""degC""}"	48	70	1457	1479	T1-16	1400 degC or 1500 degC
+101016jjeurceramsoc201504038	10	17	MeasuredProperty		"{""HasQuantity"": ""T1-17""}"	28	44	1437	1453	T2-17	thermally etched
+101016jjeurceramsoc201504038	10	17	MeasuredEntity		"{""HasProperty"": ""T2-17""}"	13	22	1422	1431	T3-17	specimens
+101016jjeurceramsoc201504038	10	17	Quantity	h	"{""unit"": ""h""}"	75	78	1484	1487	T1-17	3 h
+101016jjeurceramsoc201504038	4	18	MeasuredProperty		"{""HasQuantity"": ""T1-18""}"	64	72	897	905	T2-18	diameter
+101016jjeurceramsoc201504038	4	18	MeasuredEntity		"{""HasProperty"": ""T2-18""}"	73	80	906	913	T3-18	pellets
+101016jjeurceramsoc201504038	4	18	Quantity	mm	"{""unit"": ""mm""}"	58	63	891	896	T1-18	20 mm
+101016jjeurceramsoc201504038	4	19	MeasuredProperty		"{""HasQuantity"": ""T1-19""}"	125	154	958	987	T2-19	cold isostatic pressing (CIP)
+101016jjeurceramsoc201504038	4	19	MeasuredEntity		"{""HasProperty"": ""T2-19""}"	94	106	927	939	T3-19	green bodies
+101016jjeurceramsoc201504038	4	19	Quantity	MPa	"{""unit"": ""MPa""}"	158	165	991	998	T1-19	250 MPa
+101016jjeurceramsoc201504038	6	20	MeasuredProperty		"{""HasQuantity"": ""T1-20""}"	32	40	1033	1041	T2-20	sintered
+101016jjeurceramsoc201504038	6	20	MeasuredEntity		"{""HasProperty"": ""T2-20""}"	4	21	1005	1022	T3-20	compacted pellets
+101016jjeurceramsoc201504038	6	20	Quantity	degC	"{""unit"": ""degC""}"	44	58	1045	1059	T1-20	1500-1750 degC
+101016jjeurceramsoc201504038	6	21	MeasuredProperty		"{""HasQuantity"": ""T1-21""}"	65	71	1066	1072	T2-21	vacuum
+101016jjeurceramsoc201504038	6	21	MeasuredEntity		"{""HasProperty"": ""T2-21""}"	4	21	1005	1022	T3-21	compacted pellets
+101016jjeurceramsoc201504038	6	21	Quantity	Pa	"{""unit"": ""Pa""}"	73	80	1074	1081	T1-21	10-3 Pa
+101016jjeurceramsoc201504038	6	22	MeasuredProperty		"{""HasQuantity"": ""T1-22""}"	32	71	1033	1072	T2-22	sintered at 1500-1750 degC under vacuum
+101016jjeurceramsoc201504038	6	22	MeasuredEntity		"{""HasProperty"": ""T2-22""}"	4	21	1005	1022	T3-22	compacted pellets
+101016jjeurceramsoc201504038	6	22	Quantity	h	"{""unit"": ""h""}"	92	96	1093	1097	T1-22	50 h
+101016jjeurceramsoc201504038	8	23	MeasuredProperty		"{""HasQuantity"": ""T1-23""}"	36	44	1247	1255	T2-23	annealed
+101016jjeurceramsoc201504038	8	23	MeasuredEntity		"{""HasProperty"": ""T2-23""}"	21	30	1232	1241	T3-23	specimens
+101016jjeurceramsoc201504038	8	23	Quantity	degC	"{""unit"": ""degC""}"	48	57	1259	1268	T1-23	1450 degC
+101016jjeurceramsoc201504038	8	24	MeasuredProperty		"{""HasQuantity"": ""T1-24""}"	36	44	1247	1255	T2-24	annealed
+101016jjeurceramsoc201504038	8	24	MeasuredEntity		"{""HasProperty"": ""T2-24""}"	21	30	1232	1241	T3-24	specimens
+101016jjeurceramsoc201504038	8	24	Quantity	h	"{""unit"": ""h""}"	62	66	1273	1277	T1-24	10 h

@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0168945213001805-4536	3	1	Quantity	%		40	44	345	349	T1-1	∼70%
+S0168945213001805-4536	3	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	0	27	305	332	T3-1	Cellulose and hemicellulose
+S0168945213001805-4536	3	1	MeasuredEntity		{'HasProperty': 'T3-1'}	48	52	353	357	T2-1	wood

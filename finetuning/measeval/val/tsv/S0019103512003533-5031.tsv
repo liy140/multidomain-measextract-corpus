@@ -1,0 +1,12 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103512003533-5031	1	1	Quantity	K		129	141	129	141	T11-1	around 450 K
+S0019103512003533-5031	1	1	MeasuredEntity		{'HasQuantity': 'T11-1'}	91	114	91	114	T61-1	exospheric temperatures
+S0019103512003533-5031	1	2	Quantity	K		159	171	159	171	T22-2	around 180 K
+S0019103512003533-5031	1	2	MeasuredEntity		{'HasQuantity': 'T22-2'}	91	114	91	114	T62-2	exospheric temperatures
+S0019103512003533-5031	2	3	Quantity	K		75	85	265	275	T33-3	420 ± 30 K
+S0019103512003533-5031	2	3	MeasuredEntity		{'HasQuantity': 'T33-3'}	49	71	239	261	T103-3	exospheric temperature
+S0019103512003533-5031	2	4	Quantity	°N		91	97	281	287	T124-4	29.5°N
+S0019103512003533-5031	2	5	Quantity	K		186	196	376	386	T45-5	488 ± 14 K
+S0019103512003533-5031	2	5	MeasuredEntity		{'HasQuantity': 'T45-5'}	49	71	239	261	T105-5	exospheric temperature
+S0019103512003533-5031	3	6	Quantity	K		98	119	512	533	T56-6	of the order of 450 K
+S0019103512003533-5031	3	6	MeasuredEntity		{'HasQuantity': 'T56-6'}	37	81	451	495	T116-6	low and mid-latitude exospheric temperatures

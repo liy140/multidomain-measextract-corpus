@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20140186710A1_2	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	68	94	68	94	T3-1	nickel composite hydroxide
+US20140186710A1_2	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	101	148	101	148	T2-1	deviation index [(D90−D10)/Mv] of particle size
+US20140186710A1_2	1	1	Quantity			152	164	152	164	T1-1	0.70 or less

@@ -1,0 +1,12 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20190379043A1_9	1	1	MeasuredEntity			685	717	685	717	T3-1	of the reaction aqueous solution
+US20190379043A1_9	1	1	MeasuredProperty			732	750	732	750	T2-1	liquid temperature
+US20190379043A1_9	1	1	Quantity	° C		754	759	754	759	T1-1	25° C
+US20190379043A1_9	1	2	MeasuredEntity			685	717	685	717	T3-2	of the reaction aqueous solution
+US20190379043A1_9	1	2	MeasuredProperty			676	684	676	684	T2-2	pH value
+US20190379043A1_9	1	2	Quantity			786	809	786	809	T1-2	a range of 12.0 to 14.0
+US20190379043A1_9	1	3	MeasuredEntity			861	879	861	879	T3-3	liquid temperature
+US20190379043A1_9	1	3	Quantity			880	885	880	885	T1-3	25° C
+US20190379043A1_9	1	4	MeasuredEntity			907	932	907	932	T3-4	reaction aqueous solution
+US20190379043A1_9	1	4	MeasuredProperty			891	899	891	899	T2-4	pH value
+US20190379043A1_9	1	4	Quantity			1068	1091	1068	1091	T1-4	a range of 10.5 to 12.0

@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20170317349A1_4	1	1	MeasuredEntity			80	96	80	96	T3-1	primary particle
+US20170317349A1_4	1	1	MeasuredProperty			143	168	143	168	T2-1	average particle diameter
+US20170317349A1_4	1	1	Quantity	μm		172	197	172	197	T1-1	a range of 0.01 to 0.8 μm
+US20170317349A1_4	1	2	MeasuredEntity			283	305	283	305	T3-2	the secondary particle
+US20170317349A1_4	1	2	MeasuredProperty			313	343	313	343	T2-2	average particle diameter (D50
+US20170317349A1_4	1	2	Quantity	μm		345	369	345	369	T1-2	in a range of 3 to 30 μm

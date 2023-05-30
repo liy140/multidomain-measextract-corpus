@@ -1,0 +1,9 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0012821X12004384-952	2	1	Quantity	%		93	97	249	253	T1-1	<30%
+S0012821X12004384-952	2	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	98	115	254	271	T2-1	wood/plant tissue
+S0012821X12004384-952	2	1	MeasuredEntity		{'HasProperty': 'T2-1'}	80	87	236	243	T3-1	samples
+S0012821X12004384-952	2	2	Quantity	%		224	228	380	384	T1-2	>30%
+S0012821X12004384-952	2	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	229	246	385	402	T3-2	wood/plant tissue
+S0012821X12004384-952	2	2	MeasuredEntity		{'HasProperty': 'T3-2'}	211	218	367	374	T2-2	samples
+S0012821X12004384-952	4	3	Quantity	m		17	36	658	677	T1-3	2614.7 and 2619.6 m
+S0012821X12004384-952	4	3	MeasuredEntity		{'HasQuantity': 'T1-3'}	0	13	641	654	T2-3	Values shaded

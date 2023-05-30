@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN103108833A_8	1	1	MeasuredEntity			56	65	56	65	T3-1	precursor
+CN103108833A_8	1	1	MeasuredProperty			82	112	82	112	T2-1	average particle diameter (D50
+CN103108833A_8	1	1	Quantity	microns		117	129	117	129	T1-1	7-13 microns

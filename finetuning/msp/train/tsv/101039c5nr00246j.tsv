@@ -1,0 +1,18 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101039c5nr00246j	3	1	MeasuredEntity		"{""HasQuantity"": ""T1-1""}"	57	64	241	248	T3-1	ethanol
+101039c5nr00246j	3	1	Quantity	mL	"{""unit"": ""mL""}"	52	56	236	240	T1-1	7 mL
+101039c5nr00246j	4	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	22	32	322	332	T2-2	ultrasound
+101039c5nr00246j	4	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	4	11	304	311	T3-2	mixture
+101039c5nr00246j	4	2	Quantity	h	"{""unit"": ""h""}"	37	42	337	342	T1-2	0.5 h
+101039c5nr00246j	4	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	51	63	351	363	T2-3	dried in air
+101039c5nr00246j	4	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	4	11	304	311	T3-3	mixture
+101039c5nr00246j	4	3	Quantity	degC	"{""unit"": ""degC""}"	67	74	367	374	T1-3	60 degC
+101039c5nr00246j	4	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	51	63	351	363	T2-4	dried in air
+101039c5nr00246j	4	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	4	11	304	311	T3-4	mixture
+101039c5nr00246j	4	4	Quantity	h	"{""unit"": ""h""}"	79	83	379	383	T1-4	12 h
+101039c5nr00246j	5	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	33	48	459	474	T2-5	calcined in air
+101039c5nr00246j	5	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	4	28	430	454	T3-5	Au-CeO2@SBA-15 precursor
+101039c5nr00246j	5	5	Quantity	degC	"{""unit"": ""degC""}"	52	60	478	486	T1-5	500 degC
+101039c5nr00246j	5	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	33	48	459	474	T2-6	calcined in air
+101039c5nr00246j	5	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	4	28	430	454	T3-6	Au-CeO2@SBA-15 precursor
+101039c5nr00246j	5	6	Quantity	h	"{""unit"": ""h""}"	65	68	491	494	T1-6	4 h

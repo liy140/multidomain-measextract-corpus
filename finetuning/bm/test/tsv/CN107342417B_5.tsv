@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN107342417B_5	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	940	955	940	955	T3-1	reaction system
+CN107342417B_5	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	924	932	924	932	T2-1	pH value
+CN107342417B_5	1	1	Quantity			976	988	976	988	T1-1	more than 12
+CN107342417B_5	1	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	1046	1061	1046	1061	T3-2	reaction kettle
+CN107342417B_5	1	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	1027	1038	1027	1038	T2-2	temperature
+CN107342417B_5	1	2	Quantity	℃	"{""unit"": ""\u2103""}"	1082	1089	1082	1089	T1-2	50-60 ℃

@@ -1,0 +1,111 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101002ejic201201429	2	1	MeasuredEntity		"{""HasQuantity"": ""T1-1""}"	0	15	686	701	T3-1	Deionized water
+101002ejic201201429	2	1	Quantity	MΩ cm	"{""unit"": ""M\u03a9 cm""}"	17	25	703	711	T1-1	18 MΩ cm
+101002ejic201201429	24	2	MeasuredEntity		"{""HasQuantity"": ""T1-2""}"	13	23	3384	3394	T3-2	Co loading
+101002ejic201201429	24	2	Quantity	wt.-%,	"{""unit"": ""wt.-%,""}"	27	38	3398	3409	T1-2	12.7 wt.-%,
+101002ejic201201429	24	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	91	99	3462	3470	T2-3	realized
+101002ejic201201429	24	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	54	85	3425	3456	T3-3	incipient wetness impregnations
+101002ejic201201429	24	3	Quantity			39	42	3410	3413	T1-3	two
+101002ejic201201429	9	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	9	20	1458	1469	T2-4	dissolution
+101002ejic201201429	9	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	28	35	1477	1484	T3-4	polymer
+101002ejic201201429	9	4	Quantity	min	"{""unit"": ""min""}"	54	60	1503	1509	T1-4	<1 min
+101002ejic201201429	16	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	13	21	2351	2359	T2-5	stirring
+101002ejic201201429	16	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	47	50	2385	2388	T3-5	gel
+101002ejic201201429	16	5	Quantity	h	"{""unit"": ""h""}"	6	9	2344	2347	T1-5	1 h
+101002ejic201201429	16	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	79	85	2417	2423	T2-6	heated
+101002ejic201201429	16	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	47	50	2385	2388	T3-6	gel
+101002ejic201201429	16	6	Quantity	degC	"{""unit"": ""degC""}"	89	97	2427	2435	T1-6	100 degC
+101002ejic201201429	16	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	79	85	2417	2423	T2-7	heated
+101002ejic201201429	16	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	47	50	2385	2388	T3-7	gel
+101002ejic201201429	16	7	Quantity	h	"{""unit"": ""h""}"	102	106	2440	2444	T1-7	24 h
+101002ejic201201429	4	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	227	232	1020	1025	T2-8	added
+101002ejic201201429	4	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	156	179	949	972	T3-8	citric acid monohydrate
+101002ejic201201429	4	8	Quantity	equiv	"{""unit"": ""equiv""}"	210	219	1003	1012	T1-8	1-2 equiv
+101002ejic201201429	4	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	227	232	1020	1025	T2-9	added
+101002ejic201201429	4	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	98	128	891	921	T3-9	cobalt(II) nitrate hexahydrate
+101002ejic201201429	4	9	Quantity	mg	"{""unit"": ""mg""}"	130	138	923	931	T1-9	115.5 mg
+101002ejic201201429	4	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	227	232	1020	1025	T2-10	added
+101002ejic201201429	4	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	98	128	891	921	T3-10	cobalt(II) nitrate hexahydrate
+101002ejic201201429	4	10	Quantity	mmol	"{""unit"": ""mmol""}"	140	150	933	943	T1-10	0.397 mmol
+101002ejic201201429	4	11	MeasuredEntity		"{""HasQuantity"": ""T1-11""}"	156	179	949	972	T3-11	citric acid monohydrate
+101002ejic201201429	4	11	Quantity	mg	"{""unit"": ""mg""}"	181	190	974	983	T1-11	83-167 mg
+101002ejic201201429	4	12	MeasuredEntity		"{""HasQuantity"": ""T1-12""}"	156	179	949	972	T3-12	citric acid monohydrate
+101002ejic201201429	4	12	Quantity	mmol	"{""unit"": ""mmol""}"	192	208	985	1001	T1-12	0.397-0.793 mmol
+101002ejic201201429	4	13	MeasuredEntity		"{""HasQuantity"": ""T1-13""}"	249	254	1042	1047	T3-13	water
+101002ejic201201429	4	13	Quantity	mL	"{""unit"": ""mL""}"	256	262	1049	1055	T1-13	175 mL
+101002ejic201201429	11	14	MeasuredEntity		"{""HasQuantity"": ""T1-14""}"	87	92	1793	1798	T3-14	APTES
+101002ejic201201429	11	14	Quantity	equiv	"{""unit"": ""equiv""}"	113	122	1819	1828	T1-14	0.8 equiv
+101002ejic201201429	11	15	MeasuredProperty		"{""HasQuantity"": ""T1-15""}"	169	174	1875	1880	T2-15	added
+101002ejic201201429	11	15	MeasuredEntity		"{""HasProperty"": ""T2-15""}"	46	53	1752	1759	T3-15	ethanol
+101002ejic201201429	11	15	Quantity	mL	"{""unit"": ""mL""}"	64	74	1770	1780	T1-15	390-780 mL
+101002ejic201201429	11	16	MeasuredProperty		"{""HasQuantity"": ""T1-16""}"	169	174	1875	1880	T2-16	added
+101002ejic201201429	11	16	MeasuredEntity		"{""HasProperty"": ""T2-16""}"	87	92	1793	1798	T3-16	APTES
+101002ejic201201429	11	16	Quantity	μL	"{""unit"": ""\u03bcL""}"	94	99	1800	1805	T1-16	77 μL
+101002ejic201201429	11	17	MeasuredProperty		"{""HasQuantity"": ""T1-17""}"	169	174	1875	1880	T2-17	added
+101002ejic201201429	11	17	MeasuredEntity		"{""HasProperty"": ""T2-17""}"	87	92	1793	1798	T3-17	APTES
+101002ejic201201429	11	17	Quantity	mmol	"{""unit"": ""mmol""}"	101	111	1807	1817	T1-17	0.331 mmol
+101002ejic201201429	11	18	MeasuredProperty		"{""HasQuantity"": ""T1-18""}"	169	174	1875	1880	T2-18	added
+101002ejic201201429	11	18	MeasuredEntity		"{""HasProperty"": ""T2-18""}"	129	133	1835	1839	T3-18	TEOS
+101002ejic201201429	11	18	Quantity	μL	"{""unit"": ""\u03bcL""}"	135	141	1841	1847	T1-18	881 μL
+101002ejic201201429	11	19	MeasuredProperty		"{""HasQuantity"": ""T1-19""}"	169	174	1875	1880	T2-19	added
+101002ejic201201429	11	19	MeasuredEntity		"{""HasProperty"": ""T2-19""}"	129	133	1835	1839	T3-19	TEOS
+101002ejic201201429	11	19	Quantity	mmol	"{""unit"": ""mmol""}"	143	152	1849	1858	T1-19	3.97 mmol
+101002ejic201201429	11	20	MeasuredProperty		"{""HasQuantity"": ""T1-20""}"	169	174	1875	1880	T2-20	added
+101002ejic201201429	11	20	MeasuredEntity		"{""HasProperty"": ""T2-20""}"	129	133	1835	1839	T3-20	TEOS
+101002ejic201201429	11	20	Quantity	equiv	"{""unit"": ""equiv""}"	154	162	1860	1868	T1-20	10 equiv
+101002ejic201201429	8	21	MeasuredProperty		"{""HasQuantity"": ""T1-21""}"	35	40	1368	1373	T2-21	added
+101002ejic201201429	8	21	MeasuredEntity		"{""HasProperty"": ""T2-21""}"	18	21	1351	1354	T3-21	PVP
+101002ejic201201429	8	21	Quantity	mg	"{""unit"": ""mg""}"	23	29	1356	1362	T1-21	600 mg
+101002ejic201201429	12	22	MeasuredProperty		"{""HasQuantity"": ""T1-22""}"	37	44	1938	1945	T2-22	proceed
+101002ejic201201429	12	22	MeasuredEntity		"{""HasProperty"": ""T2-22""}"	5	21	1906	1922	T3-22	one-pot reaction
+101002ejic201201429	12	22	Quantity	h	"{""unit"": ""h""}"	49	53	1950	1954	T1-22	20 h
+101002ejic201201429	19	23	MeasuredProperty		"{""HasQuantity"": ""T1-23""}"	30	39	2722	2731	T2-23	increased
+101002ejic201201429	19	23	MeasuredEntity		"{""HasProperty"": ""T2-23""}"	4	15	2696	2707	T3-23	temperature
+101002ejic201201429	19	23	Quantity	degC	"{""unit"": ""degC""}"	65	73	2757	2765	T1-23	400 degC
+101002ejic201201429	19	24	MeasuredProperty		"{""HasQuantity"": ""T1-24""}"	79	83	2771	2775	T2-24	rate
+101002ejic201201429	19	24	MeasuredEntity		"{""HasProperty"": ""T2-24""}"	4	39	2696	2731	T3-24	temperature was initially increased
+101002ejic201201429	19	24	Quantity	degC min-1	"{""unit"": ""degC min-1""}"	87	99	2779	2791	T1-24	5 degC min-1
+101002ejic201201429	19	25	MeasuredProperty		"{""HasQuantity"": ""T1-25""}"	121	125	2813	2817	T2-25	kept
+101002ejic201201429	19	25	MeasuredEntity		"{""HasProperty"": ""T2-25""}"	109	120	2801	2812	T3-25	temperature
+101002ejic201201429	19	25	Quantity	h	"{""unit"": ""h""}"	130	133	2822	2825	T1-25	4 h
+101002ejic201201429	22	26	MeasuredProperty		"{""HasQuantity"": ""T1-26""}"	52	66	3168	3182	T2-26	direct heating
+101002ejic201201429	22	26	MeasuredEntity		"{""HasProperty"": ""T2-26""}"	74	80	3190	3196	T3-26	sample
+101002ejic201201429	22	26	Quantity	degC	"{""unit"": ""degC""}"	106	113	3222	3229	T1-26	85 degC
+101002ejic201201429	23	27	MeasuredProperty		"{""HasQuantity"": ""T1-27""}"	26	34	3271	3279	T2-27	calcined
+101002ejic201201429	23	27	MeasuredEntity		"{""HasProperty"": ""T2-27""}"	13	21	3258	3266	T3-27	catalyst
+101002ejic201201429	23	27	Quantity	degC	"{""unit"": ""degC""}"	38	46	3283	3291	T1-27	420 degC
+101002ejic201201429	23	28	MeasuredProperty		"{""HasQuantity"": ""T1-28""}"	26	34	3271	3279	T2-28	calcined
+101002ejic201201429	23	28	MeasuredEntity		"{""HasProperty"": ""T2-28""}"	13	21	3258	3266	T3-28	catalyst
+101002ejic201201429	23	28	Quantity	h	"{""unit"": ""h""}"	62	65	3307	3310	T1-28	4 h
+101002ejic201201429	6	29	MeasuredEntity		"{""HasQuantity"": ""T1-29""}"	31	36	1188	1193	T3-29	water
+101002ejic201201429	6	29	Quantity	mL	"{""unit"": ""mL""}"	38	42	1195	1199	T1-29	5 mL
+101002ejic201201429	15	30	MeasuredProperty		"{""HasQuantity"": ""T1-30""}"	4	21	2258	2275	T2-30	molar composition
+101002ejic201201429	15	30	MeasuredEntity		"{""HasProperty"": ""T2-30""}"	59	82	2313	2336	T3-30	SiO2/CTAB/NaOH/H2O/EtOH
+101002ejic201201429	15	30	Quantity			40	58	2294	2312	T1-30	1:0.11:0.24:395:36
+101002ejic201201429	17	31	MeasuredProperty		"{""HasQuantity"": ""T1-31""}"	72	77	2542	2547	T2-31	dried
+101002ejic201201429	17	31	MeasuredEntity		"{""HasProperty"": ""T2-31""}"	4	15	2474	2485	T3-31	final solid
+101002ejic201201429	17	31	Quantity	degC	"{""unit"": ""degC""}"	81	88	2551	2558	T1-31	80 degC
+101002ejic201201429	17	32	MeasuredProperty		"{""HasQuantity"": ""T1-32""}"	72	77	2542	2547	T2-32	dried
+101002ejic201201429	17	32	MeasuredEntity		"{""HasProperty"": ""T2-32""}"	4	15	2474	2485	T3-32	final solid
+101002ejic201201429	17	32	Quantity	h	"{""unit"": ""h""}"	93	97	2563	2567	T1-32	12 h
+101002ejic201201429	20	33	MeasuredProperty		"{""HasQuantity"": ""T1-33""}"	143	147	2997	3001	T2-33	SBET
+101002ejic201201429	20	33	MeasuredEntity		"{""HasProperty"": ""T2-33""}"	121	141	2975	2995	T3-33	silica-based carrier
+101002ejic201201429	20	33	Quantity	m2 g-1	"{""unit"": ""m2 g-1""}"	150	160	3004	3014	T1-33	241 m2 g-1
+101002ejic201201429	1	34	MeasuredEntity		"{""HasQuantity"": ""T1-34""}"	262	280	262	280	T3-34	sodium borohydride
+101002ejic201201429	1	34	Quantity	%	"{""unit"": ""%""}"	297	301	297	301	T1-34	98 %
+101002ejic201201429	1	35	MeasuredEntity		"{""HasQuantity"": ""T1-35""}"	304	327	304	327	T3-35	citric acid monohydrate
+101002ejic201201429	1	35	Quantity	%	"{""unit"": ""%""}"	344	350	344	350	T1-35	99.5 %
+101002ejic201201429	1	36	MeasuredEntity		"{""HasQuantity"": ""T1-36""}"	353	388	353	388	T3-36	3-aminopropyltriethoxysilane (APTES
+101002ejic201201429	1	36	Quantity	%	"{""unit"": ""%""}"	405	409	405	409	T1-36	99 %
+101002ejic201201429	1	37	MeasuredEntity		"{""HasQuantity"": ""T1-37""}"	412	441	412	441	T3-37	tetraethylorthosilicate (TEOS
+101002ejic201201429	1	37	Quantity	%	"{""unit"": ""%""}"	456	462	456	462	T1-37	99.9 %
+101002ejic201201429	1	38	MeasuredEntity		"{""HasQuantity"": ""T1-38""}"	465	516	465	516	T3-38	hexadecyltrimethylammonium bromide (CTAB, C19H42BrN
+101002ejic201201429	1	38	Quantity	%	"{""unit"": ""%""}"	525	531	525	531	T1-38	>=98 %
+101002ejic201201429	1	39	MeasuredEntity		"{""HasQuantity"": ""T1-39""}"	534	560	534	560	T3-39	poly(vinylpyrrolidone) PVP
+101002ejic201201429	1	39	Quantity	average mol. wt	"{""unit"": ""average mol. wt""}"	577	598	577	598	T1-39	average mol. wt 40000
+101002ejic201201429	1	40	MeasuredEntity		"{""HasQuantity"": ""T1-40""}"	210	240	210	240	T3-40	Cobalt(II) nitrate hexahydrate
+101002ejic201201429	1	40	Quantity	%	"{""unit"": ""%""}"	255	259	255	259	T1-40	98 %
+101002ejic201201429	1	41	MeasuredEntity		"{""HasQuantity"": ""T1-41""}"	601	605	601	605	T3-41	NaOH
+101002ejic201201429	1	41	Quantity	%	"{""unit"": ""%""}"	622	628	622	628	T1-41	>=98 %
+101002ejic201201429	1	42	MeasuredEntity		"{""HasQuantity"": ""T1-42""}"	635	639	635	639	T3-42	EtOH
+101002ejic201201429	1	42	Quantity	%	"{""unit"": ""%""}"	655	661	655	661	T1-42	99.9 %

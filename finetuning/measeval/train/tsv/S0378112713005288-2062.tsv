@@ -1,0 +1,11 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0378112713005288-2062	3	1	Quantity			71	78	374	381	T1-1	200,000
+S0378112713005288-2062	3	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	79	84	382	387	T2-1	seeds
+S0378112713005288-2062	3	2	Quantity	kg		91	95	394	398	T1-2	1 kg
+S0378112713005288-2062	3	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	85	90	388	393	T4-2	weigh
+S0378112713005288-2062	3	2	MeasuredEntity		{'HasProperty': 'T4-2'}	71	84	374	387	T3-2	200,000 seeds
+S0378112713005288-2062	3	3	Quantity			176	187	479	490	T1-3	5.9 million
+S0378112713005288-2062	3	3	MeasuredEntity		{'HasQuantity': 'T1-3'}	188	193	491	496	T3-3	seeds
+S0378112713005288-2062	3	4	Quantity	kg		200	204	503	507	T1-4	1 kg
+S0378112713005288-2062	3	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	194	199	497	502	T4-4	weigh
+S0378112713005288-2062	3	4	MeasuredEntity		{'HasProperty': 'T4-4'}	176	193	479	496	T3-4	5.9 million seeds

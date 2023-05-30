@@ -1,0 +1,6 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103512002801-2018	4	1	Quantity			0	3	495	498	T1-1	One
+S0019103512002801-2018	4	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	13	21	508	516	T2-1	features
+S0019103512002801-2018	8	2	Quantity	%		106	118	1392	1404	T1-2	at least 10%
+S0019103512002801-2018	8	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	18	64	1304	1350	T4-2	self-pick up process has been shown to lead to
+S0019103512002801-2018	8	2	MeasuredEntity		{'HasProperty': 'T4-2'}	65	104	1351	1390	T2-2	enhanced ULF wave activity in the lunar

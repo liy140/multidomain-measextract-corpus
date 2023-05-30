@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+WO2020128714A1_3	1	1	MeasuredEntity			3	23	3	23	T3-1	The cathode material
+WO2020128714A1_3	1	1	MeasuredProperty			45	60	45	60	T2-1	pressed density
+WO2020128714A1_3	1	1	Quantity	g/cm3		61	95	61	95	T1-1	equal to or greater than 3.7 g/cm3

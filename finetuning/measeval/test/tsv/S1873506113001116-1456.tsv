@@ -1,0 +1,10 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S1873506113001116-1456	1	1	Quantity			90	93	90	93	T1-1	two
+S1873506113001116-1456	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	94	122	94	122	T2-1	integration-free hiPSC lines
+S1873506113001116-1456	1	2	Quantity	ml		164	170	164	170	T1-2	100-ml
+S1873506113001116-1456	1	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	171	182	171	182	T2-2	bioreactors
+S1873506113001116-1456	2	3	Quantity			125	129	309	313	T1-3	~ 20
+S1873506113001116-1456	2	3	MeasuredEntity		{'HasQuantity': 'T1-3'}	130	138	314	322	T2-3	passages
+S1873506113001116-1456	6	4	Quantity	%		157	159	841	843	T1-4	5%
+S1873506113001116-1456	6	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	9	38	693	722	T2-4	karyotypically abnormal cells
+S1873506113001116-1456	6	4	MeasuredEntity		{'HasProperty': 'T2-4'}	163	197	847	881	T3-4	tested batches of hiPSCs and hESCs

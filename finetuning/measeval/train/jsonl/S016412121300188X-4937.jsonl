@@ -1,0 +1,8 @@
+{"text": "As coherent clusters are composed of both backward and forward slices, the stability of the backward slice profile itself does not guarantee the stability of coherent cluster profile.", "sentId": 1, "start": 0, "end": 183}
+{"text": "The remainder of this section looks at how the clustering profile is affected by bug fixes. Fig. 20 shows individual SCGs for each version of barcode.", "sentId": 2, "start": 184, "end": 334}
+{"text": "As coherent clusters are dependent on both backward and forward slices, such clusters will be more sensitive to changes in dependences within the program.", "sentId": 3, "start": 335, "end": 489}
+{"text": "The SCGs show that from the initial version barcode-0.90 there were two coherent clusters in the system.", "sentId": 4, "start": 490, "end": 594}
+{"text": "The smaller one is around 10% of the code while the larger is around 40% of the code.", "sentId": 5, "start": 595, "end": 680}
+{"text": "As the system evolved and went through various modifications and enhancements, the number of clusters and the profile of the clusters remained consistent other than its scaled growth with the increase in program size.", "sentId": 6, "start": 681, "end": 898}
+{"text": "It is also evident that during evolution of the system, the enhancement code or newly added code formed part of the larger cluster.", "sentId": 7, "start": 899, "end": 1030}
+{"text": "This is why in the later stages of the evolution we see an increase in the size of the largest cluster, but not the smaller one.", "sentId": 8, "start": 1031, "end": 1159}

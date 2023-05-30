@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+IN201817029065A_5	1	1	MeasuredEntity			3	16	3	16	T3-1	The precursor
+IN201817029065A_5	1	1	MeasuredProperty			106	136	106	136	T2-1	average particle diameter (D50
+IN201817029065A_5	1	1	Quantity	micro.m		141	166	141	166	T1-1	7 .micro.m to 20 .micro.m
+IN201817029065A_5	1	2	MeasuredEntity			3	16	3	16	T3-2	The precursor
+IN201817029065A_5	1	2	MeasuredProperty			173	198	173	198	T2-2	BET specific surface area
+IN201817029065A_5	1	2	Quantity	m2/g		202	223	202	223	T1-2	5.0 m2/g to 30.0 m2/g

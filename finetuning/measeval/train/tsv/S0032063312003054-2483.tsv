@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0032063312003054-2483	1	1	Quantity	UT		48	84	48	84	T1-1	between ∼01:25:00 UT and 01:25:40 UT
+S0032063312003054-2483	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	21	33	21	33	T3-1	acceleration
+S0032063312003054-2483	1	1	MeasuredEntity		{'HasProperty': 'T3-1'}	37	47	37	47	T4-1	heavy-ions

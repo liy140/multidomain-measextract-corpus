@@ -1,0 +1,7 @@
+{"text": "Sing et al. (2008a,b) used observations of the Na D line profile to constrain the temperature profile in the upper atmosphere.", "sentId": 1, "start": 0, "end": 126}
+{"text": "They suggested that Na condenses into clouds near the 3 mbar level, and thus predicted a deep minimum in temperature in this region that is required for condensation.", "sentId": 2, "start": 127, "end": 293}
+{"text": "The detection of Si2+ implies that condensation of Na in the lower atmosphere is unlikely (Paper II), and thus this result is unreliable.", "sentId": 3, "start": 294, "end": 431}
+{"text": "Relying on the same observations, Vidal-Madjar et al. (2011a,b) predicted that the temperature increases steeply from 1300 K to 3500 K near the 1 μbar level.", "sentId": 4, "start": 432, "end": 589}
+{"text": "However, their method to retrieve the temperature relies on the density scale height of Na to express the optical depth along the line of sight (LOS).", "sentId": 5, "start": 590, "end": 740}
+{"text": "This is not consistent with the argument that Na is depleted above the 3 mbar level.", "sentId": 6, "start": 741, "end": 825}
+{"text": "If such a depletion takes place, the density scale height of Na is not the same as the scale height of the atmosphere and it cannot be used to retrieve temperatures.", "sentId": 7, "start": 826, "end": 991}

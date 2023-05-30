@@ -1,0 +1,10 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0032063312002437-627	1	1	Quantity	s		343	348	343	348	T1-1	192 s
+S0032063312002437-627	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	349	354	349	354	T2-1	cycle
+S0032063312002437-627	2	2	Quantity			78	88	434	444	T1-2	15 or less
+S0032063312002437-627	2	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	29	48	385	404	T3-2	mass channel number
+S0032063312002437-627	2	2	MeasuredEntity		{'HasProperty': 'T3-2'}	56	73	412	429	T2-2	maximum ion count
+S0032063312002437-627	4	3	Quantity			33	48	585	600	T1-3	9th August 2008
+S0032063312002437-627	4	3	MeasuredEntity		{'HasQuantity': 'T1-3'}	20	28	572	580	T2-3	data set
+S0032063312002437-627	4	4	Quantity	UT		75	104	627	656	T1-4	between 05:28 UT and 05:47 UT
+S0032063312002437-627	4	4	MeasuredEntity		{'HasQuantity': 'T1-4'}	70	74	622	626	T2-4	data

@@ -1,0 +1,30 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S1873506113001116-1369	1	1	Quantity	passages		51	72	51	72	T1-1	more than 10 passages
+S1873506113001116-1369	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	20	46	20	46	T4-1	cultured in spinner flasks
+S1873506113001116-1369	1	1	MeasuredEntity		{'HasProperty': 'T4-1'}	0	19	0	19	T3-1	BC1 and TNC1 hiPSCs
+S1873506113001116-1369	2	2	Quantity	%		242	245	399	402	T1-2	10%
+S1873506113001116-1369	2	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	246	251	403	408	T2-2	serum
+S1873506113001116-1369	3	3	Quantity	days		0	12	434	446	T1-3	After 8 days
+S1873506113001116-1369	3	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	16	29	450	463	T4-3	spinner flask
+S1873506113001116-1369	3	3	MeasuredEntity		{'HasProperty': 'T4-3'}	116	146	550	580	T3-3	cells of all three germ layers
+S1873506113001116-1369	3	4	Quantity	days		42	48	476	482	T1-4	4 days
+S1873506113001116-1369	3	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	52	114	486	548	T2-4	gelatin-coated tissue culture plates in differentiation medium
+S1873506113001116-1369	3	4	MeasuredEntity		{'HasProperty': 'T2-4'}	116	146	550	580	T3-4	cells of all three germ layers
+S1873506113001116-1369	7	5	Quantity	%		45	59	1185	1199	T1-5	43.57% ± 4.35%
+S1873506113001116-1369	7	5	MeasuredProperty		{'HasQuantity': 'T1-5'}	95	110	1235	1250	T4-5	CD34+CD45+ HPCs
+S1873506113001116-1369	7	5	MeasuredEntity		{'HasProperty': 'T4-5'}	16	19	1156	1159	T2-5	BC1
+S1873506113001116-1369	7	6	Quantity			65	66	1205	1206	T1-6	3
+S1873506113001116-1369	7	6	MeasuredProperty		{'HasQuantity': 'T1-6'}	61	62	1201	1202	T2-6	n
+S1873506113001116-1369	7	6	MeasuredEntity		{'HasProperty': 'T2-6'}	16	19	1156	1159	T3-6	BC1
+S1873506113001116-1369	7	7	Quantity	%		72	86	1212	1226	T1-7	43.22% ± 7.13%
+S1873506113001116-1369	7	7	MeasuredProperty		{'HasQuantity': 'T1-7'}	95	110	1235	1250	T4-7	CD34+CD45+ HPCs
+S1873506113001116-1369	7	7	MeasuredEntity		{'HasProperty': 'T4-7'}	24	28	1164	1168	T2-7	TNC1
+S1873506113001116-1369	7	8	Quantity			92	93	1232	1233	T1-8	3
+S1873506113001116-1369	7	8	MeasuredProperty		{'HasQuantity': 'T1-8'}	88	89	1228	1229	T2-8	n
+S1873506113001116-1369	7	8	MeasuredEntity		{'HasProperty': 'T2-8'}	24	28	1164	1168	T3-8	TNC1
+S1873506113001116-1369	9	9	Quantity			69	75	1533	1539	T1-9	0.0307
+S1873506113001116-1369	9	9	MeasuredProperty		{'HasQuantity': 'T1-9'}	65	66	1529	1530	T3-9	P
+S1873506113001116-1369	9	9	MeasuredEntity		{'HasProperty': 'T3-9'}	4	24	1468	1488	T2-9	total number of CFUs
+S1873506113001116-1369	9	10	Quantity			81	82	1545	1546	T1-10	3
+S1873506113001116-1369	9	10	MeasuredProperty		{'HasQuantity': 'T1-10'}	77	78	1541	1542	T3-10	n
+S1873506113001116-1369	9	10	MeasuredEntity		{'HasProperty': 'T3-10'}	4	24	1468	1488	T2-10	total number of CFUs

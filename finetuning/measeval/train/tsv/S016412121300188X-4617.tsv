@@ -1,0 +1,5 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S016412121300188X-4617	2	1	Quantity	%		125	128	227	230	T1-1	52%
+S016412121300188X-4617	2	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	87	123	189	225	T3-1	very large dominant coherent cluster
+S016412121300188X-4617	2	2	Quantity	%		197	200	299	302	T1-2	11%
+S016412121300188X-4617	2	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	183	190	285	292	T2-2	largest

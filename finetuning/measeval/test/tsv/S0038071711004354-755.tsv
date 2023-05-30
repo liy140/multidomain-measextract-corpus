@@ -1,0 +1,13 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0038071711004354-755	1	4	MeasuredEntity		{'HasProperty': 'T2-4'}	19	36	19	36	T3-4	dual-chamber test
+S0038071711004354-755	3	1	Quantity	‰		18	36	162	180	T1-1	approximately −14‰
+S0038071711004354-755	3	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	53	57	197	201	T5-1	δ13C
+S0038071711004354-755	3	1	MeasuredEntity		{'HasProperty': 'T5-1'}	61	72	205	216	T4-1	ambient CO2
+S0038071711004354-755	6	2	Quantity	h		143	162	596	615	T1-2	approximately 2.5 h
+S0038071711004354-755	6	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	126	136	579	589	T4-2	stabilised
+S0038071711004354-755	6	2	MeasuredEntity		{'HasProperty': 'T4-2'}	104	125	557	578	T3-2	δ13C value of the CO2
+S0038071711004354-755	6	3	Quantity	‰		166	179	619	632	T1-3	−28.5 ± 0.33‰
+S0038071711004354-755	6	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	104	108	557	561	T3-3	δ13C
+S0038071711004354-755	6	3	MeasuredEntity		{'HasProperty': 'T3-3'}	122	125	575	578	T2-3	CO2
+S0038071711004354-755	6	4	Quantity			196	198	649	651	T1-4	60
+S0038071711004354-755	6	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	192	193	645	646	T2-4	n

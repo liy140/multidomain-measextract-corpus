@@ -1,0 +1,5 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103512003995-2760	2	1	Quantity	km s−1		122	131	324	333	T11-1	11 km s−1
+S0019103512003995-2760	2	1	MeasuredProperty		{'HasQuantity': 'T11-1'}	97	112	299	314	T21-1	radial velocity
+S0019103512003995-2760	2	1	MeasuredEntity		{'HasProperty': 'T21-1'}	59	69	261	271	T31-1	SOL2 model
+S0019103512003995-2760	2	2	Quantity	Rp		135	138	337	340	T52-2	5Rp

@@ -1,0 +1,12 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S2213158213000582-1398	1	1	Quantity	ms		15	20	15	20	T1-1	50 ms
+S2213158213000582-1398	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	21	31	21	31	T2-1	group maps
+S2213158213000582-1398	1	2	Quantity	ms		56	62	56	62	T1-2	100 ms
+S2213158213000582-1398	1	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	33	52	33	52	T3-2	group contrast maps
+S2213158213000582-1398	1	3	Quantity			131	137	131	137	T1-3	< 0.05
+S2213158213000582-1398	1	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	125	130	125	130	T3-3	FDR q
+S2213158213000582-1398	1	3	MeasuredEntity		{'HasProperty': 'T3-3'}	79	123	79	123	T2-3	group differences in STG and non-STG regions
+S2213158213000582-1398	1	4	MeasuredEntity		{'HasQuantity': 'T1-4'}	33	52	33	52	T2-4	group contrast maps
+S2213158213000582-1398	1	5	MeasuredEntity		{'HasQuantity': 'T1-5'}	33	52	33	52	T3-5	group contrast maps
+S2213158213000582-1398	2	4	Quantity	ms		117	123	257	263	T1-4	100 ms
+S2213158213000582-1398	2	5	Quantity	ms		223	229	363	369	T1-5	100 ms

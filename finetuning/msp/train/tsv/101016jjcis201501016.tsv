@@ -1,0 +1,42 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jjcis201501016	6	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	33	53	750	770	T2-1	thermal temperatures
+101016jjcis201501016	6	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	14	17	731	734	T3-1	CSs
+101016jjcis201501016	6	1	Quantity	degC	"{""unit"": ""degC""}"	57	79	774	796	T1-1	600, 800 and 1000 degC
+101016jjcis201501016	8	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	40	48	1024	1032	T2-2	sintered
+101016jjcis201501016	8	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	4	34	988	1018	T3-2	as-prepared counter electrodes
+101016jjcis201501016	8	2	Quantity	degC	"{""unit"": ""degC""}"	52	60	1036	1044	T1-2	400 degC
+101016jjcis201501016	8	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	40	48	1024	1032	T2-3	sintered
+101016jjcis201501016	8	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	4	34	988	1018	T3-3	as-prepared counter electrodes
+101016jjcis201501016	8	3	Quantity	min	"{""unit"": ""min""}"	65	71	1049	1055	T1-3	30 min
+101016jjcis201501016	5	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	87	92	597	602	T2-4	dried
+101016jjcis201501016	5	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	71	82	581	592	T3-4	precipitate
+101016jjcis201501016	5	4	Quantity	degC	"{""unit"": ""degC""}"	113	120	623	630	T1-4	80 degC
+101016jjcis201501016	5	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	87	92	597	602	T2-5	dried
+101016jjcis201501016	5	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	71	82	581	592	T3-5	precipitate
+101016jjcis201501016	5	5	Quantity	h	"{""unit"": ""h""}"	125	129	635	639	T1-5	24 h
+101016jjcis201501016	5	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	142	159	652	669	T2-6	thermally treated
+101016jjcis201501016	5	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	71	82	581	592	T3-6	precipitate
+101016jjcis201501016	5	6	Quantity	h	"{""unit"": ""h""}"	190	193	700	703	T1-6	2 h
+101016jjcis201501016	3	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	68	77	272	281	T2-7	dissolved
+101016jjcis201501016	3	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	20	27	224	231	T3-7	sucrose
+101016jjcis201501016	3	7	Quantity	g	"{""unit"": ""g""}"	12	19	216	223	T1-7	6.846 g
+101016jjcis201501016	3	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	68	77	272	281	T2-8	dissolved
+101016jjcis201501016	3	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	49	62	253	266	T3-8	sulfuric acid
+101016jjcis201501016	3	8	Quantity	g	"{""unit"": ""g""}"	32	35	236	239	T1-8	2 g
+101016jjcis201501016	3	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	88	102	292	306	T2-9	mixing solvent
+101016jjcis201501016	3	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	106	111	310	315	T3-9	water
+101016jjcis201501016	3	9	Quantity	ml	"{""unit"": ""ml""}"	81	87	285	291	T1-9	100 ml
+101016jjcis201501016	3	10	MeasuredEntity		"{""HasQuantity"": ""T1-10""}"	88	131	292	335	T3-10	mixing solvent of water and ethylene glycol
+101016jjcis201501016	3	10	Quantity	v/v	"{""unit"": ""v/v""}"	133	140	337	344	T1-10	6:4 v/v
+101016jjcis201501016	7	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	61	72	910	921	T2-11	resistivity
+101016jjcis201501016	7	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	41	59	890	908	T3-11	F-doped SnO2 (FTO)
+101016jjcis201501016	7	11	Quantity	Ω/#	"{""unit"": ""\u03a9/#""}"	74	80	923	929	T1-11	14 Ω/#
+101016jjcis201501016	4	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	40	46	387	393	T2-12	heated
+101016jjcis201501016	4	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	27	35	374	382	T3-12	solution
+101016jjcis201501016	4	12	Quantity	ml	"{""unit"": ""ml""}"	14	19	361	366	T1-12	20 ml
+101016jjcis201501016	4	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	40	46	387	393	T2-13	heated
+101016jjcis201501016	4	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	27	35	374	382	T3-13	solution
+101016jjcis201501016	4	13	Quantity	degC	"{""unit"": ""degC""}"	50	58	397	405	T1-13	160 degC
+101016jjcis201501016	4	14	MeasuredProperty		"{""HasQuantity"": ""T1-14""}"	40	46	387	393	T2-14	heated
+101016jjcis201501016	4	14	MeasuredEntity		"{""HasProperty"": ""T2-14""}"	27	35	374	382	T3-14	solution
+101016jjcis201501016	4	14	Quantity	min	"{""unit"": ""min""}"	107	113	454	460	T1-14	10 min

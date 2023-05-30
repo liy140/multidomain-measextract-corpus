@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20170317349A1_5	1	1	MeasuredEntity			76	89	76	89	T3-1	the precursor
+US20170317349A1_5	1	1	MeasuredProperty			96	107	96	107	T2-1	tap density
+US20170317349A1_5	1	1	Quantity	g/cc		111	119	111	119	T1-1	2.0 g/cc

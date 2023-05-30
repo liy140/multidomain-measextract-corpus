@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20140272587A1_1	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	138	184	138	184	T3-1	composite transition metal hydroxide particles
+US20140272587A1_1	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	241	257	241	257	T2-1	average diameter
+US20140272587A1_1	1	1	Quantity	μm	"{""unit"": ""\u03bcm""}"	261	273	261	273	T1-1	1 μm to 8 μm

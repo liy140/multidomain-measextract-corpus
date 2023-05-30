@@ -1,0 +1,11 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0021979713004438-1969	1	1	Quantity	μM		153	158	153	158	T51-1	10 μM
+S0021979713004438-1969	1	1	MeasuredEntity		{'HasQuantity': 'T51-1'}	159	164	159	164	T71-1	FeCl3
+S0021979713004438-1969	2	2	Quantity	pH		101	107	290	296	T82-2	pH 7–8
+S0021979713004438-1969	2	2	MeasuredEntity		{'HasQuantity': 'T82-2'}	89	97	278	286	T92-2	solution
+S0021979713004438-1969	3	3	Quantity	%		46	49	354	357	T13-3	10%
+S0021979713004438-1969	3	3	MeasuredEntity		{'HasQuantity': 'T13-3'}	50	54	358	362	T123-3	NaOH
+S0021979713004438-1969	4	4	Quantity	nm		16	23	454	461	T44-4	3.91 nm
+S0021979713004438-1969	4	4	MeasuredProperty		{'HasQuantity': 'T44-4'}	4	12	442	450	T134-4	Rq value
+S0021979713004438-1969	4	5	Quantity	nm		31	46	469	484	T25-5	500 nm × 500 nm
+S0021979713004438-1969	4	5	MeasuredEntity		{'HasQuantity': 'T25-5'}	47	59	485	497	T35-5	scanned area

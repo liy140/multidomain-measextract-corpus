@@ -1,0 +1,17 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S2211124712002884-1110	1	1	Quantity	days		107	115	107	115	T1-1	5–6 days
+S2211124712002884-1110	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	58	102	58	102	T3-1	grown as embryoid bodies (EBs) in suspension
+S2211124712002884-1110	1	1	MeasuredEntity		{'HasProperty': 'T3-1'}	0	13	0	13	T2-1	iPSC colonies
+S2211124712002884-1110	3	2	Quantity	day		0	7	217	224	T1-2	Ten-day
+S2211124712002884-1110	3	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	8	11	225	228	T2-2	old
+S2211124712002884-1110	3	2	MeasuredEntity		{'HasProperty': 'T2-2'}	12	20	229	237	T3-2	rosettes
+S2211124712002884-1110	4	3	Quantity	weeks		30	45	324	339	T1-3	after 3–4 weeks
+S2211124712002884-1110	4	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	18	29	312	323	T3-3	dissociated
+S2211124712002884-1110	4	3	MeasuredEntity		{'HasProperty': 'T3-3'}	0	12	294	306	T2-3	Neurospheres
+S2211124712002884-1110	4	4	Quantity	mg/ml		147	156	441	450	T1-4	0.1 mg/ml
+S2211124712002884-1110	4	4	MeasuredEntity		{'HasQuantity': 'T1-4'}	132	145	426	439	T2-4	poly-D-lysine
+S2211124712002884-1110	4	5	Quantity	μg/m		171	178	465	472	T1-5	10 μg/m
+S2211124712002884-1110	4	5	MeasuredEntity		{'HasQuantity': 'T1-5'}	162	169	456	463	T2-5	laminin
+S2211124712002884-1110	5	6	Quantity	weeks		18	33	493	508	T1-6	after 2-4 weeks
+S2211124712002884-1110	5	6	MeasuredProperty		{'HasQuantity': 'T1-6'}	13	17	488	492	T3-6	used
+S2211124712002884-1110	5	6	MeasuredEntity		{'HasProperty': 'T3-6'}	0	7	475	482	T2-6	Neurons

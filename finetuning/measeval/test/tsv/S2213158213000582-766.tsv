@@ -1,0 +1,3 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S2213158213000582-766	1	1	Quantity	ms		27	33	27	33	T1-1	100 ms
+S2213158213000582-766	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	34	42	34	42	T2-1	activity

@@ -1,0 +1,20 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0022459611006116-1257	1	1	Quantity	K		64	70	64	70	T1-1	1323 K
+S0022459611006116-1257	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	49	60	49	60	T4-1	synthesised
+S0022459611006116-1257	1	1	MeasuredEntity		{'HasProperty': 'T4-1'}	21	27	21	27	T3-1	Mg3NF3
+S0022459611006116-1257	2	2	Quantity	Å		52	63	247	258	T1-2	4.2153(4) Å
+S0022459611006116-1257	2	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	50	51	245	246	T3-2	a
+S0022459611006116-1257	2	2	MeasuredEntity		{'HasProperty': 'T3-2'}	29	44	224	239	T4-2	cubic unit cell
+S0022459611006116-1257	2	3	Quantity	Å		121	128	316	323	T1-3	4.216 Å
+S0022459611006116-1257	2	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	50	51	245	246	T3-3	a
+S0022459611006116-1257	2	3	MeasuredEntity		{'HasProperty': 'T3-3'}	29	44	224	239	T4-3	cubic unit cell
+S0022459611006116-1257	3	4	Quantity	wt%		199	209	528	538	T1-4	1.1(2) wt%
+S0022459611006116-1257	3	4	MeasuredEntity		{'HasQuantity': 'T1-4'}	175	195	504	524	T2-4	final phase fraction
+S0022459611006116-1257	5	5	Quantity	fm		175	182	922	929	T1-5	9.36 fm
+S0022459611006116-1257	5	5	MeasuredProperty		{'HasQuantity': 'T1-5'}	87	122	834	869	T3-5	coherent neutron scattering lengths
+S0022459611006116-1257	5	5	MeasuredEntity		{'HasProperty': 'T3-5'}	170	171	917	918	T2-5	N
+S0022459611006116-1257	5	6	Quantity	fm		189	196	936	943	T1-6	5.65 fm
+S0022459611006116-1257	5	6	MeasuredProperty		{'HasQuantity': 'T1-6'}	96	122	843	869	T3-6	neutron scattering lengths
+S0022459611006116-1257	5	6	MeasuredEntity		{'HasProperty': 'T3-6'}	184	185	931	932	T2-6	F
+S0022459611006116-1257	10	7	Quantity	°		73	77	1590	1594	T1-7	145°
+S0022459611006116-1257	10	7	MeasuredEntity		{'HasQuantity': 'T1-7'}	47	66	1564	1583	T2-7	backscattering bank

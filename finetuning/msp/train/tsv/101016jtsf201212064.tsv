@@ -1,0 +1,29 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jtsf201212064	4	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	13	18	390	395	T2-1	thick
+101016jtsf201212064	4	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	19	40	396	417	T3-1	(TiVCrZrHf)N coatings
+101016jtsf201212064	4	1	Quantity	μm	"{""unit"": ""\u03bcm""}"	6	12	383	389	T1-1	1.4 μm
+101016jtsf201212064	4	2	MeasuredEntity		"{""HasQuantity"": ""T1-2""}"	61	73	438	450	T3-2	plasma power
+101016jtsf201212064	4	2	Quantity	W	"{""unit"": ""W""}"	77	82	454	459	T1-2	350 W
+101016jtsf201212064	4	3	MeasuredEntity		"{""HasQuantity"": ""T1-3""}"	89	103	466	480	T3-3	substrate bias
+101016jtsf201212064	4	3	Quantity	V	"{""unit"": ""V""}"	107	114	484	491	T1-3	- 100 V
+101016jtsf201212064	4	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	154	170	531	547	T2-4	working pressure
+101016jtsf201212064	4	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	19	40	396	417	T3-4	(TiVCrZrHf)N coatings
+101016jtsf201212064	4	4	Quantity	Pa	"{""unit"": ""Pa""}"	174	189	551	566	T1-4	6.67 x 10- 1 Pa
+101016jtsf201212064	4	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	135	145	512	522	T2-5	atmosphere
+101016jtsf201212064	4	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	19	40	396	417	T3-5	(TiVCrZrHf)N coatings
+101016jtsf201212064	4	5	Quantity	degC	"{""unit"": ""degC""}"	193	201	570	578	T1-5	450 degC
+101016jtsf201212064	4	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	207	217	584	594	T2-6	flow rates
+101016jtsf201212064	4	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	221	223	598	600	T3-6	Ar
+101016jtsf201212064	4	6	Quantity	sccm	"{""unit"": ""sccm""}"	250	264	627	641	T1-6	100 and 4 sccm
+101016jtsf201212064	4	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	207	217	584	594	T2-7	flow rates
+101016jtsf201212064	4	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	228	230	605	607	T3-7	N2
+101016jtsf201212064	4	7	Quantity	sccm	"{""unit"": ""sccm""}"	258	264	635	641	T1-7	4 sccm
+101016jtsf201212064	5	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	91	99	748	756	T2-8	annealed
+101016jtsf201212064	5	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	45	79	702	736	T3-8	as-deposited (TiVCrZrHf)N coatings
+101016jtsf201212064	5	8	Quantity	degC	"{""unit"": ""degC""}"	127	139	784	796	T1-8	300-700 degC
+101016jtsf201212064	5	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	91	99	748	756	T2-9	annealed
+101016jtsf201212064	5	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	45	79	702	736	T3-9	as-deposited (TiVCrZrHf)N coatings
+101016jtsf201212064	5	9	Quantity	h	"{""unit"": ""h""}"	145	148	802	805	T1-9	2 h
+101016jtsf201212064	2	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	151	159	249	257	T2-10	diameter
+101016jtsf201212064	2	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	113	140	211	238	T3-10	equimolar TiVCrZrHf targets
+101016jtsf201212064	2	10	Quantity	mm	"{""unit"": ""mm""}"	142	147	240	245	T1-10	75 mm

@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S2213158213000582-1410	3	1	Quantity	ms		41	46	506	511	T1-1	50 ms
+S2213158213000582-1410	3	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	68	89	533	554	T3-1	STG group differences
+S2213158213000582-1410	3	2	Quantity	ms		61	67	526	532	T1-2	100 ms
+S2213158213000582-1410	3	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	68	89	533	554	T3-2	STG group differences
+S2213158213000582-1410	3	3	Quantity	ms		143	156	608	621	T1-3	50 and 100 ms
+S2213158213000582-1410	3	3	MeasuredEntity		{'HasQuantity': 'T1-3'}	91	108	556	573	T3-3	group differences

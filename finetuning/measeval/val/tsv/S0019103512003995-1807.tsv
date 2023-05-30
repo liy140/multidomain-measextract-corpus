@@ -1,0 +1,11 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103512003995-1807	3	1	Quantity	nm		118	126	323	331	T11-1	589.3 nm
+S0019103512003995-1807	3	1	MeasuredProperty		{'HasQuantity': 'T11-1'}	127	136	332	341	T31-1	resonance
+S0019103512003995-1807	3	1	MeasuredEntity		{'HasProperty': 'T31-1'}	113	117	318	322	T41-1	Na D
+S0019103512003995-1807	4	2	Quantity			28	32	421	425	T122-2	four
+S0019103512003995-1807	4	2	MeasuredEntity		{'HasQuantity': 'T122-2'}	33	41	426	434	T112-2	transits
+S0019103512003995-1807	5	3	Quantity	nm		193	203	753	763	T23-3	300–800 nm
+S0019103512003995-1807	5	3	MeasuredProperty		{'HasQuantity': 'T23-3'}	178	189	738	749	T53-3	wavelengths
+S0019103512003995-1807	5	3	MeasuredEntity		{'HasProperty': 'T53-3'}	140	174	700	734	T63-3	transmission spectrum of HD209458b
+S0019103512003995-1807	6	4	Quantity	mbar		81	87	846	852	T84-4	3 mbar
+S0019103512003995-1807	6	4	MeasuredEntity		{'HasQuantity': 'T84-4'}	88	93	853	858	T94-4	level

@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+EP3659974A1_13	1	1	MeasuredEntity			87	106	87	106	T3-1	composite hydroxide
+EP3659974A1_13	1	1	MeasuredProperty			113	134	113	134	T2-1	specific surface (BET
+EP3659974A1_13	1	1	Quantity	m2/g		136	169	136	169	T1-1	in the range of from 2 to 70 m2/g

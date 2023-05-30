@@ -1,0 +1,11 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S1387700313001822-661	2	1	MeasuredEntity		{'HasProperty': 'T4-1'}	28	58	226	256	T3-1	solid state CD spectrum of GMP
+S1387700313001822-661	4	1	Quantity	nm		76	82	456	462	T1-1	260 nm
+S1387700313001822-661	4	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	55	68	435	448	T4-1	negative band
+S1387700313001822-661	5	2	Quantity	nm		56	66	599	609	T1-2	215–225 nm
+S1387700313001822-661	5	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	39	52	582	595	T3-2	negative band
+S1387700313001822-661	5	2	MeasuredEntity		{'HasProperty': 'T3-2'}	7	28	550	571	T4-2	spectrum of complex 1
+S1387700313001822-661	7	3	Quantity	nm		35	41	895	901	T1-3	297 nm
+S1387700313001822-661	7	3	MeasuredEntity		{'HasQuantity': 'T1-3'}	4	22	864	882	T3-3	strong negative CE
+S1387700313001822-661	7	4	Quantity	mdeg		45	56	905	916	T1-4	≈ − 10 mdeg
+S1387700313001822-661	7	4	MeasuredEntity		{'HasQuantity': 'T1-4'}	43	44	903	904	T3-4	θ

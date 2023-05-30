@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0016236113008041-890	1	1	Quantity	kg		97	119	97	119	T31-1	4.5 kg, 6 kg and 13 kg
+S0016236113008041-890	1	1	MeasuredProperty		{'HasQuantity': 'T31-1'}	120	125	120	125	T51-1	CaCO3
+S0016236113008041-890	1	1	MeasuredEntity		{'HasProperty': 'T51-1'}	78	93	78	93	T41-1	bed inventories

@@ -1,0 +1,9 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0022459611006116-1195	3	1	Quantity	°		36	45	175	184	T61-1	5≤2θ/°≤80
+S0022459611006116-1195	3	1	MeasuredEntity		{'HasQuantity': 'T61-1'}	0	13	139	152	T51-1	Initial scans
+S0022459611006116-1195	3	2	Quantity	°		66	71	205	210	T42-2	0.02°
+S0022459611006116-1195	3	2	MeasuredProperty		{'HasQuantity': 'T42-2'}	53	62	192	201	T32-2	step size
+S0022459611006116-1195	3	2	MeasuredEntity		{'HasProperty': 'T32-2'}	0	13	139	152	T52-2	Initial scans
+S0022459611006116-1195	3	3	Quantity	min		91	97	230	236	T13-3	50 min
+S0022459611006116-1195	3	3	MeasuredProperty		{'HasQuantity': 'T13-3'}	78	87	217	226	T23-3	scan time
+S0022459611006116-1195	3	3	MeasuredEntity		{'HasProperty': 'T23-3'}	0	13	139	152	T53-3	Initial scans

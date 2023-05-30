@@ -1,0 +1,10 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN106745336B_4	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	113	160	113	160	T3-1	lithium nickel cobalt manganese oxide precursor
+CN106745336B_4	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	94	105	94	105	T2-1	tap density
+CN106745336B_4	1	1	Quantity	g/cm3	"{""unit"": ""g/cm3""}"	164	176	164	176	T1-1	1.8-2.4g/cm3
+CN106745336B_4	1	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	113	160	113	160	T3-2	lithium nickel cobalt manganese oxide precursor
+CN106745336B_4	1	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	176	197	176	197	T2-2	Specific surface area
+CN106745336B_4	1	2	Quantity	m2G	"{""unit"": ""m2G""}"	201	208	201	208	T1-2	4-10m2G
+CN106745336B_4	1	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	113	160	113	160	T3-3	lithium nickel cobalt manganese oxide precursor
+CN106745336B_4	1	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	250	259	250	259	T2-3	S content
+CN106745336B_4	1	3	Quantity	ppm	"{""unit"": ""ppm""}"	263	276	263	276	T1-3	1000-1800 ppm

@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0012821X13002185-1200	3	1	Quantity	μm		33	40	318	325	T11-1	>100 μm
+S0012821X13002185-1200	3	1	MeasuredEntity		{'HasQuantity': 'T11-1'}	41	49	326	334	T21-1	fraction
+S0012821X13002185-1200	3	2	Quantity			115	133	400	418	T32-2	between 50 and 100
+S0012821X13002185-1200	3	2	MeasuredEntity		{'HasQuantity': 'T32-2'}	134	142	419	427	T42-2	spicules
+S0012821X13002185-1200	5	3	Quantity	μL		68	74	705	711	T53-3	200 μL
+S0012821X13002185-1200	5	3	MeasuredEntity		{'HasQuantity': 'T53-3'}	78	95	715	732	T63-3	concentrated HNO3

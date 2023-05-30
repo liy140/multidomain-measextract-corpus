@@ -1,0 +1,17 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0016236113008041-3257	3	1	Quantity	weight%		47	62	323	338	T1-1	weight% of 0.34
+S0016236113008041-3257	3	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	0	2	276	278	T3-1	Al
+S0016236113008041-3257	3	1	MeasuredEntity		{'HasProperty': 'T3-1'}	25	41	301	317	T2-1	unreacted sample
+S0016236113008041-3257	3	2	Quantity	%		104	109	380	385	T1-2	0.67%
+S0016236113008041-3257	3	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	0	2	276	278	T2-2	Al
+S0016236113008041-3257	3	2	MeasuredEntity		{'HasProperty': 'T2-2'}	124	130	400	406	T4-2	4.5 kg
+S0016236113008041-3257	3	3	Quantity	%		114	119	390	395	T1-3	0.66%
+S0016236113008041-3257	3	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	0	2	276	278	T3-3	Al
+S0016236113008041-3257	3	3	MeasuredEntity		{'HasProperty': 'T3-3'}	135	147	411	423	T2-3	6 kg samples
+S0016236113008041-3257	3	4	Quantity	kg		124	139	400	415	T1-4	4.5 kg and 6 kg
+S0016236113008041-3257	3	4	MeasuredEntity		{'HasQuantity': 'T1-4'}	140	147	416	423	T3-4	samples
+S0016236113008041-3257	3	5	Quantity	%		190	195	466	471	T1-5	3.98%
+S0016236113008041-3257	3	5	MeasuredProperty		{'HasQuantity': 'T1-5'}	0	2	276	278	T3-5	Al
+S0016236113008041-3257	3	5	MeasuredEntity		{'HasProperty': 'T3-5'}	200	223	476	499	T2-5	13 kg sample of sorbent
+S0016236113008041-3257	3	6	Quantity	kg		200	205	476	481	T1-6	13 kg
+S0016236113008041-3257	3	6	MeasuredEntity		{'HasQuantity': 'T1-6'}	206	223	482	499	T2-6	sample of sorbent

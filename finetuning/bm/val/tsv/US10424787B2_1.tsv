@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US10424787B2_1	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	1431	1454	1431	1454	T3-1	the secondary particles
+US10424787B2_1	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	1465	1486	1465	1486	T2-1	average particle size
+US10424787B2_1	1	1	Quantity	μm	"{""unit"": ""\u03bcm""}"	1490	1503	1490	1503	T1-1	1 μm to 15 μm
+US10424787B2_1	1	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	1431	1454	1431	1454	T3-2	the secondary particles
+US10424787B2_1	1	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	1585	1611	1585	1611	T2-2	particle size distribution
+US10424787B2_1	1	2	Quantity			1615	1626	1615	1626	T1-2	0.7 or less

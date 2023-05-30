@@ -1,0 +1,5 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20190386303A1_7	1	1	MeasuredEntity			405	421	405	421	T3-1	Na/S molar ratio
+US20190386303A1_7	1	1	Quantity			427	437	427	437	T1-1	0.4<Na/S<2
+US20190386303A1_7	1	2	MeasuredEntity			442	506	442	506	T3-2	the sodium (Na<sub>wt</sub>) and sulfur (S<sub>wt</sub>) content
+US20190386303A1_7	1	2	Quantity	wt %		572	616	572	616	T1-2	of more than 0.4 wt % and less than 1.6 wt %

@@ -1,0 +1,5 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0960148113005727-1494	1	1	Quantity	percentage points per year		42	81	42	81	T1-1	−0.43 ± 0.05 percentage points per year
+S0960148113005727-1494	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	30	38	30	38	T4-1	measures
+S0960148113005727-1494	1	2	Quantity	%		90	101	90	101	T1-2	−1.6 ± 0.2%
+S0960148113005727-1494	1	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	102	120	102	120	T2-2	annual degradation

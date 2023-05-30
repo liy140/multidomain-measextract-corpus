@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+EP2911224B1_4	1	1	MeasuredEntity			322	329	322	329	T3-1	ammonia
+EP2911224B1_4	1	1	MeasuredProperty			330	343	330	343	T2-1	concentration
+EP2911224B1_4	1	1	Quantity	mol/L		396	405	396	405	T1-1	1.4 mol/L

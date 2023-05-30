@@ -1,0 +1,6 @@
+{"text": "In agreement with K10, we showed that the H Lyman α transit observations (Vidal-Madjar et al., 2003, 2004; Ben-Jaffel, 2007, 2008; Ben-Jaffel and Hosseini, 2010) can be fitted with a layer of H in the thermosphere that is described by three simple parameters.", "sentId": 1, "start": 0, "end": 259}
+{"text": "These are the pressure at the bottom of the H layer, the mean temperature in the thermosphere, and a cutoff level due to ionization.", "sentId": 2, "start": 260, "end": 392}
+{"text": "The most important parameters are the pressure at the lower boundary and the mean temperature.", "sentId": 3, "start": 393, "end": 487}
+{"text": "Because H is the dominant species in the thermosphere, the data can be used to estimate the temperature of the thermosphere.", "sentId": 4, "start": 488, "end": 612}
+{"text": "Choosing a lower boundary pressure of 1 μbar based on the location of the H2/H dissociation front in recent photochemical models (Moses et al., 2011) and observational constraints (France et al., 2010), we estimated a mean temperature of about 8250 K in the thermosphere below 3Rp.", "sentId": 5, "start": 613, "end": 894}
+{"text": "However, the uncertainty of the observations is large, and the 1σ upper and lower limits on this temperature are approximately 6000 K and 11,000 K, respectively.4", "sentId": 6, "start": 895, "end": 1057}

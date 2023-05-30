@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN103151511A_14	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	51	77	51	77	T3-1	the mixture in the process
+CN103151511A_14	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	45	47	45	47	T2-1	pH
+CN103151511A_14	1	1	Quantity			111	116	111	116	T1-1	10 11
+CN103151511A_14	1	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	132	162	132	162	T3-2	the mixture in the 2nd process
+CN103151511A_14	1	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	126	128	126	128	T2-2	pH
+CN103151511A_14	1	2	Quantity			185	197	185	197	T1-2	11.5 to 12.0

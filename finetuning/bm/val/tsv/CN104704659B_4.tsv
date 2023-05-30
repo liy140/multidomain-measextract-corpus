@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN104704659B_4	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	85	116	85	116	T3-1	Li-Ni composite oxide particles
+CN104704659B_4	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	125	150	125	150	T2-1	average particle diameter
+CN104704659B_4	1	1	Quantity	μm	"{""unit"": ""\u03bcm""}"	154	161	154	161	T1-1	1-20 μm
+CN104704659B_4	1	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	85	116	85	116	T3-2	Li-Ni composite oxide particles
+CN104704659B_4	1	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	163	188	163	188	T2-2	BET specific surface area
+CN104704659B_4	1	2	Quantity	m2/g	"{""unit"": ""m2/g""}"	189	214	189	214	T1-2	in the range 0.1-1.6 m2/g

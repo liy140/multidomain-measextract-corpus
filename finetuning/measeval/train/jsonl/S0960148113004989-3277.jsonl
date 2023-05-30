@@ -1,0 +1,3 @@
+{"text": "The final scenario (Fig. 3d) was solved with the non-stationary shallow water equations.", "sentId": 1, "start": 0, "end": 88}
+{"text": "The simulation time consisted of one P = 12 h sinusoidal period with a time step of Δt = 864 s. No spin up phase was applied, as its effect is assumed to be small due to the relatively short extent of the domain.", "sentId": 2, "start": 89, "end": 301}
+{"text": "Dirichlet boundary conditions on the left and right boundaries enforced the following sinusoidal in-/outflow velocity:u(x,y,t)=(−2sin(2πt/P)0).", "sentId": 3, "start": 302, "end": 445}

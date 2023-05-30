@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+EP3793011A1_1	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	291	325	291	325	T3-1	positive electrode active material
+EP3793011A1_1	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	359	362	359	362	T2-1	D50
+EP3793011A1_1	1	1	Quantity	µm	"{""unit"": ""\u00b5m""}"	371	384	371	384	T1-1	1.0 to 5.0 µm
+EP3793011A1_1	1	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	291	325	291	325	T3-2	positive electrode active material
+EP3793011A1_1	1	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	388	399	388	399	T2-2	tap density
+EP3793011A1_1	1	2	Quantity	g/cc	"{""unit"": ""g/cc""}"	408	423	408	423	T1-2	1.6 to 2.5 g/cc

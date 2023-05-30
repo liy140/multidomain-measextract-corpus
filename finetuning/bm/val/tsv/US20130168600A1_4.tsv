@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20130168600A1_4	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	50	68	50	68	T3-1	precursor material
+US20130168600A1_4	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	76	102	76	102	T2-1	average particle size (D50
+US20130168600A1_4	1	1	Quantity	microns	"{""unit"": ""microns""}"	104	134	104	134	T1-1	in the range from 3-30 microns

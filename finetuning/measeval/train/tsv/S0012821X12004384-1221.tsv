@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0012821X12004384-1221	3	1	Quantity	m		197	220	662	685	T11-1	between 200 and >1000 m
+S0012821X12004384-1221	3	1	MeasuredProperty		{'HasQuantity': 'T11-1'}	227	232	692	697	T31-1	depth
+S0012821X12004384-1221	3	1	MeasuredEntity		{'HasProperty': 'T31-1'}	221	226	686	691	T21-1	water
+S0012821X12004384-1221	4	2	Quantity	km		270	277	1069	1076	T42-2	>0.5 km
+S0012821X12004384-1221	4	2	MeasuredProperty		{'HasQuantity': 'T42-2'}	255	266	1054	1065	T62-2	paleodepths
+S0012821X12004384-1221	4	2	MeasuredEntity		{'HasProperty': 'T62-2'}	196	235	995	1034	T52-2	central parts of the northern North Sea

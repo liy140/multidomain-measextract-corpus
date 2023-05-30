@@ -1,0 +1,7 @@
+{"text": "The numerical model described in Section 2 is used to simulate the large-scale laboratory experiments presented in Steenhauer et al. (2011a). Fig. 5 illustrates the set-up in a Cartesian system with x and z coordinates in the horizontal and vertical directions respectively, and with the origin at the initial shoreline position.", "sentId": 1, "start": 0, "end": 329}
+{"text": "The experiments involved two beach materials with nominal sediment diameters of 1.5 mm and 8.5 mm.", "sentId": 2, "start": 330, "end": 428}
+{"text": "The dam-break set-up is simulated through a water reservoir with initial water depth in the reservoir 600 mm for experimental series R60PER015 of the 1.5 mm beach and experimental series R60PER085 of the 8.5 mm beach.", "sentId": 3, "start": 429, "end": 646}
+{"text": "An initial water level of 62 mm in front of the beach and a corresponding groundwater level of 62 mm within the beach were used in both cases.", "sentId": 4, "start": 647, "end": 789}
+{"text": "The initial shoreline position is defined through the initial water depth in front of the reservoir.", "sentId": 5, "start": 790, "end": 890}
+{"text": "The slope of the beach was 1:10.", "sentId": 6, "start": 891, "end": 923}
+{"text": "A detailed description of the experimental set-up, surface and subsurface measurements and results are presented in Steenhauer et al. (2011a).", "sentId": 7, "start": 924, "end": 1066}

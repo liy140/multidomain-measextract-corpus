@@ -1,0 +1,5 @@
+{"text": "The Spectralis HRA/OCT device (Heidelberg Engineering) was used to acquire laser-interferometric reflectance OCT images of the retina and choroid, with resolutions comparable to a light microscopic section.", "sentId": 1, "start": 0, "end": 206}
+{"text": "Longitudinal and transversal line OCT scans through the center of the implant were taken with the 30-degrees-of-visual-field setting of the Spectralis.", "sentId": 2, "start": 207, "end": 358}
+{"text": "Volume scans were obtained with 60 μm distance between each scan with the device set to 20 × 20 degrees of visual field centered on the implant.", "sentId": 3, "start": 359, "end": 503}
+{"text": "To approximate human optical parameters to rabbit eyes, the Spectralis’ corneal curvature settings were set by default to 4.2 mm.", "sentId": 4, "start": 504, "end": 633}
+{"text": "Red-free and infrared cSLO images were taken at 30 degrees of visual field in the HRA mode of the device.", "sentId": 5, "start": 634, "end": 739}

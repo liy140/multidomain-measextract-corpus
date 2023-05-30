@@ -1,0 +1,9 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0012821X12004384-1640	1	1	Quantity	‰		39	41	39	41	T1-1	5‰
+S0012821X12004384-1640	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	2	35	2	35	T4-1	negative carbon isotope excursion
+S0012821X12004384-1640	1	1	MeasuredEntity		{'HasProperty': 'T4-1'}	102	135	102	135	T2-1	Paleocene–Eocene boundary section
+S0012821X12004384-1640	3	2	Quantity	m		56	64	478	486	T1-2	from 4 m
+S0012821X12004384-1640	3	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	0	55	422	477	T3-2	Enhanced halocline stratification and terrigenous input
+S0012821X12004384-1640	6	3	Quantity	oN		32	37	1226	1231	T1-3	54 oN
+S0012821X12004384-1640	6	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	18	31	1212	1225	T3-3	paleolatitude
+S0012821X12004384-1640	6	3	MeasuredEntity		{'HasProperty': 'T3-3'}	8	16	1202	1210	T4-3	location

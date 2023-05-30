@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN105594029A_1	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	1163	1171	1163	1171	T3-1	2nd step
+CN105594029A_1	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	1224	1261	1224	1261	T2-1	alkaline solution has a concentration
+CN105594029A_1	1	1	Quantity	g/L	"{""unit"": ""g/L""}"	1265	1272	1265	1272	T1-1	0.5 g/L

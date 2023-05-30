@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S2211124712002884-649	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	4	29	4	29	T4-1	Intracellular PGRN levels
+S2211124712002884-649	2	1	Quantity	%		38	42	117	121	T1-1	100%
+S2211124712002884-649	2	1	MeasuredEntity		{'HasProperty': 'T4-1'}	0	25	79	104	T3-1	Values of control line 20
+S2211124712002884-649	2	2	Quantity			48	51	127	130	T1-2	3–4
+S2211124712002884-649	2	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	44	45	123	124	T2-2	n
+S2211124712002884-649	2	2	MeasuredEntity		{'HasProperty': 'T2-2'}	52	72	131	151	T3-2	independent cultures

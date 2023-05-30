@@ -1,0 +1,11 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0012821X12004384-1302	4	1	Quantity			0	4	553	557	T91-1	Five
+S0012821X12004384-1302	4	1	MeasuredEntity		{'HasQuantity': 'T91-1'}	5	12	558	565	T101-1	samples
+S0012821X12004384-1302	4	2	Quantity	m		35	84	588	637	T12-2	2619.60, 2617.35, 2617.44, 2614.73, and 2614.71 m
+S0012821X12004384-1302	4	2	MeasuredEntity		{'HasQuantity': 'T12-2'}	5	12	558	565	T102-2	samples
+S0012821X12004384-1302	5	3	Quantity	m		23	54	769	800	T23-3	2619.60, 2614.73, and 2614.71 m
+S0012821X12004384-1302	5	3	MeasuredEntity		{'HasQuantity': 'T23-3'}	14	21	760	767	T113-3	samples
+S0012821X12004384-1302	11	4	Quantity			4	7	1481	1484	T34-4	two
+S0012821X12004384-1302	11	4	MeasuredEntity		{'HasQuantity': 'T34-4'}	8	15	1485	1492	T144-4	samples
+S0012821X12004384-1302	11	5	Quantity			16	35	1493	1512	T135-5	2619.60 and 2614.71
+S0012821X12004384-1302	11	5	MeasuredEntity		{'HasQuantity': 'T135-5'}	8	15	1485	1492	T145-5	samples

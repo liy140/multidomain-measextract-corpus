@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20140186710A1_12	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	8	42	8	42	T3-1	positive electrode active material
+US20140186710A1_12	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	88	109	88	109	T2-1	specific surface area
+US20140186710A1_12	1	1	Quantity	m2/g	"{""unit"": ""m2/g""}"	121	139	121	139	T1-1	from 0.3 to 2 m2/g

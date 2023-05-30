@@ -1,0 +1,7 @@
+{"text": "Table 4 shows the statistics for the five largest clusters of acct.", "sentId": 1, "start": 0, "end": 67}
+{"text": "Column 1 gives the cluster number, where 1 is the largest and 5 is the 5th largest cluster measured using the number of vertices.", "sentId": 2, "start": 68, "end": 197}
+{"text": "Columns 2 and 3 show the size of the cluster as a percentage of the program's vertices and actual vertex count, as well as the line count.", "sentId": 3, "start": 198, "end": 336}
+{"text": "Columns 4 and 5 show the number of files and functions where the cluster is found.", "sentId": 4, "start": 337, "end": 419}
+{"text": "The cluster sizes range from 11.4% to 2.4%.", "sentId": 5, "start": 420, "end": 463}
+{"text": "These five clusters can be readily identified in the Heat-Map visualization (not shown) of decluvi.", "sentId": 6, "start": 464, "end": 563}
+{"text": "The rest of the clusters are very small (less than 2% or 30 vertices) in size and are thus of little interest.", "sentId": 7, "start": 564, "end": 674}

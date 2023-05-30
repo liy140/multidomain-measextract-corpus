@@ -1,0 +1,5 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0022399913003358-1044	2	1	Quantity	%		33	43	111	121	T21-1	around 40%
+S0022399913003358-1044	2	1	MeasuredProperty		{'HasQuantity': 'T21-1'}	68	88	146	166	T31-1	hearing difficulties
+S0022399913003358-1044	2	1	MeasuredEntity		{'HasProperty': 'T31-1'}	47	62	125	140	T41-1	55–74 year olds
+S0022399913003358-1044	2	2	Quantity	year		47	57	125	135	T12-2	55–74 year

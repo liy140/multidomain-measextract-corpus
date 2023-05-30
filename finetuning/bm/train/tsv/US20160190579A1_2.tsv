@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20160190579A1_2	1	1	MeasuredEntity			34	49	34	49	T3-1	the second step
+US20160190579A1_2	1	1	MeasuredProperty			58	60	58	60	T2-1	pH
+US20160190579A1_2	1	1	Quantity			81	98	81	98	T1-1	11.8 through 12.3

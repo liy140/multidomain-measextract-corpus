@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN108281650A_14	1	1	MeasuredEntity			49	83	49	83	T3-1	first mixture in the first process
+CN108281650A_14	1	1	MeasuredProperty			39	41	39	41	T2-1	pH
+CN108281650A_14	1	1	Quantity			109	126	109	126	T1-1	range of 10 to 11
+CN108281650A_14	1	2	MeasuredEntity			145	181	145	181	T3-2	second mixture in the second process
+CN108281650A_14	1	2	MeasuredProperty			135	137	135	137	T2-2	pH
+CN108281650A_14	1	2	Quantity			207	228	207	228	T1-2	range of 11.5 to 12.0

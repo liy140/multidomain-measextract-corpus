@@ -1,0 +1,11 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0012821X13007309-1605	1	1	Quantity	°N		102	107	102	107	T21-1	∼30°N
+S0012821X13007309-1605	1	1	MeasuredEntity		{'HasQuantity': 'T21-1'}	4	19	4	19	T11-1	Vocontian Basin
+S0012821X13007309-1605	4	2	Quantity	m thick		2	7	792	797	T32-2	∼20 m
+S0012821X13007309-1605	4	2	MeasuredProperty		{'HasQuantity': 'T32-2'}	8	13	798	803	T42-2	thick
+S0012821X13007309-1605	4	2	MeasuredEntity		{'HasProperty': 'T42-2'}	14	89	804	879	T52-2	package of black organic-rich calcareous shales, termed the “Niveau Thomel”
+S0012821X13007309-1605	5	3	Quantity	m		51	55	1001	1005	T63-3	24 m
+S0012821X13007309-1605	5	3	MeasuredEntity		{'HasQuantity': 'T63-3'}	56	77	1006	1027	T73-3	Pont d'Issole section
+S0012821X13007309-1605	7	4	Quantity			113	114	1387	1388	T94-4	)
+S0012821X13007309-1605	7	4	MeasuredProperty		{'HasQuantity': 'T94-4'}	110	111	1384	1385	T104-4	n
+S0012821X13007309-1605	7	4	MeasuredEntity		{'HasProperty': 'T104-4'}	89	108	1363	1382	T84-4	some of the samples

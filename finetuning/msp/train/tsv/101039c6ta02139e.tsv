@@ -1,0 +1,24 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101039c6ta02139e	4	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	102	110	532	540	T2-1	addition
+101039c6ta02139e	4	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	114	121	544	551	T3-1	pyrrole
+101039c6ta02139e	4	1	Quantity	mL	"{""unit"": ""mL""}"	137	141	567	571	T1-1	1 mL
+101039c6ta02139e	4	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	51	62	481	492	T2-2	cooled down
+101039c6ta02139e	4	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	10	18	440	448	T3-2	solution
+101039c6ta02139e	4	2	Quantity	degC	"{""unit"": ""degC""}"	66	74	496	504	T1-2	0-5 degC
+101039c6ta02139e	3	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	45	54	371	380	T2-3	dispersed
+101039c6ta02139e	3	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	19	32	345	358	T3-3	GO suspension
+101039c6ta02139e	3	3	Quantity	mL	"{""unit"": ""mL""}"	0	5	326	331	T1-3	25 mL
+101039c6ta02139e	3	4	MeasuredEntity		"{""HasQuantity"": ""T1-4""}"	70	73	396	399	T3-4	H2O
+101039c6ta02139e	3	4	Quantity	mL	"{""unit"": ""mL""}"	60	66	386	392	T1-4	175 mL
+101039c6ta02139e	3	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	77	92	403	418	T2-5	ultrasonication
+101039c6ta02139e	3	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	19	32	345	358	T3-5	GO suspension
+101039c6ta02139e	3	5	Quantity	min	"{""unit"": ""min""}"	97	102	423	428	T1-5	5 min
+101039c6ta02139e	7	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	43	52	926	935	T2-6	pyrolysed
+101039c6ta02139e	7	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	22	29	905	912	T3-6	product
+101039c6ta02139e	7	6	Quantity	degC	"{""unit"": ""degC""}"	56	88	939	971	T1-6	500 degC, 700 degC, and 900 degC
+101039c6ta02139e	7	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	43	52	926	935	T2-7	pyrolysed
+101039c6ta02139e	7	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	31	37	914	920	T3-7	Go-Ppy
+101039c6ta02139e	7	7	Quantity	h	"{""unit"": ""h""}"	93	96	976	979	T1-7	1 h
+101039c6ta02139e	6	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	31	43	783	795	T2-8	concentrated
+101039c6ta02139e	6	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	16	26	768	778	T3-8	suspension
+101039c6ta02139e	6	8	Quantity	mL	"{""unit"": ""mL""}"	61	66	813	818	T1-8	30 mL

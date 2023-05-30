@@ -1,0 +1,5 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0925443913001385-1526	3	1	Quantity	μg		26	30	170	174	T1-1	5 μg
+S0925443913001385-1526	3	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	9	24	153	168	T2-1	aliquots of RNA
+S0925443913001385-1526	3	2	Quantity	% (w/v)		61	71	205	215	T1-2	1.2% (w/v)
+S0925443913001385-1526	3	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	72	79	216	223	T2-2	agarose

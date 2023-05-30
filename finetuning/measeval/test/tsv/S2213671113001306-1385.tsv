@@ -1,0 +1,3 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S2213671113001306-1385	2	1	Quantity	week		106	119	310	323	T1-1	beyond 1 week
+S2213671113001306-1385	2	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	89	104	293	308	T2-1	follow-up exams

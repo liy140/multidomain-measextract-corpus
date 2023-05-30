@@ -1,0 +1,13 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0031405612000728-1621	1	1	Quantity	month		200	214	200	214	T1-1	over a 7-month
+S0031405612000728-1621	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	215	221	215	221	T4-1	period
+S0031405612000728-1621	1	1	MeasuredEntity		{'HasProperty': 'T4-1'}	15	36	15	36	T2-1	current investigation
+S0031405612000728-1621	3	2	Quantity	month		82	89	656	663	T1-2	7 month
+S0031405612000728-1621	3	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	68	74	642	648	T3-2	course
+S0031405612000728-1621	3	2	MeasuredEntity		{'HasProperty': 'T3-2'}	90	100	664	674	T4-2	experiment
+S0031405612000728-1621	4	3	Quantity	months		89	90	932	933	T1-3	9
+S0031405612000728-1621	4	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	69	78	912	921	T4-3	incubated
+S0031405612000728-1621	4	3	MeasuredEntity		{'HasProperty': 'T4-3'}	79	84	922	927	T3-3	soils
+S0031405612000728-1621	4	4	Quantity	months		94	104	937	947	T1-4	4.8 months
+S0031405612000728-1621	4	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	69	78	912	921	T4-4	incubated
+S0031405612000728-1621	4	4	MeasuredEntity		{'HasProperty': 'T4-4'}	79	84	922	927	T3-4	soils

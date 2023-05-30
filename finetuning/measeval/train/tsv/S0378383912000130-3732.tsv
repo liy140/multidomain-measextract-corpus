@@ -1,0 +1,3 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0378383912000130-3732	1	1	Quantity	mm		246	267	246	267	T1-1	1.5 mm and the 8.5 mm
+S0378383912000130-3732	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	268	273	268	273	T2-1	beach

@@ -1,0 +1,26 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0021979713004438-2148	1	1	Quantity	μM		132	137	132	137	T31-1	10 μM
+S0021979713004438-2148	1	1	MeasuredEntity		{'HasQuantity': 'T31-1'}	138	143	138	143	T41-1	FeCl3
+S0021979713004438-2148	1	3	MeasuredEntity		{'HasProperty': 'T83-3'}	17	41	17	41	T173-3	in situ ATR-FTIR spectra
+S0021979713004438-2148	1	4	MeasuredEntity		{'HasProperty': 'T94-4'}	17	41	17	41	T174-4	in situ ATR-FTIR spectra
+S0021979713004438-2148	1	5	MeasuredEntity		{'HasProperty': 'T95-5'}	17	41	17	41	T175-5	in situ ATR-FTIR spectra
+S0021979713004438-2148	1	6	MeasuredEntity		{'HasProperty': 'T116-6'}	17	41	17	41	T176-6	in situ ATR-FTIR spectra
+S0021979713004438-2148	1	7	MeasuredEntity		{'HasProperty': 'T127-7'}	17	41	17	41	T177-7	in situ ATR-FTIR spectra
+S0021979713004438-2148	1	8	MeasuredEntity		{'HasProperty': 'T128-8'}	17	41	17	41	T178-8	in situ ATR-FTIR spectra
+S0021979713004438-2148	1	9	MeasuredEntity		{'HasProperty': 'T159-9'}	17	41	17	41	T179-9	in situ ATR-FTIR spectra
+S0021979713004438-2148	2	2	Quantity	min		19	25	193	199	T12-2	15 min
+S0021979713004438-2148	2	2	MeasuredEntity		{'HasQuantity': 'T12-2'}	26	41	200	215	T22-2	Mefp-1 spectrum
+S0021979713004438-2148	5	3	Quantity	cm−1		38	47	888	897	T53-3	1540 cm−1
+S0021979713004438-2148	5	3	MeasuredProperty		{'HasQuantity': 'T53-3'}	48	52	898	902	T83-3	peak
+S0021979713004438-2148	5	4	Quantity			102	111	952	961	T64-4	1550 cm−1
+S0021979713004438-2148	5	4	MeasuredProperty		{'HasQuantity': 'T64-4'}	93	98	943	948	T94-4	peaks
+S0021979713004438-2148	5	5	Quantity	cm−1		116	125	966	975	T75-5	1536 cm−1
+S0021979713004438-2148	5	5	MeasuredProperty		{'HasQuantity': 'T75-5'}	93	98	943	948	T95-5	peaks
+S0021979713004438-2148	6	6	Quantity	cm−1		62	71	1049	1058	T106-6	1540 cm−1
+S0021979713004438-2148	6	6	MeasuredProperty		{'HasQuantity': 'T106-6'}	72	76	1059	1063	T116-6	peak
+S0021979713004438-2148	8	7	Quantity	cm−1		40	49	1460	1469	T137-7	1485 cm−1
+S0021979713004438-2148	8	7	MeasuredProperty		{'HasQuantity': 'T137-7'}	30	35	1450	1455	T127-7	peaks
+S0021979713004438-2148	8	8	Quantity	cm−1		54	63	1474	1483	T148-8	1260 cm−1
+S0021979713004438-2148	8	8	MeasuredProperty		{'HasQuantity': 'T148-8'}	30	35	1450	1455	T128-8	peaks
+S0021979713004438-2148	9	9	Quantity	cm−1		187	196	1827	1836	T169-9	1423 cm−1
+S0021979713004438-2148	9	9	MeasuredProperty		{'HasQuantity': 'T169-9'}	175	183	1815	1823	T159-9	shoulder

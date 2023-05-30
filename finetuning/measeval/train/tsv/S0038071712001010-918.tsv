@@ -1,0 +1,27 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0038071712001010-918	1	1	Quantity			57	64	57	64	T1-1	< 0.001
+S0038071712001010-918	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	55	56	55	56	T3-1	P
+S0038071712001010-918	1	1	MeasuredEntity		{'HasProperty': 'T3-1'}	0	37	0	37	T2-1	AM fungal inoculum as a single factor
+S0038071712001010-918	2	2	Quantity	%		67	77	220	230	T1-2	9.9%–16.2%
+S0038071712001010-918	2	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	43	65	196	218	T2-2	levels of colonisation
+S0038071712001010-918	2	3	Quantity			85	89	238	242	T1-3	7.01
+S0038071712001010-918	2	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	79	82	232	235	T2-3	LSD
+S0038071712001010-918	2	3	MeasuredEntity		{'HasProperty': 'T2-3'}	43	65	196	218	T3-3	levels of colonisation
+S0038071712001010-918	3	4	Quantity	%		109	114	456	461	T1-4	25.4%
+S0038071712001010-918	3	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	12	35	359	382	T3-4	percentage colonisation
+S0038071712001010-918	3	4	MeasuredEntity		{'HasProperty': 'T3-4'}	56	107	403	454	T2-4	two-species mixture of G. geosporum plus G. mosseae
+S0038071712001010-918	3	5	Quantity	%		167	172	514	519	T1-5	23.8%
+S0038071712001010-918	3	5	MeasuredProperty		{'HasQuantity': 'T1-5'}	12	35	359	382	T3-5	percentage colonisation
+S0038071712001010-918	3	5	MeasuredEntity		{'HasProperty': 'T3-5'}	133	165	480	512	T2-5	combination of all three species
+S0038071712001010-918	4	6	Quantity	%		150	155	672	677	T1-6	16.2%
+S0038071712001010-918	4	6	MeasuredProperty		{'HasQuantity': 'T1-6'}	0	23	522	545	T2-6	Percentage colonisation
+S0038071712001010-918	4	6	MeasuredEntity		{'HasProperty': 'T2-6'}	157	169	679	691	T3-6	G. geosporum
+S0038071712001010-918	4	7	Quantity	%		171	175	693	697	T1-7	9.9%
+S0038071712001010-918	4	7	MeasuredProperty		{'HasQuantity': 'T1-7'}	0	23	522	545	T4-7	Percentage colonisation
+S0038071712001010-918	4	7	MeasuredEntity		{'HasProperty': 'T4-7'}	176	186	698	708	T2-7	G. mosseae
+S0038071712001010-918	5	8	Quantity	%		83	87	794	798	T1-8	7.5%
+S0038071712001010-918	5	8	MeasuredProperty		{'HasQuantity': 'T1-8'}	0	12	711	723	T2-8	Colonisation
+S0038071712001010-918	5	8	MeasuredEntity		{'HasProperty': 'T2-8'}	39	69	750	780	T3-8	G. mosseae and G. intraradices
+S0038071712001010-918	5	9	Quantity	%		164	169	875	880	T1-9	14.2%
+S0038071712001010-918	5	9	MeasuredProperty		{'HasQuantity': 'T1-9'}	0	12	711	723	T3-9	Colonisation
+S0038071712001010-918	5	9	MeasuredEntity		{'HasProperty': 'T3-9'}	134	149	845	860	T2-9	G. intraradices

@@ -1,0 +1,8 @@
+{"text": "We interpret our FAC density profiles by considering the corresponding precipitating electron energy fluxes, as shown in Fig. 6(b).", "sentId": 1, "start": 0, "end": 131}
+{"text": "Fluxes are plotted as functions of latitude.", "sentId": 2, "start": 132, "end": 176}
+{"text": "The line style code and labels are the same as in Fig. 6(a), the latitudinal size of a HST ACS-SBC pixel is indicated by the dark grey rectangle and the grey solid line indicates the limit of present HST detectability (~1kR; Cowley et al., 2007).", "sentId": 3, "start": 177, "end": 423}
+{"text": "We begin by comparing profiles for case ES with EF, which are almost identical and both have maxima at ~74° latitude, equivalent to the location of the ‘main auroral oval’, and at ~80°, the boundary between open (region I) and closed field lines (region II).", "sentId": 4, "start": 424, "end": 682}
+{"text": "Therefore, we would expect a fairly bright auroral oval of ~88kR for case ES and ~79kR for case EF.", "sentId": 5, "start": 683, "end": 782}
+{"text": "The electron energy flux for case EF (~7.85mWm−2) is ~10% smaller than case ES (~8.8mWm−2) due to ΩT(ES)>ΩT(EF) leading to a smaller flow shear.", "sentId": 6, "start": 783, "end": 927}
+{"text": "Our model also predicts the possibility of observable polar emission (region II/I boundary) of ~15kR for both cases ES and EF.", "sentId": 7, "start": 928, "end": 1054}
+{"text": "However, this region is strongly dependent on the plasma flow model used and poorly constrained by observations.", "sentId": 8, "start": 1055, "end": 1167}

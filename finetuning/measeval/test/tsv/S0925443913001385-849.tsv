@@ -1,0 +1,6 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0925443913001385-849	4	1	Quantity	μg		25	39	289	303	T1-1	2, 5 and 10 μg
+S0925443913001385-849	4	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	16	23	280	287	T4-1	amounts
+S0925443913001385-849	4	1	MeasuredEntity		{'HasProperty': 'T4-1'}	50	54	314	318	T3-1	RNAs
+S0925443913001385-849	5	2	Quantity	μg		61	67	393	399	T1-2	835 μg
+S0925443913001385-849	5	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	38	59	370	391	T3-2	mitochondrial lysates

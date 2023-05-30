@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN106795008A_7	1	1	MeasuredEntity			63	89	63	89	T3-1	lithium metal oxide powder
+CN106795008A_7	1	1	MeasuredProperty			381	407	381	407	T2-1	particle size distribution
+CN106795008A_7	1	1	Quantity	µm		408	426	408	426	T1-1	10μm ≤ D50 ≤ 20 µm
+CN106795008A_7	1	2	MeasuredEntity			63	89	63	89	T3-2	lithium metal oxide powder
+CN106795008A_7	1	2	MeasuredProperty			448	474	448	474	T2-2	specific surface, with BET
+CN106795008A_7	1	2	Quantity			428	441	428	441	T1-2	0.9 ≤ BET ≤ 5

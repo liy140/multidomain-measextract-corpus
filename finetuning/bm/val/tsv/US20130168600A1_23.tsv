@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20130168600A1_23	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	40	56	40	56	T3-1	co-precipitation
+US20130168600A1_23	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	108	119	108	119	T2-1	temperature
+US20130168600A1_23	1	1	Quantity	° C	"{""unit"": ""\u00b0 C""}"	120	152	120	152	T1-1	in the range from about 50-70° C

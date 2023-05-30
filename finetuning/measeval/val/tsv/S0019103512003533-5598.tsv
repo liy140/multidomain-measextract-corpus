@@ -1,0 +1,11 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103512003533-5598	6	1	Quantity	°S		79	91	842	854	T51-1	74°S to 90°S
+S0019103512003533-5598	6	1	MeasuredEntity		{'HasQuantity': 'T51-1'}	93	116	856	879	T61-1	the summer polar region
+S0019103512003533-5598	6	2	Quantity	K		121	126	884	889	T22-2	490 K
+S0019103512003533-5598	6	2	MeasuredProperty		{'HasQuantity': 'T22-2'}	41	64	804	827	T42-2	exospheric temperatures
+S0019103512003533-5598	6	2	MeasuredEntity		{'HasProperty': 'T42-2'}	7	32	770	795	T122-2	solstice simulation (R19)
+S0019103512003533-5598	6	3	Quantity	K		225	230	988	993	T13-3	430 K
+S0019103512003533-5598	6	3	MeasuredProperty		{'HasQuantity': 'T13-3'}	41	64	804	827	T43-3	exospheric temperatures
+S0019103512003533-5598	6	3	MeasuredEntity		{'HasProperty': 'T43-3'}	7	32	770	795	T123-3	solstice simulation (R19)
+S0019103512003533-5598	6	4	Quantity	K		251	255	1014	1018	T34-4	60 K
+S0019103512003533-5598	6	4	MeasuredEntity		{'HasQuantity': 'T34-4'}	237	247	1000	1010	T114-4	difference

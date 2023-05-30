@@ -1,0 +1,6 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0167819113001051-1247	1	1	Quantity	cores		23	31	23	31	T1-1	18 cores
+S0167819113001051-1247	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	14	18	14	18	T3-1	node
+S0167819113001051-1247	2	2	Quantity	%		149	171	327	349	T2-2	from 50% to around 80%
+S0167819113001051-1247	2	2	MeasuredProperty		{'HasQuantity': 'T2-2'}	106	127	284	305	T1-2	improve the usability
+S0167819113001051-1247	2	2	MeasuredEntity		{'HasProperty': 'T1-2'}	131	148	309	326	T3-2	manufactured dice

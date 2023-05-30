@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0378383913001567-2462	1	1	Quantity	Hz		68	74	68	74	T1-1	0.5 Hz
+S0378383913001567-2462	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	63	65	63	65	T3-1	fp
+S0378383913001567-2462	1	1	MeasuredEntity		{'HasProperty': 'T3-1'}	41	57	41	57	T2-1	JONSWAP spectrum
+S0378383913001567-2462	1	2	Quantity	cm		84	90	84	90	T1-2	1.8 cm
+S0378383913001567-2462	1	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	79	81	79	81	T4-2	Hp
+S0378383913001567-2462	1	2	MeasuredEntity		{'HasProperty': 'T4-2'}	41	57	41	57	T5-2	JONSWAP spectrum

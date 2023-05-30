@@ -1,0 +1,23 @@
+{"text": "10.1038/srep43506\nMultifunctional Nanographene Oxide for Targeted Gene-Mediated Thermochemotherapy of Drug-resistant Tumour\nGraphite powder was purchased from Acros.", "sentId": 1, "start": 0, "end": 165}
+{"text": "KMnO4 (AR), NaNO3 (AR), linear chain PEG amine (5000), branched polyethylenimine 10000 (BPEI 10000), folic acid, EDC and NHS, were purchased from Sigma-Aldrich.", "sentId": 2, "start": 166, "end": 326}
+{"text": "Doxorubicin was purchased from Sangon Biotech (Shanghai, China).", "sentId": 3, "start": 327, "end": 391}
+{"text": "Modified RPMI-1640 Medium was purchased from HyClone.", "sentId": 4, "start": 392, "end": 445}
+{"text": "Fetal bovine serum (FBS), penicillin-streptomycin, and trypsin were obtained from Gibco.", "sentId": 5, "start": 446, "end": 534}
+{"text": "Propidium iodide, LysoTracker, MitoTracker and Hoechst were purchased from Molecular Probes (USA).", "sentId": 6, "start": 535, "end": 633}
+{"text": "The Cell Counting Kit-8 (CCK-8) and Calcein AM were purchased from Dojindo (Japan).", "sentId": 7, "start": 634, "end": 717}
+{"text": "The β-actin antibody was purchased from GeneTex (USA).", "sentId": 8, "start": 718, "end": 772}
+{"text": "The dialysis bags and ultrafiltration tubes (molecular weight cutoff: 10-kDa and 30-kDa) were purchased from Millipore.", "sentId": 9, "start": 773, "end": 892}
+{"text": "The P-gp siRNA, the scrambled siRNA and FAM-labelled siRNA were supplied by GenePharma (Shanghai, China).", "sentId": 10, "start": 893, "end": 998}
+{"text": "\nPPG was prepared based on our previously reported methods27,28.", "sentId": 11, "start": 998, "end": 1062}
+{"text": "Briefly, to strongly bind negatively charged siRNA via electrostatic interactions, we used the high molecular weight branched polyethylenimine (10000) instead of low molecular weight branched polyethylenimine (1800) to modify PG via using cross-linking reagents EDC and NHS.", "sentId": 12, "start": 1063, "end": 1337}
+{"text": "Firstly, 40 mg EDC and 40 mg NHS were mixed in 4 mL FA (0.5 mg/mL, DMSO) solution and magnetically stirred at room temperature for 15 min, after activation, 4 ml PPG (1.0 mg/mL) solution was added in the solution to react at room temperature for 24 h.", "sentId": 14, "start": 1338, "end": 1589}
+{"text": "Finally, excess FA was removed by dialyzing against double distilled water (DD) for 24 h (molecular weight cutoff: 10-kDa).", "sentId": 15, "start": 1590, "end": 1713}
+{"text": "PPG-FA was obtained in an amount equal to NGO-PEG (0.5 mg/mL).", "sentId": 16, "start": 1714, "end": 1776}
+{"text": "\nPreparation of PPG-FA/Dox.", "sentId": 17, "start": 1776, "end": 1803}
+{"text": "Dox was loaded onto PPG-FA via the following method.", "sentId": 18, "start": 1804, "end": 1856}
+{"text": "Briefly, 500 μL PPG-FA (0.5 mg/mL) and 500 μL Dox (1 mg/mL) were mixed in a 5 mL PBS solution and magnetically stirred at room temperature for 12 h.", "sentId": 19, "start": 1857, "end": 2005}
+{"text": "Then, excess Dox was removed by dialyzing the entire system against DD water until the filtrate was free of red colour.", "sentId": 20, "start": 2006, "end": 2125}
+{"text": "\nPreparation of PPG-FA/siRNA: The P-gp siRNA, scrambled siRNA and FAM-labelled siRNA were respectively dissolved in DEPC-treated water to achieve 0.1 mg/mL solution.", "sentId": 21, "start": 2125, "end": 2290}
+{"text": "The PPG-FA was blend with different siRNA solution at a weight ratio of 4:1 (NGO: siRNA), and incubated at room temperature for 30 min.", "sentId": 22, "start": 2291, "end": 2426}
+{"text": "It allows the electrostatic adsorption between negatively charged siRNA and positively charged PPG-FA.", "sentId": 23, "start": 2427, "end": 2529}
+{"text": "For preparation of PPG-FA/Dox/siRNA, the procedures were the same as that for PPG-FA/siRNA except using PPG-FA/Dox dispersed in DEPC-treated water.", "sentId": 24, "start": 2530, "end": 2677}

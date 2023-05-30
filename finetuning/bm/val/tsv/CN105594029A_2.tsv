@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN105594029A_2	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	128	155	128	155	T3-1	the solution to the reactor
+CN105594029A_2	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	122	124	122	124	T2-1	pH
+CN105594029A_2	1	1	Quantity			156	165	156	165	T1-1	12.3 11.8

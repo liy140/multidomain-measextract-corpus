@@ -1,0 +1,26 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0006322312001096-1190	2	1	Quantity	hours		47	63	673	689	T11-1	at least 5 hours
+S0006322312001096-1190	2	1	MeasuredProperty		{'HasQuantity': 'T11-1'}	17	22	643	648	T2-1	taken
+S0006322312001096-1190	2	1	MeasuredEntity		{'HasProperty': 'T2-1'}	0	12	626	638	T1-1	Venous blood
+S0006322312001096-1190	3	2	Quantity	°C		45	49	770	774	T82-2	−4°C
+S0006322312001096-1190	3	2	MeasuredProperty		{'HasQuantity': 'T82-2'}	29	41	754	766	T102-2	refrigerated
+S0006322312001096-1190	3	2	MeasuredEntity		{'HasProperty': 'T102-2'}	0	24	725	749	T92-2	Serum for lipid analyses
+S0006322312001096-1190	3	3	Quantity	hours		62	77	787	802	T23-3	within 72 hours
+S0006322312001096-1190	3	3	MeasuredProperty		{'HasQuantity': 'T23-3'}	54	61	779	786	T113-3	assayed
+S0006322312001096-1190	3	3	MeasuredEntity		{'HasProperty': 'T113-3'}	0	24	725	749	T93-3	Serum for lipid analyses
+S0006322312001096-1190	6	4	Quantity	hours		97	104	1216	1223	T44-4	2 hours
+S0006322312001096-1190	6	4	MeasuredProperty		{'HasQuantity': 'T44-4'}	88	93	1207	1212	T2-4	taken
+S0006322312001096-1190	6	4	MeasuredEntity		{'HasProperty': 'T2-4'}	58	82	1177	1201	T1-4	new venous blood samples
+S0006322312001096-1190	6	5	Quantity	g		129	133	1248	1252	T35-5	75 g
+S0006322312001096-1190	6	5	MeasuredEntity		{'HasQuantity': 'T35-5'}	134	150	1253	1269	T205-5	glucose solution
+S0006322312001096-1190	7	6	Quantity	%		170	179	1441	1450	T56-6	1.4%–3.1%
+S0006322312001096-1190	7	6	MeasuredProperty		{'HasQuantity': 'T56-6'}	139	168	1410	1439	T66-6	mean coefficient of variation
+S0006322312001096-1190	7	6	MeasuredEntity		{'HasProperty': 'T66-6'}	37	59	1308	1330	T1-6	glucose oxidase method
+S0006322312001096-1190	8	7	Quantity	mmol/L		40	51	1493	1504	T157-7	≥7.0 mmol/L
+S0006322312001096-1190	8	7	MeasuredEntity		{'HasQuantity': 'T157-7'}	24	39	1477	1492	T237-7	fasting glucose
+S0006322312001096-1190	8	8	Quantity	hour		55	61	1508	1514	T1-8	2-hour
+S0006322312001096-1190	8	8	MeasuredEntity		{'HasQuantity': 'T1-8'}	62	78	1515	1531	T3-8	postload glucose
+S0006322312001096-1190	8	9	Quantity	mmol/L		79	91	1532	1544	T218-9	≥11.1 mmol/L
+S0006322312001096-1190	8	9	MeasuredEntity		{'HasQuantity': 'T218-9'}	55	78	1508	1531	T228-9	2-hour postload glucose
+S0006322312001096-1190	9	10	Quantity	minutes		86	95	1704	1713	T79-10	5 minutes
+S0006322312001096-1190	9	10	MeasuredEntity		{'HasQuantity': 'T79-10'}	96	100	1714	1718	T179-10	rest

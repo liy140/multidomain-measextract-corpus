@@ -1,0 +1,10 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0960148113005727-1203	2	1	Quantity	%		150	154	390	394	T1-1	2–5%
+S0960148113005727-1203	2	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	133	139	373	379	T4-1	reduce
+S0960148113005727-1203	2	1	MeasuredEntity		{'HasProperty': 'T4-1'}	140	146	380	386	T3-1	output
+S0960148113005727-1203	2	2	Quantity	%		161	163	401	403	T1-2	1%
+S0960148113005727-1203	2	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	133	139	373	379	T4-2	reduce
+S0960148113005727-1203	2	2	MeasuredEntity		{'HasProperty': 'T4-2'}	140	146	380	386	T3-2	output
+S0960148113005727-1203	2	3	Quantity	%		168	170	408	410	T1-3	3%
+S0960148113005727-1203	2	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	171	179	411	419	T3-3	increase
+S0960148113005727-1203	2	3	MeasuredEntity		{'HasProperty': 'T3-3'}	183	203	423	443	T4-3	turbulence intensity

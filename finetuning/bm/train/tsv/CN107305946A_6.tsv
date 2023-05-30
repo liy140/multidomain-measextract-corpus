@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN107305946A_6	1	1	MeasuredEntity			121	138	121	138	T3-1	primary particles
+CN107305946A_6	1	1	MeasuredProperty			92	117	92	117	T2-1	Average particle diameter
+CN107305946A_6	1	1	Quantity	µm		169	180	169	180	T1-1	0.01-0.8 µm
+CN107305946A_6	1	2	MeasuredEntity			220	243	220	243	T3-2	the secondary particles
+CN107305946A_6	1	2	MeasuredProperty			191	216	191	216	T2-2	average particle size D50
+CN107305946A_6	1	2	Quantity	μm		248	255	248	255	T1-2	3-30 μm

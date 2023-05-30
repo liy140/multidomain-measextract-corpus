@@ -1,0 +1,6 @@
+{"text": "Indent  has one extremely large coherent cluster that spans 52.1% of the program's vertices.", "sentId": 1, "start": 0, "end": 92}
+{"text": "The cluster is formed of vertices from 54 functions spread over 7 source files.", "sentId": 2, "start": 93, "end": 172}
+{"text": "This cluster captures most of the logical functionalities of the program.", "sentId": 3, "start": 173, "end": 246}
+{"text": "Out of the 54 functions, 26 begin with the common prefix of “handle_token”.", "sentId": 4, "start": 247, "end": 322}
+{"text": "These 26 functions are individually responsible for handling a specific token during the formatting process.", "sentId": 5, "start": 323, "end": 431}
+{"text": "For example, handle_token_colon, handle_token_comma, handle_token_comment, and handle_token_lbrace are responsible for handling the colon, comma, comment, and left brace tokens, respectively.", "sentId": 6, "start": 432, "end": 623}

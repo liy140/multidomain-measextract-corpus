@@ -1,0 +1,9 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S2213158213000582-751	1	1	Quantity	ms		27	32	27	32	T1-1	50 ms
+S2213158213000582-751	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	33	41	33	41	T2-1	activity
+S2213158213000582-751	2	2	Quantity			58	62	101	105	T1-2	0.05
+S2213158213000582-751	2	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	54	55	97	98	T2-2	q
+S2213158213000582-751	2	2	MeasuredEntity		{'HasProperty': 'T2-2'}	50	53	93	96	T3-2	FDR
+S2213158213000582-751	3	3	Quantity			44	48	199	203	T1-3	0.05
+S2213158213000582-751	3	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	40	41	195	196	T3-3	q
+S2213158213000582-751	3	3	MeasuredEntity		{'HasProperty': 'T3-3'}	36	39	191	194	T2-3	FDR

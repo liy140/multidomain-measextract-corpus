@@ -1,0 +1,19 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jelectacta201412157	3	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	24	63	394	433	T2-1	mole fraction relative to the Zn and Co
+101016jelectacta201412157	3	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	0	11	370	381	T3-1	Citric acid
+101016jelectacta201412157	3	1	Quantity	%	"{""unit"": ""%""}"	19	23	389	393	T1-1	120%
+101016jelectacta201412157	2	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	97	108	324	335	T2-2	molar ratio
+101016jelectacta201412157	2	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	24	83	251	310	T3-2	zinc acetate dihydrate and cobalt (II) acetate tetrahydrate
+101016jelectacta201412157	2	2	Quantity			112	115	339	342	T1-2	1:2
+101016jelectacta201412157	5	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	109	121	685	697	T2-3	heat-treated
+101016jelectacta201412157	5	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	65	90	641	666	T3-3	wine red precursor powder
+101016jelectacta201412157	5	3	Quantity	degC	"{""unit"": ""degC""}"	145	166	721	742	T1-3	400 degC and 500 degC
+101016jelectacta201412157	5	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	32	37	608	613	T2-4	dried
+101016jelectacta201412157	5	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	20	27	596	603	T3-4	mixture
+101016jelectacta201412157	5	4	Quantity	degC	"{""unit"": ""degC""}"	41	48	617	624	T1-4	80 degC
+101016jelectacta201412157	4	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	59	62	528	531	T2-5	run
+101016jelectacta201412157	4	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	45	54	514	523	T3-5	ball mill
+101016jelectacta201412157	4	5	Quantity	h	"{""unit"": ""h""}"	67	70	536	539	T1-5	4 h
+101016jelectacta201412157	4	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	59	62	528	531	T2-6	run
+101016jelectacta201412157	4	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	45	54	514	523	T3-6	ball mill
+101016jelectacta201412157	4	6	Quantity	rpm	"{""unit"": ""rpm""}"	74	81	543	550	T1-6	500 rpm

@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0167610513001001-858	1	1	Quantity	min		109	115	109	115	T1-1	60 min
+S0167610513001001-858	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	88	105	88	105	T3-1	averaging periods
+S0167610513001001-858	1	1	MeasuredEntity		{'HasProperty': 'T3-1'}	0	82	0	82	T4-1	Mean, median and interquartile range of lidar error variances due to sampling rate

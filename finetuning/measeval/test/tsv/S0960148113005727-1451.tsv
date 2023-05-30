@@ -1,0 +1,10 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0960148113005727-1451	1	1	Quantity			31	34	31	34	T1-1	two
+S0960148113005727-1451	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	35	42	35	42	T2-1	reasons
+S0960148113005727-1451	1	2	Quantity	%		355	374	355	374	T1-2	from 12% to just 2%
+S0960148113005727-1451	1	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	334	345	334	345	T2-2	load factor
+S0960148113005727-1451	1	2	MeasuredEntity		{'HasProperty': 'T2-2'}	270	283	270	283	T4-2	Blyth Harbour
+S0960148113005727-1451	1	3	Quantity			375	404	375	404	T1-3	between the ages of 12 and 17
+S0960148113005727-1451	1	3	MeasuredEntity		{'HasQuantity': 'T1-3'}	270	283	270	283	T2-3	Blyth Harbour
+S0960148113005727-1451	2	4	Quantity			39	43	445	449	T1-4	nine
+S0960148113005727-1451	2	4	MeasuredEntity		{'HasQuantity': 'T1-4'}	44	52	450	458	T2-4	turbines

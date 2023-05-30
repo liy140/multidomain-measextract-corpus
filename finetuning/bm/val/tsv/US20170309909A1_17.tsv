@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20170309909A1_17	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	67	84	67	84	T3-1	NH3in the reactor
+US20170309909A1_17	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	50	63	50	63	T2-1	concentration
+US20170309909A1_17	1	1	Quantity			88	105	88	105	T1-1	less than 5.0 g/L

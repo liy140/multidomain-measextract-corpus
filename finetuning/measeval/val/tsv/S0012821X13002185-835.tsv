@@ -1,0 +1,3 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0012821X13002185-835	3	1	Quantity	m		30	35	160	165	T11-1	100 m
+S0012821X13002185-835	3	1	MeasuredEntity		{'HasQuantity': 'T11-1'}	43	55	173	185	T21-1	water column

@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+EP3659974A1_10	1	1	MeasuredEntity			13	32	13	32	T3-1	composite hydroxide
+EP3659974A1_10	1	1	MeasuredProperty			65	82	65	82	T2-1	particle diameter
+EP3659974A1_10	1	1	Quantity	µm		83	111	83	111	T1-1	in the range from 3 to 20 µm

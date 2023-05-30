@@ -1,0 +1,9 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103513005058-4349	1	1	Quantity	%		194	197	194	197	T1-1	35%
+S0019103513005058-4349	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	171	190	171	190	T3-1	temperature profile
+S0019103513005058-4349	1	2	Quantity	%		201	203	201	203	T1-2	5%
+S0019103513005058-4349	1	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	204	214	204	214	T2-2	increments
+S0019103513005058-4349	1	2	MeasuredEntity		{'HasProperty': 'T2-2'}	171	190	171	190	T4-2	temperature profile
+S0019103513005058-4349	3	3	Quantity	orders of magnitude		75	105	368	398	T1-3	around six orders of magnitude
+S0019103513005058-4349	3	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	27	42	320	335	T2-3	deposition rate
+S0019103513005058-4349	3	3	MeasuredEntity		{'HasProperty': 'T2-3'}	46	61	339	354	T4-3	perchloric acid

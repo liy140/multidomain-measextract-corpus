@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN106795008B_1	1	1	MeasuredEntity			232	245	232	245	T3-1	the precursor
+CN106795008B_1	1	1	MeasuredProperty			472	550	472	550	T2-1	Sum of contents (2. multidot. Na)<Sub>Weight (D)</Sub>)+S<Sub>Weight (D)</Sub>
+CN106795008B_1	1	1	Quantity	wt%		560	589	560	589	T1-1	0.4 wt% and less than 1.6 wt%

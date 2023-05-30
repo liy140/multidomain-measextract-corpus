@@ -1,0 +1,9 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S1550413113004920-1509	1	1	Quantity			13	16	13	16	T1-1	147
+S1550413113004920-1509	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	17	25	17	25	T2-1	patients
+S1550413113004920-1509	1	2	Quantity	months		168	183	168	183	T1-2	before 6 months
+S1550413113004920-1509	1	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	134	167	134	167	T2-2	diagnosed with permanent diabetes
+S1550413113004920-1509	1	2	MeasuredEntity		{'HasProperty': 'T2-2'}	13	55	13	55	T4-2	147 patients from consanguineous pedigrees
+S1550413113004920-1509	1	3	Quantity	months		233	248	233	248	T1-3	before 9 months
+S1550413113004920-1509	1	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	199	232	199	232	T3-3	diagnosed with permanent diabetes
+S1550413113004920-1509	1	3	MeasuredEntity		{'HasProperty': 'T3-3'}	13	55	13	55	T4-3	147 patients from consanguineous pedigrees

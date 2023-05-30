@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20190379043A1_6	1	1	MeasuredEntity			103	126	103	126	T3-1	the secondary particles
+US20190379043A1_6	1	1	MeasuredProperty			78	99	78	99	T2-1	average particle size
+US20190379043A1_6	1	1	Quantity	μm		148	161	148	161	T1-1	1 μm to 15 μm
+US20190379043A1_6	1	2	MeasuredEntity			300	323	300	323	T3-2	the secondary particles
+US20190379043A1_6	1	2	MeasuredProperty			270	296	270	296	T2-2	particle size distribution
+US20190379043A1_6	1	2	Quantity			328	340	328	340	T1-2	0.65 or less

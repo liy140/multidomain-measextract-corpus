@@ -1,0 +1,12 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0006322312001096-1260	2	1	Quantity			63	74	233	244	T41-1	70 or highe
+S0006322312001096-1260	2	1	MeasuredProperty		{'HasQuantity': 'T41-1'}	58	62	228	232	T1-1	aged
+S0006322312001096-1260	2	1	MeasuredEntity		{'HasProperty': 'T1-1'}	51	57	221	227	T51-1	adults
+S0006322312001096-1260	2	2	Quantity	year		233	239	403	409	T62-2	2-year
+S0006322312001096-1260	2	2	MeasuredProperty		{'HasQuantity': 'T62-2'}	240	249	410	419	T72-2	incidence
+S0006322312001096-1260	2	2	MeasuredEntity		{'HasProperty': 'T72-2'}	253	281	423	451	T82-2	elevated depressive symptoms
+S0006322312001096-1260	4	3	Quantity	years		51	62	649	660	T13-3	for 6 years
+S0006322312001096-1260	4	3	MeasuredProperty		{'HasQuantity': 'T13-3'}	39	50	637	648	T33-3	followed up
+S0006322312001096-1260	4	3	MeasuredEntity		{'HasProperty': 'T33-3'}	26	38	624	636	T23-3	older adults
+S0006322312001096-1260	4	4	Quantity			69	73	667	671	T94-4	none
+S0006322312001096-1260	4	4	MeasuredEntity		{'HasQuantity': 'T94-4'}	81	115	679	713	T104-4	objective atherosclerosis measures

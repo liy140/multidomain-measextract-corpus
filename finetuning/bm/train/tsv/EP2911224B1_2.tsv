@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+EP2911224B1_2	1	1	MeasuredEntity			73	104	73	104	T3-1	Li-Ni composite oxide particles
+EP2911224B1_2	1	1	MeasuredProperty			113	138	113	138	T2-1	average particle diameter
+EP2911224B1_2	1	1	Quantity	µm		142	152	142	152	T1-1	1 to 20 µm

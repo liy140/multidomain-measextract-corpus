@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US10424787B2_4	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	7	30	7	30	T3-1	cathode active material
+US10424787B2_4	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	116	137	116	137	T2-1	specific surface area
+US10424787B2_4	1	1	Quantity	m2/g	"{""unit"": ""m2/g""}"	141	161	141	161	T1-1	0.7 m2/g to 3.0 m2/g

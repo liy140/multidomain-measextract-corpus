@@ -1,0 +1,8 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0168945213001805-5026	1	1	Quantity	year-old		0	13	0	13	T1-1	Four-year-old
+S0168945213001805-5026	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	14	34	14	34	T3-1	wild-type cottonwood
+S0168945213001805-5026	2	2	Quantity	%		46	49	201	204	T1-2	13%
+S0168945213001805-5026	2	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	26	36	181	191	T3-2	net growth
+S0168945213001805-5026	2	2	MeasuredEntity		{'HasProperty': 'T3-2'}	4	19	159	174	T4-2	wild-type trees
+S0168945213001805-5026	4	3	Quantity			99	104	431	436	T1-3	three
+S0168945213001805-5026	4	3	MeasuredEntity		{'HasQuantity': 'T1-3'}	105	119	437	451	T2-3	beetle species

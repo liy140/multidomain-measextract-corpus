@@ -1,0 +1,34 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0012821X13002185-1217	1	1	Quantity	M		123	128	123	128	T61-1	0.2 M
+S0012821X13002185-1217	1	1	MeasuredProperty		{'HasQuantity': 'T61-1'}	129	133	129	133	T71-1	NaOH
+S0012821X13002185-1217	1	1	MeasuredEntity		{'HasProperty': 'T71-1'}	49	71	49	71	T81-1	wet alkaline digestion
+S0012821X13002185-1217	1	2	Quantity	°C		137	143	137	143	T52-2	100 °C
+S0012821X13002185-1217	1	2	MeasuredProperty		{'HasQuantity': 'T52-2'}	35	71	35	71	T82-2	dissolved via wet alkaline digestion
+S0012821X13002185-1217	1	2	MeasuredEntity		{'HasProperty': 'T82-2'}	0	30	0	30	T2-2	Cleaned sponge and diatom opal
+S0012821X13002185-1217	1	3	Quantity	min		148	154	148	154	T33-3	40 min
+S0012821X13002185-1217	1	3	MeasuredProperty		{'HasQuantity': 'T33-3'}	35	71	35	71	T83-3	dissolved via wet alkaline digestion
+S0012821X13002185-1217	1	3	MeasuredEntity		{'HasProperty': 'T83-3'}	19	30	19	30	T1-3	diatom opal
+S0012821X13002185-1217	1	4	Quantity	week		168	180	168	180	T44-4	up to 1 week
+S0012821X13002185-1217	1	4	MeasuredProperty		{'HasQuantity': 'T44-4'}	35	71	35	71	T84-4	dissolved via wet alkaline digestion
+S0012821X13002185-1217	1	4	MeasuredEntity		{'HasProperty': 'T84-4'}	0	14	0	14	T2-4	Cleaned sponge
+S0012821X13002185-1217	2	5	Quantity	pH		30	34	230	234	T115-5	pH∼2
+S0012821X13002185-1217	2	5	MeasuredProperty		{'HasQuantity': 'T115-5'}	17	26	217	226	T2-5	acidified
+S0012821X13002185-1217	2	5	MeasuredEntity		{'HasProperty': 'T2-5'}	4	11	204	211	T125-5	samples
+S0012821X13002185-1217	2	6	Quantity	M		40	45	240	245	T146-6	0.2 M
+S0012821X13002185-1217	2	6	MeasuredEntity		{'HasQuantity': 'T146-6'}	46	69	246	269	T156-6	thermally distilled HCl
+S0012821X13002185-1217	3	7	Quantity	%		182	192	550	560	T17-7	5% and 95%
+S0012821X13002185-1217	3	7	MeasuredProperty		{'HasQuantity': 'T17-7'}	169	178	537	546	T167-7	m/Δm∼3500
+S0012821X13002185-1217	3	7	MeasuredEntity		{'HasProperty': 'T167-7'}	120	137	488	505	T137-7	mass spectrometer
+S0012821X13002185-1217	5	8	Quantity			22	34	706	718	T179-8	six to eight
+S0012821X13002185-1217	5	8	MeasuredEntity		{'HasQuantity': 'T179-8'}	35	59	719	743	T189-8	standard-sample brackets
+S0012821X13002185-1217	5	9	Quantity			166	172	850	856	T2110-9	twenty
+S0012821X13002185-1217	5	9	MeasuredEntity		{'HasQuantity': 'T2110-9'}	186	198	870	882	T2010-9	integrations
+S0012821X13002185-1217	5	10	Quantity	second		173	185	857	869	T1911-10	eight-second
+S0012821X13002185-1217	5	10	MeasuredEntity		{'HasQuantity': 'T1911-10'}	186	198	870	882	T2011-10	integrations
+S0012821X13002185-1217	6	12	MeasuredEntity		{'HasQuantity': 'T2413-12'}	0	7	884	891	T2513-12	Samples
+S0012821X13002185-1217	6	13	MeasuredEntity		{'HasProperty': 'T1-13'}	0	7	884	891	T2514-13	Samples
+S0012821X13002185-1217	7	11	Quantity	‰		33	42	978	987	T2212-11	1.26±0.2‰
+S0012821X13002185-1217	7	11	MeasuredEntity		{'HasQuantity': 'T2212-11'}	4	31	949	976	T2312-11	external diatomite standard
+S0012821X13002185-1217	7	12	Quantity	‰		77	103	1022	1048	T2413-12	mean and 2SD of 1.23±0.25‰
+S0012821X13002185-1217	7	13	Quantity			107	110	1052	1055	T2814-13	104
+S0012821X13002185-1217	7	13	MeasuredProperty		{'HasQuantity': 'T2814-13'}	105	106	1050	1051	T1-13	n

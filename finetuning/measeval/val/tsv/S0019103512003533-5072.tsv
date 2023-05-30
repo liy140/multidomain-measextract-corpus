@@ -1,0 +1,13 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103512003533-5072	1	1	Quantity	m s−1		102	119	102	119	T31-1	around 1300 m s−1
+S0019103512003533-5072	1	1	MeasuredProperty		{'HasQuantity': 'T31-1'}	83	98	83	98	T21-1	peak velocities
+S0019103512003533-5072	1	1	MeasuredEntity		{'HasProperty': 'T21-1'}	41	79	41	79	T11-1	strong westward (sub-corotating) winds
+S0019103512003533-5072	1	2	Quantity	°		125	128	125	128	T52-2	82°
+S0019103512003533-5072	1	2	MeasuredProperty		{'HasQuantity': 'T52-2'}	129	137	129	137	T62-2	latitude
+S0019103512003533-5072	1	3	Quantity	m s−1		142	153	142	153	T83-3	∼1600 m s−1
+S0019103512003533-5072	1	3	MeasuredProperty		{'HasQuantity': 'T83-3'}	83	98	83	98	T3-3	peak velocities
+S0019103512003533-5072	1	3	MeasuredEntity		{'HasProperty': 'T3-3'}	41	79	41	79	T2-3	strong westward (sub-corotating) winds
+S0019103512003533-5072	1	4	Quantity	°		159	162	159	162	T94-4	78°
+S0019103512003533-5072	1	4	MeasuredProperty		{'HasQuantity': 'T94-4'}	129	137	129	137	T64-4	latitude
+S0019103512003533-5072	2	2	MeasuredEntity		{'HasProperty': 'T62-2'}	202	208	378	384	T42-2	Saturn
+S0019103512003533-5072	2	4	MeasuredEntity		{'HasProperty': 'T64-4'}	202	208	378	384	T44-4	Saturn

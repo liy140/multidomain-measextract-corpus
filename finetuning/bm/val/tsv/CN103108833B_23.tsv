@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN103108833B_23	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	89	96	89	96	T3-1	reactor
+CN103108833B_23	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	61	72	61	72	T2-1	temperature
+CN103108833B_23	1	1	Quantity	°C	"{""unit"": ""\u00b0C""}"	112	120	112	120	T1-1	50-70 °C

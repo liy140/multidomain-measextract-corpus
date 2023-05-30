@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN104884390A_8	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	68	94	68	94	T3-1	transition metal precursor
+CN104884390A_8	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	110	142	110	142	T2-1	average particle diameter of D50
+CN104884390A_8	1	1	Quantity	μm	"{""unit"": ""\u03bcm""}"	98	109	98	109	T1-1	1 μm -30 μm

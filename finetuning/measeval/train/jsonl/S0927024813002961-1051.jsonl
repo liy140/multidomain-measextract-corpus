@@ -1,0 +1,13 @@
+{"text": "The energy yield delivered by different types of photovoltaic device is a key consideration in the selection of appropriate technologies for cheap photovoltaic electricity.", "sentId": 1, "start": 0, "end": 172}
+{"text": "The different technologies currently on the market, each have certain strengths and weaknesses when it comes to operating in different environments.", "sentId": 2, "start": 173, "end": 321}
+{"text": "There is a plethora of comparative tests on-going with sometimes contradictory results.", "sentId": 3, "start": 322, "end": 409}
+{"text": "This paper investigates device behaviour of contrasting thin film technologies, specifically a-Si and CIGS derivatives, and places this analysis into context with results reported by others.", "sentId": 4, "start": 410, "end": 600}
+{"text": "Specific consideration is given to the accuracy of module inter-comparisons, as most outdoor monitoring at this scale is conducted to compare devices against one another.", "sentId": 5, "start": 601, "end": 771}
+{"text": "It is shown that there are five main contributors to differences in energy delivery and the magnitude of these depends on the environments in which the devices are operated.", "sentId": 6, "start": 772, "end": 945}
+{"text": "The paper shows that two effects, typically not considered in inter-comparisons, dominate the reported energy delivery.", "sentId": 7, "start": 946, "end": 1065}
+{"text": "Environmental influences such as light intensity, spectrum and operating temperature introduce performance variations typically in the range of 2–7% in the course of a year.", "sentId": 8, "start": 1066, "end": 1239}
+{"text": "However, most comparative tests are carried out only for short periods of time, in the order of months.", "sentId": 9, "start": 1240, "end": 1343}
+{"text": "Here, the power rating is a key factor and adds uncertainty for new technologies such as thin films often in the range of 10–15%.", "sentId": 10, "start": 1344, "end": 1473}
+{"text": "This dominates inter-comparisons looking at as-new, first-year energy yields, yet considering the life-time energy yield it is found that ageing causes up to 25% variation between different devices.", "sentId": 11, "start": 1474, "end": 1672}
+{"text": "The durability of devices and performance-maintenance is thus the most significant factor affecting energy delivery, a major determinant of electricity cost.", "sentId": 12, "start": 1673, "end": 1830}
+{"text": "The discussion is based on long-term measurements carried out in Loughborough, UK by the Centre for Renewable Energy Systems Technology (CREST) at Loughborough University.", "sentId": 13, "start": 1831, "end": 2002}

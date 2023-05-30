@@ -1,0 +1,41 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jmatdes201608043	4	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	115	124	575	584	T2-1	dissolved
+101016jmatdes201608043	4	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	22	46	482	506	T3-1	zinc nitrate hexahydrate
+101016jmatdes201608043	4	1	Quantity	mmol	"{""unit"": ""mmol""}"	9	18	469	478	T1-1	1.65 mmol
+101016jmatdes201608043	4	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	115	124	575	584	T2-2	dissolved
+101016jmatdes201608043	4	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	58	75	518	535	T3-2	terephthalic acid
+101016jmatdes201608043	4	2	Quantity	mmol	"{""unit"": ""mmol""}"	48	57	508	517	T1-2	0.89 mmol
+101016jmatdes201608043	4	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	115	124	575	584	T2-3	dissolved
+101016jmatdes201608043	4	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	90	109	550	569	T3-3	triethylamine (TEA)
+101016jmatdes201608043	4	3	Quantity	mmol	"{""unit"": ""mmol""}"	80	89	540	549	T1-3	3.25 mmol
+101016jmatdes201608043	4	4	MeasuredEntity		"{""HasQuantity"": ""T1-4""}"	137	164	597	624	T3-4	N,N-dimethylformamide (DMF)
+101016jmatdes201608043	4	4	Quantity	mol	"{""unit"": ""mol""}"	128	136	588	596	T1-4	2.34 mol
+101016jmatdes201608043	5	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	16	25	642	651	T2-5	sonicated
+101016jmatdes201608043	5	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	4	11	630	637	T3-5	mixture
+101016jmatdes201608043	5	5	Quantity	h	"{""unit"": ""h""}"	30	33	656	659	T1-5	1 h
+101016jmatdes201608043	10	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	21	27	1152	1158	T2-6	heated
+101016jmatdes201608043	10	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	4	11	1135	1142	T3-6	furnace
+101016jmatdes201608043	10	6	Quantity	degC	"{""unit"": ""degC""}"	78	107	1209	1238	T1-6	between 600 degC to 1000 degC
+101016jmatdes201608043	10	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	166	196	1297	1327	T2-7	maintained at this temperature
+101016jmatdes201608043	10	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	149	161	1280	1292	T3-7	MOF-5 powder
+101016jmatdes201608043	10	7	Quantity	h	"{""unit"": ""h""}"	201	204	1332	1335	T1-7	2 h
+101016jmatdes201608043	10	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	117	129	1248	1260	T2-8	heating rate
+101016jmatdes201608043	10	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	4	11	1135	1142	T3-8	furnace
+101016jmatdes201608043	10	8	Quantity	degC/min	"{""unit"": ""degC/min""}"	133	143	1264	1274	T1-8	8 degC/min
+101016jmatdes201608043	10	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	213	220	1344	1351	T2-9	Ar flow
+101016jmatdes201608043	10	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	149	161	1280	1292	T3-9	MOF-5 powder
+101016jmatdes201608043	10	9	Quantity	ml/min	"{""unit"": ""ml/min""}"	224	234	1355	1365	T1-9	100 ml/min
+101016jmatdes201608043	1	10	MeasuredEntity		"{""HasQuantity"": ""T1-10""}"	173	190	173	190	T3-10	Hydrochloric acid
+101016jmatdes201608043	1	10	Quantity	%	"{""unit"": ""%""}"	192	195	192	195	T1-10	36%
+101016jmatdes201608043	6	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	60	67	721	728	T2-11	stirred
+101016jmatdes201608043	6	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	4	12	665	673	T3-11	solution
+101016jmatdes201608043	6	11	Quantity	h	"{""unit"": ""h""}"	72	76	733	737	T1-11	48 h
+101016jmatdes201608043	6	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	82	93	743	754	T2-12	temperature
+101016jmatdes201608043	6	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	4	12	665	673	T3-12	solution
+101016jmatdes201608043	6	12	Quantity	degC	"{""unit"": ""degC""}"	97	105	758	766	T1-12	150 degC
+101016jmatdes201608043	7	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	24	36	889	901	T2-13	vacuum-dried
+101016jmatdes201608043	7	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	13	19	878	884	T3-13	sample
+101016jmatdes201608043	7	13	Quantity	degC	"{""unit"": ""degC""}"	40	48	905	913	T1-13	110 degC
+101016jmatdes201608043	7	14	MeasuredProperty		"{""HasQuantity"": ""T1-14""}"	24	36	889	901	T2-14	vacuum-dried
+101016jmatdes201608043	7	14	MeasuredEntity		"{""HasProperty"": ""T2-14""}"	13	19	878	884	T3-14	sample
+101016jmatdes201608043	7	14	Quantity	h	"{""unit"": ""h""}"	59	62	924	927	T1-14	2 h

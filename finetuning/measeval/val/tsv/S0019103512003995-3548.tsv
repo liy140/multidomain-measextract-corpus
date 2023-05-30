@@ -1,0 +1,13 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103512003995-3548	5	1	Quantity	μbar		38	44	651	657	T41-1	1 μbar
+S0019103512003995-3548	5	1	MeasuredProperty		{'HasQuantity': 'T41-1'}	26	34	639	647	T141-1	pressure
+S0019103512003995-3548	5	1	MeasuredEntity		{'HasProperty': 'T141-1'}	11	24	624	637	T51-1	lower boundar
+S0019103512003995-3548	5	2	Quantity	K		238	250	851	863	T12-2	about 8250 K
+S0019103512003995-3548	5	2	MeasuredProperty		{'HasQuantity': 'T12-2'}	223	234	836	847	T62-2	temperature
+S0019103512003995-3548	5	2	MeasuredEntity		{'HasProperty': 'T62-2'}	258	280	871	893	T72-2	thermosphere below 3Rp
+S0019103512003995-3548	5	3	MeasuredEntity		{'HasProperty': 'T113-3'}	258	280	871	893	T73-3	thermosphere below 3Rp
+S0019103512003995-3548	5	4	MeasuredEntity		{'HasProperty': 'T2-4'}	258	280	871	893	T3-4	thermosphere below 3Rp
+S0019103512003995-3548	6	3	Quantity	K		113	133	1008	1028	T33-3	approximately 6000 K
+S0019103512003995-3548	6	3	MeasuredProperty		{'HasQuantity': 'T33-3'}	97	108	992	1003	T113-3	temperature
+S0019103512003995-3548	6	4	Quantity	K		138	146	1033	1041	T24-4	11,000 K
+S0019103512003995-3548	6	4	MeasuredProperty		{'HasQuantity': 'T24-4'}	97	108	992	1003	T2-4	temperature

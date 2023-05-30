@@ -1,0 +1,11 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0165587612003680-1078	2	1	Quantity			44	49	190	195	T1-1	three
+S0165587612003680-1078	2	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	50	58	196	204	T2-1	bacteria
+S0165587612003680-1078	3	2	Quantity			96	101	444	449	T1-2	three
+S0165587612003680-1078	3	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	102	121	450	469	T2-2	commonest pathogens
+S0165587612003680-1078	5	3	Quantity	occasions		33	48	719	734	T1-3	three occasions
+S0165587612003680-1078	5	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	16	24	702	710	T4-3	isolated
+S0165587612003680-1078	5	3	MeasuredEntity		{'HasProperty': 'T4-3'}	0	14	686	700	T3-3	S. lugdunensis
+S0165587612003680-1078	6	4	Quantity	%		115	118	1025	1028	T1-4	60%
+S0165587612003680-1078	6	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	6	10	916	920	T2-4	CoNS
+S0165587612003680-1078	6	4	MeasuredEntity		{'HasProperty': 'T2-4'}	122	148	1032	1058	T3-4	bacteria isolated from OME

@@ -1,0 +1,5 @@
+{"text": "Prior to VESTAL analyses, a 5–55 Hz bandpass filter was applied.", "sentId": 1, "start": 0, "end": 64}
+{"text": "VESTAL analyses examined activity 30–130 ms post-stimulus producing a 4D activation map (3D volumes across time) as well as a 2D source time-course matrix.", "sentId": 2, "start": 65, "end": 220}
+{"text": "The average percent variance explained for gradiometer data using VESTAL was 95.81% for HC and 94.38% for SZ.", "sentId": 3, "start": 221, "end": 330}
+{"text": "The average percent variance explained for magnetometer data using VESTAL program was 96.24% for HC and 93.17% for SZ.", "sentId": 4, "start": 331, "end": 449}
+{"text": "There were no group differences in percent variance explained for gradiometer data (t(39) = 1.16, p = 0.25) or magnetometer data (t(39) = 1.31, p = 0.20).", "sentId": 5, "start": 450, "end": 604}

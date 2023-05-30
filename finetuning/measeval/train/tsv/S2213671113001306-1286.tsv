@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S2213671113001306-1286	1	1	Quantity	weeks		105	112	105	112	T1-1	4 weeks
+S2213671113001306-1286	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	96	104	96	104	T3-1	survived
+S2213671113001306-1286	1	1	MeasuredEntity		{'HasProperty': 'T3-1'}	80	95	80	95	T2-1	hRPE monolayers

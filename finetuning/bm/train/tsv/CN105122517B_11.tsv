@@ -1,0 +1,13 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN105122517B_11	1	1	MeasuredEntity			421	459	421	459	T3-1	aqueous solution for nucleus formation
+CN105122517B_11	1	1	MeasuredProperty			466	468	466	468	T2-1	pH
+CN105122517B_11	1	1	Quantity			472	484	472	484	T1-1	12.0 to 14.0
+CN105122517B_11	1	2	MeasuredEntity			421	459	421	459	T3-2	aqueous solution for nucleus formation
+CN105122517B_11	1	2	MeasuredProperty			490	508	490	508	T2-2	liquid temperature
+CN105122517B_11	1	2	Quantity	℃		512	516	512	516	T1-2	25 ℃
+CN105122517B_11	1	3	MeasuredEntity			575	615	575	615	T3-3	the aqueous solution for particle growth
+CN105122517B_11	1	3	MeasuredProperty			797	815	797	815	T2-3	liquid temperature
+CN105122517B_11	1	3	Quantity	℃		819	823	819	823	T1-3	25 ℃
+CN105122517B_11	1	4	MeasuredEntity			575	615	575	615	T3-4	the aqueous solution for particle growth
+CN105122517B_11	1	4	MeasuredProperty			690	692	690	692	T2-4	pH
+CN105122517B_11	1	4	Quantity			828	840	828	840	T1-4	10.5 to 12.0

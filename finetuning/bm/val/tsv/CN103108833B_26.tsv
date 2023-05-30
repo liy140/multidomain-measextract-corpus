@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN103108833B_26	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	46	55	46	55	T3-1	precursor
+CN103108833B_26	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	71	82	71	82	T2-1	tap density
+CN103108833B_26	1	1	Quantity	g/cm3	"{""unit"": ""g/cm3""}"	83	96	83	96	T1-1	0.8-2.8 g/cm3

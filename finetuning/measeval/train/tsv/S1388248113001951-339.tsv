@@ -1,0 +1,12 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S1388248113001951-339	2	1	Quantity	V		26	31	110	115	T1-1	4.0 V
+S1388248113001951-339	2	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	15	22	99	106	T3-1	charged
+S1388248113001951-339	2	1	MeasuredEntity		{'HasProperty': 'T3-1'}	4	9	88	93	T4-1	cells
+S1388248113001951-339	2	2	Quantity	mA g− 1		45	55	129	139	T1-2	12 mA g− 1
+S1388248113001951-339	2	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	37	41	121	125	T3-2	rate
+S1388248113001951-339	2	2	MeasuredEntity		{'HasProperty': 'T3-2'}	4	9	88	93	T4-2	cells
+S1388248113001951-339	2	3	Quantity	mA g− 1		96	132	180	216	T1-3	1/20 (12 mA g− 1)–30C (7260 mA g− 1)
+S1388248113001951-339	2	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	89	94	173	178	T3-3	rates
+S1388248113001951-339	2	3	MeasuredEntity		{'HasProperty': 'T3-3'}	4	9	88	93	T5-3	cells
+S1388248113001951-339	3	4	Quantity	mg cm− 2		34	71	252	289	T1-4	(a) 1.3 (b) 2.4, and (c) 2.2 mg cm− 2
+S1388248113001951-339	3	4	MeasuredEntity		{'HasQuantity': 'T1-4'}	4	10	222	228	T4-4	sample

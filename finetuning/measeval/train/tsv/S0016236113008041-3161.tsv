@@ -1,0 +1,13 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0016236113008041-3161	1	1	Quantity	kg		50	56	50	56	T1-1	4.5 kg
+S0016236113008041-3161	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	26	46	26	46	T2-1	lowest bed inventory
+S0016236113008041-3161	3	2	Quantity	kg		91	107	439	455	T1-2	4.5 kg and 13 kg
+S0016236113008041-3161	3	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	72	87	420	435	T3-2	bed inventories
+S0016236113008041-3161	3	3	Quantity	kg		136	140	484	488	T1-3	6 kg
+S0016236113008041-3161	3	3	MeasuredEntity		{'HasQuantity': 'T1-3'}	141	150	489	498	T2-3	inventory
+S0016236113008041-3161	3	4	MeasuredEntity		{'HasProperty': 'T4-4'}	15	16	363	364	T3-4	P
+S0016236113008041-3161	4	4	Quantity	ppm		36	45	536	545	T1-4	<0.01 ppm
+S0016236113008041-3161	4	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	13	19	513	519	T4-4	values
+S0016236113008041-3161	5	5	Quantity	ppm		62	68	667	673	T1-5	<2 ppm
+S0016236113008041-3161	5	5	MeasuredProperty		{'HasQuantity': 'T1-5'}	18	32	623	637	T2-5	concentrations
+S0016236113008041-3161	5	5	MeasuredEntity		{'HasProperty': 'T2-5'}	40	48	645	653	T3-5	flue gas

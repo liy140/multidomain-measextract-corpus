@@ -1,0 +1,12 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103512004009-5019	2	1	MeasuredEntity		{'HasProperty': 'T31-1'}	85	90	255	260	T51-1	model
+S0019103512004009-5019	2	2	MeasuredEntity		{'HasProperty': 'T22-2'}	85	90	255	260	T52-2	model
+S0019103512004009-5019	3	1	Quantity	nbar		48	55	310	317	T41-1	30 nbar
+S0019103512004009-5019	3	1	MeasuredProperty		{'HasQuantity': 'T41-1'}	30	44	292	306	T31-1	lower boundary
+S0019103512004009-5019	3	2	Quantity	K		78	84	340	346	T12-2	1000 K
+S0019103512004009-5019	3	2	MeasuredProperty		{'HasQuantity': 'T12-2'}	63	74	325	336	T22-2	temperature
+S0019103512004009-5019	5	3	Quantity	eV		118	123	680	685	T93-3	20 eV
+S0019103512004009-5019	5	3	MeasuredProperty		{'HasQuantity': 'T93-3'}	108	114	670	676	T83-3	energy
+S0019103512004009-5019	5	3	MeasuredEntity		{'HasProperty': 'T83-3'}	94	107	656	669	T73-3	single photon
+S0019103512004009-5019	5	4	Quantity	W m−2		148	158	710	720	T104-4	0.45 W m−2
+S0019103512004009-5019	5	4	MeasuredEntity		{'HasQuantity': 'T104-4'}	132	144	694	706	T114-4	stellar flux

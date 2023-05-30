@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+EP2619140B1_24	1	1	MeasuredEntity			36	49	36	49	T3-1	the precursor
+EP2619140B1_24	1	1	MeasuredProperty			66	92	66	92	T2-1	average particle size (D50
+EP2619140B1_24	1	1	Quantity	microns		94	124	94	124	T1-1	in the range from 3-30 microns

@@ -1,0 +1,11 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S016412121300188X-4207	1	1	Quantity			67	70	67	70	T1-1	two
+S016412121300188X-4207	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	71	79	71	79	T2-1	settings
+S016412121300188X-4207	2	2	Quantity	%		53	56	158	161	T1-2	14%
+S016412121300188X-4207	2	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	57	85	162	190	T2-2	larger than the High setting
+S016412121300188X-4207	2	2	MeasuredEntity		{'HasProperty': 'T2-2'}	16	43	121	148	T4-2	Low setting produces slices
+S016412121300188X-4207	3	3	Quantity	%		43	46	235	238	T1-3	37%
+S016412121300188X-4207	3	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	22	39	214	231	T3-3	largest deviation
+S016412121300188X-4207	3	3	MeasuredEntity		{'HasProperty': 'T3-3'}	0	13	192	205	T4-3	Program userv
+S016412121300188X-4207	5	4	Quantity			7	9	541	543	T1-4	30
+S016412121300188X-4207	5	4	MeasuredEntity		{'HasQuantity': 'T1-4'}	10	18	544	552	T2-4	programs

@@ -1,0 +1,10 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0927024813001955-576	1	1	Quantity	nm		81	87	81	87	T1-1	125 nm
+S0927024813001955-576	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	88	93	88	93	T3-1	thick
+S0927024813001955-576	1	1	MeasuredEntity		{'HasProperty': 'T3-1'}	94	107	94	107	T4-1	AALD ZnO film
+S0927024813001955-576	1	2	Quantity	h		152	155	152	155	T1-2	1 h
+S0927024813001955-576	1	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	108	121	108	121	T4-2	post-annealed
+S0927024813001955-576	1	2	MeasuredEntity		{'HasProperty': 'T4-2'}	94	107	94	107	T3-2	AALD ZnO film
+S0927024813001955-576	2	3	Quantity	week		32	40	303	311	T1-3	one week
+S0927024813001955-576	2	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	44	63	315	334	T4-3	storage in the dark
+S0927024813001955-576	2	3	MeasuredEntity		{'HasProperty': 'T4-3'}	4	11	275	282	T3-3	devices

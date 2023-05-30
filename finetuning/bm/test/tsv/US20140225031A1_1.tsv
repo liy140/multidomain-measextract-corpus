@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20140225031A1_1	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	196	223	196	223	T3-1	lithium metal complex oxide
+US20140225031A1_1	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	233	247	233	247	T2-1	tapped density
+US20140225031A1_1	1	1	Quantity	g/ml	"{""unit"": ""g/ml""}"	262	282	262	282	T1-1	1.0 g/ml to 2.0 g/ml

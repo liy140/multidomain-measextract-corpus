@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20200313194A1_4	1	1	MeasuredEntity			78	108	78	108	T3-1	the transition metal precursor
+US20200313194A1_4	1	1	MeasuredProperty			43	73	43	73	T2-1	average particle diameter (D50
+US20200313194A1_4	1	1	Quantity	μm		115	139	115	139	T1-1	a range of 5 μm to 10 μm
+US20200313194A1_4	1	2	MeasuredEntity			160	197	160	197	T3-2	the first temperature holding section
+US20200313194A1_4	1	2	MeasuredProperty			145	156	145	156	T2-2	temperature
+US20200313194A1_4	1	2	Quantity	° C		201	234	201	234	T1-2	in the range of 400° C. to 600° C

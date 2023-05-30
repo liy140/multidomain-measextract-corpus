@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0006322312001096-1275	1	1	Quantity	%		39	55	39	55	T11-1	range 66% to 88%
+S0006322312001096-1275	1	1	MeasuredProperty		{'HasQuantity': 'T11-1'}	15	23	15	23	T21-1	response
+S0006322312001096-1275	1	1	MeasuredEntity		{'HasProperty': 'T21-1'}	31	37	31	37	T31-1	survey

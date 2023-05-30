@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN105594031A_5	1	1	MeasuredEntity			181	191	181	191	T3-1	precursors
+CN105594031A_5	1	1	MeasuredProperty			149	160	149	160	T2-1	tap density
+CN105594031A_5	1	1	Quantity	g/cc		164	172	164	172	T1-1	1.4 g/cc

@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20130168600A1_9	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	52	70	52	70	T3-1	precursor material
+US20130168600A1_9	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	77	89	77	89	T2-1	surface area
+US20130168600A1_9	1	1	Quantity	m2/g	"{""unit"": ""m2/g""}"	90	116	90	116	T1-1	in the range from 2-8 m2/g

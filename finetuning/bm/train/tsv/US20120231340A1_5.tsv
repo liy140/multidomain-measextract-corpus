@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20120231340A1_5	1	1	MeasuredEntity			156	185	156	185	T3-1	the lithium mixed metal oxide
+US20120231340A1_5	1	1	MeasuredProperty			193	218	193	218	T2-1	average particle diameter
+US20120231340A1_5	1	1	Quantity	μm		222	240	222	240	T1-1	from 1 μm to 20 μm

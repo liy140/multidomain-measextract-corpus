@@ -1,0 +1,14 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0016236113008041-3290	1	1	MeasuredEntity		{'HasProperty': 'T71-1'}	18	39	18	39	T81-1	gaseous major element
+S0016236113008041-3290	2	1	Quantity	ppm		39	45	139	145	T11-1	<1 ppm
+S0016236113008041-3290	2	1	MeasuredProperty		{'HasQuantity': 'T11-1'}	0	14	100	114	T71-1	Concentrations
+S0016236113008041-3290	2	2	Quantity	ppm		103	107	203	207	T52-2	0.63
+S0016236113008041-3290	2	2	MeasuredProperty		{'HasQuantity': 'T52-2'}	85	99	185	199	T182-2	concentrations
+S0016236113008041-3290	2	2	MeasuredEntity		{'HasProperty': 'T182-2'}	52	54	152	154	T92-2	Fe
+S0016236113008041-3290	2	3	Quantity	ppm		112	120	212	220	T23-3	0.51 ppm
+S0016236113008041-3290	2	3	MeasuredProperty		{'HasQuantity': 'T23-3'}	85	99	185	199	T103-3	concentrations
+S0016236113008041-3290	2	3	MeasuredEntity		{'HasProperty': 'T103-3'}	59	61	159	161	T193-3	Si
+S0016236113008041-3290	3	4	Quantity	ppm		22	30	257	265	T34-4	1000 ppm
+S0016236113008041-3290	3	4	MeasuredEntity		{'HasQuantity': 'T34-4'}	31	34	266	269	T114-4	SO2
+S0016236113008041-3290	3	5	Quantity	ppm		189	203	424	438	T45-5	0 and 2000 ppm
+S0016236113008041-3290	3	5	MeasuredEntity		{'HasQuantity': 'T45-5'}	204	207	439	442	T65-5	SO2

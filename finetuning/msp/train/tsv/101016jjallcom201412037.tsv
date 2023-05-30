@@ -1,0 +1,10 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jjallcom201412037	4	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	88	116	604	632	T2-1	dispersed in distilled water
+101016jjallcom201412037	4	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	15	66	531	582	T3-1	pristine Sn nanorods and graphene oxide (GO) sheets
+101016jjallcom201412037	4	1	Quantity	by weight	"{""unit"": ""by weight""}"	68	81	584	597	T1-1	4:1 by weight
+101016jjallcom201412037	4	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	118	125	634	641	T2-2	stirred
+101016jjallcom201412037	4	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	15	66	531	582	T3-2	pristine Sn nanorods and graphene oxide (GO) sheets
+101016jjallcom201412037	4	2	Quantity	h	"{""unit"": ""h""}"	130	134	646	650	T1-2	12 h
+101016jjallcom201412037	4	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	181	193	697	709	T2-3	weight ratio
+101016jjallcom201412037	4	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	206	214	722	730	T3-3	NaBH4/GO
+101016jjallcom201412037	4	3	Quantity			197	201	713	717	T1-3	10:1

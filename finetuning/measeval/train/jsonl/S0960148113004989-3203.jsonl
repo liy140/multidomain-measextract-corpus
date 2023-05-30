@@ -1,0 +1,5 @@
+{"text": "The boundary conditions were as follows.", "sentId": 1, "start": 0, "end": 40}
+{"text": "On the top, bottom and right boundaries a no-slip boundary condition was applied.", "sentId": 2, "start": 41, "end": 122}
+{"text": "On the left boundary a Dirichlet boundary condition enforced a sinusoidal in-/outflow velocity:u(x,y,t)=(−2sin(2πt/P)0),where P is the tidal period time.", "sentId": 3, "start": 123, "end": 276}
+{"text": "Due to the small basin size, a realistically long tidal period would lead to an excessively large tidal range.", "sentId": 4, "start": 277, "end": 387}
+{"text": "Therefore, the tidal period was defined to be P ≡ 10 min, which resulted in a tidal range of ±12 m. The simulation time was set to one full tidal period with a time step of Δt = 12 s. No spin up phase was applied, as its effect is assumed to be small due to the relatively short extent of the domain.", "sentId": 5, "start": 388, "end": 688}

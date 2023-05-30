@@ -1,0 +1,32 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jjcat201301010	5	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	79	84	664	669	T2-1	dried
+101016jjcat201301010	5	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	4	24	589	609	T3-1	brown powder product
+101016jjcat201301010	5	1	Quantity	h	"{""unit"": ""h""}"	96	99	681	684	T1-1	5 h
+101016jjcat201301010	6	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	59	66	745	752	T2-2	airflow
+101016jjcat201301010	6	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	4	18	690	704	T3-2	prepared Mn3O4
+101016jjcat201301010	6	2	Quantity	ml/min	"{""unit"": ""ml/min""}"	70	79	756	765	T1-2	50 ml/min
+101016jjcat201301010	6	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	59	66	745	752	T2-3	airflow
+101016jjcat201301010	6	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	4	18	690	704	T3-3	prepared Mn3O4
+101016jjcat201301010	6	3	Quantity	degC	"{""unit"": ""degC""}"	83	91	769	777	T1-3	500 degC
+101016jjcat201301010	6	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	99	103	785	789	T2-4	ramp
+101016jjcat201301010	6	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	4	18	690	704	T3-4	prepared Mn3O4
+101016jjcat201301010	6	4	Quantity	degC /min	"{""unit"": ""degC /min""}"	107	118	793	804	T1-4	1 degC /min
+101016jjcat201301010	2	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	76	85	311	320	T2-5	dissolved
+101016jjcat201301010	2	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	7	37	242	272	T3-5	manganese acetate tetrahydrate
+101016jjcat201301010	2	5	Quantity	g	"{""unit"": ""g""}"	39	45	274	280	T1-5	14.7 g
+101016jjcat201301010	2	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	76	85	311	320	T2-6	dissolved
+101016jjcat201301010	2	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	51	61	286	296	T3-6	oleic acid
+101016jjcat201301010	2	6	Quantity	ml	"{""unit"": ""ml""}"	63	69	298	304	T1-6	8.0 ml
+101016jjcat201301010	2	7	MeasuredEntity		"{""HasQuantity"": ""T1-7""}"	89	97	324	332	T3-7	methanol
+101016jjcat201301010	2	7	Quantity	ml	"{""unit"": ""ml""}"	99	105	334	340	T1-7	100 ml
+101016jjcat201301010	2	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	122	130	357	365	T2-8	stirring
+101016jjcat201301010	2	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	7	106	242	341	T3-8	manganese acetate tetrahydrate (14.7 g) and oleic acid (8.0 ml) were dissolved in methanol (100 ml)
+101016jjcat201301010	2	8	Quantity	h	"{""unit"": ""h""}"	135	138	370	373	T1-8	1 h
+101016jjcat201301010	3	9	MeasuredEntity		"{""HasQuantity"": ""T1-9""}"	34	72	409	447	T3-9	Teflon-lined stainless steel autoclave
+101016jjcat201301010	3	9	Quantity	ml	"{""unit"": ""ml""}"	74	80	449	455	T1-9	200 ml
+101016jjcat201301010	3	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	86	92	461	467	T2-10	heated
+101016jjcat201301010	3	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	4	12	379	387	T3-10	solution
+101016jjcat201301010	3	10	Quantity	degC	"{""unit"": ""degC""}"	96	104	471	479	T1-10	180 degC
+101016jjcat201301010	3	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	86	92	461	467	T2-11	heated
+101016jjcat201301010	3	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	4	12	379	387	T3-11	solution
+101016jjcat201301010	3	11	Quantity	h	"{""unit"": ""h""}"	109	113	484	488	T1-11	24 h

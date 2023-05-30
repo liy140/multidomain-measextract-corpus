@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0006322312001096-1205	1	1	Quantity	days		102	114	102	114	T11-1	past 14 days
+S0006322312001096-1205	1	1	MeasuredProperty		{'HasQuantity': 'T11-1'}	74	94	74	94	T2-1	taken any medication
+S0006322312001096-1205	1	1	MeasuredEntity		{'HasProperty': 'T2-1'}	33	45	33	45	T1-1	participants

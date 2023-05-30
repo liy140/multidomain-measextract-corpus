@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S095741741101342X-726	1	1	Quantity	%		20	26	20	26	T1-1	85/15%
+S095741741101342X-726	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	36	57	36	57	T4-1	good/bad observations
+S095741741101342X-726	1	1	MeasuredEntity		{'HasProperty': 'T4-1'}	0	13	0	13	T3-1	AR comparison

@@ -1,0 +1,45 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101002app40112	4	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	38	40	564	566	T2-1	VA
+101002app40112	4	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	4	17	530	543	T3-1	EVA copolymer
+101002app40112	4	1	Quantity	wt %	"{""unit"": ""wt %""}"	30	37	556	563	T1-1	28 wt %
+101002app40112	5	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	77	86	686	695	T2-2	dissolved
+101002app40112	5	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	57	62	666	671	T3-2	FeCl3
+101002app40112	5	2	Quantity	g	"{""unit"": ""g""}"	64	71	673	680	T1-2	0.487 g
+101002app40112	5	3	MeasuredEntity		"{""HasQuantity"": ""T1-3""}"	100	105	709	714	T3-3	water
+101002app40112	5	3	Quantity	mL	"{""unit"": ""mL""}"	107	112	716	721	T1-3	30 mL
+101002app40112	7	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	0	22	808	830	T2-4	Hydrothermal synthesis
+101002app40112	7	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	45	49	853	857	T3-4	oven
+101002app40112	7	4	Quantity	degC	"{""unit"": ""degC""}"	53	60	861	868	T1-4	110degC
+101002app40112	7	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	0	22	808	830	T2-5	Hydrothermal synthesis
+101002app40112	7	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	45	49	853	857	T3-5	oven
+101002app40112	7	5	Quantity	h	"{""unit"": ""h""}"	65	68	873	876	T1-5	2 h
+101002app40112	6	6	MeasuredEntity		"{""HasQuantity"": ""T1-6""}"	45	67	784	806	T3-6	Teflon-lined autoclave
+101002app40112	6	6	Quantity	mL	"{""unit"": ""mL""}"	39	44	778	783	T1-6	40-mL
+101002app40112	10	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	24	36	1248	1260	T2-7	slowly added
+101002app40112	10	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	6	11	1230	1235	T3-7	water
+101002app40112	10	7	Quantity	mL	"{""unit"": ""mL""}"	13	18	1237	1242	T1-7	20 mL
+101002app40112	10	8	MeasuredEntity		"{""HasQuantity"": ""T1-8""}"	6	36	1230	1260	T3-8	water (20 mL) was slowly added
+101002app40112	10	8	Quantity	degC	"{""unit"": ""degC""}"	83	89	1307	1313	T1-8	10degC
+101002app40112	10	9	MeasuredEntity		"{""HasQuantity"": ""T1-9""}"	6	36	1230	1260	T3-9	water (20 mL) was slowly added
+101002app40112	10	9	Quantity	h	"{""unit"": ""h""}"	94	97	1318	1321	T1-9	5 h
+101002app40112	10	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	127	146	1351	1370	T2-10	filtered and washed
+101002app40112	10	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	115	122	1339	1346	T3-10	product
+101002app40112	10	10	Quantity	h	"{""unit"": ""h""}"	209	213	1433	1437	T1-10	36 h
+101002app40112	11	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	28	33	1467	1472	T2-11	dried
+101002app40112	11	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	13	22	1452	1461	T3-11	particles
+101002app40112	11	11	Quantity	degC	"{""unit"": ""degC""}"	37	43	1476	1482	T1-11	60degC
+101002app40112	11	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	28	33	1467	1472	T2-12	dried
+101002app40112	11	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	13	22	1452	1461	T3-12	particles
+101002app40112	11	12	Quantity	h	"{""unit"": ""h""}"	59	63	1498	1502	T1-12	24 h
+101002app40112	8	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	107	112	985	990	T2-13	dried
+101002app40112	8	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	4	12	882	890	T3-13	products
+101002app40112	8	13	Quantity	degC	"{""unit"": ""degC""}"	127	133	1005	1011	T1-13	60degC
+101002app40112	8	14	MeasuredProperty		"{""HasQuantity"": ""T1-14""}"	107	112	985	990	T2-14	dried
+101002app40112	8	14	MeasuredEntity		"{""HasProperty"": ""T2-14""}"	4	12	882	890	T3-14	products
+101002app40112	8	14	Quantity	h	"{""unit"": ""h""}"	138	141	1016	1019	T1-14	6 h
+101002app40112	8	15	MeasuredProperty		"{""HasQuantity"": ""T1-15""}"	197	204	1075	1082	T2-15	mixture
+101002app40112	8	15	MeasuredEntity		"{""HasProperty"": ""T2-15""}"	217	221	1095	1099	T3-15	PDCP
+101002app40112	8	15	Quantity	mL	"{""unit"": ""mL""}"	208	213	1086	1091	T1-15	10 mL
+101002app40112	8	16	MeasuredProperty		"{""HasQuantity"": ""T1-16""}"	197	204	1075	1082	T2-16	mixture
+101002app40112	8	16	MeasuredEntity		"{""HasProperty"": ""T2-16""}"	234	243	1112	1121	T3-16	β-Fe(O)OH
+101002app40112	8	16	Quantity	g	"{""unit"": ""g""}"	227	230	1105	1108	T1-16	1 g

@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CA2806915A1_31	1	1	MeasuredEntity			36	58	36	58	T3-1	the precursor material
+CA2806915A1_31	1	1	MeasuredProperty			65	76	65	76	T2-1	tap density
+CA2806915A1_31	1	1	Quantity	g/cm3		77	108	77	108	T1-1	in the range from 0.8-2.8 g/cm3

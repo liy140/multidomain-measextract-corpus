@@ -1,0 +1,18 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103512003533-5211	2	1	Quantity	mbar		71	80	332	341	T1-1	10−5 mbar
+S0019103512003533-5211	2	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	56	69	317	330	T3-1	density level
+S0019103512003533-5211	2	1	MeasuredEntity		{'HasProperty': 'T3-1'}	44	55	305	316	T2-1	ionospheric
+S0019103512003533-5211	2	2	Quantity	°		95	98	356	359	T1-2	78°
+S0019103512003533-5211	2	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	86	94	347	355	T3-2	latitude
+S0019103512003533-5211	2	3	Quantity	keV		190	196	451	457	T1-3	10 keV
+S0019103512003533-5211	2	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	206	217	467	478	T3-3	energy flux
+S0019103512003533-5211	2	3	MeasuredEntity		{'HasProperty': 'T3-3'}	197	205	458	466	T2-3	electron
+S0019103512003533-5211	3	4	Quantity	K		117	122	630	635	T1-4	±50 K
+S0019103512003533-5211	3	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	142	154	655	667	T4-4	temperatures
+S0019103512003533-5211	3	4	MeasuredEntity		{'HasProperty': 'T4-4'}	123	141	636	654	T3-4	exospheric and H3+
+S0019103512003533-5211	4	5	Quantity	K		136	141	805	810	T1-5	⩽10 K
+S0019103512003533-5211	4	5	MeasuredProperty		{'HasQuantity': 'T1-5'}	113	132	782	801	T2-5	temperature changes
+S0019103512003533-5211	4	5	MeasuredEntity		{'HasProperty': 'T2-5'}	60	80	729	749	T3-5	seasonal differences
+S0019103512003533-5211	4	6	Quantity	keV		194	200	863	869	T1-6	10 keV
+S0019103512003533-5211	4	6	MeasuredProperty		{'HasQuantity': 'T1-6'}	210	221	879	890	T3-6	energy flux
+S0019103512003533-5211	4	6	MeasuredEntity		{'HasProperty': 'T3-6'}	201	209	870	878	T2-6	electron

@@ -1,0 +1,6 @@
+{"text": "The domain of the third scenario is shown in Fig. 3c.", "sentId": 1, "start": 0, "end": 53}
+{"text": "First, only the layout problem is solved.", "sentId": 2, "start": 54, "end": 95}
+{"text": "For this test, inequality constraints were applied to enforce a minimum distance of 30 m between each turbine.", "sentId": 3, "start": 96, "end": 206}
+{"text": "The optimisation algorithm terminated after 56 iterations (55 gradient evaluations, 73 functional evaluations).", "sentId": 4, "start": 207, "end": 318}
+{"text": "The optimised farm layout extracts 40.6 MW, which corresponds to an increase of 31% compared to the initial layout (30.9 MW) (Fig. 8c).", "sentId": 5, "start": 319, "end": 454}
+{"text": "The optimised layout features a distinct ⋄-shaped alignment with an opening on the inflow facing side (Fig. 8b). Fig. 8d shows the velocity magnitude and suggests that this hole acts to trap and push the flow through the downstream turbines similar to the previous examples.", "sentId": 6, "start": 455, "end": 729}

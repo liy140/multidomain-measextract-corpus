@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+WO2008043558A1_13	1	1	MeasuredEntity			4	24	4	24	T3-1	Pulverulent compound
+WO2008043558A1_13	1	1	MeasuredProperty			120	146	120	146	T2-1	particle size distribution
+WO2008043558A1_13	1	1	Quantity			265	278	265	278	T1-1	less than 1.2

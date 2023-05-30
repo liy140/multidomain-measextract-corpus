@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0032063312003054-2467	3	1	Quantity	%		218	221	719	722	T1-1	10%
+S0032063312003054-2467	3	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	119	208	620	709	T4-1	category-4 still make up the second largest group and when added together with category-2
+S0032063312003054-2467	3	1	MeasuredEntity		{'HasProperty': 'T4-1'}	225	235	726	736	T3-1	MEX orbits

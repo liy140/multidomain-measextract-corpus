@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+EP3204973B1_16	1	1	MeasuredEntity			64	73	64	73	T3-1	the seeds
+EP3204973B1_16	1	1	MeasuredProperty			81	105	81	105	T2-1	median particle size D50
+EP3204973B1_16	1	1	Quantity	µm		106	126	106	126	T1-1	between 0.1 and 3 µm

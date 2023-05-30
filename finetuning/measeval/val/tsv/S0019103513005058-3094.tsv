@@ -1,0 +1,18 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103513005058-3094	4	1	Quantity	byr		72	82	661	671	T21-1	last 3 byr
+S0019103513005058-3094	4	1	MeasuredEntity		{'HasQuantity': 'T21-1'}	88	101	677	690	T31-1	Amazonian eon
+S0019103513005058-3094	5	2	Quantity	m		80	84	868	872	T62-2	∼2 m
+S0019103513005058-3094	5	2	MeasuredProperty		{'HasQuantity': 'T62-2'}	71	76	859	864	T72-2	depth
+S0019103513005058-3094	5	2	MeasuredEntity		{'HasProperty': 'T72-2'}	7	11	795	799	T42-2	soil
+S0019103513005058-3094	5	3	Quantity	%		138	142	926	930	T93-3	0.1%
+S0019103513005058-3094	5	3	MeasuredProperty		{'HasQuantity': 'T93-3'}	111	137	899	925	T83-3	time-average volcanic flux
+S0019103513005058-3094	5	3	MeasuredEntity		{'HasProperty': 'T83-3'}	150	182	938	970	T103-3	modern terrestrial volcanic flux
+S0019103513005058-3094	5	4	Quantity	wt.%		240	252	1028	1040	T114-4	1.0–1.7 wt.%
+S0019103513005058-3094	5	4	MeasuredProperty		{'HasQuantity': 'T114-4'}	253	258	1041	1046	T144-4	SO42-
+S0019103513005058-3094	5	4	MeasuredEntity		{'HasProperty': 'T144-4'}	212	216	1000	1004	T154-4	soil
+S0019103513005058-3094	5	5	Quantity	wt.%		263	275	1051	1063	T125-5	0.2–0.4 wt.%
+S0019103513005058-3094	5	5	MeasuredProperty		{'HasQuantity': 'T125-5'}	276	277	1064	1065	T135-5	N
+S0019103513005058-3094	5	5	MeasuredEntity		{'HasProperty': 'T135-5'}	212	216	1000	1004	T155-5	soil
+S0019103513005058-3094	5	6	MeasuredEntity		{'HasProperty': 'T176-6'}	212	216	1000	1004	T156-6	soil
+S0019103513005058-3094	8	6	Quantity	wt.%		151	163	1474	1486	T166-6	0.4–0.6 wt.%
+S0019103513005058-3094	8	6	MeasuredProperty		{'HasQuantity': 'T166-6'}	164	169	1487	1492	T176-6	ClO4-

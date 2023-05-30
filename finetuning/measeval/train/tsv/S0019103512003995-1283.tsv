@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103512003995-1283	1	1	Quantity	K		149	155	149	155	T1-1	7200 K
+S0019103512003995-1283	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	129	145	129	145	T3-1	mean temperature
+S0019103512003995-1283	1	1	MeasuredEntity		{'HasProperty': 'T3-1'}	99	121	99	121	T2-1	empirical model of K10

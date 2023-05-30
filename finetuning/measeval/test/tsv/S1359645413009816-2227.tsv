@@ -1,0 +1,13 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S1359645413009816-2227	1	1	Quantity			26	28	26	28	T1-1	14
+S1359645413009816-2227	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	29	36	29	36	T2-1	samples
+S1359645413009816-2227	1	2	Quantity			49	54	49	54	T1-2	three
+S1359645413009816-2227	1	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	65	90	65	90	T2-2	positions of the HPT disk
+S1359645413009816-2227	2	3	Quantity			0	3	107	110	T1-3	Six
+S1359645413009816-2227	2	3	MeasuredEntity		{'HasQuantity': 'T1-3'}	4	11	111	118	T2-3	samples
+S1359645413009816-2227	2	4	Quantity	mm		52	55	159	162	T1-4	9mm
+S1359645413009816-2227	2	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	40	46	147	153	T3-4	radius
+S1359645413009816-2227	2	4	MeasuredEntity		{'HasProperty': 'T3-4'}	0	11	107	118	T4-4	Six samples
+S1359645413009816-2227	3	5	Quantity	mm		43	61	228	246	T1-5	9.3 and r = 7.3 mm
+S1359645413009816-2227	3	5	MeasuredProperty		{'HasQuantity': 'T1-5'}	30	35	215	220	T3-5	radii
+S1359645413009816-2227	3	5	MeasuredEntity		{'HasProperty': 'T3-5'}	0	12	185	197	T2-5	Four samples

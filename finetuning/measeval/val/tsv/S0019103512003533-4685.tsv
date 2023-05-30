@@ -1,0 +1,8 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103512003533-4685	2	1	Quantity	°		79	82	179	182	T21-1	78°
+S0019103512003533-4685	2	1	MeasuredEntity		{'HasQuantity': 'T21-1'}	37	77	137	177	T11-1	region of maximum electron precipitation
+S0019103512003533-4685	2	2	Quantity	°		155	157	255	257	T52-2	0°
+S0019103512003533-4685	2	2	MeasuredProperty		{'HasQuantity': 'T52-2'}	146	154	246	254	T42-2	latitude
+S0019103512003533-4685	2	2	MeasuredEntity		{'HasProperty': 'T42-2'}	129	144	229	244	T32-2	sub-solar point
+S0019103512003533-4685	5	3	Quantity	km		106	126	580	600	T63-3	below around 1000 km
+S0019103512003533-4685	5	3	MeasuredEntity		{'HasQuantity': 'T63-3'}	127	135	601	609	T73-3	altitude

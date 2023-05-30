@@ -1,0 +1,30 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0006322312001096-1230	3	1	Quantity	year		11	17	324	330	T211-1	5-year
+S0006322312001096-1230	3	1	MeasuredEntity		{'HasQuantity': 'T211-1'}	18	29	331	342	T221-1	data cycles
+S0006322312001096-1230	3	2	Quantity	%		31	36	344	349	T32-2	12.1%
+S0006322312001096-1230	3	2	MeasuredProperty		{'HasQuantity': 'T32-2'}	74	97	387	410	T92-2	developed such symptoms
+S0006322312001096-1230	3	2	MeasuredEntity		{'HasProperty': 'T92-2'}	40	73	353	386	T82-2	participants without GHQ symptoms
+S0006322312001096-1230	3	3	Quantity	%		99	103	412	416	T13-3	4.6%
+S0006322312001096-1230	3	3	MeasuredProperty		{'HasQuantity': 'T13-3'}	147	177	460	490	T113-3	had such symptoms at follow-up
+S0006322312001096-1230	3	3	MeasuredEntity		{'HasProperty': 'T113-3'}	107	146	420	459	T103-3	those without CES-D depressive symptoms
+S0006322312001096-1230	3	4	Quantity	%		183	187	496	500	T24-4	2.1%
+S0006322312001096-1230	3	4	MeasuredProperty		{'HasQuantity': 'T24-4'}	229	252	542	565	T134-4	started such medication
+S0006322312001096-1230	3	4	MeasuredEntity		{'HasProperty': 'T134-4'}	191	228	504	541	T124-4	those not on antidepressant treatment
+S0006322312001096-1230	4	5	Quantity	%		30	34	597	601	T55-5	5.4%
+S0006322312001096-1230	4	5	MeasuredProperty		{'HasQuantity': 'T55-5'}	35	65	602	632	T155-5	used antidepressant medication
+S0006322312001096-1230	4	5	MeasuredEntity		{'HasProperty': 'T155-5'}	7	28	574	595	T145-5	cases of GHQ symptoms
+S0006322312001096-1230	4	6	Quantity	%		102	106	669	673	T46-6	9.2%
+S0006322312001096-1230	4	6	MeasuredProperty		{'HasQuantity': 'T46-6'}	35	65	602	632	T156-6	used antidepressant medication
+S0006322312001096-1230	4	6	MeasuredEntity		{'HasProperty': 'T156-6'}	111	147	678	714	T166-6	those with CES-D depressive symptoms
+S0006322312001096-1230	5	7	Quantity	%		35	40	751	756	T67-7	47.4%
+S0006322312001096-1230	5	7	MeasuredProperty		{'HasQuantity': 'T67-7'}	41	75	757	791	T187-7	also had CES-D depressive symptoms
+S0006322312001096-1230	5	7	MeasuredEntity		{'HasProperty': 'T187-7'}	3	34	719	750	T177-7	participants with GHQ symptoms,
+S0006322312001096-1230	5	8	Quantity			112	115	828	831	T1-8	.64
+S0006322312001096-1230	5	8	MeasuredProperty		{'HasQuantity': 'T1-8'}	108	109	824	825	T2-8	r
+S0006322312001096-1230	5	8	MeasuredEntity		{'HasProperty': 'T2-8'}	77	107	793	823	T3-8	Pearson correlation at phase 7
+S0006322312001096-1230	5	9	Quantity			119	125	835	841	T1-9	< .001
+S0006322312001096-1230	5	9	MeasuredProperty		{'HasQuantity': 'T1-9'}	117	118	833	834	T2-9	p
+S0006322312001096-1230	5	9	MeasuredEntity		{'HasProperty': 'T2-9'}	77	107	793	823	T3-9	Pearson correlation at phase 7
+S0006322312001096-1230	6	10	Quantity	%		63	68	907	912	T78-10	59.9%
+S0006322312001096-1230	6	10	MeasuredProperty		{'HasQuantity': 'T78-10'}	69	90	913	934	T208-10	also had GHQ symptoms
+S0006322312001096-1230	6	10	MeasuredEntity		{'HasProperty': 'T208-10'}	18	61	862	905	T198-10	participants with CES-D depressive symptoms

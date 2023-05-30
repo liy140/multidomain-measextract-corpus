@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20150287990A1_14	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	82	99	82	99	T3-1	primary particles
+US20150287990A1_14	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	65	74	65	74	T2-1	thickness
+US20150287990A1_14	1	1	Quantity	nm	"{""unit"": ""nm""}"	103	115	103	115	T1-1	about 2θ0 nm

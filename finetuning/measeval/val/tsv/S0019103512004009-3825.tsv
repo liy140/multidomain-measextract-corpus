@@ -1,0 +1,23 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103512004009-3825	1	1	Quantity	%		28	31	28	31	T11-1	50%
+S0019103512004009-3825	1	1	MeasuredProperty		{'HasQuantity': 'T11-1'}	2	24	2	24	T51-1	net heating efficiency
+S0019103512004009-3825	1	1	MeasuredEntity		{'HasProperty': 'T51-1'}	173	217	173	217	T141-1	typical gas giant (hereafter, the H50 model)
+S0019103512004009-3825	2	2	Quantity	K		44	52	263	271	T22-2	11,500 K
+S0019103512004009-3825	2	2	MeasuredProperty		{'HasQuantity': 'T22-2'}	4	23	223	242	T72-2	maximum temperature
+S0019103512004009-3825	2	2	MeasuredEntity		{'HasProperty': 'T72-2'}	31	40	250	259	T82-2	H50 model
+S0019103512004009-3825	2	3	Quantity	Rp		89	99	308	318	T123-3	near 1.5Rp
+S0019103512004009-3825	2	3	MeasuredProperty		{'HasQuantity': 'T123-3'}	61	77	280	296	T113-3	temperature peak
+S0019103512004009-3825	2	3	MeasuredEntity		{'HasProperty': 'T113-3'}	31	40	250	259	T83-3	H50 model
+S0019103512004009-3825	2	4	Quantity	nbar		105	113	324	332	T164-4	0.3 nbar
+S0019103512004009-3825	2	4	MeasuredEntity		{'HasQuantity': 'T164-4'}	101	102	320	321	T154-4	p
+S0019103512004009-3825	2	5	MeasuredEntity		{'HasProperty': 'T95-5'}	31	40	250	259	T85-5	H50 model
+S0019103512004009-3825	2	6	MeasuredEntity		{'HasProperty': 'T136-6'}	31	40	250	259	T86-6	H50 model
+S0019103512004009-3825	2	7	MeasuredEntity		{'HasProperty': 'T67-7'}	31	40	250	259	T87-7	H50 model
+S0019103512004009-3825	3	5	Quantity			20	28	355	363	T105-5	0.1 to 1
+S0019103512004009-3825	3	5	MeasuredProperty		{'HasQuantity': 'T105-5'}	3	7	338	342	T95-5	ηnet
+S0019103512004009-3825	3	6	Quantity	Rp		51	87	386	422	T46-6	1.4Rp (0.5 nbar) to 1.9Rp (0.1 nbar)
+S0019103512004009-3825	3	6	MeasuredProperty		{'HasQuantity': 'T46-6'}	34	38	369	373	T136-6	peak
+S0019103512004009-3825	3	7	Quantity	K		128	148	463	483	T37-7	10,000 K to 13,200 K
+S0019103512004009-3825	3	7	MeasuredProperty		{'HasQuantity': 'T37-7'}	96	115	431	450	T67-7	maximum temperature
+S0019103512004009-3825	5	8	Quantity			70	71	1000	1001	T208-8	1
+S0019103512004009-3825	5	8	MeasuredEntity		{'HasQuantity': 'T208-8'}	63	67	993	997	T198-8	ηnet

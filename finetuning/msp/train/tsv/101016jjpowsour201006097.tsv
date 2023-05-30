@@ -1,0 +1,58 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jjpowsour201006097	19	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	12	26	2282	2296	T2-1	sample weights
+101016jjpowsour201006097	19	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	31	34	2301	2304	T3-1	TEA
+101016jjpowsour201006097	19	1	Quantity	mg	"{""unit"": ""mg""}"	59	78	2329	2348	T1-1	460, 250 and 290 mg
+101016jjpowsour201006097	19	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	12	26	2282	2296	T2-2	sample weights
+101016jjpowsour201006097	19	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	36	42	2306	2312	T3-2	oxalic
+101016jjpowsour201006097	19	2	Quantity	mg	"{""unit"": ""mg""}"	64	78	2334	2348	T1-2	250 and 290 mg
+101016jjpowsour201006097	19	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	12	26	2282	2296	T2-3	sample weights
+101016jjpowsour201006097	19	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	47	53	2317	2323	T3-3	citric
+101016jjpowsour201006097	19	3	Quantity	mg	"{""unit"": ""mg""}"	72	78	2342	2348	T1-3	290 mg
+101016jjpowsour201006097	12	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	75	89	1301	1315	T2-4	cationic ratio
+101016jjpowsour201006097	12	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	93	101	1319	1327	T3-4	Li:Ni:Co
+101016jjpowsour201006097	12	4	Quantity			111	120	1337	1346	T1-4	1:0.8:0.2
+101016jjpowsour201006097	14	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	28	39	1523	1534	T2-5	molar ratio
+101016jjpowsour201006097	14	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	6	12	1501	1507	T3-5	agents
+101016jjpowsour201006097	14	5	Quantity			43	44	1538	1539	T1-5	1
+101016jjpowsour201006097	20	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	19	25	2383	2389	T2-6	heated
+101016jjpowsour201006097	20	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	4	14	2368	2378	T3-6	dried mass
+101016jjpowsour201006097	20	6	Quantity	degC	"{""unit"": ""degC""}"	29	60	2393	2424	T1-6	500, 600, 700, 800 and 900 degC
+101016jjpowsour201006097	15	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	60	66	1674	1680	T2-7	heated
+101016jjpowsour201006097	15	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	4	12	1618	1626	T3-7	solution
+101016jjpowsour201006097	15	7	Quantity	degC	"{""unit"": ""degC""}"	94	101	1708	1715	T1-7	80 degC
+101016jjpowsour201006097	15	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	60	66	1674	1680	T2-8	heated
+101016jjpowsour201006097	15	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	4	12	1618	1626	T3-8	solution
+101016jjpowsour201006097	15	8	Quantity	h	"{""unit"": ""h""}"	106	109	1720	1723	T1-8	1 h
+101016jjpowsour201006097	16	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	22	28	1747	1753	T2-9	heated
+101016jjpowsour201006097	16	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	4	17	1729	1742	T3-9	resulting sol
+101016jjpowsour201006097	16	9	Quantity	degC	"{""unit"": ""degC""}"	32	40	1757	1765	T1-9	100 degC
+101016jjpowsour201006097	17	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	72	90	1884	1902	T2-10	successively dried
+101016jjpowsour201006097	17	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	55	67	1867	1879	T3-10	obtained gel
+101016jjpowsour201006097	17	10	Quantity	degC	"{""unit"": ""degC""}"	94	117	1906	1929	T1-10	100, 120, 150, 200 degC
+101016jjpowsour201006097	17	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	85	90	1897	1902	T2-11	dried
+101016jjpowsour201006097	17	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	55	67	1867	1879	T3-11	obtained gel
+101016jjpowsour201006097	17	11	Quantity	h	"{""unit"": ""h""}"	144	147	1956	1959	T1-11	5 h
+101016jjpowsour201006097	17	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	315	327	2127	2139	T2-12	heating rate
+101016jjpowsour201006097	17	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	226	309	2038	2121	T3-12	thermogravimetric/differential thermal analysis (TG/DTA) conducted on the dried gel
+101016jjpowsour201006097	17	12	Quantity	degC min-1	"{""unit"": ""degC min-1""}"	331	343	2143	2155	T1-12	5 degC min-1
+101016jjpowsour201006097	17	13	MeasuredEntity		"{""HasQuantity"": ""T1-13""}"	226	309	2038	2121	T3-13	thermogravimetric/differential thermal analysis (TG/DTA) conducted on the dried gel
+101016jjpowsour201006097	17	13	Quantity	degC	"{""unit"": ""degC""}"	350	359	2162	2171	T1-13	1100 degC
+101016jjpowsour201006097	17	14	MeasuredProperty		"{""HasQuantity"": ""T1-14""}"	72	90	1884	1902	T2-14	successively dried
+101016jjpowsour201006097	17	14	MeasuredEntity		"{""HasProperty"": ""T2-14""}"	55	67	1867	1879	T3-14	obtained gel
+101016jjpowsour201006097	17	14	Quantity	h	"{""unit"": ""h""}"	122	125	1934	1937	T1-14	2 h
+101016jjpowsour201006097	17	15	MeasuredProperty		"{""HasQuantity"": ""T1-15""}"	85	90	1897	1902	T2-15	dried
+101016jjpowsour201006097	17	15	MeasuredEntity		"{""HasProperty"": ""T2-15""}"	55	67	1867	1879	T3-15	obtained gel
+101016jjpowsour201006097	17	15	Quantity	degC	"{""unit"": ""degC""}"	151	159	1963	1971	T1-15	240 degC
+101016jjpowsour201006097	8	16	MeasuredProperty		"{""HasQuantity"": ""T1-16""}"	58	84	918	944	T2-16	highest discharge capacity
+101016jjpowsour201006097	8	16	MeasuredEntity		"{""HasProperty"": ""T2-16""}"	34	43	894	903	T3-16	batteries
+101016jjpowsour201006097	8	16	Quantity	mAh g-1	"{""unit"": ""mAh g-1""}"	88	99	948	959	T1-16	173 mAh g-1
+101016jjpowsour201006097	8	17	MeasuredProperty		"{""HasQuantity"": ""T1-17""}"	105	121	965	981	T2-17	constant current
+101016jjpowsour201006097	8	17	MeasuredEntity		"{""HasProperty"": ""T2-17""}"	34	43	894	903	T3-17	batteries
+101016jjpowsour201006097	8	17	Quantity	mA cm-2	"{""unit"": ""mA cm-2""}"	125	136	985	996	T1-17	0.1 mA cm-2
+101016jjpowsour201006097	8	18	MeasuredEntity		"{""HasQuantity"": ""T1-18""}"	34	43	894	903	T3-18	batteries
+101016jjpowsour201006097	8	18	Quantity			146	149	1006	1009	T1-18	3.0
+101016jjpowsour201006097	8	19	MeasuredEntity		"{""HasQuantity"": ""T1-19""}"	34	43	894	903	T3-19	batteries
+101016jjpowsour201006097	8	19	Quantity			154	157	1014	1017	T1-19	4.2
+101016jjpowsour201006097	23	20	MeasuredProperty		"{""HasQuantity"": ""T1-20""}"	13	18	2710	2715	T2-20	order
+101016jjpowsour201006097	23	20	MeasuredEntity		"{""HasProperty"": ""T2-20""}"	0	5	2697	2702	T3-20	Ni:Co
+101016jjpowsour201006097	23	20	Quantity			22	31	2719	2728	T1-20	1:0.8:0.2

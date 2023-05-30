@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20150249248A1_6	1	1	MeasuredEntity			481	488	481	488	T3-1	ammonia
+US20150249248A1_6	1	1	MeasuredProperty			489	502	489	502	T2-1	concentration
+US20150249248A1_6	1	1	Quantity	mol/L		541	564	541	564	T1-1	not more than 1.4 mol/L

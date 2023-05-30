@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN104704659B_6	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	542	555	542	555	T3-1	reaction tank
+CN104704659B_6	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	510	534	510	534	T2-1	concentration of ammonia
+CN104704659B_6	1	1	Quantity	mol/L	"{""unit"": ""mol/L""}"	580	589	580	589	T1-1	1.4 mol/L

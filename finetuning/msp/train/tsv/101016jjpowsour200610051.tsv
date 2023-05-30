@@ -1,0 +1,16 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jjpowsour200610051	4	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	36	41	657	662	T2-1	dried
+101016jjpowsour200610051	4	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	12	18	633	639	T3-1	slurry
+101016jjpowsour200610051	4	1	Quantity	deg C	"{""unit"": ""deg C""}"	69	76	690	697	T1-1	25deg C
+101016jjpowsour200610051	3	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	219	224	373	378	T2-2	added
+101016jjpowsour200610051	3	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	182	214	336	368	T3-2	hexachloroplatinic acid solution
+101016jjpowsour200610051	3	2	Quantity	deg C	"{""unit"": ""deg C""}"	262	269	416	423	T1-2	85deg C
+101016jjpowsour200610051	3	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	327	333	481	487	T2-3	reduce
+101016jjpowsour200610051	3	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	334	341	488	495	T3-3	H2PtCl6
+101016jjpowsour200610051	3	3	Quantity	deg C	"{""unit"": ""deg C""}"	345	352	499	506	T1-3	85deg C
+101016jjpowsour200610051	3	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	327	333	481	487	T2-4	reduce
+101016jjpowsour200610051	3	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	334	341	488	495	T3-4	H2PtCl6
+101016jjpowsour200610051	3	4	Quantity	h	"{""unit"": ""h""}"	357	360	511	514	T1-4	1 h
+101016jjpowsour200610051	5	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	45	47	744	746	T2-5	Pt
+101016jjpowsour200610051	5	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	4	17	703	716	T3-5	Pt/C catalyst
+101016jjpowsour200610051	5	5	Quantity	wt.%	"{""unit"": ""wt.%""}"	37	44	736	743	T1-5	20 wt.%

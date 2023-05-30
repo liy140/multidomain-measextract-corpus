@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+EP3659974A1_1	1	1	MeasuredEntity			3	26	3	26	T3-1	A process for preparing
+EP3659974A1_1	1	1	MeasuredProperty			68	85	68	85	T2-1	particle diameter
+EP3659974A1_1	1	1	Quantity	µm		86	114	86	114	T1-1	in the range from 3 to 20 µm

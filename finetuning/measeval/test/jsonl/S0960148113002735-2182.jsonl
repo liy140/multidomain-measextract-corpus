@@ -1,0 +1,10 @@
+{"text": "For the square configuration, the mutual topology performed better than the separate topology.", "sentId": 1, "start": 0, "end": 94}
+{"text": "One observed issue with the separate topology is that the turbines in front easily get high rotational velocities for the peak wind speeds.", "sentId": 2, "start": 95, "end": 234}
+{"text": "It is shown in Ref.", "sentId": 3, "start": 235, "end": 254}
+{"text": "[11] that for rapid increases in wind speed, the turbine temporarily obtains a higher rotational velocity and power before the wake has formed.", "sentId": 4, "start": 255, "end": 398}
+{"text": "For rapid decreases in wind speed, the existing wake causes an additional drop in wind speed.", "sentId": 5, "start": 399, "end": 492}
+{"text": "Hence the rotational velocity and the extracted power drop below the steady state value before the wake has drifted away.", "sentId": 6, "start": 493, "end": 614}
+{"text": "For the square configuration, a rapid increase in wind speed causes the front turbine to obtain a high rotational velocity, which generates a large wake behind the turbine.", "sentId": 7, "start": 615, "end": 787}
+{"text": "This large wake will drift into the downwind turbine, hence reducing the rotational velocity of the second turbine.", "sentId": 8, "start": 788, "end": 903}
+{"text": "This effect is seen in Fig. 15 at 1050 and 1170 s, where an increase in rotational velocity for turbines 1 and 3 in the separate case is followed by a rapid decrease in rotational velocity for turbine 3.", "sentId": 9, "start": 904, "end": 1107}
+{"text": "The mutual topology does not suffer from this issue, as it prevents the turbines in the front from obtaining too high rotational velocities, while keeping the rotational velocity of the turbines in the back higher.", "sentId": 10, "start": 1108, "end": 1322}

@@ -1,0 +1,10 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN107611383A_7	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	173	186	173	186	T3-1	high-pH stage
+CN107611383A_7	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	157	165	157	165	T2-1	pH value
+CN107611383A_7	1	1	Quantity			190	201	190	201	T1-1	11.50-12.50
+CN107611383A_7	1	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	223	235	223	235	T3-2	low-pH stage
+CN107611383A_7	1	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	207	215	207	215	T2-2	pH value
+CN107611383A_7	1	2	Quantity			239	249	239	249	T1-2	10.4-11.30
+CN107611383A_7	1	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	317	324	317	324	T3-4	ammonia
+CN107611383A_7	1	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	325	330	325	330	T2-4	value
+CN107611383A_7	1	4	Quantity	g/L	"{""unit"": ""g/L""}"	334	340	334	340	T1-4	3-8g/L

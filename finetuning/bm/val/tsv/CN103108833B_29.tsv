@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN103108833B_29	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	90	99	90	99	T3-1	precursor
+CN103108833B_29	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	65	77	65	77	T2-1	surface area
+CN103108833B_29	1	1	Quantity	m2of range	"{""unit"": ""m2of range""}"	109	123	109	123	T1-1	2-8 m2of range

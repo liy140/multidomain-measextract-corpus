@@ -1,0 +1,3 @@
+{"text": "As expected our design did not deadlock whereas a conventional unit deadlocked roughly 2% of the times that a glitch appears.", "sentId": 1, "start": 0, "end": 125}
+{"text": "This is very significant as a single deadlock has the potential to cripple a link permanently (until the whole system is rebooted).", "sentId": 2, "start": 126, "end": 257}
+{"text": "Given the communication-intensive application model supported by SpiNNaker this would mean a network becoming highly degraded very quickly if glitches appeared.", "sentId": 3, "start": 258, "end": 418}

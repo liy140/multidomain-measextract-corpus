@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20170033358A1_5	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	72	109	72	109	T3-1	partly oxidized mixed metal hydroxide
+US20170033358A1_5	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	47	64	47	64	T2-1	content of sodium
+US20170033358A1_5	1	1	Quantity	ppm	"{""unit"": ""ppm""}"	113	132	113	132	T1-1	less than 1,000 ppm

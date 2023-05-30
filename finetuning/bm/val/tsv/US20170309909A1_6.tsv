@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20170309909A1_6	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	8	27	8	27	T3-1	carbonate precursor
+US20170309909A1_6	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	62	76	62	76	T2-1	sodium content
+US20170309909A1_6	1	1	Quantity	wt %	"{""unit"": ""wt %""}"	80	104	80	104	T1-1	between 0.1 and 0.7 wt %
+US20170309909A1_6	1	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	8	27	8	27	T3-2	carbonate precursor
+US20170309909A1_6	1	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	114	128	114	128	T2-2	sulfur content
+US20170309909A1_6	1	2	Quantity	wt %	"{""unit"": ""wt %""}"	132	156	132	156	T1-2	between 0.2 and 0.9 wt %

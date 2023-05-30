@@ -1,0 +1,21 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0012821X13002185-1231	1	1	Quantity	‰		347	351	347	351	T131-1	∼−1‰
+S0012821X13002185-1231	1	1	MeasuredProperty		{'HasQuantity': 'T131-1'}	309	312	309	312	T121-1	30ε
+S0012821X13002185-1231	1	1	MeasuredEntity		{'HasProperty': 'T121-1'}	92	135	92	135	T111-1	diatom silicon isotope fractionation factor
+S0012821X13002185-1231	4	2	Quantity	%		38	41	604	607	T12-2	40%
+S0012821X13002185-1231	4	2	MeasuredProperty		{'HasQuantity': 'T12-2'}	42	70	608	636	T102-2	differences in the abundance
+S0012821X13002185-1231	4	2	MeasuredEntity		{'HasProperty': 'T102-2'}	80	87	646	653	T62-2	diatoms
+S0012821X13002185-1231	5	3	Quantity	μm		184	192	848	856	T23-3	12–20 μm
+S0012821X13002185-1231	5	3	MeasuredEntity		{'HasQuantity': 'T23-3'}	193	201	857	865	T93-3	fraction
+S0012821X13002185-1231	6	4	Quantity	μm		43	62	1083	1102	T34-4	between 2 and 20 μm
+S0012821X13002185-1231	6	4	MeasuredEntity		{'HasQuantity': 'T34-4'}	28	42	1068	1082	T74-4	size fractions
+S0012821X13002185-1231	6	5	Quantity			94	98	1134	1138	T155-5	0.92
+S0012821X13002185-1231	6	5	MeasuredProperty		{'HasQuantity': 'T155-5'}	91	93	1131	1133	T145-5	r2
+S0012821X13002185-1231	6	5	MeasuredEntity		{'HasProperty': 'T145-5'}	12	62	1052	1102	T165-5	δ30Si values of size fractions between 2 and 20 μm
+S0012821X13002185-1231	6	6	Quantity	‰		287	291	1327	1331	T186-6	∼–1‰
+S0012821X13002185-1231	6	6	MeasuredProperty		{'HasQuantity': 'T186-6'}	271	283	1311	1323	T176-6	apparent 30ε
+S0012821X13002185-1231	6	6	MeasuredEntity		{'HasProperty': 'T176-6'}	12	62	1052	1102	T166-6	δ30Si values of size fractions between 2 and 20 μm
+S0012821X13002185-1231	8	7	Quantity	μm		91	98	1708	1715	T47-7	2–10 μm
+S0012821X13002185-1231	8	7	MeasuredEntity		{'HasQuantity': 'T47-7'}	112	126	1729	1743	T87-7	size fractions
+S0012821X13002185-1231	8	8	Quantity	μm		103	111	1720	1728	T58-8	10–20 μm
+S0012821X13002185-1231	8	8	MeasuredEntity		{'HasQuantity': 'T58-8'}	112	126	1729	1743	T88-8	size fractions

@@ -1,0 +1,5 @@
+{"text": "Fig. 5 shows the average slice size deviation when using the lower two settings compared to the highest.", "sentId": 1, "start": 0, "end": 104}
+{"text": "On average, the Low setting produces slices that are 14% larger than the High setting.", "sentId": 2, "start": 105, "end": 191}
+{"text": "Program userv has the largest deviation of 37% when using the Low setting.", "sentId": 3, "start": 192, "end": 266}
+{"text": "For example, in userv the minimal pointer analysis fails to recognize that the function pointer oip can never point to functions sighandler_alrm and sighandler_child and includes them as called functions at call sites using *oip, increasing slice size significantly.", "sentId": 4, "start": 267, "end": 533}
+{"text": "In all 30 programs, the Low setting yields larger slices compared to the High setting.", "sentId": 5, "start": 534, "end": 620}

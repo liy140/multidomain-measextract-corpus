@@ -1,0 +1,38 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jnanoen201410008	4	1	MeasuredEntity		"{""HasQuantity"": ""T1-1""}"	61	63	600	602	T3-1	Pd
+101016jnanoen201410008	4	1	Quantity	%	"{""unit"": ""%""}"	57	60	596	599	T1-1	30%
+101016jnanoen201410008	4	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	148	157	687	696	T2-2	dissolved
+101016jnanoen201410008	4	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	66	74	605	613	T3-2	graphene
+101016jnanoen201410008	4	2	Quantity	mg	"{""unit"": ""mg""}"	75	82	614	621	T1-2	10.5 mg
+101016jnanoen201410008	4	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	148	157	687	696	T2-3	dissolved
+101016jnanoen201410008	4	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	84	113	623	652	T3-3	poly(vinyl pyrrolidone) (PVP)
+101016jnanoen201410008	4	3	Quantity	mg	"{""unit"": ""mg""}"	114	119	653	658	T1-3	40 mg
+101016jnanoen201410008	4	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	148	157	687	696	T2-4	dissolved
+101016jnanoen201410008	4	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	125	136	664	675	T3-4	(NH4)2PdCl4
+101016jnanoen201410008	4	4	Quantity	mg	"{""unit"": ""mg""}"	137	142	676	681	T1-4	12 mg
+101016jnanoen201410008	4	5	MeasuredEntity		"{""HasQuantity"": ""T1-5""}"	169	184	708	723	T3-5	deionized water
+101016jnanoen201410008	4	5	Quantity	mL	"{""unit"": ""mL""}"	161	165	700	704	T1-5	2 mL
+101016jnanoen201410008	2	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	32	37	313	318	T2-6	dried
+101016jnanoen201410008	2	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	13	27	294	308	T3-6	graphene oxide
+101016jnanoen201410008	2	6	Quantity	degC	"{""unit"": ""degC""}"	58	65	339	346	T1-6	70 degC
+101016jnanoen201410008	2	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	32	37	313	318	T2-7	dried
+101016jnanoen201410008	2	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	13	27	294	308	T3-7	graphene oxide
+101016jnanoen201410008	2	7	Quantity	h	"{""unit"": ""h""}"	70	74	351	355	T1-7	12 h
+101016jnanoen201410008	2	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	114	131	395	412	T2-8	high vacuum level
+101016jnanoen201410008	2	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	13	27	294	308	T3-8	graphene oxide
+101016jnanoen201410008	2	8	Quantity	degC	"{""unit"": ""degC""}"	135	142	416	423	T1-8	60 degC
+101016jnanoen201410008	2	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	166	173	447	454	T2-9	heating
+101016jnanoen201410008	2	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	13	27	294	308	T3-9	graphene oxide
+101016jnanoen201410008	2	9	Quantity	degC	"{""unit"": ""degC""}"	177	185	458	466	T1-9	220 degC
+101016jnanoen201410008	5	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	89	94	814	819	T2-10	added
+101016jnanoen201410008	5	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	100	105	825	830	T3-10	HCOOH
+101016jnanoen201410008	5	10	Quantity	mL	"{""unit"": ""mL""}"	95	99	820	824	T1-10	3 mL
+101016jnanoen201410008	5	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	110	132	835	857	T2-11	ultrasonically treated
+101016jnanoen201410008	5	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	56	105	781	830	T3-11	uniform aqueous dispersion, then added 3 mL HCOOH
+101016jnanoen201410008	5	11	Quantity	min	"{""unit"": ""min""}"	137	143	862	868	T1-11	10 min
+101016jnanoen201410008	7	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	112	122	1071	1081	T2-12	oven-dried
+101016jnanoen201410008	7	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	4	24	963	983	T3-12	obtained black power
+101016jnanoen201410008	7	12	Quantity	degC	"{""unit"": ""degC""}"	126	133	1085	1092	T1-12	60 degC
+101016jnanoen201410008	7	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	112	122	1071	1081	T2-13	oven-dried
+101016jnanoen201410008	7	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	4	24	963	983	T3-13	obtained black power
+101016jnanoen201410008	7	13	Quantity	h	"{""unit"": ""h""}"	138	151	1097	1110	T1-13	more than 6 h

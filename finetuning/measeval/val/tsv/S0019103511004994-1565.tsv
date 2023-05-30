@@ -1,0 +1,6 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103511004994-1565	3	1	Quantity	min		28	35	243	250	T11-1	±10 min
+S0019103511004994-1565	3	1	MeasuredEntity		{'HasQuantity': 'T11-1'}	4	15	219	230	T21-1	time period
+S0019103511004994-1565	12	2	Quantity	keV		50	60	1396	1406	T42-2	56–100 keV
+S0019103511004994-1565	12	2	MeasuredProperty		{'HasQuantity': 'T42-2'}	4	35	1350	1381	T62-2	measured differential intensity
+S0019103511004994-1565	12	2	MeasuredEntity		{'HasProperty': 'T62-2'}	39	48	1385	1394	T52-2	electrons

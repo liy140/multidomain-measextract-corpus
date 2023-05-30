@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0006322312001096-626	1	1	Quantity			48	51	48	51	T11-1	10%
+S0006322312001096-626	1	1	MeasuredProperty		{'HasQuantity': 'T11-1'}	52	60	52	60	T21-1	Increase
+S0006322312001096-626	1	1	MeasuredEntity		{'HasProperty': 'T21-1'}	20	42	20	42	T31-1	Framingham Risk Scores
+S0006322312001096-626	1	2	Quantity			127	129	127	129	T1-2	65
+S0006322312001096-626	1	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	123	126	123	126	T2-2	Age
+S0006322312001096-626	1	2	MeasuredEntity		{'HasProperty': 'T2-2'}	86	105	86	105	T4-2	Depressive Symptoms

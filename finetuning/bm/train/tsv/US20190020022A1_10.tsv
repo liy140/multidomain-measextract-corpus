@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20190020022A1_10	1	1	MeasuredEntity			8	42	8	42	T3-1	positive electrode active material
+US20190020022A1_10	1	1	MeasuredProperty			89	100	89	100	T2-1	tap density
+US20190020022A1_10	1	1	Quantity	g/cc		104	124	104	124	T1-1	1.7 g/cc to 3.0 g/cc

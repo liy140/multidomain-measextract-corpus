@@ -1,0 +1,13 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0167739X12001525-6016	4	1	Quantity	%		72	81	381	390	T1-1	below 10%
+S0167739X12001525-6016	4	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	17	25	326	334	T3-1	executed
+S0167739X12001525-6016	4	1	MeasuredEntity		{'HasProperty': 'T3-1'}	26	46	335	355	T2-1	reallocation actions
+S0167739X12001525-6016	5	2	Quantity	%		38	43	430	435	T1-2	19.8%
+S0167739X12001525-6016	5	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	18	34	410	426	T2-2	executes actions
+S0167739X12001525-6016	5	2	MeasuredEntity		{'HasProperty': 'T2-2'}	51	56	443	448	T3-2	cases
+S0167739X12001525-6016	5	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	18	34	410	426	T5-4	executes actions
+S0167739X12001525-6016	6	3	Quantity			0	17	473	490	T1-3	Five out of eight
+S0167739X12001525-6016	6	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	28	52	501	525	T3-3	stay below 5% on average
+S0167739X12001525-6016	6	3	MeasuredEntity		{'HasProperty': 'T3-3'}	18	27	491	500	T2-3	scenarios
+S0167739X12001525-6016	6	4	Quantity	%		33	41	506	514	T1-4	below 5%
+S0167739X12001525-6016	6	4	MeasuredEntity		{'HasProperty': 'T5-4'}	0	27	473	500	T4-4	Five out of eight scenarios

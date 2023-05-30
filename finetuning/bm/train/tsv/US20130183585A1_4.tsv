@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20130183585A1_4	1	1	MeasuredEntity			97	112	97	112	T3-1	the metal oxide
+US20130183585A1_4	1	1	MeasuredProperty			164	189	164	189	T2-1	average particle diameter
+US20130183585A1_4	1	1	Quantity	μm		193	206	193	206	T1-1	5 μm to 15 μm

@@ -1,0 +1,54 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101039c5nr00656b	10	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	5	14	1349	1358	T2-1	synthesis
+101039c5nr00656b	10	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	23	33	1367	1377	T3-1	Cu2-xS NCs
+101039c5nr00656b	10	1	Quantity	nm	"{""unit"": ""nm""}"	18	22	1362	1366	T1-1	5 nm
+101039c5nr00656b	10	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	123	129	1467	1473	T2-2	mixing
+101039c5nr00656b	10	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	143	174	1487	1518	T3-2	ammonium diethyldithiocarbamate
+101039c5nr00656b	10	2	Quantity	mmol	"{""unit"": ""mmol""}"	130	139	1474	1483	T1-2	1.25 mmol
+101039c5nr00656b	10	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	123	129	1467	1473	T2-3	mixing
+101039c5nr00656b	10	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	185	198	1529	1542	T3-3	dodecanethiol
+101039c5nr00656b	10	3	Quantity	mL	"{""unit"": ""mL""}"	176	181	1520	1525	T1-3	10 mL
+101039c5nr00656b	10	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	123	129	1467	1473	T2-4	mixing
+101039c5nr00656b	10	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	212	222	1556	1566	T3-4	oleic acid
+101039c5nr00656b	10	4	Quantity	mL	"{""unit"": ""mL""}"	203	208	1547	1552	T1-4	17 mL
+101039c5nr00656b	11	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	17	25	1607	1615	T2-5	degassed
+101039c5nr00656b	11	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	4	12	1594	1602	T3-5	solution
+101039c5nr00656b	11	5	Quantity	degC	"{""unit"": ""degC""}"	29	37	1619	1627	T1-5	120 degC
+101039c5nr00656b	11	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	17	25	1607	1615	T2-6	degassed
+101039c5nr00656b	11	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	4	12	1594	1602	T3-6	solution
+101039c5nr00656b	11	6	Quantity	h	"{""unit"": ""h""}"	42	45	1632	1635	T1-6	1 h
+101039c5nr00656b	11	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	97	123	1687	1713	T2-7	copper(II) acetylacetonate
+101039c5nr00656b	11	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	53	74	1643	1664	T3-7	nitrogen a suspension
+101039c5nr00656b	11	7	Quantity	mmol	"{""unit"": ""mmol""}"	87	93	1677	1683	T1-7	1 mmol
+101039c5nr00656b	11	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	136	146	1726	1736	T2-8	oleic acid
+101039c5nr00656b	11	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	53	83	1643	1673	T3-8	nitrogen a suspension composed
+101039c5nr00656b	11	8	Quantity	mL	"{""unit"": ""mL""}"	128	132	1718	1722	T1-8	3 mL
+101039c5nr00656b	11	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	172	179	1762	1769	T2-9	heating
+101039c5nr00656b	11	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	4	12	1594	1602	T3-9	solution
+101039c5nr00656b	11	9	Quantity	degC	"{""unit"": ""degC""}"	180	194	1770	1784	T1-9	up to 180 degC
+101039c5nr00656b	11	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	200	224	1790	1814	T2-10	kept at this temperature
+101039c5nr00656b	11	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	4	12	1594	1602	T3-10	solution
+101039c5nr00656b	11	10	Quantity	min	"{""unit"": ""min""}"	229	238	1819	1828	T1-10	10-20 min
+101039c5nr00656b	9	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	50	58	1251	1259	T2-11	diluting
+101039c5nr00656b	9	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	63	85	1264	1286	T3-11	original NC's solution
+101039c5nr00656b	9	11	Quantity	times	"{""unit"": ""times""}"	86	95	1287	1296	T1-11	two times
+101039c5nr00656b	5	12	MeasuredEntity		"{""HasQuantity"": ""T1-12""}"	46	56	750	760	T3-12	Cu2-xS NCs
+101039c5nr00656b	5	12	Quantity	μL	"{""unit"": ""\u03bcL""}"	58	64	762	768	T1-12	200 μL
+101039c5nr00656b	2	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	17	26	407	416	T2-13	sonicated
+101039c5nr00656b	2	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	4	12	394	402	T3-13	solution
+101039c5nr00656b	2	13	Quantity	minutes	"{""unit"": ""minutes""}"	31	47	421	437	T1-13	about 20 minutes
+101039c5nr00656b	1	14	MeasuredProperty		"{""HasQuantity"": ""T1-14""}"	301	322	301	322	T2-14	initial concentration
+101039c5nr00656b	1	14	MeasuredEntity		"{""HasProperty"": ""T2-14""}"	279	299	279	299	T3-14	GO solution in water
+101039c5nr00656b	1	14	Quantity	mg mL-1	"{""unit"": ""mg mL-1""}"	323	334	323	334	T1-14	~ 4 mg mL-1
+101039c5nr00656b	1	15	MeasuredEntity		"{""HasQuantity"": ""T1-15""}"	363	378	363	378	T3-15	deionized water
+101039c5nr00656b	1	15	Quantity	μL	"{""unit"": ""\u03bcL""}"	353	359	353	359	T1-15	150 μL
+101039c5nr00656b	1	16	MeasuredProperty		"{""HasQuantity"": ""T1-16""}"	340	347	340	347	T2-16	diluted
+101039c5nr00656b	1	16	MeasuredEntity		"{""HasProperty"": ""T2-16""}"	279	299	279	299	T3-16	GO solution in water
+101039c5nr00656b	1	16	Quantity	μL	"{""unit"": ""\u03bcL""}"	265	271	265	271	T1-16	150 μL
+101039c5nr00656b	1	17	MeasuredEntity		"{""HasQuantity"": ""T1-17""}"	265	378	265	378	T3-17	150 μL of the GO solution in water (initial concentration ~ 4 mg mL-1) was diluted with 150 μL of deionized water
+101039c5nr00656b	1	17	Quantity	v/v	"{""unit"": ""v/v""}"	380	387	380	387	T1-17	1:1 v/v
+101039c5nr00656b	3	18	MeasuredEntity		"{""HasQuantity"": ""T1-18""}"	26	48	546	568	T3-18	hydrochloric acid (HCl
+101039c5nr00656b	3	18	Quantity	M	"{""unit"": ""M""}"	50	53	570	573	T1-18	1 M
+101039c5nr00656b	3	19	MeasuredProperty		"{""HasQuantity"": ""T1-19""}"	60	65	580	585	T2-19	added
+101039c5nr00656b	3	19	MeasuredEntity		"{""HasProperty"": ""T2-19""}"	18	48	538	568	T3-19	diluted hydrochloric acid (HCl
+101039c5nr00656b	3	19	Quantity	μL	"{""unit"": ""\u03bcL""}"	9	14	529	534	T1-19	50 μL

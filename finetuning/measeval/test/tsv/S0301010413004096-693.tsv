@@ -1,0 +1,9 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0301010413004096-693	3	1	Quantity	K		144	148	575	579	T1-1	77 K
+S0301010413004096-693	3	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	117	129	548	560	T3-1	temperatures
+S0301010413004096-693	3	1	MeasuredEntity		{'HasProperty': 'T3-1'}	107	116	538	547	T4-1	cryogenic
+S0301010413004096-693	3	2	Quantity	wt%		171	178	602	609	T1-2	∼16 wt%
+S0301010413004096-693	3	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	179	200	610	631	T3-2	total uptake capacity
+S0301010413004096-693	3	2	MeasuredEntity		{'HasProperty': 'T3-2'}	71	73	502	504	T4-2	H2
+S0301010413004096-693	6	3	Quantity	K		44	54	1174	1184	T1-3	below 10 K
+S0301010413004096-693	6	3	MeasuredEntity		{'HasQuantity': 'T1-3'}	0	40	1130	1170	T3-3	In situ neutron powder diffraction (NPD)

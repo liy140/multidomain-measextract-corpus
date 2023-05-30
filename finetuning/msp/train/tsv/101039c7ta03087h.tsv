@@ -1,0 +1,40 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101039c7ta03087h	3	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	5	17	413	425	T2-1	concentrated
+101039c7ta03087h	3	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	18	25	426	433	T3-1	NH3*H2O
+101039c7ta03087h	3	1	Quantity	%	"{""unit"": ""%""}"	27	30	435	438	T1-1	68%
+101039c7ta03087h	3	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	43	48	451	456	T2-2	added
+101039c7ta03087h	3	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	18	25	426	433	T3-2	NH3*H2O
+101039c7ta03087h	3	2	Quantity	mL	"{""unit"": ""mL""}"	32	37	440	445	T1-2	10 mL
+101039c7ta03087h	7	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	78	80	1067	1069	T2-3	H2
+101039c7ta03087h	7	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	88	92	1077	1081	T3-3	flow
+101039c7ta03087h	7	3	Quantity	%	"{""unit"": ""%""}"	74	77	1063	1066	T1-3	15%
+101039c7ta03087h	7	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	85	87	1074	1076	T2-4	Ar
+101039c7ta03087h	7	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	88	92	1077	1081	T3-4	flow
+101039c7ta03087h	7	4	Quantity	%	"{""unit"": ""%""}"	81	84	1070	1073	T1-4	85%
+101039c7ta03087h	7	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	57	65	1046	1054	T2-5	annealed
+101039c7ta03087h	7	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	37	52	1026	1041	T3-5	NH4H(HGeO3)2/GO
+101039c7ta03087h	7	5	Quantity	degC	"{""unit"": ""degC""}"	96	104	1085	1093	T1-5	800 degC
+101039c7ta03087h	7	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	57	65	1046	1054	T2-6	annealed
+101039c7ta03087h	7	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	37	52	1026	1041	T3-6	NH4H(HGeO3)2/GO
+101039c7ta03087h	7	6	Quantity	h	"{""unit"": ""h""}"	109	112	1098	1101	T1-6	4 h
+101039c7ta03087h	2	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	165	174	340	349	T2-7	dispersed
+101039c7ta03087h	2	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	143	147	318	322	T3-7	GeO2
+101039c7ta03087h	2	7	Quantity	g	"{""unit"": ""g""}"	149	152	324	327	T1-7	1 g
+101039c7ta03087h	2	8	MeasuredEntity		"{""HasQuantity"": ""T1-8""}"	178	193	353	368	T3-8	distilled water
+101039c7ta03087h	2	8	Quantity	mL	"{""unit"": ""mL""}"	195	200	370	375	T1-8	50 mL
+101039c7ta03087h	2	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	205	220	380	395	T2-9	ultrasonication
+101039c7ta03087h	2	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	143	147	318	322	T3-9	GeO2
+101039c7ta03087h	2	9	Quantity	min	"{""unit"": ""min""}"	225	231	400	406	T1-9	10 min
+101039c7ta03087h	5	10	MeasuredEntity		"{""HasQuantity"": ""T1-10""}"	23	45	778	800	T3-10	exfoliated GO solution
+101039c7ta03087h	5	10	Quantity	mL	"{""unit"": ""mL""}"	14	19	769	774	T1-10	10 mL
+101039c7ta03087h	5	11	MeasuredEntity		"{""HasQuantity"": ""T1-11""}"	23	45	778	800	T3-11	exfoliated GO solution
+101039c7ta03087h	5	11	Quantity	mg mL-1	"{""unit"": ""mg mL-1""}"	47	57	802	812	T1-11	20 mg mL-1
+101039c7ta03087h	5	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	93	110	848	865	T2-12	constant stirring
+101039c7ta03087h	5	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	23	45	778	800	T3-12	exfoliated GO solution
+101039c7ta03087h	5	12	Quantity	min	"{""unit"": ""min""}"	115	121	870	876	T1-12	30 min
+101039c7ta03087h	5	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	158	163	913	918	T2-13	dried
+101039c7ta03087h	5	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	134	148	889	903	T3-13	brown solution
+101039c7ta03087h	5	13	Quantity	degC	"{""unit"": ""degC""}"	167	174	922	929	T1-13	70 degC
+101039c7ta03087h	5	14	MeasuredProperty		"{""HasQuantity"": ""T1-14""}"	158	163	913	918	T2-14	dried
+101039c7ta03087h	5	14	MeasuredEntity		"{""HasProperty"": ""T2-14""}"	134	148	889	903	T3-14	brown solution
+101039c7ta03087h	5	14	Quantity	h	"{""unit"": ""h""}"	179	183	934	938	T1-14	12 h

@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20170309909A1_20	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	46	55	46	55	T3-1	the seeds
+US20170309909A1_20	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	63	87	63	87	T2-1	median particle size D50
+US20170309909A1_20	1	1	Quantity	μm	"{""unit"": ""\u03bcm""}"	88	108	88	108	T1-1	between 0.1 and 3 μm

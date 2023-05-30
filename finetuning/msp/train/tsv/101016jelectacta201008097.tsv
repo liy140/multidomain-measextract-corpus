@@ -1,0 +1,13 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jelectacta201008097	6	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	86	97	679	690	T2-1	TOC content
+101016jelectacta201008097	6	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	56	80	649	673	T3-1	Millipore Milli-Q system
+101016jelectacta201008097	6	1	Quantity	μg dm-3	"{""unit"": ""\u03bcg dm-3""}"	98	109	691	702	T1-1	< 1 μg dm-3
+101016jelectacta201008097	6	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	114	125	707	718	T2-2	resistivity
+101016jelectacta201008097	6	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	54	80	647	673	T3-2	a Millipore Milli-Q system
+101016jelectacta201008097	6	2	Quantity	MΩ cm	"{""unit"": ""M\u03a9 cm""}"	126	136	719	729	T1-2	> 18 MΩ cm
+101016jelectacta201008097	6	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	86	136	679	729	T2-3	TOC content < 1 μg dm-3 and resistivity > 18 MΩ cm
+101016jelectacta201008097	6	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	56	80	649	673	T3-3	Millipore Milli-Q system
+101016jelectacta201008097	6	3	Quantity	degC	"{""unit"": ""degC""}"	140	147	733	740	T1-3	25 degC
+101016jelectacta201008097	2	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	220	226	228	234	T2-4	purity
+101016jelectacta201008097	2	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	187	212	195	220	T3-4	Propranolol hydrochloride
+101016jelectacta201008097	2	4	Quantity	%	"{""unit"": ""%""}"	216	219	224	227	T1-4	99%

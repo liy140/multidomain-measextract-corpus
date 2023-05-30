@@ -1,0 +1,13 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S2213671113001306-910	10	1	Quantity	×		36	43	901	908	T1-1	10,500×
+S2213671113001306-910	10	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	44	57	909	922	T2-1	magnification
+S2213671113001306-910	10	1	MeasuredEntity		{'HasProperty': 'T2-1'}	0	11	865	876	T3-1	Left images
+S2213671113001306-910	10	2	Quantity	×		109	116	974	981	T1-2	25,000×
+S2213671113001306-910	10	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	44	57	909	922	T3-2	magnification
+S2213671113001306-910	10	2	MeasuredEntity		{'HasProperty': 'T3-2'}	59	76	924	941	T2-2	right micrographs
+S2213671113001306-910	10	3	Quantity	μm		139	143	1004	1008	T1-3	2 μm
+S2213671113001306-910	10	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	157	165	1022	1030	T4-3	distance
+S2213671113001306-910	10	3	MeasuredEntity		{'HasProperty': 'T4-3'}	118	128	983	993	T3-3	scale bars
+S2213671113001306-910	10	4	Quantity	μm		150	156	1015	1021	T1-4	0.2 μm
+S2213671113001306-910	10	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	157	165	1022	1030	T2-4	distance
+S2213671113001306-910	10	4	MeasuredEntity		{'HasProperty': 'T2-4'}	118	128	983	993	T3-4	scale bars

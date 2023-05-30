@@ -1,0 +1,6 @@
+{"text": "PV modules are normally labelled with a power rating, which means the power measured at standard test conditions, STC, as defined in [1].", "sentId": 1, "start": 0, "end": 137}
+{"text": "This is called peak-power, denoted as Wp.", "sentId": 2, "start": 138, "end": 179}
+{"text": "STC represent rather favourable operating conditions for most PV technologies as it is an unrealistic combination of a cold module temperature (25 °C) at a high irradiance (1000 W/m2).", "sentId": 3, "start": 180, "end": 364}
+{"text": "Different modules, even of the same technology, generally have different rated powers and the energy yields must be made comparable in any inter-comparison study.", "sentId": 4, "start": 365, "end": 527}
+{"text": "This is achieved by using the specific yield (kWh/kWp).", "sentId": 5, "start": 528, "end": 583}
+{"text": "The specific yield is a key property of PV modules at a particular location and can be a major sales argument for competing PV module suppliers.", "sentId": 6, "start": 584, "end": 728}

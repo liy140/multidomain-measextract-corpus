@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20170309909A1_13	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	476	482	476	482	T3-1	sulfur
+US20170309909A1_13	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	447	507	447	507	T2-1	sodium (Na<sub>wt</sub>) and sulfur (S<sub>wt</sub>) content
+US20170309909A1_13	1	1	Quantity	wt %	"{""unit"": ""wt %""}"	576	594	576	594	T1-1	more than 0.4 wt %
+US20170309909A1_13	1	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	476	482	476	482	T3-2	sulfur
+US20170309909A1_13	1	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	447	507	447	507	T2-2	sodium (Na<sub>wt</sub>) and sulfur (S<sub>wt</sub>) content
+US20170309909A1_13	1	2	Quantity	wt %	"{""unit"": ""wt %""}"	599	617	599	617	T1-2	less than 1.6 wt %

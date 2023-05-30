@@ -1,0 +1,4 @@
+{"text": "The groundwater module was used only for the 8.5 mm beach, where the groundwater response was directly observed at bore arrival.", "sentId": 1, "start": 0, "end": 128}
+{"text": "In the 1.5 mm beach the groundwater levels were not affected during the swash event, because the wetting front did not reach the groundwater within the swash cycle, due to the low permeability of the beach.", "sentId": 2, "start": 129, "end": 335}
+{"text": "This means that the simulation for the 1.5 mm beach is carried out with a constant groundwater level equal to the initial groundwater level.", "sentId": 3, "start": 336, "end": 476}
+{"text": "All other modules were used for both beaches.", "sentId": 4, "start": 477, "end": 522}

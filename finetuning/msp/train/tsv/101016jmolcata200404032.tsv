@@ -1,0 +1,28 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jmolcata200404032	3	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	123	129	480	486	T2-1	drying
+101016jmolcata200404032	3	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	49	110	406	467	T3-1	impregnating TiO2 with an aqueous solution of cerious nitrate
+101016jmolcata200404032	3	1	Quantity	degC	"{""unit"": ""degC""}"	133	141	490	498	T1-1	100 degC
+101016jmolcata200404032	3	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	323	329	680	686	T2-2	drying
+101016jmolcata200404032	3	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	245	310	602	667	T3-2	impregnating CeO2/TiO2 with an aqueous solution of cupric nitrate
+101016jmolcata200404032	3	2	Quantity	degC	"{""unit"": ""degC""}"	333	341	690	698	T1-2	100 degC
+101016jmolcata200404032	3	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	161	169	518	526	T2-3	calcined
+101016jmolcata200404032	3	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	49	151	406	508	T3-3	impregnating TiO2 with an aqueous solution of cerious nitrate followed by drying at 100 degC overnight
+101016jmolcata200404032	3	3	Quantity	degC	"{""unit"": ""degC""}"	188	196	545	553	T1-3	500 degC
+101016jmolcata200404032	3	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	161	169	518	526	T2-4	calcined
+101016jmolcata200404032	3	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	49	151	406	508	T3-4	impregnating TiO2 with an aqueous solution of cerious nitrate followed by drying at 100 degC overnight
+101016jmolcata200404032	3	4	Quantity	h	"{""unit"": ""h""}"	201	204	558	561	T1-4	7 h
+101016jmolcata200404032	3	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	361	369	718	726	T2-5	calcined
+101016jmolcata200404032	3	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	245	351	602	708	T3-5	impregnating CeO2/TiO2 with an aqueous solution of cupric nitrate followed by drying at 100 degC overnight
+101016jmolcata200404032	3	5	Quantity	degC	"{""unit"": ""degC""}"	388	396	745	753	T1-5	500 degC
+101016jmolcata200404032	3	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	361	369	718	726	T2-6	calcined
+101016jmolcata200404032	3	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	245	351	602	708	T3-6	impregnating CeO2/TiO2 with an aqueous solution of cupric nitrate followed by drying at 100 degC overnight
+101016jmolcata200404032	3	6	Quantity	h	"{""unit"": ""h""}"	401	404	758	761	T1-6	7 h
+101016jmolcata200404032	1	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	202	210	202	210	T2-7	calcined
+101016jmolcata200404032	1	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	167	174	167	174	T3-7	product
+101016jmolcata200404032	1	7	Quantity	degC	"{""unit"": ""degC""}"	229	237	229	237	T1-7	500 degC
+101016jmolcata200404032	1	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	202	210	202	210	T2-8	calcined
+101016jmolcata200404032	1	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	167	174	167	174	T3-8	product
+101016jmolcata200404032	1	8	Quantity	h	"{""unit"": ""h""}"	242	245	242	245	T1-8	5 h
+101016jmolcata200404032	2	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	80	96	327	343	T2-9	BET surface area
+101016jmolcata200404032	2	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	36	43	283	290	T3-9	product
+101016jmolcata200404032	2	9	Quantity	m2 g-1	"{""unit"": ""m2 g-1""}"	100	109	347	356	T1-9	83 m2 g-1

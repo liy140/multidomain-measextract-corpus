@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S037842901300244X-1654	2	1	Quantity	%		70	73	248	251	T1-1	50%
+S037842901300244X-1654	2	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	92	107	270	285	T4-1	exerted stigmas
+S037842901300244X-1654	2	1	MeasuredEntity		{'HasProperty': 'T4-1'}	81	87	259	265	T3-1	plants
+S037842901300244X-1654	5	2	Quantity	das		79	98	767	786	T1-2	67, 101 and 121 das
+S037842901300244X-1654	5	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	67	75	755	763	T3-2	recorded
+S037842901300244X-1654	5	2	MeasuredEntity		{'HasProperty': 'T3-2'}	17	62	705	750	T4-2	number of emerged Striga plants for each plot

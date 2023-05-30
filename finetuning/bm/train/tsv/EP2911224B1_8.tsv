@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+EP2911224B1_8	1	1	MeasuredEntity			64	90	64	90	T3-1	lithium compound particles
+EP2911224B1_8	1	1	MeasuredProperty			99	124	99	124	T2-1	average particle diameter
+EP2911224B1_8	1	1	Quantity	µm		128	147	128	147	T1-1	not more than 50 µm

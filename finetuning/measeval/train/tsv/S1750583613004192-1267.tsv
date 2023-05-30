@@ -1,0 +1,14 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S1750583613004192-1267	2	1	Quantity	percent		215	253	416	454	T1-1	a few percent to around thirty percent
+S1750583613004192-1267	2	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	185	199	386	400	T3-1	gas saturation
+S1750583613004192-1267	2	2	Quantity	percent		284	304	485	505	T1-2	above thirty percent
+S1750583613004192-1267	2	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	267	278	468	479	T2-2	saturations
+S1750583613004192-1267	3	3	Quantity	%		20	23	597	600	T1-3	80%
+S1750583613004192-1267	3	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	24	38	601	615	T3-3	gas saturation
+S1750583613004192-1267	3	3	MeasuredEntity		{'HasProperty': 'T3-3'}	72	86	649	663	T4-3	Sleipner plume
+S1750583613004192-1267	4	4	Quantity	%		7	10	769	772	T1-4	80%
+S1750583613004192-1267	4	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	46	57	808	819	T4-4	upper limit
+S1750583613004192-1267	4	4	MeasuredEntity		{'HasProperty': 'T4-4'}	65	94	827	856	T3-4	mean saturation for the plume
+S1750583613004192-1267	4	5	Quantity			131	134	893	896	T1-5	40%
+S1750583613004192-1267	4	5	MeasuredProperty		{'HasQuantity': 'T1-5'}	100	111	862	873	T2-5	lower limit
+S1750583613004192-1267	4	5	MeasuredEntity		{'HasProperty': 'T2-5'}	65	94	827	856	T3-5	mean saturation for the plume

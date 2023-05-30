@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0167610513001001-1618	1	1	Quantity	m		101	106	101	106	T1-1	180 m
+S0167610513001001-1618	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	92	100	92	100	T4-1	midpoint
+S0167610513001001-1618	1	1	MeasuredEntity		{'HasProperty': 'T4-1'}	68	90	68	90	T3-1	height of the BT Tower
+S0167610513001001-1618	2	2	Quantity	m s−1		31	41	140	150	T1-2	7.83 m s−1
+S0167610513001001-1618	2	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	22	27	131	136	T3-2	speed
+S0167610513001001-1618	2	2	MeasuredEntity		{'HasProperty': 'T3-2'}	17	21	126	130	T2-2	wind

@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0960148113005727-904	2	1	Quantity	% per year		85	99	268	282	T1-1	5–13% per year
+S0960148113005727-904	2	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	31	43	214	226	T4-1	load factors
+S0960148113005727-904	2	1	MeasuredEntity		{'HasProperty': 'T4-1'}	47	67	230	250	T3-1	wind farms in the UK

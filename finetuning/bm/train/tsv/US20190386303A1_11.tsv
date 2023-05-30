@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20190386303A1_11	1	1	MeasuredEntity			66	83	66	83	T3-1	NH3in the reactor
+US20190386303A1_11	1	1	MeasuredProperty			49	62	49	62	T2-1	concentration
+US20190386303A1_11	1	1	Quantity	g/L		87	104	87	104	T1-1	less than 5.0 g/L

@@ -1,0 +1,12 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S1750583613004192-1689	4	1	Quantity	meters		73	91	521	539	T1-1	hundreds of meters
+S1750583613004192-1689	4	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	95	98	543	546	T2-1	ice
+S1750583613004192-1689	5	2	Quantity	MPa		41	47	631	637	T1-2	10 MPa
+S1750583613004192-1689	5	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	51	63	641	653	T2-2	overpressure
+S1750583613004192-1689	5	2	MeasuredEntity		{'HasProperty': 'T2-2'}	2	26	592	616	T4-2	transient ice sheet load
+S1750583613004192-1689	5	3	Quantity	years		237	267	827	857	T1-3	less than a few thousand years
+S1750583613004192-1689	5	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	225	233	815	823	T4-3	timespan
+S1750583613004192-1689	5	3	MeasuredEntity		{'HasProperty': 'T4-3'}	216	224	806	814	T3-3	ablation
+S1750583613004192-1689	5	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	51	63	641	653	T2-4	overpressure
+S1750583613004192-1689	5	4	MeasuredEntity		{'HasProperty': 'T2-4'}	2	26	592	616	T4-4	transient ice sheet load
+S1750583613004192-1689	6	4	Quantity	MPa		45	51	904	910	T1-4	10 MPa

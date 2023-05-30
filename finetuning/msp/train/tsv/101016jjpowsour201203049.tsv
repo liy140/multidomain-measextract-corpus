@@ -1,0 +1,18 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jjpowsour201203049	3	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	67	78	298	309	T2-1	molar ratio
+101016jjpowsour201203049	3	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	0	59	231	290	T3-1	CH3COOLi*2H2O, FeCl2*4H2O, MnCl2*4H2O, P2O5 and critic acid
+101016jjpowsour201203049	3	1	Quantity			82	95	313	326	T1-1	1:0.5:0.5:1:1
+101016jjpowsour201203049	3	2	MeasuredEntity		"{""HasQuantity"": ""T1-2""}"	120	136	351	367	T3-2	ethanol solution
+101016jjpowsour201203049	3	2	Quantity	mL	"{""unit"": ""mL""}"	114	119	345	350	T1-2	40 mL
+101016jjpowsour201203049	4	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	25	41	394	410	T2-3	rigorous stirred
+101016jjpowsour201203049	4	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	4	20	373	389	T3-3	mixture solution
+101016jjpowsour201203049	4	3	Quantity	h	"{""unit"": ""h""}"	46	50	415	419	T1-3	12 h
+101016jjpowsour201203049	4	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	77	83	446	452	T2-4	heated
+101016jjpowsour201203049	4	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	4	20	373	389	T3-4	mixture solution
+101016jjpowsour201203049	4	4	Quantity	K	"{""unit"": ""K""}"	87	92	456	461	T1-4	353 K
+101016jjpowsour201203049	5	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	25	30	503	508	T2-5	fired
+101016jjpowsour201203049	5	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	13	20	491	498	T3-5	xerogel
+101016jjpowsour201203049	5	5	Quantity	K	"{""unit"": ""K""}"	34	39	512	517	T1-5	773 K
+101016jjpowsour201203049	5	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	25	30	503	508	T2-6	fired
+101016jjpowsour201203049	5	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	13	20	491	498	T3-6	xerogel
+101016jjpowsour201203049	5	6	Quantity	h	"{""unit"": ""h""}"	44	47	522	525	T1-6	5 h

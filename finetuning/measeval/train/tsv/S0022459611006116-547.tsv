@@ -1,0 +1,3 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0022459611006116-547	1	1	Quantity	K		64	70	64	70	T1-1	298 K.
+S0022459611006116-547	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	0	60	0	60	T2-1	Refined crystallographic parameters for (1) from PXD and PND

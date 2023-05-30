@@ -1,0 +1,15 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103512003533-5300	1	2	MeasuredEntity		{'HasProperty': 'T3-2'}	29	37	29	37	T4-2	electron
+S0019103512003533-5300	2	1	Quantity	mV m−1		33	42	135	144	T1-1	80 mV m−1
+S0019103512003533-5300	2	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	15	29	117	131	T2-1	field strength
+S0019103512003533-5300	2	2	Quantity	mW m−2		118	135	220	237	T1-2	0.2 to 1.2 mW m−2
+S0019103512003533-5300	2	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	101	112	203	214	T3-2	energy flux
+S0019103512003533-5300	2	3	Quantity	mV m−1		150	160	252	262	T1-3	100 mV m−1
+S0019103512003533-5300	2	3	MeasuredEntity		{'HasQuantity': 'T1-3'}	15	29	117	131	T2-3	field strength
+S0019103512003533-5300	2	4	Quantity	K		164	195	266	297	T1-4	increases from ∼550 K to 850 K.
+S0019103512003533-5300	2	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	47	58	149	160	T2-4	temperature
+S0019103512003533-5300	2	4	MeasuredEntity		{'HasProperty': 'T2-4'}	289	311	391	413	T3-4	Saturn’s thermospheric
+S0019103512003533-5300	2	5	Quantity	keV		424	430	526	532	T1-5	10 keV
+S0019103512003533-5300	2	5	MeasuredEntity		{'HasQuantity': 'T1-5'}	431	440	533	542	T2-5	particles
+S0019103512003533-5300	3	6	Quantity	eV		69	75	613	619	T1-6	500 eV
+S0019103512003533-5300	3	6	MeasuredEntity		{'HasQuantity': 'T1-6'}	77	86	621	630	T2-6	electrons

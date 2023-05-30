@@ -1,0 +1,10 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S016412121300188X-4069	1	1	Quantity	lines of code		54	72	54	72	T1-1	9438 lines of code
+S016412121300188X-4069	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	45	53	45	53	T3-1	contains
+S016412121300188X-4069	1	1	MeasuredEntity		{'HasProperty': 'T3-1'}	19	44	19	44	T4-1	open source calculator bc
+S016412121300188X-4069	1	2	Quantity	SDG vertices		88	105	88	105	T1-2	7538 SDG vertices
+S016412121300188X-4069	1	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	73	84	73	84	T4-2	represented
+S016412121300188X-4069	1	2	MeasuredEntity		{'HasProperty': 'T4-2'}	54	72	54	72	T2-2	9438 lines of code
+S016412121300188X-4069	2	3	Quantity	%		72	82	179	189	T1-3	almost 70%
+S016412121300188X-4069	2	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	47	60	154	167	T3-3	large plateau
+S016412121300188X-4069	2	3	MeasuredEntity		{'HasProperty': 'T3-3'}	90	93	197	200	T4-3	MSG

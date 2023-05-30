@@ -1,0 +1,13 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20140186710A1_6	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	471	502	471	502	T3-1	metal compound aqueous solution
+US20140186710A1_6	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	548	556	548	556	T2-1	pH value
+US20140186710A1_6	1	1	Quantity			560	571	560	571	T1-1	7.5 to 11.1
+US20140186710A1_6	1	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	471	502	471	502	T3-2	metal compound aqueous solution
+US20140186710A1_6	1	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	593	604	593	604	T2-2	temperature
+US20140186710A1_6	1	2	Quantity	° C	"{""unit"": ""\u00b0 C""}"	608	613	608	613	T1-2	25° C
+US20140186710A1_6	1	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	642	670	642	670	T3-3	slurry for a particle growth
+US20140186710A1_6	1	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	630	638	630	638	T2-3	pH value
+US20140186710A1_6	1	3	Quantity			761	773	761	773	T1-3	10.5 to 12.5
+US20140186710A1_6	1	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	642	670	642	670	T3-4	slurry for a particle growth
+US20140186710A1_6	1	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	788	806	788	806	T2-4	liquid temperature
+US20140186710A1_6	1	4	Quantity	° C	"{""unit"": ""\u00b0 C""}"	810	815	810	815	T1-4	25° C

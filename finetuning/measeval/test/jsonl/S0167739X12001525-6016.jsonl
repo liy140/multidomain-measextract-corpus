@@ -1,0 +1,6 @@
+{"text": "A huge advantage of Scenarios 2.", "sentId": 1, "start": 0, "end": 32}
+{"text": "* is that they do not run into any crucial SLA violation (except for Scenario 2.3), but achieve a higher utilization as compared to Scenario 3.", "sentId": 2, "start": 32, "end": 175}
+{"text": "As to the reallocation actions, of course, Scenario 1 and 3 do not execute any, but also for the autonomic management in Scenarios 2.", "sentId": 3, "start": 176, "end": 309}
+{"text": "*, the amount of executed reallocation actions for most scenarios stays below 10%.", "sentId": 4, "start": 309, "end": 391}
+{"text": "Only Scenario 2.7 executes actions in 19.8% of the cases on average of the time.", "sentId": 5, "start": 392, "end": 472}
+{"text": "Five out of eight scenarios stay below 5% on average.", "sentId": 6, "start": 473, "end": 526}

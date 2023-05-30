@@ -1,0 +1,32 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101039c4cy00360h	10	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	44	51	1646	1653	T2-1	treated
+101039c4cy00360h	10	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	4	38	1606	1640	T3-1	zeolite samples in their NH4+-form
+101039c4cy00360h	10	1	Quantity	mL min-1	"{""unit"": ""mL min-1""}"	64	76	1666	1678	T1-1	100 mL min-1
+101039c4cy00360h	10	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	115	126	1717	1728	T2-2	temperature
+101039c4cy00360h	10	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	4	38	1606	1640	T3-2	zeolite samples in their NH4+-form
+101039c4cy00360h	10	2	Quantity	K	"{""unit"": ""K""}"	155	160	1757	1762	T1-2	823 K
+101039c4cy00360h	10	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	100	126	1702	1728	T2-3	increasing the temperature
+101039c4cy00360h	10	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	4	38	1606	1640	T3-3	zeolite samples in their NH4+-form
+101039c4cy00360h	10	3	Quantity	K min-1	"{""unit"": ""K min-1""}"	164	176	1766	1778	T1-3	1.45 K min-1
+101039c4cy00360h	10	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	181	188	1783	1790	T2-4	holding
+101039c4cy00360h	10	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	4	38	1606	1640	T3-4	zeolite samples in their NH4+-form
+101039c4cy00360h	10	4	Quantity	h	"{""unit"": ""h""}"	193	196	1795	1798	T1-4	4 h
+101039c4cy00360h	8	5	MeasuredEntity		"{""HasQuantity"": ""T1-5""}"	86	100	1285	1299	T3-5	aqueous NH4NO3
+101039c4cy00360h	8	5	Quantity	mol L-1	"{""unit"": ""mol L-1""}"	76	85	1275	1284	T1-5	1 mol L-1
+101039c4cy00360h	8	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	102	114	1301	1313	T2-6	weight ratio
+101039c4cy00360h	8	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	118	144	1317	1343	T3-6	zeolite to NH4NO3 solution
+101039c4cy00360h	8	6	Quantity			147	151	1346	1350	T1-6	1:10
+101039c4cy00360h	8	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	45	58	1244	1257	T2-7	ion-exchanged
+101039c4cy00360h	8	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	4	39	1203	1238	T3-7	as-synthesized MWW and MFI zeolites
+101039c4cy00360h	8	7	Quantity	K	"{""unit"": ""K""}"	156	161	1355	1360	T1-7	353 K
+101039c4cy00360h	8	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	45	58	1244	1257	T2-8	ion-exchanged
+101039c4cy00360h	8	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	4	39	1203	1238	T3-8	as-synthesized MWW and MFI zeolites
+101039c4cy00360h	8	8	Quantity	h	"{""unit"": ""h""}"	166	170	1365	1369	T1-8	12 h
+101039c4cy00360h	8	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	270	275	1469	1474	T2-9	dried
+101039c4cy00360h	8	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	4	39	1203	1238	T3-9	as-synthesized MWW and MFI zeolites
+101039c4cy00360h	8	9	Quantity	K	"{""unit"": ""K""}"	279	284	1478	1483	T1-9	343 K
+101039c4cy00360h	8	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	45	58	1244	1257	T2-10	ion-exchanged
+101039c4cy00360h	8	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	4	39	1203	1238	T3-10	as-synthesized MWW and MFI zeolites
+101039c4cy00360h	8	10	Quantity	times	"{""unit"": ""times""}"	59	69	1258	1268	T1-10	four times
+101039c4cy00360h	8	11	MeasuredEntity		"{""HasQuantity"": ""T1-11""}"	232	252	1431	1451	T3-11	deionized (DI) water
+101039c4cy00360h	8	11	Quantity	times	"{""unit"": ""times""}"	253	264	1452	1463	T1-11	three times

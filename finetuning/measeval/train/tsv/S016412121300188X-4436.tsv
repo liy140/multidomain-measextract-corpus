@@ -1,0 +1,6 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S016412121300188X-4436	2	1	Quantity	%		118	121	249	252	T1-1	10%
+S016412121300188X-4436	2	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	105	114	236	245	T3-1	threshold
+S016412121300188X-4436	3	2	Quantity	%		73	76	335	338	T1-2	10%
+S016412121300188X-4436	3	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	107	172	369	434	T2-2	produce the same backward slice as well as the same forward slice
+S016412121300188X-4436	3	2	MeasuredEntity		{'HasProperty': 'T2-2'}	84	106	346	368	T3-2	program's SDG vertices

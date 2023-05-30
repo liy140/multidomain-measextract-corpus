@@ -1,0 +1,23 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0927024813003036-2011	2	1	Quantity	cm−3		97	125	244	272	T1-1	range 1013 cm−3 to 1016 cm−3
+S0927024813003036-2011	2	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	4	25	151	172	T3-1	injection level range
+S0927024813003036-2011	4	2	Quantity	min		110	116	555	561	T1-2	10 min
+S0927024813003036-2011	4	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	117	127	562	572	T4-2	pre-anneal
+S0927024813003036-2011	4	2	MeasuredEntity		{'HasProperty': 'T4-2'}	52	59	497	504	T3-2	samples
+S0927024813003036-2011	4	3	Quantity	°C		131	137	576	582	T1-3	200 °C
+S0927024813003036-2011	4	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	117	127	562	572	T3-3	pre-anneal
+S0927024813003036-2011	4	3	MeasuredEntity		{'HasProperty': 'T3-3'}	52	59	497	504	T5-3	samples
+S0927024813003036-2011	5	4	Quantity			30	33	649	652	T1-4	∼50
+S0927024813003036-2011	5	4	MeasuredEntity		{'HasQuantity': 'T1-4'}	34	50	653	669	T2-4	close-up flashes
+S0927024813003036-2011	6	5	Quantity	ms		129	136	920	927	T1-5	<20  ms
+S0927024813003036-2011	6	5	MeasuredProperty		{'HasQuantity': 'T1-5'}	21	49	812	840	T2-5	aggregated illumination time
+S0927024813003036-2011	6	5	MeasuredEntity		{'HasProperty': 'T2-5'}	57	73	848	864	T3-5	flashes of light
+S0927024813003036-2011	7	6	Quantity	h		39	53	1051	1065	T1-6	more than 24 h
+S0927024813003036-2011	7	6	MeasuredEntity		{'HasQuantity': 'T1-6'}	2	29	1014	1041	T2-6	second lifetime measurement
+S0927024813003036-2011	8	7	Quantity			4	7	1144	1147	T1-7	two
+S0927024813003036-2011	8	7	MeasuredEntity		{'HasQuantity': 'T1-7'}	8	29	1148	1169	T2-7	lifetime measurements
+S0927024813003036-2011	12	8	Quantity	p0		70	75	1910	1915	T1-8	0.2p0
+S0927024813003036-2011	12	8	MeasuredEntity		{'HasQuantity': 'T1-8'}	45	60	1885	1900	T2-8	injection level
+S0927024813003036-2011	13	9	Quantity	cm−3		73	87	1990	2004	T1-9	≤1.5×1012 cm−3
+S0927024813003036-2011	13	9	MeasuredProperty		{'HasQuantity': 'T1-9'}	4	28	1921	1945	T4-9	bulk iron concentrations
+S0927024813003036-2011	13	9	MeasuredEntity		{'HasProperty': 'T4-9'}	36	60	1953	1977	T3-9	“uncontaminated” samples

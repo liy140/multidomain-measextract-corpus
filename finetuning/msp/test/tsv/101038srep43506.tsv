@@ -1,0 +1,76 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101038srep43506	14	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	38	43	1376	1381	T2-1	mixed
+101038srep43506	14	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	15	18	1353	1356	T3-1	EDC
+101038srep43506	14	1	Quantity	mg	"{""unit"": ""mg""}"	9	14	1347	1352	T1-1	40 mg
+101038srep43506	14	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	38	43	1376	1381	T2-2	mixed
+101038srep43506	14	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	29	32	1367	1370	T3-2	NHS
+101038srep43506	14	2	Quantity	mg	"{""unit"": ""mg""}"	23	28	1361	1366	T1-2	40 mg
+101038srep43506	14	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	38	43	1376	1381	T2-3	mixed
+101038srep43506	14	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	52	81	1390	1419	T3-3	FA (0.5 mg/mL, DMSO) solution
+101038srep43506	14	3	Quantity	mL	"{""unit"": ""mL""}"	47	51	1385	1389	T1-3	4 mL
+101038srep43506	14	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	52	54	1390	1392	T2-4	FA
+101038srep43506	14	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	73	81	1411	1419	T3-4	solution
+101038srep43506	14	4	Quantity	mg/mL	"{""unit"": ""mg/mL""}"	56	65	1394	1403	T1-4	0.5 mg/mL
+101038srep43506	14	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	99	106	1437	1444	T2-5	stirred
+101038srep43506	14	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	9	81	1347	1419	T3-5	40 mg EDC and 40 mg NHS were mixed in 4 mL FA (0.5 mg/mL, DMSO) solution
+101038srep43506	14	5	Quantity	min	"{""unit"": ""min""}"	131	137	1469	1475	T1-5	15 min
+101038srep43506	14	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	191	196	1529	1534	T2-6	added
+101038srep43506	14	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	162	186	1500	1524	T3-6	PPG (1.0 mg/mL) solution
+101038srep43506	14	6	Quantity	ml	"{""unit"": ""ml""}"	157	161	1495	1499	T1-6	4 ml
+101038srep43506	14	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	162	165	1500	1503	T2-7	PPG
+101038srep43506	14	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	178	186	1516	1524	T3-7	solution
+101038srep43506	14	7	Quantity	mg/mL	"{""unit"": ""mg/mL""}"	167	176	1505	1514	T1-7	1.0 mg/mL
+101038srep43506	14	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	216	221	1554	1559	T2-8	react
+101038srep43506	14	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	204	212	1542	1550	T3-8	solution
+101038srep43506	14	8	Quantity	h	"{""unit"": ""h""}"	246	250	1584	1588	T1-8	24 h
+101038srep43506	21	9	MeasuredEntity		"{""HasQuantity"": ""T1-9""}"	156	164	2281	2289	T3-9	solution
+101038srep43506	21	9	Quantity	mg/mL	"{""unit"": ""mg/mL""}"	146	155	2271	2280	T1-9	0.1 mg/mL
+101038srep43506	22	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	56	68	2347	2359	T2-10	weight ratio
+101038srep43506	22	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	77	87	2368	2378	T3-10	NGO: siRNA
+101038srep43506	22	10	Quantity			72	75	2363	2366	T1-10	4:1
+101038srep43506	22	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	94	103	2385	2394	T2-11	incubated
+101038srep43506	22	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	4	88	2295	2379	T3-11	PPG-FA was blend with different siRNA solution at a weight ratio of 4:1 (NGO: siRNA)
+101038srep43506	22	11	Quantity	min	"{""unit"": ""min""}"	128	134	2419	2425	T1-11	30 min
+101038srep43506	12	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	95	116	1158	1179	T2-12	high molecular weight
+101038srep43506	12	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	117	142	1180	1205	T3-12	branched polyethylenimine
+101038srep43506	12	12	Quantity			144	149	1207	1212	T1-12	10000
+101038srep43506	12	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	162	182	1225	1245	T2-13	low molecular weight
+101038srep43506	12	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	183	208	1246	1271	T3-13	branched polyethylenimine
+101038srep43506	12	13	Quantity			210	214	1273	1277	T1-13	1800
+101038srep43506	15	14	MeasuredProperty		"{""HasQuantity"": ""T1-14""}"	23	79	1613	1669	T2-14	removed by dialyzing against double distilled water (DD)
+101038srep43506	15	14	MeasuredEntity		"{""HasProperty"": ""T2-14""}"	9	18	1599	1608	T3-14	excess FA
+101038srep43506	15	14	Quantity	h	"{""unit"": ""h""}"	84	88	1674	1678	T1-14	24 h
+101038srep43506	15	15	MeasuredProperty		"{""HasQuantity"": ""T1-15""}"	90	113	1680	1703	T2-15	molecular weight cutoff
+101038srep43506	15	15	MeasuredEntity		"{""HasProperty"": ""T2-15""}"	34	43	1624	1633	T3-15	dialyzing
+101038srep43506	15	15	Quantity	kDa	"{""unit"": ""kDa""}"	115	121	1705	1711	T1-15	10-kDa
+101038srep43506	16	16	MeasuredEntity		"{""HasQuantity"": ""T1-16""}"	42	49	1756	1763	T3-16	NGO-PEG
+101038srep43506	16	16	Quantity	mg/mL	"{""unit"": ""mg/mL""}"	51	60	1765	1774	T1-16	0.5 mg/mL
+101038srep43506	19	17	MeasuredProperty		"{""HasQuantity"": ""T1-17""}"	65	70	1922	1927	T2-17	mixed
+101038srep43506	19	17	MeasuredEntity		"{""HasProperty"": ""T2-17""}"	16	22	1873	1879	T3-17	PPG-FA
+101038srep43506	19	17	Quantity	μL	"{""unit"": ""\u03bcL""}"	9	15	1866	1872	T1-17	500 μL
+101038srep43506	19	18	MeasuredProperty		"{""HasQuantity"": ""T1-18""}"	65	70	1922	1927	T2-18	mixed
+101038srep43506	19	18	MeasuredEntity		"{""HasProperty"": ""T2-18""}"	16	22	1873	1879	T3-18	PPG-FA
+101038srep43506	19	18	Quantity	mg/mL	"{""unit"": ""mg/mL""}"	24	33	1881	1890	T1-18	0.5 mg/mL
+101038srep43506	19	19	MeasuredProperty		"{""HasQuantity"": ""T1-19""}"	65	70	1922	1927	T2-19	mixed
+101038srep43506	19	19	MeasuredEntity		"{""HasProperty"": ""T2-19""}"	46	49	1903	1906	T3-19	Dox
+101038srep43506	19	19	Quantity	μL	"{""unit"": ""\u03bcL""}"	39	45	1896	1902	T1-19	500 μL
+101038srep43506	19	20	MeasuredEntity		"{""HasQuantity"": ""T1-20""}"	81	93	1938	1950	T3-20	PBS solution
+101038srep43506	19	20	Quantity	mL	"{""unit"": ""mL""}"	76	80	1933	1937	T1-20	5 mL
+101038srep43506	19	21	MeasuredProperty		"{""HasQuantity"": ""T1-21""}"	98	118	1955	1975	T2-21	magnetically stirred
+101038srep43506	19	21	MeasuredEntity		"{""HasProperty"": ""T2-21""}"	9	93	1866	1950	T3-21	500 μL PPG-FA (0.5 mg/mL) and 500 μL Dox (1 mg/mL) were mixed in a 5 mL PBS solution
+101038srep43506	19	21	Quantity	h	"{""unit"": ""h""}"	143	147	2000	2004	T1-21	12 h
+101038srep43506	19	22	MeasuredProperty		"{""HasQuantity"": ""T1-22""}"	65	70	1922	1927	T2-22	mixed
+101038srep43506	19	22	MeasuredEntity		"{""HasProperty"": ""T2-22""}"	46	49	1903	1906	T3-22	Dox
+101038srep43506	19	22	Quantity	mg/mL	"{""unit"": ""mg/mL""}"	51	58	1908	1915	T1-22	1 mg/mL
+101038srep43506	9	23	MeasuredProperty		"{""HasQuantity"": ""T1-23""}"	45	68	818	841	T2-23	molecular weight cutoff
+101038srep43506	9	23	MeasuredEntity		"{""HasProperty"": ""T2-23""}"	4	17	777	790	T3-23	dialysis bags
+101038srep43506	9	23	Quantity	kDa	"{""unit"": ""kDa""}"	70	76	843	849	T1-23	10-kDa
+101038srep43506	9	24	MeasuredProperty		"{""HasQuantity"": ""T1-24""}"	45	68	818	841	T2-24	molecular weight cutoff
+101038srep43506	9	24	MeasuredEntity		"{""HasProperty"": ""T2-24""}"	22	43	795	816	T3-24	ultrafiltration tubes
+101038srep43506	9	24	Quantity	kDa	"{""unit"": ""kDa""}"	81	87	854	860	T1-24	30-kDa
+101038srep43506	2	25	MeasuredEntity		"{""HasQuantity"": ""T1-25""}"	24	46	190	212	T3-25	linear chain PEG amine
+101038srep43506	2	25	Quantity			48	52	214	218	T1-25	5000
+101038srep43506	2	26	MeasuredEntity		"{""HasQuantity"": ""T1-26""}"	55	80	221	246	T3-26	branched polyethylenimine
+101038srep43506	2	26	Quantity			81	86	247	252	T1-26	10000
+101038srep43506	2	27	MeasuredEntity		"{""HasQuantity"": ""T1-27""}"	88	92	254	258	T3-27	BPEI
+101038srep43506	2	27	Quantity			93	98	259	264	T1-27	10000

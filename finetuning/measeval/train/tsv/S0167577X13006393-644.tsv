@@ -1,0 +1,13 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0167577X13006393-644	1	1	Quantity	°C		60	73	60	73	T1-1	above 1000 °C
+S0167577X13006393-644	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	42	59	42	59	T3-1	reported to occur
+S0167577X13006393-644	1	1	MeasuredEntity		{'HasProperty': 'T3-1'}	0	30	0	30	T5-1	Sintering of pure HA particles
+S0167577X13006393-644	3	2	Quantity			49	53	240	244	T2-2	1.67
+S0167577X13006393-644	3	2	MeasuredProperty		{'HasQuantity': 'T2-2'}	39	44	230	235	T1-2	ratio
+S0167577X13006393-644	3	2	MeasuredEntity		{'HasProperty': 'T1-2'}	45	48	236	239	T3-2	CaP
+S0167577X13006393-644	3	3	Quantity	°C		112	124	303	315	T1-3	upto 1200 °C
+S0167577X13006393-644	3	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	99	111	290	302	T3-3	temperatures
+S0167577X13006393-644	3	3	MeasuredEntity		{'HasProperty': 'T3-3'}	30	95	221	286	T4-3	pure HA (ratio CaP=1.67) is stable in an air and argon atmosphere
+S0167577X13006393-644	4	4	Quantity	°C		48	61	373	386	T1-4	low as 800 °C
+S0167577X13006393-644	4	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	29	44	354	369	T3-4	at temperatures
+S0167577X13006393-644	4	4	MeasuredEntity		{'HasProperty': 'T3-4'}	9	28	334	353	T2-4	decomposition of HA

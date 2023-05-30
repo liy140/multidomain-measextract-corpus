@@ -1,0 +1,19 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jtsf201309083	9	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	38	53	729	744	T2-1	vacuum annealed
+101016jtsf201309083	9	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	9	32	700	723	T3-1	as-grown MgZnO:Al films
+101016jtsf201309083	9	1	Quantity	h	"{""unit"": ""h""}"	58	61	749	752	T1-1	1 h
+101016jtsf201309083	6	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	109	118	509	518	T2-2	flow rate
+101016jtsf201309083	6	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	89	95	489	495	T3-2	Oxygen
+101016jtsf201309083	6	2	Quantity	sccm	"{""unit"": ""sccm""}"	101	108	501	508	T1-2	20 sccm
+101016jtsf201309083	6	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	142	151	542	551	T2-3	flow rate
+101016jtsf201309083	6	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	123	128	523	528	T3-3	argon
+101016jtsf201309083	6	3	Quantity	sccm	"{""unit"": ""sccm""}"	134	141	534	541	T1-3	40 sccm
+101016jtsf201309083	8	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	4	13	648	657	T2-4	thickness
+101016jtsf201309083	8	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	21	34	665	678	T3-4	as-grown film
+101016jtsf201309083	8	4	Quantity	nm	"{""unit"": ""nm""}"	39	45	683	689	T1-4	300 nm
+101016jtsf201309083	4	5	MeasuredEntity		"{""HasQuantity"": ""T1-5""}"	30	33	286	289	T3-5	MgO
+101016jtsf201309083	4	5	Quantity	wt.%	"{""unit"": ""wt.%""}"	22	29	278	285	T1-5	45 wt.%
+101016jtsf201309083	4	6	MeasuredEntity		"{""HasQuantity"": ""T1-6""}"	46	49	302	305	T3-6	ZnO
+101016jtsf201309083	4	6	Quantity	wt.%	"{""unit"": ""wt.%""}"	35	45	291	301	T1-6	54.81 wt.%
+101016jtsf201309083	4	7	MeasuredEntity		"{""HasQuantity"": ""T1-7""}"	64	69	320	325	T3-7	Al2O3
+101016jtsf201309083	4	7	Quantity	wt.%	"{""unit"": ""wt.%""}"	54	63	310	319	T1-7	0.19 wt.%

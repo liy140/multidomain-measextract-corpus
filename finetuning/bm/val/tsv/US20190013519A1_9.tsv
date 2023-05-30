@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20190013519A1_9	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	274	281	274	281	T3-1	ammonia
+US20190013519A1_9	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	274	295	274	295	T2-1	ammonia concentration
+US20190013519A1_9	1	1	Quantity	g/L	"{""unit"": ""g/L""}"	379	442	379	442	T1-1	greater than or equal to 3 g/L and less than or equal to 15 g/L

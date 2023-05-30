@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0021979713004438-2004	5	1	MeasuredEntity		{'HasProperty': 'T2-1'}	141	157	988	1004	T5-1	surface hardness
+S0021979713004438-2004	6	1	Quantity	MPa		139	156	1145	1162	T1-1	38 MPa to 185 MPa
+S0021979713004438-2004	6	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	111	118	1117	1124	T2-1	modulus

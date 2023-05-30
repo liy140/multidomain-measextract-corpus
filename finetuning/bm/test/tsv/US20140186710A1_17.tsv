@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20140186710A1_17	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	621	643	621	643	T3-1	lithium mixed material
+US20140186710A1_17	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	704	715	704	715	T2-1	temperature
+US20140186710A1_17	1	1	Quantity	° C	"{""unit"": ""\u00b0 C""}"	719	736	719	736	T1-1	650° C. to 980° C

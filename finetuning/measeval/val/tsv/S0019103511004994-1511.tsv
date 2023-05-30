@@ -1,0 +1,26 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103511004994-1511	2	1	Quantity	MeV		164	208	313	357	T51-1	between about 20 keV and several tens of MeV
+S0019103511004994-1511	2	1	MeasuredProperty		{'HasQuantity': 'T51-1'}	151	163	300	312	T71-1	energy range
+S0019103511004994-1511	2	1	MeasuredEntity		{'HasProperty': 'T71-1'}	106	118	255	267	T81-1	charged ions
+S0019103511004994-1511	4	2	Quantity			31	34	605	608	T212-2	two
+S0019103511004994-1511	4	2	MeasuredEntity		{'HasQuantity': 'T212-2'}	45	54	619	628	T62-2	detectors
+S0019103511004994-1511	4	3	Quantity			139	143	713	717	T233-3	five
+S0019103511004994-1511	4	3	MeasuredEntity		{'HasQuantity': 'T233-3'}	144	153	718	727	T223-3	detectors
+S0019103511004994-1511	7	4	Quantity	s		113	128	978	993	T14-4	86 s, nominally
+S0019103511004994-1511	7	4	MeasuredProperty		{'HasQuantity': 'T14-4'}	62	112	927	977	T114-4	rotates about the −y-axis of the spacecraft within
+S0019103511004994-1511	7	4	MeasuredEntity		{'HasProperty': 'T114-4'}	38	55	903	920	T104-4	movable turntable
+S0019103511004994-1511	12	5	Quantity	°		58	64	1542	1548	T145-5	77.45°
+S0019103511004994-1511	12	5	MeasuredProperty		{'HasQuantity': 'T145-5'}	36	54	1520	1538	T135-5	points at an angle
+S0019103511004994-1511	12	5	MeasuredEntity		{'HasProperty': 'T135-5'}	15	35	1499	1519	T125-5	low-energy telescope
+S0019103511004994-1511	13	6	Quantity	times		90	98	1705	1713	T166-6	16 times
+S0019103511004994-1511	13	6	MeasuredProperty		{'HasQuantity': 'T166-6'}	47	80	1662	1695	T276-6	time resolution of the instrument
+S0019103511004994-1511	13	6	MeasuredEntity		{'HasProperty': 'T276-6'}	219	247	1834	1862	T256-6	a given pointing/pitch angle
+S0019103511004994-1511	13	7	Quantity	s		133	139	1748	1754	T27-7	5.65 s
+S0019103511004994-1511	13	7	MeasuredProperty		{'HasQuantity': 'T27-7'}	47	80	1662	1695	T157-7	time resolution of the instrument
+S0019103511004994-1511	13	7	MeasuredEntity		{'HasProperty': 'T157-7'}	149	162	1764	1777	T177-7	rate channels
+S0019103511004994-1511	13	8	Quantity	s		166	172	1781	1787	T48-8	0.66 s
+S0019103511004994-1511	13	8	MeasuredProperty		{'HasQuantity': 'T48-8'}	47	80	1662	1695	T288-8	time resolution of the instrument
+S0019103511004994-1511	13	8	MeasuredEntity		{'HasProperty': 'T288-8'}	181	198	1796	1813	T188-8	priority channels
+S0019103511004994-1511	13	9	Quantity	s		210	214	1825	1829	T39-9	86 s
+S0019103511004994-1511	13	9	MeasuredProperty		{'HasQuantity': 'T39-9'}	47	80	1662	1695	T279-9	time resolution of the instrument
+S0019103511004994-1511	13	9	MeasuredEntity		{'HasProperty': 'T279-9'}	219	247	1834	1862	T259-9	a given pointing/pitch angle

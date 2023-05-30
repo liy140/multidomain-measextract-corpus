@@ -1,0 +1,56 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101039c7ta03244g	6	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	24	26	802	804	T2-1	Mw
+101039c7ta03244g	6	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	0	22	778	800	T3-1	Polyethyleneimine (PEI
+101039c7ta03244g	6	1	Quantity	Da	"{""unit"": ""Da""}"	28	37	806	815	T1-1	750000 Da
+101039c7ta03244g	7	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	27	29	883	885	T2-2	Mw
+101039c7ta03244g	7	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	0	25	856	881	T3-2	Bovine serum albumin (BSA
+101039c7ta03244g	7	2	Quantity	g mol-1	"{""unit"": ""g mol-1""}"	31	44	887	900	T1-2	67000 g mol-1
+101039c7ta03244g	10	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	250	254	1403	1407	T2-3	NaOH
+101039c7ta03244g	10	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	255	271	1408	1424	T3-3	aqueous solution
+101039c7ta03244g	10	3	Quantity	mol L-1	"{""unit"": ""mol L-1""}"	273	282	1426	1435	T1-3	2 mol L-1
+101039c7ta03244g	10	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	233	243	1386	1396	T2-4	hydrolyzed
+101039c7ta03244g	10	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	209	222	1362	1375	T3-4	PAN substrate
+101039c7ta03244g	10	4	Quantity	degC	"{""unit"": ""degC""}"	287	294	1440	1447	T1-4	65 degC
+101039c7ta03244g	10	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	233	243	1386	1396	T2-5	hydrolyzed
+101039c7ta03244g	10	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	209	222	1362	1375	T3-5	PAN substrate
+101039c7ta03244g	10	5	Quantity	min	"{""unit"": ""min""}"	299	305	1452	1458	T1-5	60 min
+101039c7ta03244g	10	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	427	435	1580	1588	T2-6	Zn(NO3)2
+101039c7ta03244g	10	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	436	452	1589	1605	T3-6	aqueous solution
+101039c7ta03244g	10	6	Quantity	mol L-1	"{""unit"": ""mol L-1""}"	411	426	1564	1579	T1-6	0.2-0.6 mol L-1
+101039c7ta03244g	10	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	399	405	1552	1558	T2-7	soaked
+101039c7ta03244g	10	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	363	394	1516	1547	T3-7	hydrolyzed PAN (HPAN) substrate
+101039c7ta03244g	10	7	Quantity	h	"{""unit"": ""h""}"	457	460	1610	1613	T1-7	5 h
+101039c7ta03244g	10	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	399	405	1552	1558	T2-8	soaked
+101039c7ta03244g	10	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	363	394	1516	1547	T3-8	hydrolyzed PAN (HPAN) substrate
+101039c7ta03244g	10	8	Quantity	degC	"{""unit"": ""degC""}"	464	476	1617	1629	T1-8	25 +- 1 degC
+101039c7ta03244g	10	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	643	655	1796	1808	T2-9	zinc nitrate
+101039c7ta03244g	10	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	582	615	1735	1768	T3-9	mixed PEI-Zn(II) complex solution
+101039c7ta03244g	10	9	Quantity	mol L-1	"{""unit"": ""mol L-1""}"	627	642	1780	1795	T1-9	0.1-0.3 mol L-1
+101039c7ta03244g	10	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	668	688	1821	1841	T2-10	PEI aqueous solution
+101039c7ta03244g	10	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	588	615	1741	1768	T3-10	PEI-Zn(II) complex solution
+101039c7ta03244g	10	10	Quantity	wt%	"{""unit"": ""wt%""}"	660	667	1813	1820	T1-10	0.4 wt%
+101039c7ta03244g	10	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	564	615	1717	1768	T2-11	introduced into a mixed PEI-Zn(II) complex solution
+101039c7ta03244g	10	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	551	559	1704	1712	T3-11	membrane
+101039c7ta03244g	10	11	Quantity	h	"{""unit"": ""h""}"	693	698	1846	1851	T1-11	0.5 h
+101039c7ta03244g	10	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	564	615	1717	1768	T2-12	introduced into a mixed PEI-Zn(II) complex solution
+101039c7ta03244g	10	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	551	559	1704	1712	T3-12	membrane
+101039c7ta03244g	10	12	Quantity	degC	"{""unit"": ""degC""}"	726	736	1879	1889	T1-12	20-50 degC
+101039c7ta03244g	2	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	173	177	181	185	T2-13	MWCO
+101039c7ta03244g	2	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	135	171	143	179	T3-13	Polyacrylonitrile (PAN) UF membranes
+101039c7ta03244g	2	13	Quantity	kDa	"{""unit"": ""kDa""}"	179	186	187	194	T1-13	200 kDa
+101039c7ta03244g	12	14	MeasuredEntity		"{""HasQuantity"": ""T1-14""}"	74	78	2132	2136	T3-14	Hmim
+101039c7ta03244g	12	14	Quantity	mol L-1	"{""unit"": ""mol L-1""}"	61	73	2119	2131	T1-14	0.20 mol L-1
+101039c7ta03244g	12	15	MeasuredProperty		"{""HasQuantity"": ""T1-15""}"	47	55	2105	2113	T2-15	immersed
+101039c7ta03244g	12	15	MeasuredEntity		"{""HasProperty"": ""T2-15""}"	13	42	2071	2100	T3-15	PEI-Zn(II)-saturated membrane
+101039c7ta03244g	12	15	Quantity	min	"{""unit"": ""min""}"	104	112	2162	2170	T1-15	5-20 min
+101039c7ta03244g	12	16	MeasuredProperty		"{""HasQuantity"": ""T1-16""}"	47	55	2105	2113	T2-16	immersed
+101039c7ta03244g	12	16	MeasuredEntity		"{""HasProperty"": ""T2-16""}"	13	42	2071	2100	T3-16	PEI-Zn(II)-saturated membrane
+101039c7ta03244g	12	16	Quantity	degC	"{""unit"": ""degC""}"	116	128	2174	2186	T1-16	25 +- 2 degC
+101039c7ta03244g	5	17	MeasuredEntity		"{""HasQuantity"": ""T1-17""}"	80	103	685	708	T3-17	2-methylimidazole (Hmim
+101039c7ta03244g	5	17	Quantity	%	"{""unit"": ""%""}"	105	110	710	715	T1-17	99.5%
+101039c7ta03244g	13	18	MeasuredProperty		"{""HasQuantity"": ""T1-18""}"	67	92	2303	2328	T2-18	dried at room temperature
+101039c7ta03244g	13	18	MeasuredEntity		"{""HasProperty"": ""T2-18""}"	4	21	2240	2257	T3-18	obtained membrane
+101039c7ta03244g	13	18	Quantity	degC	"{""unit"": ""degC""}"	94	106	2330	2342	T1-18	25 +- 2 degC
+101039c7ta03244g	13	19	MeasuredProperty		"{""HasQuantity"": ""T1-19""}"	67	72	2303	2308	T2-19	dried
+101039c7ta03244g	13	19	MeasuredEntity		"{""HasProperty"": ""T2-19""}"	4	21	2240	2257	T3-19	obtained membrane
+101039c7ta03244g	13	19	Quantity	h	"{""unit"": ""h""}"	112	115	2348	2351	T1-19	2 h

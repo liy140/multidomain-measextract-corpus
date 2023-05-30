@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S2213671113000908-643	1	1	Quantity	days		10	17	10	17	T1-1	25 days
+S2213671113000908-643	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	21	36	21	36	T4-1	differentiation
+S2213671113000908-643	1	1	MeasuredEntity		{'HasProperty': 'T4-1'}	38	43	38	43	T2-1	cells

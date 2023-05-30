@@ -1,0 +1,25 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+EP3793011A1_2	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	277	286	277	286	T3-1	precursor
+EP3793011A1_2	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	297	326	297	326	T2-1	average particle diameter D50
+EP3793011A1_2	1	1	Quantity	µm	"{""unit"": ""\u00b5m""}"	330	348	330	348	T1-1	from 1.0 to 5.0 µm
+EP3793011A1_2	1	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	438	464	438	464	T3-2	a crystallization reaction
+EP3793011A1_2	1	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	659	661	659	661	T2-2	pH
+EP3793011A1_2	1	2	Quantity			701	718	701	718	T1-2	from 10.5 to 11.5
+EP3793011A1_2	1	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	438	464	438	464	T3-3	a crystallization reaction
+EP3793011A1_2	1	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	727	753	727	753	T2-3	ammonium ion concentration
+EP3793011A1_2	1	3	Quantity	g/L	"{""unit"": ""g/L""}"	768	784	768	784	T1-3	from 5 to 25 g/L
+EP3793011A1_2	1	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	438	464	438	464	T3-4	a crystallization reaction
+EP3793011A1_2	1	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	791	818	791	818	T2-4	temperature of the reaction
+EP3793011A1_2	1	4	Quantity	°C	"{""unit"": ""\u00b0C""}"	847	858	847	858	T1-4	50 to 65 °C
+EP3793011A1_2	1	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	944	953	944	953	T3-5	precursor
+EP3793011A1_2	1	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	964	993	964	993	T2-5	average particle diameter D50
+EP3793011A1_2	1	5	Quantity	µm	"{""unit"": ""\u00b5m""}"	997	1015	997	1015	T1-5	from 1.0 to 5.0 µm
+EP3793011A1_2	1	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	1106	1132	1106	1132	T3-6	a crystallization reaction
+EP3793011A1_2	1	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	1327	1329	1327	1329	T2-6	pH
+EP3793011A1_2	1	6	Quantity			1369	1386	1369	1386	T1-6	from 10.5 to 11.5
+EP3793011A1_2	1	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	1106	1132	1106	1132	T3-7	a crystallization reaction
+EP3793011A1_2	1	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	1395	1421	1395	1421	T2-7	ammonium ion concentration
+EP3793011A1_2	1	7	Quantity	g/L	"{""unit"": ""g/L""}"	1436	1452	1436	1452	T1-7	from 5 to 25 g/L
+EP3793011A1_2	1	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	1106	1132	1106	1132	T3-8	a crystallization reaction
+EP3793011A1_2	1	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	1459	1486	1459	1486	T2-8	temperature of the reaction
+EP3793011A1_2	1	8	Quantity	°C	"{""unit"": ""\u00b0C""}"	1515	1526	1515	1526	T1-8	50 to 65 °C

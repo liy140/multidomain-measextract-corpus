@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CA2806915A1_30	1	1	MeasuredEntity			36	58	36	58	T3-1	the precursor material
+CA2806915A1_30	1	1	MeasuredProperty			66	92	66	92	T2-1	average particle size (D50
+CA2806915A1_30	1	1	Quantity	microns		94	124	94	124	T1-1	in the range from 7-13 microns

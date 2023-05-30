@@ -1,0 +1,6 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S2211124713006475-1205	5	1	Quantity	weeks		22	29	663	670	T1-1	4 weeks
+S2211124713006475-1205	5	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	0	21	641	662	T2-1	Histological analysis
+S2211124713006475-1205	6	2	Quantity			138	139	906	907	T1-2	6
+S2211124713006475-1205	6	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	134	135	902	903	T2-2	n
+S2211124713006475-1205	6	2	MeasuredEntity		{'HasProperty': 'T2-2'}	72	132	840	900	T3-2	GFP+ fibers showed extensive projections into the host brain

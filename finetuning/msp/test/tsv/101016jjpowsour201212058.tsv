@@ -1,0 +1,23 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jjpowsour201212058	6	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	112	116	480	484	T2-1	kept
+101016jjpowsour201212058	6	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	22	42	390	410	T3-1	homogeneous solution
+101016jjpowsour201212058	6	1	Quantity	degC	"{""unit"": ""degC""}"	120	128	488	496	T1-1	150 degC
+101016jjpowsour201212058	6	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	112	116	480	484	T2-2	kept
+101016jjpowsour201212058	6	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	22	42	390	410	T3-2	homogeneous solution
+101016jjpowsour201212058	6	2	Quantity	h	"{""unit"": ""h""}"	133	137	501	505	T1-2	72 h
+101016jjpowsour201212058	6	3	MeasuredEntity		"{""HasQuantity"": ""T1-3""}"	299	302	667	670	T3-3	HCl
+101016jjpowsour201212058	6	3	Quantity	M	"{""unit"": ""M""}"	293	298	661	666	T1-3	0.1 M
+101016jjpowsour201212058	6	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	306	308	674	676	T2-4	pH
+101016jjpowsour201212058	6	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	293	302	661	670	T3-4	0.1 M HCl
+101016jjpowsour201212058	6	4	Quantity			309	313	677	681	T1-4	<= 2
+101016jjpowsour201212058	8	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	29	34	776	781	T2-5	dried
+101016jjpowsour201212058	8	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	17	24	764	771	T3-5	product
+101016jjpowsour201212058	8	5	Quantity	degC	"{""unit"": ""degC""}"	41	49	788	796	T1-5	100 degC
+101016jjpowsour201212058	8	6	MeasuredEntity		"{""HasQuantity"": ""T1-6""}"	80	84	827	831	T3-6	mesh
+101016jjpowsour201212058	8	6	Quantity	μm	"{""unit"": ""\u03bcm""}"	74	79	821	826	T1-6	50 μm
+101016jjpowsour201212058	9	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	58	70	891	903	T2-7	heat treated
+101016jjpowsour201212058	9	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	32	52	865	885	T3-7	white powder samples
+101016jjpowsour201212058	9	7	Quantity	degC	"{""unit"": ""degC""}"	81	89	914	922	T1-7	450 degC
+101016jjpowsour201212058	9	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	58	70	891	903	T2-8	heat treated
+101016jjpowsour201212058	9	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	32	52	865	885	T3-8	white powder samples
+101016jjpowsour201212058	9	8	Quantity	h	"{""unit"": ""h""}"	94	97	927	930	T1-8	4 h

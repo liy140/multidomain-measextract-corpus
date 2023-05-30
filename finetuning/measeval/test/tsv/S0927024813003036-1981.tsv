@@ -1,0 +1,13 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0927024813003036-1981	4	1	Quantity	%		68	74	318	324	T1-1	99.95%
+S0927024813003036-1981	4	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	75	81	325	331	T4-1	purity
+S0927024813003036-1981	4	1	MeasuredEntity		{'HasProperty': 'T4-1'}	55	66	305	316	T3-1	iron pieces
+S0927024813003036-1981	5	2	Quantity	°C		74	86	436	448	T1-2	up to 798 °C
+S0927024813003036-1981	5	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	18	73	380	435	T4-2	annealed in air in a pre-heated furnace at temperatures
+S0927024813003036-1981	5	2	MeasuredEntity		{'HasProperty': 'T4-2'}	0	7	362	369	T3-2	Samples
+S0927024813003036-1981	8	3	Quantity	°C		44	57	845	858	T1-3	below ∼100 °C
+S0927024813003036-1981	8	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	34	40	835	841	T5-3	cooled
+S0927024813003036-1981	8	3	MeasuredEntity		{'HasProperty': 'T5-3'}	21	28	822	829	T4-3	samples
+S0927024813003036-1981	8	4	Quantity	s		61	66	862	867	T1-4	<10 s
+S0927024813003036-1981	8	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	34	40	835	841	T4-4	cooled
+S0927024813003036-1981	8	4	MeasuredEntity		{'HasProperty': 'T4-4'}	21	28	822	829	T3-4	samples

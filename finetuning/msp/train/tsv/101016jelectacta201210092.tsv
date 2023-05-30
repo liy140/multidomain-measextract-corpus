@@ -1,0 +1,24 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jelectacta201210092	3	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	43	51	338	346	T2-1	obtained
+101016jelectacta201210092	3	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	17	38	312	333	T3-1	LiOH aqueous solution
+101016jelectacta201210092	3	1	Quantity	mL	"{""unit"": ""mL""}"	0	5	295	300	T1-1	20 mL
+101016jelectacta201210092	3	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	43	51	338	346	T2-2	obtained
+101016jelectacta201210092	3	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	17	38	312	333	T3-2	LiOH aqueous solution
+101016jelectacta201210092	3	2	Quantity	mol/L	"{""unit"": ""mol/L""}"	9	16	304	311	T1-2	2 mol/L
+101016jelectacta201210092	3	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	142	147	437	442	T2-3	mixed
+101016jelectacta201210092	3	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	118	137	413	432	T3-3	tetrabutyl titanate
+101016jelectacta201210092	3	3	Quantity	mL	"{""unit"": ""mL""}"	109	114	404	409	T1-3	17 mL
+101016jelectacta201210092	3	4	MeasuredEntity		"{""HasQuantity"": ""T1-4""}"	118	164	413	459	T3-4	tetrabutyl titanate was mixed in ethyl alcohol
+101016jelectacta201210092	3	4	Quantity	volume	"{""unit"": ""volume""}"	166	179	461	474	T1-4	1:1 in volume
+101016jelectacta201210092	5	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	27	37	741	751	T2-5	calcinated
+101016jelectacta201210092	5	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	4	22	718	736	T3-5	obtained precursor
+101016jelectacta201210092	5	5	Quantity	degC	"{""unit"": ""degC""}"	64	89	778	803	T1-5	from 450 degC to 850 degC
+101016jelectacta201210092	4	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	131	171	651	691	T2-6	transferred to stainless-steel autoclave
+101016jelectacta201210092	4	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	76	92	596	612	T3-6	white suspension
+101016jelectacta201210092	4	6	Quantity	degC	"{""unit"": ""degC""}"	175	183	695	703	T1-6	180 degC
+101016jelectacta201210092	4	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	131	171	651	691	T2-7	transferred to stainless-steel autoclave
+101016jelectacta201210092	4	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	76	92	596	612	T3-7	white suspension
+101016jelectacta201210092	4	7	Quantity	h	"{""unit"": ""h""}"	188	192	708	712	T1-7	24 h
+101016jelectacta201210092	4	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	98	113	618	633	T2-8	strong stirring
+101016jelectacta201210092	4	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	12	65	532	585	T3-8	the solution A was dropwise added into the solution B
+101016jelectacta201210092	4	8	Quantity	h	"{""unit"": ""h""}"	118	121	638	641	T1-8	1 h

@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN105122517A_7	1	1	MeasuredEntity			768	791	768	791	T3-1	the secondary particles
+CN105122517A_7	1	1	MeasuredProperty			800	825	800	825	T2-1	average particle diameter
+CN105122517A_7	1	1	Quantity	mu		829	841	829	841	T1-1	1 to 15 [ mu
+CN105122517A_7	1	2	MeasuredEntity			768	791	768	791	T3-2	the secondary particles
+CN105122517A_7	1	2	MeasuredProperty			936	962	936	962	T2-2	particle size distribution
+CN105122517A_7	1	2	Quantity			966	978	966	978	T1-2	0.65 or less

@@ -1,0 +1,14 @@
+{"text": "We use data taken by the Low Energy Magnetospheric Measurement System (LEMMS), part of the Magnetospheric Imaging Instrument (MIMI) onboard Cassini.", "sentId": 1, "start": 0, "end": 148}
+{"text": "MIMI/LEMMS is able to measure the intensities, energy spectra, and pitch angle distributions of energetic charged ions and electrons separately in the energy range between about 20 keV and several tens of MeV. Particles are measured simultaneously from two opposite directions (low-energy telescope (LE) and high-energy telescope (HE)).", "sentId": 2, "start": 149, "end": 485}
+{"text": "Low-energy electrons and ions measured in LE are separated by a strong internal magnet.", "sentId": 3, "start": 486, "end": 573}
+{"text": "Electrons are bent towards the two different detectors E and F while ions are detected in detectors A and B. The HE consists of a stack of five detectors.", "sentId": 4, "start": 574, "end": 728}
+{"text": "The species and energy separation is performed by coincidence measurements between these detectors.", "sentId": 5, "start": 729, "end": 828}
+{"text": "Data are recorded in rate channels.", "sentId": 6, "start": 829, "end": 864}
+{"text": "The instrument is mounted on top of a movable turntable which rotates about the −y-axis of the spacecraft within 86 s, nominally.", "sentId": 7, "start": 865, "end": 994}
+{"text": "The −y-axis points in the direction of the remote sensing instruments (often pointed towards the planet or another object).", "sentId": 8, "start": 995, "end": 1118}
+{"text": "Under this configuration MIMI/LEMMS is therefore scanning in the x–z-plane of the spacecraft coordinate system allowing very good pitch angle coverage.", "sentId": 9, "start": 1119, "end": 1270}
+{"text": "Unfortunately the turntable stopped rotating in the beginning of 2005 for unknown reasons after the release of the Huygens probe.", "sentId": 10, "start": 1271, "end": 1400}
+{"text": "Therefore during all the Enceladus encounters MIMI/LEMMS was not rotating anymore.", "sentId": 11, "start": 1401, "end": 1483}
+{"text": "Since then the low-energy telescope points at an angle of 77.45° away from the −z direction towards the −x-direction (see Fig. 1).", "sentId": 12, "start": 1484, "end": 1614}
+{"text": "The advantage of that non-rotating mode is the time resolution of the instrument which is 16 times better than in the rotating mode (5.65 s) for the rate channels or 0.66 s for the priority channels instead of 86 s for a given pointing/pitch angle).", "sentId": 13, "start": 1615, "end": 1864}
+{"text": "This enables us to measure small-scale, short-lived features in the data set.", "sentId": 14, "start": 1865, "end": 1942}

@@ -1,0 +1,5 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+IN201817029065A_6	1	1	MeasuredEntity			437	439	437	439	T3-1	pH
+IN201817029065A_6	1	1	Quantity			443	457	443	457	T1-1	10.50 to 12.00
+IN201817029065A_6	1	2	MeasuredEntity			464	475	464	475	T3-2	temperature
+IN201817029065A_6	1	2	Quantity	C		479	489	479	489	T1-2	50C to 70C

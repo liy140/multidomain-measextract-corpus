@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+EP2902364A1_8	1	1	MeasuredEntity			68	94	68	94	T3-1	transition metal precursor
+EP2902364A1_8	1	1	MeasuredProperty			102	131	102	131	T2-1	average particle diameter D50
+EP2902364A1_8	1	1	Quantity	µm		135	145	135	145	T1-1	1 to 30 µm

@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN106745336B_1	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	709	761	709	761	T3-1	hexagonal nano-sheet agglomerated secondary particle
+CN106745336B_1	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	686	701	686	701	T2-1	granularity D50
+CN106745336B_1	1	1	Quantity	mu m	"{""unit"": ""mu m""}"	765	796	765	796	T1-1	more than or equal to 9-15 mu m

@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0022459611006116-1448	1	1	Quantity	K		159	178	159	178	T1-1	between 5 and 300 K
+S0022459611006116-1448	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	80	91	80	91	T2-1	temperature
+S0022459611006116-1448	1	1	MeasuredEntity		{'HasProperty': 'T2-1'}	51	66	51	66	T3-1	samples 1 and 2

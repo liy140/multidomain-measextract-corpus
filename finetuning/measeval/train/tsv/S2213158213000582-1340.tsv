@@ -1,0 +1,30 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S2213158213000582-1340	1	1	Quantity	Hz		28	35	28	35	T1-1	5–55 Hz
+S2213158213000582-1340	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	36	51	36	51	T3-1	bandpass filter
+S2213158213000582-1340	2	2	Quantity	ms		34	43	99	108	T1-2	30–130 ms
+S2213158213000582-1340	2	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	16	33	81	98	T3-2	examined activity
+S2213158213000582-1340	2	2	MeasuredEntity		{'HasProperty': 'T3-2'}	0	15	65	80	T2-2	VESTAL analyses
+S2213158213000582-1340	3	3	Quantity	%		77	83	298	304	T1-3	95.81%
+S2213158213000582-1340	3	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	4	38	225	259	T2-3	average percent variance explained
+S2213158213000582-1340	3	3	MeasuredEntity		{'HasProperty': 'T2-3'}	43	72	264	293	T3-3	gradiometer data using VESTAL
+S2213158213000582-1340	3	4	Quantity	%		95	101	316	322	T1-4	94.38%
+S2213158213000582-1340	3	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	4	38	225	259	T2-4	average percent variance explained
+S2213158213000582-1340	3	4	MeasuredEntity		{'HasProperty': 'T2-4'}	43	72	264	293	T5-4	gradiometer data using VESTAL
+S2213158213000582-1340	4	5	Quantity	%		86	92	417	423	T1-5	96.24%
+S2213158213000582-1340	4	5	MeasuredProperty		{'HasQuantity': 'T1-5'}	4	38	335	369	T2-5	average percent variance explained
+S2213158213000582-1340	4	5	MeasuredEntity		{'HasProperty': 'T2-5'}	43	73	374	404	T3-5	magnetometer data using VESTAL
+S2213158213000582-1340	4	6	Quantity	%		104	110	435	441	T1-6	93.17%
+S2213158213000582-1340	4	6	MeasuredProperty		{'HasQuantity': 'T1-6'}	4	38	335	369	T2-6	average percent variance explained
+S2213158213000582-1340	4	6	MeasuredEntity		{'HasProperty': 'T2-6'}	43	73	374	404	T3-6	magnetometer data using VESTAL
+S2213158213000582-1340	5	7	Quantity			92	96	542	546	T1-7	1.16
+S2213158213000582-1340	5	7	MeasuredProperty		{'HasQuantity': 'T1-7'}	84	89	534	539	T3-7	t(39)
+S2213158213000582-1340	5	7	MeasuredEntity		{'HasProperty': 'T3-7'}	66	82	516	532	T2-7	gradiometer data
+S2213158213000582-1340	5	8	Quantity			102	106	552	556	T1-8	0.25
+S2213158213000582-1340	5	8	MeasuredProperty		{'HasQuantity': 'T1-8'}	98	99	548	549	T3-8	p
+S2213158213000582-1340	5	8	MeasuredEntity		{'HasProperty': 'T3-8'}	66	82	516	532	T2-8	gradiometer data
+S2213158213000582-1340	5	9	Quantity			138	142	588	592	T1-9	1.31
+S2213158213000582-1340	5	9	MeasuredProperty		{'HasQuantity': 'T1-9'}	130	135	580	585	T3-9	t(39)
+S2213158213000582-1340	5	9	MeasuredEntity		{'HasProperty': 'T3-9'}	111	128	561	578	T2-9	magnetometer data
+S2213158213000582-1340	5	10	Quantity			149	152	599	602	T1-10	.20
+S2213158213000582-1340	5	10	MeasuredProperty		{'HasQuantity': 'T1-10'}	144	145	594	595	T2-10	p
+S2213158213000582-1340	5	10	MeasuredEntity		{'HasProperty': 'T2-10'}	111	128	561	578	T3-10	magnetometer data

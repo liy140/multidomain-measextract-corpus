@@ -1,0 +1,6 @@
+{"text": "The 3DAP observations were performed using a Cameca Instruments Inc. laser-assisted local electrode 3DAP (LEAP-3000XHR).", "sentId": 1, "start": 0, "end": 120}
+{"text": "To reduce the probability of tip fracture during 3DAP evaporation of the atomic layers, we used field evaporation with a laser pulse instead of an electric field pulse.", "sentId": 2, "start": 121, "end": 289}
+{"text": "The 3DAP observation conditions were as follows: laser energy of 0.5–0.6 nJ, a laser-pulse repetition rate of 250 kHz, a DC bias voltage of 4–7 kV, and a specimen temperature of 55 K. The DC voltage was automatically controlled to keep a constant evaporation rate of 0.4% at constant energy of the laser pulse.", "sentId": 3, "start": 290, "end": 600}
+{"text": "The Ga+-irradiated regions by FIB around the top of the thinned tip were fractured before 3DAP observation at a DC voltage range of 2–4 kV. The computer program IVAS3.6.1 (Cameca Instruments Inc.) was used to analyze the data.", "sentId": 4, "start": 601, "end": 827}
+{"text": "Orientations of the screw dislocations were defined with high accuracy on the basis of {111} planes of stacking faults, which were observed while mapping the same atom.", "sentId": 5, "start": 828, "end": 996}
+{"text": "Details of the methods were explained in our previous paper [7].", "sentId": 6, "start": 997, "end": 1061}

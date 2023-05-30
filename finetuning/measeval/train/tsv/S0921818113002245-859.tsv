@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0921818113002245-859	3	1	Quantity	m		50	68	173	191	T1-1	approximately 19 m
+S0921818113002245-859	3	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	33	46	156	169	T3-1	deepest point
+S0921818113002245-859	3	1	MeasuredEntity		{'HasProperty': 'T3-1'}	27	32	150	155	T2-1	lakes

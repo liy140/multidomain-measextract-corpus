@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+EP2911224B1_3	1	1	MeasuredEntity			7	38	7	38	T3-1	Li-Ni composite oxide particles
+EP2911224B1_3	1	1	MeasuredProperty			117	142	117	142	T2-1	BET specific surface area
+EP2911224B1_3	1	1	Quantity	m2/g		146	161	146	161	T1-1	0.1 to 1.6 m2/g

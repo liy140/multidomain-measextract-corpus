@@ -1,0 +1,71 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jjcat201212002	2	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	70	89	345	364	T2-1	added to a solution
+101016jjcat201212002	2	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	35	65	310	340	T3-1	TEOS (tetraethylorthosilicate)
+101016jjcat201212002	2	1	Quantity	g	"{""unit"": ""g""}"	24	31	299	306	T1-1	10.42 g
+101016jjcat201212002	2	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	111	139	386	414	T2-2	aluminum nitrate nonahydrate
+101016jjcat201212002	2	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	81	89	356	364	T3-2	solution
+101016jjcat201212002	2	2	Quantity	g	"{""unit"": ""g""}"	101	107	376	382	T1-2	0.47 g
+101016jjcat201212002	2	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	151	175	426	450	T2-3	iron nitrate nonahydrate
+101016jjcat201212002	2	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	81	89	356	364	T3-3	solution
+101016jjcat201212002	2	3	Quantity	g	"{""unit"": ""g""}"	141	147	416	422	T1-3	0.06 g
+101016jjcat201212002	2	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	189	206	464	481	T2-4	f distilled water
+101016jjcat201212002	2	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	81	89	356	364	T3-4	solution
+101016jjcat201212002	2	4	Quantity	g	"{""unit"": ""g""}"	181	187	456	462	T1-4	20.0 g
+101016jjcat201212002	3	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	16	23	499	506	T2-5	stirred
+101016jjcat201212002	3	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	4	11	487	494	T3-5	mixture
+101016jjcat201212002	3	5	Quantity	h	"{""unit"": ""h""}"	28	31	511	514	T1-5	2 h
+101016jjcat201212002	3	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	81	93	564	576	T2-6	C16-6-6(OH)2
+101016jjcat201212002	3	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	35	43	518	526	T3-6	solution
+101016jjcat201212002	3	6	Quantity	g	"{""unit"": ""g""}"	55	61	538	544	T1-6	2.41 g
+101016jjcat201212002	3	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	102	125	585	608	T2-7	sodium hydroxide (NaOH)
+101016jjcat201212002	3	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	35	43	518	526	T3-7	solution
+101016jjcat201212002	3	7	Quantity	g	"{""unit"": ""g""}"	95	101	578	584	T1-7	0.42 g
+101016jjcat201212002	3	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	140	150	623	633	T2-8	demi-water
+101016jjcat201212002	3	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	35	43	518	526	T3-8	solution
+101016jjcat201212002	3	8	Quantity	g	"{""unit"": ""g""}"	130	136	613	619	T1-8	15.7 g
+101016jjcat201212002	3	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	181	195	664	678	T2-9	shaken by hand
+101016jjcat201212002	3	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	169	176	652	659	T3-9	mixture
+101016jjcat201212002	3	9	Quantity	min	"{""unit"": ""min""}"	200	205	683	688	T1-9	5 min
+101016jjcat201212002	4	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	14	46	704	736	T2-10	stirring with a magnetic stirrer
+101016jjcat201212002	4	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	80	91	770	781	T3-10	gel mixture
+101016jjcat201212002	4	10	Quantity	h	"{""unit"": ""h""}"	51	54	741	744	T1-10	6 h
+101016jjcat201212002	4	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	156	162	846	852	T2-11	heated
+101016jjcat201212002	4	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	80	91	770	781	T3-11	gel mixture
+101016jjcat201212002	4	11	Quantity	degC	"{""unit"": ""degC""}"	166	174	856	864	T1-11	140 degC
+101016jjcat201212002	4	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	156	162	846	852	T2-12	heated
+101016jjcat201212002	4	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	80	91	770	781	T3-12	gel mixture
+101016jjcat201212002	4	12	Quantity	days	"{""unit"": ""days""}"	179	185	869	875	T1-12	9 days
+101016jjcat201212002	4	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	192	200	882	890	T2-13	tumbling
+101016jjcat201212002	4	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	80	91	770	781	T3-13	gel mixture
+101016jjcat201212002	4	13	Quantity	rpm	"{""unit"": ""rpm""}"	202	208	892	898	T1-13	60 rpm
+101016jjcat201212002	5	14	MeasuredProperty		"{""HasQuantity"": ""T1-14""}"	67	72	968	973	T2-14	dried
+101016jjcat201212002	5	14	MeasuredEntity		"{""HasProperty"": ""T2-14""}"	4	19	905	920	T3-14	zeolite product
+101016jjcat201212002	5	14	Quantity	degC	"{""unit"": ""degC""}"	76	84	977	985	T1-14	100 degC
+101016jjcat201212002	6	15	MeasuredProperty		"{""HasQuantity"": ""T1-15""}"	57	63	1054	1060	T2-15	ratios
+101016jjcat201212002	6	15	MeasuredEntity		"{""HasProperty"": ""T2-15""}"	79	84	1076	1081	T3-15	Si/Fe
+101016jjcat201212002	6	15	Quantity			87	102	1084	1099	T1-15	84, 180 and 300
+101016jjcat201212002	7	16	MeasuredProperty		"{""HasQuantity"": ""T1-16""}"	33	41	1135	1143	T2-16	calcined
+101016jjcat201212002	7	16	MeasuredEntity		"{""HasProperty"": ""T2-16""}"	4	27	1106	1129	T3-16	as-synthesized zeolites
+101016jjcat201212002	7	16	Quantity	degC	"{""unit"": ""degC""}"	45	53	1147	1155	T1-16	580 degC
+101016jjcat201212002	7	17	MeasuredProperty		"{""HasQuantity"": ""T1-17""}"	33	41	1135	1143	T2-17	calcined
+101016jjcat201212002	7	17	MeasuredEntity		"{""HasProperty"": ""T2-17""}"	4	27	1106	1129	T3-17	as-synthesized zeolites
+101016jjcat201212002	7	17	Quantity	h	"{""unit"": ""h""}"	58	61	1160	1163	T1-17	4 h
+101016jjcat201212002	8	18	MeasuredEntity		"{""HasQuantity"": ""T1-18""}"	99	125	1284	1310	T3-18	aqueous solution of NH4NO3
+101016jjcat201212002	8	18	Quantity	M	"{""unit"": ""M""}"	95	98	1280	1283	T1-18	1 M
+101016jjcat201212002	9	19	MeasuredProperty		"{""HasQuantity"": ""T1-19""}"	48	59	1380	1391	T2-19	calcination
+101016jjcat201212002	9	19	MeasuredEntity		"{""HasProperty"": ""T2-19""}"	23	31	1355	1363	T3-19	zeolites
+101016jjcat201212002	9	19	Quantity	degC	"{""unit"": ""degC""}"	63	71	1395	1403	T1-19	550 degC
+101016jjcat201212002	9	20	MeasuredProperty		"{""HasQuantity"": ""T1-20""}"	48	59	1380	1391	T2-20	calcination
+101016jjcat201212002	9	20	MeasuredEntity		"{""HasProperty"": ""T2-20""}"	23	31	1355	1363	T3-20	zeolites
+101016jjcat201212002	9	20	Quantity	h	"{""unit"": ""h""}"	96	99	1428	1431	T1-20	4 h
+101016jjcat201212002	11	21	MeasuredProperty		"{""HasQuantity"": ""T1-21""}"	81	92	1634	1645	T2-21	water vapor
+101016jjcat201212002	11	21	MeasuredEntity		"{""HasProperty"": ""T2-21""}"	69	73	1622	1626	T3-21	flow
+101016jjcat201212002	11	21	Quantity	%	"{""unit"": ""%""}"	77	80	1630	1633	T1-21	10%
+101016jjcat201212002	11	22	MeasuredProperty		"{""HasQuantity"": ""T1-22""}"	36	43	1589	1596	T2-22	heating
+101016jjcat201212002	11	22	MeasuredEntity		"{""HasProperty"": ""T2-22""}"	57	63	1610	1616	T3-22	sample
+101016jjcat201212002	11	22	Quantity	degC	"{""unit"": ""degC""}"	129	137	1682	1690	T1-22	700 degC
+101016jjcat201212002	11	23	MeasuredProperty		"{""HasQuantity"": ""T1-23""}"	36	43	1589	1596	T2-23	heating
+101016jjcat201212002	11	23	MeasuredEntity		"{""HasProperty"": ""T2-23""}"	57	63	1610	1616	T3-23	sample
+101016jjcat201212002	11	23	Quantity	h	"{""unit"": ""h""}"	142	145	1695	1698	T1-23	3 h
+101016jjcat201212002	11	24	MeasuredEntity		"{""HasQuantity"": ""T1-24""}"	81	92	1634	1645	T3-24	water vapor
+101016jjcat201212002	11	24	Quantity	ml min-1	"{""unit"": ""ml min-1""}"	94	106	1647	1659	T1-24	100 ml min-1

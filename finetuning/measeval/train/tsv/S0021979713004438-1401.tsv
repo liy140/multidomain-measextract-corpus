@@ -1,0 +1,12 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0021979713004438-1401	1	1	Quantity	wt.%		111	118	111	118	T1-1	10 wt.%
+S0021979713004438-1401	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	119	123	119	123	T5-1	NaOH
+S0021979713004438-1401	1	1	MeasuredEntity		{'HasProperty': 'T5-1'}	124	132	124	132	T4-1	solution
+S0021979713004438-1401	1	2	Quantity	%		207	212	207	212	T1-2	99.5%
+S0021979713004438-1401	1	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	213	225	213	225	T2-2	pure ethanol
+S0021979713004438-1401	6	3	Quantity	°		51	58	825	832	T1-3	69 ± 3°
+S0021979713004438-1401	6	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	10	23	784	797	T3-3	contact angle
+S0021979713004438-1401	6	3	MeasuredEntity		{'HasProperty': 'T3-3'}	4	9	778	783	T4-3	water
+S0021979713004438-1401	6	4	Quantity	V		114	121	888	895	T1-4	−0.72 V
+S0021979713004438-1401	6	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	68	90	842	864	T3-4	open circuit potential
+S0021979713004438-1401	6	4	MeasuredEntity		{'HasProperty': 'T3-4'}	31	47	805	821	T5-4	hematite surface

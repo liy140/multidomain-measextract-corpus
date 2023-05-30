@@ -1,0 +1,6 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0021979713004438-1907	6	1	Quantity	min		150	156	815	821	T11-1	10 min
+S0021979713004438-1907	6	1	MeasuredProperty		{'HasQuantity': 'T11-1'}	132	143	797	808	T41-1	interrupted
+S0021979713004438-1907	6	1	MeasuredEntity		{'HasProperty': 'T41-1'}	107	127	772	792	T51-1	adsorption of Mefp-1
+S0021979713004438-1907	7	2	Quantity	μm		64	69	973	978	T22-2	10 μm
+S0021979713004438-1907	7	2	MeasuredEntity		{'HasQuantity': 'T22-2'}	70	75	979	984	T72-2	FeCl3

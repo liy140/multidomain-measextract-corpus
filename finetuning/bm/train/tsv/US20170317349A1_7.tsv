@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20170317349A1_7	1	1	MeasuredEntity			79	92	79	92	T3-1	the precursor
+US20170317349A1_7	1	1	MeasuredProperty			96	111	96	111	T2-1	volume of pores
+US20170317349A1_7	1	1	Quantity	nm		112	139	112	139	T1-1	in a range of 5 nm to 50 nm
+US20170317349A1_7	1	2	MeasuredEntity			79	92	79	92	T3-2	the precursor
+US20170317349A1_7	1	2	MeasuredProperty			96	111	96	111	T2-2	volume of pores
+US20170317349A1_7	1	2	Quantity	cm3/g·nm		143	176	143	176	T1-2	in a range of 10−3to 10−2cm3/g·nm

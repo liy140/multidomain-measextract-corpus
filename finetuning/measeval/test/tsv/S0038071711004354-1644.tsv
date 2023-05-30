@@ -1,0 +1,22 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0038071711004354-1644	1	1	Quantity	°C		43	50	43	50	T1-1	14.8 °C
+S0038071711004354-1644	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	16	39	16	39	T3-1	mean annual temperature
+S0038071711004354-1644	1	1	MeasuredEntity		{'HasProperty': 'T3-1'}	7	11	7	11	T2-1	site
+S0038071711004354-1644	1	2	Quantity	mm		85	91	85	91	T1-2	898 mm
+S0038071711004354-1644	1	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	56	81	56	81	T2-2	mean annual precipitation
+S0038071711004354-1644	1	2	MeasuredEntity		{'HasProperty': 'T2-2'}	7	11	7	11	T3-2	site
+S0038071711004354-1644	2	3	Quantity	cm		110	116	301	307	T1-3	2–5 cm
+S0038071711004354-1644	2	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	117	126	308	317	T2-3	thickness
+S0038071711004354-1644	2	3	MeasuredEntity		{'HasProperty': 'T2-3'}	61	109	252	300	T3-3	O horizon with fresh and decaying organic matter
+S0038071711004354-1644	2	4	Quantity	m		154	169	345	360	T1-4	uppermost 0.1 m
+S0038071711004354-1644	2	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	134	146	325	337	T4-4	soil texture
+S0038071711004354-1644	2	4	MeasuredEntity		{'HasProperty': 'T4-4'}	173	185	364	376	T3-4	mineral soil
+S0038071711004354-1644	2	5	Quantity	%		203	206	394	397	T1-5	93%
+S0038071711004354-1644	2	5	MeasuredProperty		{'HasQuantity': 'T1-5'}	207	211	398	402	T3-5	sand
+S0038071711004354-1644	2	5	MeasuredEntity		{'HasProperty': 'T3-5'}	154	185	345	376	T2-5	uppermost 0.1 m of mineral soil
+S0038071711004354-1644	2	6	Quantity	%		213	215	404	406	T1-6	4%
+S0038071711004354-1644	2	6	MeasuredProperty		{'HasQuantity': 'T1-6'}	216	220	407	411	T3-6	clay
+S0038071711004354-1644	2	6	MeasuredEntity		{'HasProperty': 'T3-6'}	154	185	345	376	T2-6	uppermost 0.1 m of mineral soil
+S0038071711004354-1644	2	7	Quantity	%		226	228	417	419	T1-7	3%
+S0038071711004354-1644	2	7	MeasuredProperty		{'HasQuantity': 'T1-7'}	229	233	420	424	T3-7	silt
+S0038071711004354-1644	2	7	MeasuredEntity		{'HasProperty': 'T3-7'}	154	185	345	376	T2-7	uppermost 0.1 m of mineral soil

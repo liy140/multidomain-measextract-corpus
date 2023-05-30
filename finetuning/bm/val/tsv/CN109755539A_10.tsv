@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN109755539A_10	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	74	82	74	82	T3-1	ammonium
+CN109755539A_10	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	57	70	57	70	T2-1	concentration
+CN109755539A_10	1	1	Quantity	g/L	"{""unit"": ""g/L""}"	112	120	112	120	T1-1	6-10 g/L

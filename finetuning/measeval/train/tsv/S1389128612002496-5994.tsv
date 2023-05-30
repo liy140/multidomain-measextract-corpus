@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S1389128612002496-5994	3	1	Quantity	%		34	37	302	305	T1-1	25%
+S1389128612002496-5994	3	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	24	33	292	301	T3-1	RED drops
+S1389128612002496-5994	3	1	MeasuredEntity		{'HasProperty': 'T3-1'}	38	45	306	313	T2-1	packets
+S1389128612002496-5994	3	2	Quantity	%		66	70	334	338	T1-2	7.6%
+S1389128612002496-5994	3	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	76	84	344	352	T3-2	DropTail
+S1389128612002496-5994	3	2	MeasuredEntity		{'HasProperty': 'T3-2'}	38	45	306	313	T4-2	packets

@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0925443913003037-1397	3	1	Quantity	%		15	32	352	369	T1-1	approximately 54%
+S0925443913003037-1397	3	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	50	55	387	392	T4-1	level
+S0925443913003037-1397	3	1	MeasuredEntity		{'HasProperty': 'T4-1'}	59	69	396	406	T5-1	mt-tRNAPhe

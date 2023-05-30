@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US10700352B2_8	1	1	MeasuredEntity			90	124	90	124	T3-1	positive electrode active material
+US10700352B2_8	1	1	MeasuredProperty			132	157	132	157	T2-1	average particle diameter
+US10700352B2_8	1	1	Quantity	μm		161	174	161	174	T1-1	7 μm to 15 μm
+US10700352B2_8	1	2	MeasuredEntity			90	124	90	124	T3-2	positive electrode active material
+US10700352B2_8	1	2	MeasuredProperty			181	206	181	206	T2-2	BET specific surface area
+US10700352B2_8	1	2	Quantity	m2/g		210	230	210	230	T1-2	0.1 m2/g to 1.0 m2/g

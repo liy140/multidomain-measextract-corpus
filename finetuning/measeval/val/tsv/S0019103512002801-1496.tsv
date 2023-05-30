@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103512002801-1496	1	1	Quantity	times		53	66	53	66	T51-1	sixteen times
+S0019103512002801-1496	1	1	MeasuredProperty		{'HasQuantity': 'T51-1'}	74	93	74	93	T81-1	temporal resolution
+S0019103512002801-1496	1	2	Quantity	s		141	147	141	147	T12-2	∼5.7 s
+S0019103512002801-1496	1	2	MeasuredProperty		{'HasQuantity': 'T12-2'}	111	139	111	139	T22-2	rate channel time resolution
+S0019103512002801-1496	1	2	MeasuredEntity		{'HasProperty': 'T22-2'}	8	25	8	25	T42-2	channels of LEMMS
+S0019103512002801-1496	2	1	MeasuredEntity		{'HasProperty': 'T81-1'}	17	34	167	184	T61-1	priority channels

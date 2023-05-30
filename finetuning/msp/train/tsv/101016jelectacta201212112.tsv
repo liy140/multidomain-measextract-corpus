@@ -1,0 +1,10 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jelectacta201212112	4	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	98	106	630	638	T2-1	diameter
+101016jelectacta201212112	4	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	0	85	532	617	T3-1	Single-walled carbon nanotubes functionalised with carboxylic acid groups (SWCNT-COOH
+101016jelectacta201212112	4	1	Quantity	nm	"{""unit"": ""nm""}"	87	94	619	626	T1-1	~1.5 nm
+101016jelectacta201212112	4	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	121	127	653	659	T2-2	length
+101016jelectacta201212112	4	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	0	85	532	617	T3-2	Single-walled carbon nanotubes functionalised with carboxylic acid groups (SWCNT-COOH
+101016jelectacta201212112	4	2	Quantity	mm	"{""unit"": ""mm""}"	111	117	643	649	T1-2	1-5 mm
+101016jelectacta201212112	4	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	134	140	666	672	T2-3	purity
+101016jelectacta201212112	4	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	0	85	532	617	T3-3	Single-walled carbon nanotubes functionalised with carboxylic acid groups (SWCNT-COOH
+101016jelectacta201212112	4	3	Quantity	%	"{""unit"": ""%""}"	129	133	661	665	T1-3	>95%

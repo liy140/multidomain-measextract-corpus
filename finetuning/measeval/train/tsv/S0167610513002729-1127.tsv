@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0167610513002729-1127	1	1	Quantity	°		22	25	22	25	T1-1	45°
+S0167610513002729-1127	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	26	30	26	30	T3-1	case
+S0167610513002729-1127	3	2	Quantity	H		23	29	148	154	T1-2	0.23 H
+S0167610513002729-1127	3	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	21	22	146	147	T2-2	z
+S0167610513002729-1127	6	3	Quantity	H		26	32	528	534	T1-3	0.52 H
+S0167610513002729-1127	8	4	Quantity	H		19	25	696	702	T1-4	0.80 H

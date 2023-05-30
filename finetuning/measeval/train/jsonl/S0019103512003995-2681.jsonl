@@ -1,0 +1,8 @@
+{"text": "The cutoff level of the empirical model is somewhat arbitrary.", "sentId": 1, "start": 0, "end": 62}
+{"text": "For neutral species it is partly based on ionization (K10), but this criterion obviously does not apply to ions.", "sentId": 2, "start": 63, "end": 175}
+{"text": "With a cutoff level at 5Rp for the ions only, the M7 model yields line-integrated transit depths of 3.9%, 8%, and 5.8% in the C II 1334.5 Å, C II 1335.7 Å, and Si III lines, respectively, if 40% of silicon is Si2+.", "sentId": 3, "start": 176, "end": 390}
+{"text": "These values agree with the observed values to better than 2σ.", "sentId": 4, "start": 391, "end": 453}
+{"text": "Similarly, by extending the cutoff level of the C2 model to 5Rp, we obtained transit depths of 3.2%, 6.7%, and 4.6% in the C II 1334.5 Å, C II 1335.7 Å, and Si III lines, respectively (see Table 2).", "sentId": 5, "start": 454, "end": 652}
+{"text": "These values deviate from the observed values by 2σ, 0.9σ, and 2.6σ, respectively.", "sentId": 6, "start": 653, "end": 735}
+{"text": "The transit depths predicted by the M7 model are higher partly because the mean temperature of 8250 K is higher than the corresponding temperature in the C2 model (Paper I).", "sentId": 7, "start": 736, "end": 909}
+{"text": "This also leads to the higher Si2+/Si+ ratio that we used here.", "sentId": 8, "start": 910, "end": 973}

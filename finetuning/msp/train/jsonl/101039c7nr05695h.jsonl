@@ -1,0 +1,12 @@
+{"text": "10.1039/c7nr05695h\nSolution-processed indium oxide electron transporting layers for high-performance and photo-stable perovskite and organic solar cells\nIndium nitrate hydrate (In(NO3)3*xH2O, 99.99%), indium acetylacetonate (In(AcAc)3, 99.99%), indium chloride (InCl3, 99.999%), P3HT (regioregular, 99%), PCBM (>99%), bis(trifluoromethane)sulfonamide lithium salt (Li-TFSI, 99.95%), anhydrous acetonitrile (ACN, 99.8%), anhydrous ethanol (>99.5%), anhydrous dimethylsulfoxide (DMSO, 99.9%), anhydrous dimethylformamide (DMF, 99.8%), anhydrous diethyl ether (99.9%), anhydrous toluene (99.8%), 4-tert-butylpyridine (tBP, 96%), anhydrous chlorobenzene (CB, 99.8%), and Triton X-100 were purchased from Sigma-Aldrich.", "sentId": 1, "start": 0, "end": 714}
+{"text": "PEDOT:PSS (AI 4083) was purchased from Clevios.", "sentId": 2, "start": 715, "end": 762}
+{"text": "PbI2 (99.9985%) was purchased from Alfa Aesar.", "sentId": 3, "start": 763, "end": 809}
+{"text": "Methylammonium iodide (MAI) (99.98%) was purchased from Dyesol.", "sentId": 4, "start": 810, "end": 873}
+{"text": "Poly(triaryl amine) (PTAA, Mn = 17500 g mol-1) was purchased from EM Index.", "sentId": 5, "start": 874, "end": 949}
+{"text": "The indium precursor solution was prepared by dissolving 0.1 M indium nitrate hydrate in anhydrous ethanol.", "sentId": 6, "start": 950, "end": 1057}
+{"text": "The CH3NH3PbI3 precursor solution was prepared via the Lewis base adduct approach according to a previous report; 461 mg of PbI2, 159 mg of MAI, and 78 mg of DMSO were mixed with 600 mg of DMF.36,37", "sentId": 7, "start": 1058, "end": 1256}
+{"text": "The P3HT/PCBM solution was prepared by dissolving 1 wt% P3HT and 1 wt% PCBM in 1 mL of CB at 60 degC for 30 min.", "sentId": 8, "start": 1257, "end": 1369}
+{"text": "A PTAA solution was prepared by dissolving 15 mg of PTAA in 1 mL of toluene.", "sentId": 9, "start": 1370, "end": 1446}
+{"text": "For Li-doping, 15 μL of Li-TFSi/ACN (170 mg of Li-TFSi in 1 mL of ACN) and 15 μL of tBP/ACN (1:1, v/v) were added to the PTAA solution.", "sentId": 10, "start": 1447, "end": 1582}
+{"text": "The PEDOT:PSS solution was modified by mixing 1 wt% Triton X-100.", "sentId": 11, "start": 1583, "end": 1648}
+{"text": "All the solutions were prepared in a N2-filled glove box.", "sentId": 12, "start": 1649, "end": 1706}

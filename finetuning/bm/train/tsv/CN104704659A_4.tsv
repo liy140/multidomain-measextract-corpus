@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN104704659A_4	1	1	MeasuredEntity			44	75	44	75	T3-1	Li-Ni composite oxide particles
+CN104704659A_4	1	1	MeasuredProperty			98	123	98	123	T2-1	average particle diameter
+CN104704659A_4	1	1	Quantity	µm		124	131	124	131	T1-1	1-20 µm
+CN104704659A_4	1	2	MeasuredEntity			44	75	44	75	T3-2	Li-Ni composite oxide particles
+CN104704659A_4	1	2	MeasuredProperty			135	160	135	160	T2-2	specific surface area BET
+CN104704659A_4	1	2	Quantity	m2/g		161	173	161	173	T1-2	0.1-1.6 m2/g

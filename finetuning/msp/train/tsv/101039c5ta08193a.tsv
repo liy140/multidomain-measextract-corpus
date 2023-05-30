@@ -1,0 +1,38 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101039c5ta08193a	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	161	187	161	187	T2-1	nickel(II) acetylacetonate
+101039c5ta08193a	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	112	133	112	133	T3-1	solution-derived NiOx
+101039c5ta08193a	1	1	Quantity	g	"{""unit"": ""g""}"	153	160	153	160	T1-1	3.084 g
+101039c5ta08193a	1	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	200	214	200	214	T2-2	diethanolamine
+101039c5ta08193a	1	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	112	133	112	133	T3-2	solution-derived NiOx
+101039c5ta08193a	1	2	Quantity	g	"{""unit"": ""g""}"	192	199	192	199	T1-2	1.262 g
+101039c5ta08193a	1	3	MeasuredEntity		"{""HasQuantity"": ""T1-3""}"	237	244	237	244	T3-3	ethanol
+101039c5ta08193a	1	3	Quantity	ml	"{""unit"": ""ml""}"	231	236	231	236	T1-3	30 ml
+101039c5ta08193a	1	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	265	285	265	285	T2-4	continuously stirred
+101039c5ta08193a	1	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	253	260	253	260	T3-4	mixture
+101039c5ta08193a	1	4	Quantity	degC	"{""unit"": ""degC""}"	289	296	289	296	T1-4	60 degC
+101039c5ta08193a	1	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	265	285	265	285	T2-5	continuously stirred
+101039c5ta08193a	1	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	253	260	253	260	T3-5	mixture
+101039c5ta08193a	1	5	Quantity	h	"{""unit"": ""h""}"	301	305	301	305	T1-5	12 h
+101039c5ta08193a	4	6	MeasuredEntity		"{""HasQuantity"": ""T1-6""}"	89	100	766	777	T3-6	cyclohexane
+101039c5ta08193a	4	6	Quantity	ml	"{""unit"": ""ml""}"	82	88	759	765	T1-6	400 ml
+101039c5ta08193a	5	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	33	44	893	904	T2-7	centrifuged
+101039c5ta08193a	5	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	13	28	873	888	T3-7	turbid solution
+101039c5ta08193a	5	7	Quantity	rpm	"{""unit"": ""rpm""}"	48	57	908	917	T1-7	10000 rpm
+101039c5ta08193a	5	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	33	44	893	904	T2-8	centrifuged
+101039c5ta08193a	5	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	13	28	873	888	T3-8	turbid solution
+101039c5ta08193a	5	8	Quantity	min	"{""unit"": ""min""}"	62	67	922	927	T1-8	6 min
+101039c5ta08193a	2	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	96	104	434	442	T2-9	capacity
+101039c5ta08193a	2	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	48	86	386	424	T3-9	Teflon-lined stainless steel autoclave
+101039c5ta08193a	2	9	Quantity	ml	"{""unit"": ""ml""}"	90	95	428	433	T1-9	50 ml
+101039c5ta08193a	2	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	109	124	447	462	T2-10	kept in an oven
+101039c5ta08193a	2	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	10	24	348	362	T3-10	green solution
+101039c5ta08193a	2	10	Quantity	degC	"{""unit"": ""degC""}"	153	161	491	499	T1-10	150 degC
+101039c5ta08193a	2	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	109	124	447	462	T2-11	kept in an oven
+101039c5ta08193a	2	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	10	24	348	362	T3-11	green solution
+101039c5ta08193a	2	11	Quantity	h	"{""unit"": ""h""}"	166	170	504	508	T1-11	10 h
+101039c5ta08193a	3	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	119	130	629	640	T2-12	centrifuged
+101039c5ta08193a	3	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	82	101	592	611	T3-12	dark green solution
+101039c5ta08193a	3	12	Quantity	rpm	"{""unit"": ""rpm""}"	134	142	644	652	T1-12	2000 rpm
+101039c5ta08193a	3	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	119	130	629	640	T2-13	centrifuged
+101039c5ta08193a	3	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	82	101	592	611	T3-13	dark green solution
+101039c5ta08193a	3	13	Quantity	min	"{""unit"": ""min""}"	147	152	657	662	T1-13	3 min

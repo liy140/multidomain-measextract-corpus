@@ -1,0 +1,23 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jnanoen201507001	4	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	99	103	621	625	T2-1	kept
+101016jnanoen201507001	4	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	18	36	540	558	T3-1	precursor solution
+101016jnanoen201507001	4	1	Quantity	degC	"{""unit"": ""degC""}"	107	115	629	637	T1-1	200 degC
+101016jnanoen201507001	4	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	99	103	621	625	T2-2	kept
+101016jnanoen201507001	4	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	18	36	540	558	T3-2	precursor solution
+101016jnanoen201507001	4	2	Quantity	h	"{""unit"": ""h""}"	120	124	642	646	T1-2	24 h
+101016jnanoen201507001	4	3	MeasuredEntity		"{""HasQuantity"": ""T1-3""}"	72	94	594	616	T3-3	Teflon-lined autoclave
+101016jnanoen201507001	4	3	Quantity	mL	"{""unit"": ""mL""}"	65	71	587	593	T1-3	150 mL
+101016jnanoen201507001	3	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	28	48	489	509	T2-4	magnetically stirred
+101016jnanoen201507001	3	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	9	17	470	478	T3-4	solution
+101016jnanoen201507001	3	4	Quantity	min	"{""unit"": ""min""}"	53	59	514	520	T1-4	30 min
+101016jnanoen201507001	6	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	71	76	808	813	T2-5	dried
+101016jnanoen201507001	6	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	14	31	751	768	T3-5	white precipitate
+101016jnanoen201507001	6	5	Quantity	degC	"{""unit"": ""degC""}"	80	87	817	824	T1-5	60 degC
+101016jnanoen201507001	6	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	71	76	808	813	T2-6	dried
+101016jnanoen201507001	6	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	14	31	751	768	T3-6	white precipitate
+101016jnanoen201507001	6	6	Quantity	h	"{""unit"": ""h""}"	92	96	829	833	T1-6	12 h
+101016jnanoen201507001	2	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	69	74	430	435	T2-7	added
+101016jnanoen201507001	2	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	34	64	395	425	T3-7	titanium tetrachloride (TiCl4)
+101016jnanoen201507001	2	7	Quantity	mL	"{""unit"": ""mL""}"	26	30	387	391	T1-7	3 mL
+101016jnanoen201507001	2	8	MeasuredEntity		"{""HasQuantity"": ""T1-8""}"	87	98	448	459	T3-8	isopropanol
+101016jnanoen201507001	2	8	Quantity	mL	"{""unit"": ""mL""}"	78	83	439	444	T1-8	84 mL

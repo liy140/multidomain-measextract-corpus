@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103512003533-4971	2	1	Quantity	K		53	66	242	255	T11-1	less than 6 K
+S0019103512003533-4971	2	1	MeasuredProperty		{'HasQuantity': 'T11-1'}	8	46	197	235	T31-1	daily variations of polar temperatures
+S0019103512003533-4971	3	1	MeasuredEntity		{'HasProperty': 'T31-1'}	57	82	443	468	T41-1	Saturn’s upper atmosphere

@@ -1,0 +1,113 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jcej201005016	4	1	MeasuredEntity		"{""HasQuantity"": ""T1-1""}"	105	118	583	596	T3-1	H2O g-1 solid
+101016jcej201005016	4	1	Quantity	mL	"{""unit"": ""mL""}"	99	104	577	582	T1-1	20 mL
+101016jcej201005016	4	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	80	88	558	566	T2-2	refluxed
+101016jcej201005016	4	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	60	75	538	553	T3-2	resulting solid
+101016jcej201005016	4	2	Quantity	h	"{""unit"": ""h""}"	124	127	602	605	T1-2	1 h
+101016jcej201005016	5	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	54	59	661	666	T2-3	dried
+101016jcej201005016	5	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	0	2	607	609	T3-3	It
+101016jcej201005016	5	3	Quantity	degC	"{""unit"": ""degC""}"	68	76	675	683	T1-3	110 degC
+101016jcej201005016	5	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	54	59	661	666	T2-4	dried
+101016jcej201005016	5	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	0	2	607	609	T3-4	It
+101016jcej201005016	5	4	Quantity	h	"{""unit"": ""h""}"	78	82	685	689	T1-4	16 h
+101016jcej201005016	8	5	MeasuredEntity		"{""HasQuantity"": ""T1-5""}"	101	111	1067	1077	T3-5	isobutanol
+101016jcej201005016	8	5	Quantity	mL	"{""unit"": ""mL""}"	113	119	1079	1085	T1-5	200 mL
+101016jcej201005016	8	6	MeasuredEntity		"{""HasQuantity"": ""T1-6""}"	125	132	1091	1098	T3-6	ethanol
+101016jcej201005016	8	6	Quantity	mL	"{""unit"": ""mL""}"	134	140	1100	1106	T1-6	150 mL
+101016jcej201005016	8	7	MeasuredEntity		"{""HasQuantity"": ""T1-7""}"	125	132	1091	1098	T3-7	ethanol
+101016jcej201005016	8	7	Quantity	%	"{""unit"": ""%""}"	142	146	1108	1112	T1-7	100%
+101016jcej201005016	2	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	72	82	309	319	T2-8	dissolving
+101016jcej201005016	2	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	83	87	320	324	T3-8	V2O5
+101016jcej201005016	2	8	Quantity	g	"{""unit"": ""g""}"	89	94	326	331	T1-8	6.0 g
+101016jcej201005016	2	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	72	82	309	319	T2-9	dissolving
+101016jcej201005016	2	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	83	87	320	324	T3-9	V2O5
+101016jcej201005016	2	9	Quantity	mmol	"{""unit"": ""mmol""}"	96	103	333	340	T1-9	33 mmol
+101016jcej201005016	2	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	116	119	353	356	T2-10	HCl
+101016jcej201005016	2	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	108	115	345	352	T3-10	aqueous
+101016jcej201005016	2	10	Quantity	%	"{""unit"": ""%""}"	121	124	358	361	T1-10	35%
+101016jcej201005016	2	11	MeasuredEntity		"{""HasQuantity"": ""T1-11""}"	108	119	345	356	T3-11	aqueous HCl
+101016jcej201005016	2	11	Quantity	mL	"{""unit"": ""mL""}"	126	131	363	368	T1-11	79 mL
+101016jcej201005016	2	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	137	146	374	383	T2-12	refluxing
+101016jcej201005016	2	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	25	34	262	271	T3-12	precursor
+101016jcej201005016	2	12	Quantity	h	"{""unit"": ""h""}"	151	154	388	391	T1-12	2 h
+101016jcej201005016	7	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	38	48	910	920	T2-13	introduced
+101016jcej201005016	7	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	0	5	872	877	T3-13	H3PO4
+101016jcej201005016	7	13	Quantity	%	"{""unit"": ""%""}"	7	10	879	882	T1-13	85%
+101016jcej201005016	7	14	MeasuredProperty		"{""HasQuantity"": ""T1-14""}"	38	48	910	920	T2-14	introduced
+101016jcej201005016	7	14	MeasuredEntity		"{""HasProperty"": ""T2-14""}"	0	5	872	877	T3-14	H3PO4
+101016jcej201005016	7	14	Quantity	g	"{""unit"": ""g""}"	12	18	884	890	T1-14	16.4 g
+101016jcej201005016	7	15	MeasuredProperty		"{""HasQuantity"": ""T1-15""}"	38	48	910	920	T2-15	introduced
+101016jcej201005016	7	15	MeasuredEntity		"{""HasProperty"": ""T2-15""}"	0	5	872	877	T3-15	H3PO4
+101016jcej201005016	7	15	Quantity	mmol	"{""unit"": ""mmol""}"	20	27	892	899	T1-15	39 mmol
+101016jcej201005016	7	16	MeasuredProperty		"{""HasQuantity"": ""T1-16""}"	75	83	947	955	T2-16	refluxed
+101016jcej201005016	7	16	MeasuredEntity		"{""HasProperty"": ""T2-16""}"	63	70	935	942	T3-16	mixture
+101016jcej201005016	7	16	Quantity	h	"{""unit"": ""h""}"	88	92	960	964	T1-16	16 h
+101016jcej201005016	11	17	MeasuredProperty		"{""HasQuantity"": ""T1-17""}"	152	160	1429	1437	T2-17	refluxed
+101016jcej201005016	11	17	MeasuredEntity		"{""HasProperty"": ""T2-17""}"	89	93	1366	1370	T3-17	V2O5
+101016jcej201005016	11	17	Quantity	g	"{""unit"": ""g""}"	95	101	1372	1378	T1-17	11.8 g
+101016jcej201005016	11	18	MeasuredProperty		"{""HasQuantity"": ""T1-18""}"	152	160	1429	1437	T2-18	refluxed
+101016jcej201005016	11	18	MeasuredEntity		"{""HasProperty"": ""T2-18""}"	89	93	1366	1370	T3-18	V2O5
+101016jcej201005016	11	18	Quantity	mmol	"{""unit"": ""mmol""}"	103	110	1380	1387	T1-18	66 mmol
+101016jcej201005016	11	19	MeasuredProperty		"{""HasQuantity"": ""T1-19""}"	152	160	1429	1437	T2-19	refluxed
+101016jcej201005016	11	19	MeasuredEntity		"{""HasProperty"": ""T2-19""}"	116	121	1393	1398	T3-19	H3PO4
+101016jcej201005016	11	19	Quantity	%	"{""unit"": ""%""}"	123	126	1400	1403	T1-19	85%
+101016jcej201005016	11	20	MeasuredProperty		"{""HasQuantity"": ""T1-20""}"	152	160	1429	1437	T2-20	refluxed
+101016jcej201005016	11	20	MeasuredEntity		"{""HasProperty"": ""T2-20""}"	116	121	1393	1398	T3-20	H3PO4
+101016jcej201005016	11	20	Quantity	g	"{""unit"": ""g""}"	128	135	1405	1412	T1-20	115.5 g
+101016jcej201005016	11	21	MeasuredProperty		"{""HasQuantity"": ""T1-21""}"	152	160	1429	1437	T2-21	refluxed
+101016jcej201005016	11	21	MeasuredEntity		"{""HasProperty"": ""T2-21""}"	116	121	1393	1398	T3-21	H3PO4
+101016jcej201005016	11	21	Quantity	mmol	"{""unit"": ""mmol""}"	137	145	1414	1422	T1-21	106 mmol
+101016jcej201005016	11	22	MeasuredEntity		"{""HasQuantity"": ""T1-22""}"	164	169	1441	1446	T3-22	water
+101016jcej201005016	11	22	Quantity	mL g-1	"{""unit"": ""mL g-1""}"	171	180	1448	1457	T1-22	24 mL g-1
+101016jcej201005016	11	23	MeasuredProperty		"{""HasQuantity"": ""T1-23""}"	152	160	1429	1437	T2-23	refluxed
+101016jcej201005016	11	23	MeasuredEntity		"{""HasProperty"": ""T2-23""}"	81	88	1358	1365	T3-23	mixture
+101016jcej201005016	11	23	Quantity	h	"{""unit"": ""h""}"	192	195	1469	1472	T1-23	8 h
+101016jcej201005016	3	24	MeasuredEntity		"{""HasQuantity"": ""T1-24""}"	4	9	397	402	T3-24	H3PO4
+101016jcej201005016	3	24	Quantity	%	"{""unit"": ""%""}"	11	14	404	407	T1-24	85%
+101016jcej201005016	3	25	MeasuredProperty		"{""HasQuantity"": ""T1-25""}"	36	41	429	434	T2-25	added
+101016jcej201005016	3	25	MeasuredEntity		"{""HasProperty"": ""T2-25""}"	4	9	397	402	T3-25	H3PO4
+101016jcej201005016	3	25	Quantity	g	"{""unit"": ""g""}"	16	21	409	414	T1-25	8.9 g
+101016jcej201005016	3	26	MeasuredEntity		"{""HasQuantity"": ""T1-26""}"	4	9	397	402	T3-26	H3PO4
+101016jcej201005016	3	26	Quantity	mmol	"{""unit"": ""mmol""}"	23	30	416	423	T1-26	78 mmol
+101016jcej201005016	3	27	MeasuredProperty		"{""HasQuantity"": ""T1-27""}"	59	67	452	460	T2-27	refluxed
+101016jcej201005016	3	27	MeasuredEntity		"{""HasProperty"": ""T2-27""}"	50	58	443	451	T3-27	solution
+101016jcej201005016	3	27	Quantity	h	"{""unit"": ""h""}"	80	83	473	476	T1-27	2 h
+101016jcej201005016	9	28	MeasuredEntity		"{""HasQuantity"": ""T1-28""}"	14	41	1129	1156	T3-28	solid was refluxed in water
+101016jcej201005016	9	28	Quantity	mL g-1	"{""unit"": ""mL g-1""}"	43	51	1158	1166	T1-28	9 mL g-1
+101016jcej201005016	9	29	MeasuredProperty		"{""HasQuantity"": ""T1-29""}"	78	83	1193	1198	T2-29	dried
+101016jcej201005016	9	29	MeasuredEntity		"{""HasProperty"": ""T2-29""}"	4	19	1119	1134	T3-29	resulting solid
+101016jcej201005016	9	29	Quantity	degC	"{""unit"": ""degC""}"	92	100	1207	1215	T1-29	110 degC
+101016jcej201005016	9	30	MeasuredProperty		"{""HasQuantity"": ""T1-30""}"	78	83	1193	1198	T2-30	dried
+101016jcej201005016	9	30	MeasuredEntity		"{""HasProperty"": ""T2-30""}"	4	19	1119	1134	T3-30	resulting solid
+101016jcej201005016	9	30	Quantity	h	"{""unit"": ""h""}"	102	106	1217	1221	T1-30	16 h
+101016jcej201005016	13	31	MeasuredEntity		"{""HasQuantity"": ""T1-31""}"	71	81	1630	1640	T3-31	isobutanol
+101016jcej201005016	13	31	Quantity	mL	"{""unit"": ""mL""}"	83	88	1642	1647	T1-31	80 mL
+101016jcej201005016	13	32	MeasuredProperty		"{""HasQuantity"": ""T1-32""}"	156	161	1715	1720	T2-32	dried
+101016jcej201005016	13	32	MeasuredEntity		"{""HasProperty"": ""T2-32""}"	108	123	1667	1682	T3-32	resulting solid
+101016jcej201005016	13	32	Quantity	degC	"{""unit"": ""degC""}"	170	178	1729	1737	T1-32	110 degC
+101016jcej201005016	13	33	MeasuredProperty		"{""HasQuantity"": ""T1-33""}"	156	161	1715	1720	T2-33	dried
+101016jcej201005016	13	33	MeasuredEntity		"{""HasProperty"": ""T2-33""}"	108	123	1667	1682	T3-33	resulting solid
+101016jcej201005016	13	33	Quantity	h	"{""unit"": ""h""}"	180	184	1739	1743	T1-33	16 h
+101016jcej201005016	13	34	MeasuredProperty		"{""HasQuantity"": ""T1-34""}"	57	65	1616	1624	T2-34	refluxed
+101016jcej201005016	13	34	MeasuredEntity		"{""HasProperty"": ""T2-34""}"	12	22	1571	1581	T3-34	VOPO4*2H2O
+101016jcej201005016	13	34	Quantity	h	"{""unit"": ""h""}"	94	98	1653	1657	T1-34	21 h
+101016jcej201005016	13	35	MeasuredProperty		"{""HasQuantity"": ""T1-35""}"	44	65	1603	1624	T2-35	subsequently refluxed
+101016jcej201005016	13	35	MeasuredEntity		"{""HasProperty"": ""T2-35""}"	12	22	1571	1581	T3-35	VOPO4*2H2O
+101016jcej201005016	13	35	Quantity	g	"{""unit"": ""g""}"	24	29	1583	1588	T1-35	4.0 g
+101016jcej201005016	13	36	MeasuredProperty		"{""HasQuantity"": ""T1-36""}"	44	65	1603	1624	T2-36	subsequently refluxed
+101016jcej201005016	13	36	MeasuredEntity		"{""HasProperty"": ""T2-36""}"	12	22	1571	1581	T3-36	VOPO4*2H2O
+101016jcej201005016	13	36	Quantity	mmol	"{""unit"": ""mmol""}"	31	38	1590	1597	T1-36	20 mmol
+101016jcej201005016	15	37	MeasuredProperty		"{""HasQuantity"": ""T1-37""}"	36	45	1835	1844	T2-37	activated
+101016jcej201005016	15	37	MeasuredEntity		"{""HasProperty"": ""T2-37""}"	4	30	1803	1829	T3-37	precursors (P1, P2 and P3)
+101016jcej201005016	15	37	Quantity	degC	"{""unit"": ""degC""}"	83	91	1882	1890	T1-37	550 degC
+101016jcej201005016	15	38	MeasuredProperty		"{""HasQuantity"": ""T1-38""}"	36	45	1835	1844	T2-38	activated
+101016jcej201005016	15	38	MeasuredEntity		"{""HasProperty"": ""T2-38""}"	4	30	1803	1829	T3-38	precursors (P1, P2 and P3)
+101016jcej201005016	15	38	Quantity	h	"{""unit"": ""h""}"	96	99	1895	1898	T1-38	4 h
+101016jcej201005016	6	39	MeasuredProperty		"{""HasQuantity"": ""T1-39""}"	126	132	818	824	T2-39	adding
+101016jcej201005016	6	39	MeasuredEntity		"{""HasProperty"": ""T2-39""}"	133	137	825	829	T3-39	V2O5
+101016jcej201005016	6	39	Quantity	g	"{""unit"": ""g""}"	139	145	831	837	T1-39	11.8 g
+101016jcej201005016	6	40	MeasuredProperty		"{""HasQuantity"": ""T1-40""}"	126	132	818	824	T2-40	adding
+101016jcej201005016	6	40	MeasuredEntity		"{""HasProperty"": ""T2-40""}"	133	137	825	829	T3-40	V2O5
+101016jcej201005016	6	40	Quantity	mmol	"{""unit"": ""mmol""}"	147	154	839	846	T1-40	66 mmol
+101016jcej201005016	6	41	MeasuredEntity		"{""HasQuantity"": ""T1-41""}"	159	169	851	861	T3-41	isobutanol
+101016jcej201005016	6	41	Quantity	mL	"{""unit"": ""mL""}"	171	177	863	869	T1-41	250 mL

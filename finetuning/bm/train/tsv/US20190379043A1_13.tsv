@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20190379043A1_13	1	1	MeasuredEntity			150	180	150	180	T3-1	plurality of primary particles
+US20190379043A1_13	1	1	MeasuredProperty			194	205	194	205	T2-1	tap density
+US20190379043A1_13	1	1	Quantity	g/cm3		209	218	209	218	T1-1	1.5 g/cm3

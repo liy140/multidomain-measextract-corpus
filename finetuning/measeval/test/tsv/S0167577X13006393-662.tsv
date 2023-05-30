@@ -1,0 +1,9 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0167577X13006393-662	1	1	Quantity	ml		59	71	59	71	T1-1	1 ml or 5 ml
+S0167577X13006393-662	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	72	79	72	79	T3-1	syringe
+S0167577X13006393-662	2	2	Quantity	ml/h		72	78	212	218	T1-2	1 ml/h
+S0167577X13006393-662	2	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	64	68	204	208	T3-2	rate
+S0167577X13006393-662	2	2	MeasuredEntity		{'HasProperty': 'T3-2'}	4	58	144	198	T4-2	solution was pushed towards the electrospinning nozzle
+S0167577X13006393-662	2	3	Quantity	kV		106	113	246	253	T1-3	12.2 kV
+S0167577X13006393-662	2	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	87	94	227	234	T3-3	voltage
+S0167577X13006393-662	2	3	MeasuredEntity		{'HasProperty': 'T3-3'}	36	58	176	198	T4-3	electrospinning nozzle

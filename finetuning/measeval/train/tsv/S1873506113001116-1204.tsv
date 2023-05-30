@@ -1,0 +1,23 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S1873506113001116-1204	3	1	Quantity	passages		78	97	391	410	T1-1	at least 3 passages
+S1873506113001116-1204	3	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	10	47	323	360	T4-1	cultured on E8 feeder-free conditions
+S1873506113001116-1204	3	1	MeasuredEntity		{'HasProperty': 'T4-1'}	0	9	313	322	T2-1	BC1 cells
+S1873506113001116-1204	4	2	Quantity	h		60	71	591	602	T1-2	within 24 h
+S1873506113001116-1204	4	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	10	59	541	590	T4-2	survived and formed convex dish-shaped aggregates
+S1873506113001116-1204	4	2	MeasuredEntity		{'HasProperty': 'T4-2'}	4	9	535	540	T3-2	cells
+S1873506113001116-1204	6	3	Quantity	fold per passage		77	103	827	853	T1-3	3.7 ± 0.9 fold per passage
+S1873506113001116-1204	6	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	69	73	819	823	T4-3	rate
+S1873506113001116-1204	6	3	MeasuredEntity		{'HasProperty': 'T4-3'}	0	9	750	759	T5-3	BC1 cells
+S1873506113001116-1204	6	4	Quantity	fold		105	119	855	869	T1-4	3.7 × 106 fold
+S1873506113001116-1204	6	4	MeasuredEntity		{'HasQuantity': 'T1-4'}	0	9	750	759	T3-4	BC1 cells
+S1873506113001116-1204	6	5	Quantity	%		143	148	893	898	T1-5	> 99%
+S1873506113001116-1204	6	5	MeasuredProperty		{'HasQuantity': 'T1-5'}	168	177	918	927	T4-5	TRA-1–60+
+S1873506113001116-1204	6	5	MeasuredEntity		{'HasProperty': 'T4-5'}	156	161	906	911	T3-5	cells
+S1873506113001116-1204	6	6	Quantity			184	186	934	936	T1-6	13
+S1873506113001116-1204	6	6	MeasuredEntity		{'HasQuantity': 'T1-6'}	187	195	937	945	T2-6	passages
+S1873506113001116-1204	8	7	Quantity	%		116	128	1208	1220	T1-7	46.8% ± 1.6%
+S1873506113001116-1204	8	7	MeasuredProperty		{'HasQuantity': 'T1-7'}	151	166	1243	1258	T3-7	CD34+CD45+ HPCs
+S1873506113001116-1204	8	7	MeasuredEntity		{'HasProperty': 'T3-7'}	136	141	1228	1233	T2-7	cells
+S1873506113001116-1204	9	8	Quantity	day		113	120	1383	1390	T1-8	one-day
+S1873506113001116-1204	9	8	MeasuredProperty		{'HasQuantity': 'T1-8'}	121	130	1391	1400	T3-8	treatment
+S1873506113001116-1204	9	8	MeasuredEntity		{'HasProperty': 'T3-8'}	28	51	1298	1321	T5-8	undifferentiated hiPSCs

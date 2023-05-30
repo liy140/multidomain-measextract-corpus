@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0927024813002420-1202	2	1	Quantity			58	68	273	283	T1-1	60% higher
+S0927024813002420-1202	2	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	69	82	284	297	T3-1	photocurrents
+S0927024813002420-1202	2	1	MeasuredEntity		{'HasProperty': 'T3-1'}	15	48	230	263	T2-1	co-deposition of blended mixtures
+S0927024813002420-1202	3	2	Quantity			97	111	472	486	T1-2	as much as 80%
+S0927024813002420-1202	3	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	66	93	441	468	T3-2	power conversion efficiency
+S0927024813002420-1202	3	2	MeasuredEntity		{'HasProperty': 'T3-2'}	30	37	405	412	T2-2	devices

@@ -1,0 +1,20 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0012821X12004384-1265	1	1	Quantity			11	13	11	13	T1-1	71
+S0012821X12004384-1265	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	14	32	14	32	T2-1	palynology samples
+S0012821X12004384-1265	5	2	Quantity			29	36	512	519	T1-2	1/100th
+S0012821X12004384-1265	5	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	0	23	483	506	T3-2	Each slide was produced
+S0012821X12004384-1265	5	2	MeasuredEntity		{'HasProperty': 'T3-2'}	44	68	527	551	T2-2	total material processed
+S0012821X12004384-1265	5	3	Quantity	g		111	114	594	597	T11-3	5 g
+S0012821X12004384-1265	5	3	MeasuredProperty		{'HasQuantity': 'T11-3'}	80	94	563	577	T81-3	initial weight
+S0012821X12004384-1265	5	3	MeasuredEntity		{'HasProperty': 'T81-3'}	118	132	601	615	T91-3	dried sediment
+S0012821X12004384-1265	6	4	Quantity	g		72	78	689	695	T22-4	0.05 g
+S0012821X12004384-1265	6	4	MeasuredEntity		{'HasQuantity': 'T22-4'}	82	96	699	713	T32-4	dried sediment
+S0012821X12004384-1265	10	5	Quantity	μm		4	11	1116	1123	T53-5	>250 μm
+S0012821X12004384-1265	10	5	MeasuredProperty		{'HasQuantity': 'T53-5'}	12	21	1124	1133	T113-5	fractions
+S0012821X12004384-1265	10	6	Quantity	%		80	84	1192	1196	T44-6	>90%
+S0012821X12004384-1265	10	6	MeasuredProperty		{'HasQuantity': 'T44-6'}	89	119	1201	1231	T2-6	amorphous organic matter (AOM)
+S0012821X12004384-1265	10	6	MeasuredEntity		{'HasProperty': 'T2-6'}	4	21	1116	1133	T1-6	>250 μm fractions
+S0012821X12004384-1265	10	7	Quantity	g		171	190	1283	1302	T75-7	between 20 and 60 g
+S0012821X12004384-1265	10	7	MeasuredEntity		{'HasQuantity': 'T75-7'}	194	208	1306	1320	T145-7	dried sediment
+S0012821X12004384-1265	10	8	Quantity	μm		245	250	1357	1362	T66-8	63 μm
+S0012821X12004384-1265	10	8	MeasuredEntity		{'HasQuantity': 'T66-8'}	251	256	1363	1368	T106-8	sieve

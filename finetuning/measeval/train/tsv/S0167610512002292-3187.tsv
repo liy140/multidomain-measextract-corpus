@@ -1,0 +1,10 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0167610512002292-3187	1	1	Quantity			16	17	16	17	T1-1	7
+S0167610512002292-3187	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	18	38	18	38	T2-1	initial orientations
+S0167610512002292-3187	1	2	Quantity	m		87	94	87	94	T1-2	0.563 m
+S0167610512002292-3187	1	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	95	107	95	107	T3-2	square plate
+S0167610512002292-3187	1	3	Quantity	m		121	129	121	129	T1-3	0.025 m.
+S0167610512002292-3187	1	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	111	120	111	120	T2-3	thickness
+S0167610512002292-3187	1	3	MeasuredEntity		{'HasProperty': 'T2-3'}	95	107	95	107	T3-3	square plate
+S0167610512002292-3187	2	4	Quantity			14	17	315	318	T1-4	two
+S0167610512002292-3187	2	4	MeasuredEntity		{'HasQuantity': 'T1-4'}	18	31	319	332	T2-4	sets of cases

@@ -1,0 +1,8 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S175058361300203X-1483	4	1	Quantity	m		130	134	765	769	T1-1	33 m
+S175058361300203X-1483	4	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	118	128	753	763	T3-1	upper part
+S175058361300203X-1483	5	2	Quantity	%		172	178	1050	1056	T1-2	20–25%
+S175058361300203X-1483	5	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	135	155	1013	1033	T3-2	effective porosities
+S175058361300203X-1483	5	2	MeasuredEntity		{'HasProperty': 'T3-2'}	40	58	918	936	T5-2	channel sandstones
+S175058361300203X-1483	6	3	Quantity			145	148	1226	1229	T1-3	two
+S175058361300203X-1483	6	3	MeasuredEntity		{'HasQuantity': 'T1-3'}	149	179	1230	1260	T3-3	high porosity sandstone layers

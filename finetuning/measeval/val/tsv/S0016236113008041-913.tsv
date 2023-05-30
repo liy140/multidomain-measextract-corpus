@@ -1,0 +1,6 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0016236113008041-913	1	1	Quantity	ppm		96	124	96	124	T21-1	0 ppm, 1000 ppm and 2000 ppm
+S0016236113008041-913	1	1	MeasuredProperty		{'HasQuantity': 'T21-1'}	74	92	74	92	T71-1	SO2 concentrations
+S0016236113008041-913	1	2	Quantity	kg		147	152	147	152	T44-2	13 kg
+S0016236113008041-913	1	2	MeasuredProperty		{'HasQuantity': 'T44-2'}	153	158	153	158	T54-2	CaCO3
+S0016236113008041-913	1	2	MeasuredEntity		{'HasProperty': 'T54-2'}	130	143	130	143	T64-2	bed inventory

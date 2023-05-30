@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20160002063A1_8	1	1	MeasuredEntity			68	94	68	94	T3-1	transition metal precursor
+US20160002063A1_8	1	1	MeasuredProperty			102	131	102	131	T2-1	average particle diameter D50
+US20160002063A1_8	1	1	Quantity	μm		135	145	135	145	T1-1	1 to 30 μm

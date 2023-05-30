@@ -1,0 +1,19 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101039c5tc04364f	8	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	45	70	986	1011	T2-1	remained stably dispersed
+101039c5tc04364f	8	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	41	44	982	985	T3-1	ink
+101039c5tc04364f	8	1	Quantity	month	"{""unit"": ""month""}"	85	94	1026	1035	T1-1	one month
+101039c5tc04364f	3	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	23	28	284	289	T2-2	thick
+101039c5tc04364f	3	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	0	16	261	277	T3-2	Glass substrates
+101039c5tc04364f	3	2	Quantity	mm	"{""unit"": ""mm""}"	18	22	279	283	T1-2	1 mm
+101039c5tc04364f	7	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	30	39	770	779	T2-3	sonicated
+101039c5tc04364f	7	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	4	25	744	765	T3-3	sol-gel precursor ink
+101039c5tc04364f	7	3	Quantity	hour	"{""unit"": ""hour""}"	44	50	784	790	T1-3	1 hour
+101039c5tc04364f	7	4	MeasuredEntity		"{""HasQuantity"": ""T1-4""}"	148	159	888	899	T3-4	PTFE filter
+101039c5tc04364f	7	4	Quantity	μm	"{""unit"": ""\u03bcm""}"	141	147	881	887	T1-4	0.2 μm
+101039c5tc04364f	6	5	MeasuredEntity		"{""HasQuantity"": ""T1-5""}"	114	128	600	614	T3-5	Indium Acetate
+101039c5tc04364f	6	5	Quantity	%	"{""unit"": ""%""}"	130	136	616	622	T1-5	99.99%
+101039c5tc04364f	6	6	MeasuredEntity		"{""HasQuantity"": ""T1-6""}"	138	160	624	646	T3-6	Zinc Acetate dehydrate
+101039c5tc04364f	6	6	Quantity	%	"{""unit"": ""%""}"	162	168	648	654	T1-6	99.99%
+101039c5tc04364f	6	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	198	210	684	696	T2-7	volume ratio
+101039c5tc04364f	6	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	215	252	701	738	T3-7	2-methoxyethanol and monoethanolamine
+101039c5tc04364f	6	7	Quantity			185	188	671	674	T1-7	2:1

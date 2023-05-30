@@ -1,0 +1,9 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0960148113004989-3203	5	1	Quantity	min		50	56	438	444	T1-1	10 min
+S0960148113004989-3203	5	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	46	47	434	435	T3-1	P
+S0960148113004989-3203	5	1	MeasuredEntity		{'HasProperty': 'T3-1'}	15	27	403	415	T2-1	tidal period
+S0960148113004989-3203	5	2	Quantity	m		93	99	481	487	T1-2	±12 m.
+S0960148113004989-3203	5	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	78	89	466	477	T3-2	tidal range
+S0960148113004989-3203	5	3	Quantity	s		178	182	566	570	T1-3	12 s
+S0960148113004989-3203	5	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	160	175	548	563	T2-3	time step of Δt
+S0960148113004989-3203	5	3	MeasuredEntity		{'HasProperty': 'T2-3'}	104	119	492	507	T4-3	simulation time

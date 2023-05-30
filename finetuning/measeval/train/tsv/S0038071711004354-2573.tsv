@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0038071711004354-2573	1	1	Quantity	cm		166	174	166	174	T1-1	20–30 cm
+S0038071711004354-2573	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	182	194	182	194	T3-1	soil profile
+S0038071711004354-2573	3	2	Quantity			48	51	406	409	T1-2	six
+S0038071711004354-2573	3	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	52	87	410	445	T2-2	Mediterranean forest sites in Italy
+S0038071711004354-2573	3	3	Quantity	cm		201	206	559	564	T1-3	20 cm
+S0038071711004354-2573	3	3	MeasuredEntity		{'HasQuantity': 'T1-3'}	210	222	568	580	T4-3	soil profile

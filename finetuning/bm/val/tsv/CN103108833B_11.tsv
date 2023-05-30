@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN103108833B_11	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	58	67	58	67	T3-1	precursor
+CN103108833B_11	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	95	108	95	108	T2-1	sodium levels
+CN103108833B_11	1	1	Quantity	ppm	"{""unit"": ""ppm""}"	84	91	84	91	T1-1	300 ppm

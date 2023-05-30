@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN105594029B_3	1	1	MeasuredEntity			314	327	314	327	T3-1	the particles
+CN105594029B_3	1	1	MeasuredProperty			373	376	373	376	T2-1	D50
+CN105594029B_3	1	1	Quantity	um		380	383	380	383	T1-1	4um

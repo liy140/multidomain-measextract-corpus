@@ -1,0 +1,33 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jtetlet201004103	4	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	25	30	277	282	T2-1	added
+101016jtetlet201004103	4	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	4	11	256	263	T3-1	sulfide
+101016jtetlet201004103	4	1	Quantity	mmol	"{""unit"": ""mmol""}"	13	19	265	271	T1-1	1 mmol
+101016jtetlet201004103	4	2	MeasuredEntity		"{""HasQuantity"": ""T1-2""}"	52	56	304	308	T3-2	H2O2
+101016jtetlet201004103	4	2	Quantity	equiv	"{""unit"": ""equiv""}"	58	67	310	319	T1-2	1.2 equiv
+101016jtetlet201004103	4	3	MeasuredEntity		"{""HasQuantity"": ""T1-3""}"	52	56	304	308	T3-3	H2O2
+101016jtetlet201004103	4	3	Quantity	g	"{""unit"": ""g""}"	69	74	321	326	T1-3	0.5 g
+101016jtetlet201004103	4	4	MeasuredEntity		"{""HasQuantity"": ""T1-4""}"	80	90	332	342	T3-4	boric acid
+101016jtetlet201004103	4	4	Quantity	mmol	"{""unit"": ""mmol""}"	92	100	344	352	T1-4	0.1 mmol
+101016jtetlet201004103	4	5	MeasuredEntity		"{""HasQuantity"": ""T1-5""}"	80	90	332	342	T3-5	boric acid
+101016jtetlet201004103	4	5	Quantity	g	"{""unit"": ""g""}"	102	109	354	361	T1-5	0.006 g
+101016jtetlet201004103	4	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	52	56	304	308	T2-6	H2O2
+101016jtetlet201004103	4	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	36	44	288	296	T3-6	solution
+101016jtetlet201004103	4	6	Quantity	%	"{""unit"": ""%""}"	48	51	300	303	T1-6	30%
+101016jtetlet201004103	6	7	MeasuredEntity		"{""HasQuantity"": ""T1-7""}"	65	71	553	559	T3-7	CH2Cl2
+101016jtetlet201004103	6	7	Quantity	mL	"{""unit"": ""mL""}"	73	82	561	570	T1-7	3 x 10 mL
+101016jtetlet201004103	6	8	MeasuredEntity		"{""HasQuantity"": ""T1-8""}"	126	131	614	619	T3-8	brine
+101016jtetlet201004103	6	8	Quantity	mL	"{""unit"": ""mL""}"	133	138	621	626	T1-8	15 mL
+101016jtetlet201004103	8	9	MeasuredEntity		"{""HasQuantity"": ""T1-9""}"	84	98	848	862	T3-9	EtOAc/n-hexane
+101016jtetlet201004103	8	9	Quantity			100	104	864	868	T1-9	1/10
+101016jtetlet201004103	11	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	25	30	1119	1124	T2-10	added
+101016jtetlet201004103	11	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	4	11	1098	1105	T3-10	sulfide
+101016jtetlet201004103	11	10	Quantity	mmol	"{""unit"": ""mmol""}"	13	19	1107	1113	T1-10	1 mmol
+101016jtetlet201004103	11	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	52	56	1146	1150	T2-11	H2O2
+101016jtetlet201004103	11	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	36	44	1130	1138	T3-11	solution
+101016jtetlet201004103	11	11	Quantity	%	"{""unit"": ""%""}"	48	51	1142	1145	T1-11	30%
+101016jtetlet201004103	11	12	MeasuredEntity		"{""HasQuantity"": ""T1-12""}"	52	56	1146	1150	T3-12	H2O2
+101016jtetlet201004103	11	12	Quantity	equiv	"{""unit"": ""equiv""}"	58	71	1152	1165	T1-12	3.6-4.8 equiv
+101016jtetlet201004103	11	13	MeasuredEntity		"{""HasQuantity"": ""T1-13""}"	77	87	1171	1181	T3-13	boric acid
+101016jtetlet201004103	11	13	Quantity	mmol	"{""unit"": ""mmol""}"	89	101	1183	1195	T1-13	0.2-0.3 mmol
+101016jtetlet201004103	13	14	MeasuredEntity		"{""HasQuantity"": ""T1-14""}"	65	71	1387	1393	T3-14	CH2Cl2
+101016jtetlet201004103	13	14	Quantity	mL	"{""unit"": ""mL""}"	73	82	1395	1404	T1-14	3 x 10 mL

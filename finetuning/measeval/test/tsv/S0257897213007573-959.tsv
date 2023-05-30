@@ -1,0 +1,16 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0257897213007573-959	2	1	MeasuredEntity		{'HasProperty': 'T2-1'}	16	27	175	186	T3-1	SiC surface
+S0257897213007573-959	3	1	Quantity	nm		71	78	329	336	T1-1	0.22 nm
+S0257897213007573-959	3	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	4	54	262	312	T2-1	surface roughness RMS (root mean square roughness)
+S0257897213007573-959	6	2	Quantity	nm		184	190	871	877	T1-2	100 nm
+S0257897213007573-959	6	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	194	199	881	886	T3-2	width
+S0257897213007573-959	6	2	MeasuredEntity		{'HasProperty': 'T3-2'}	168	177	855	864	T2-2	nanopores
+S0257897213007573-959	6	3	MeasuredEntity		{'HasProperty': 'T2-3'}	22	31	709	718	T4-3	CDC layer
+S0257897213007573-959	7	3	Quantity	nm		136	143	1058	1065	T1-3	1.46 nm
+S0257897213007573-959	7	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	115	132	1037	1054	T2-3	surface roughness
+S0257897213007573-959	9	5	MeasuredEntity		{'HasProperty': 'T2-5'}	151	160	1362	1371	T3-5	CVD layer
+S0257897213007573-959	10	4	Quantity	μm		161	185	1534	1558	T1-4	up to approximately 3 μm
+S0257897213007573-959	10	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	189	197	1562	1570	T4-4	diameter
+S0257897213007573-959	10	4	MeasuredEntity		{'HasProperty': 'T4-4'}	141	157	1514	1530	T2-4	carbon particles
+S0257897213007573-959	10	5	Quantity	nm		255	263	1628	1636	T1-5	54.68 nm
+S0257897213007573-959	10	5	MeasuredProperty		{'HasQuantity': 'T1-5'}	207	224	1580	1597	T2-5	surface roughness

@@ -1,0 +1,15 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0012821X12004384-1249	1	1	Quantity			19	45	19	45	T2-1	57°44’8.47”N; 1°50’26.59”E
+S0012821X12004384-1249	1	1	MeasuredEntity		{'HasQuantity': 'T2-1'}	0	17	0	17	T1-1	Borehole 22/10a-4
+S0012821X12004384-1249	4	2	Quantity	m		50	71	502	523	T11-2	from 2605 m to 2634 m
+S0012821X12004384-1249	4	2	MeasuredProperty		{'HasQuantity': 'T11-2'}	73	83	525	535	T21-2	core depth
+S0012821X12004384-1249	4	2	MeasuredEntity		{'HasProperty': 'T21-2'}	4	23	456	475	T41-2	section of 22/10a-4
+S0012821X12004384-1249	5	3	Quantity	m		3	14	698	709	T32-3	2609–2613 m
+S0012821X12004384-1249	5	3	MeasuredProperty		{'HasQuantity': 'T32-3'}	29	53	724	748	T62-3	becomes finely laminated
+S0012821X12004384-1249	5	3	MeasuredEntity		{'HasProperty': 'T62-3'}	15	28	710	723	T52-3	the claystone
+S0012821X12004384-1249	5	4	Quantity	mm		102	129	797	824	T93-4	ranging from 1 to 25 per mm
+S0012821X12004384-1249	5	4	MeasuredEntity		{'HasQuantity': 'T93-4'}	59	101	754	796	T83-4	alternately pale and dark laminae couplets
+S0012821X12004384-1249	7	5	Quantity	horizons		24	35	974	985	T1-5	26 horizons
+S0012821X12004384-1249	7	5	MeasuredEntity		{'HasQuantity': 'T1-5'}	51	55	1001	1005	T3-5	core
+S0012821X12004384-1249	7	6	Quantity	pairs per mm		60	89	1010	1039	T1-6	approximately 13 pairs per mm
+S0012821X12004384-1249	7	6	MeasuredEntity		{'HasQuantity': 'T1-6'}	0	7	950	957	T3-6	Laminae

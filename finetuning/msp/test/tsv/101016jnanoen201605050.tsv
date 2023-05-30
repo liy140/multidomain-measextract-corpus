@@ -1,0 +1,37 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jnanoen201605050	2	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	30	35	254	259	T2-1	added
+101016jnanoen201605050	2	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	18	24	242	248	T3-1	NH4VO3
+101016jnanoen201605050	2	1	Quantity	mmol	"{""unit"": ""mmol""}"	11	17	235	241	T1-1	6 mmol
+101016jnanoen201605050	2	2	MeasuredEntity		"{""HasQuantity"": ""T1-2""}"	45	60	269	284	T3-2	deionized water
+101016jnanoen201605050	2	2	Quantity	mL	"{""unit"": ""mL""}"	39	44	263	268	T1-2	70 mL
+101016jnanoen201605050	2	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	61	72	285	296	T2-3	maintaining
+101016jnanoen201605050	2	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	11	60	235	284	T3-3	6 mmol NH4VO3 were added to 70 mL deionized water
+101016jnanoen201605050	2	3	Quantity	degC	"{""unit"": ""degC""}"	76	83	300	307	T1-3	80 degC
+101016jnanoen201605050	2	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	212	217	436	441	T2-4	added
+101016jnanoen201605050	2	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	160	168	384	392	T3-4	NH4H2PO4
+101016jnanoen201605050	2	4	Quantity	mmol	"{""unit"": ""mmol""}"	153	159	377	383	T1-4	6 mmol
+101016jnanoen201605050	2	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	212	217	436	441	T2-5	added
+101016jnanoen201605050	2	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	177	183	401	407	T3-5	Na2CO3
+101016jnanoen201605050	2	5	Quantity	mmol	"{""unit"": ""mmol""}"	170	176	394	400	T1-5	2 mmol
+101016jnanoen201605050	2	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	212	217	436	441	T2-6	added
+101016jnanoen201605050	2	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	195	206	419	430	T3-6	citric acid
+101016jnanoen201605050	2	6	Quantity	mmol	"{""unit"": ""mmol""}"	188	194	412	418	T1-6	4 mmol
+101016jnanoen201605050	6	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	39	47	773	781	T2-7	annealed
+101016jnanoen201605050	6	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	15	21	749	755	T3-7	powder
+101016jnanoen201605050	6	7	Quantity	degC	"{""unit"": ""degC""}"	51	59	785	793	T1-7	900 degC
+101016jnanoen201605050	6	8	MeasuredEntity		"{""HasQuantity"": ""T1-8""}"	82	84	816	818	T3-8	H2
+101016jnanoen201605050	6	8	Quantity	%	"{""unit"": ""%""}"	78	81	812	815	T1-8	10%
+101016jnanoen201605050	6	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	39	47	773	781	T2-9	annealed
+101016jnanoen201605050	6	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	66	71	800	805	T3-9	H2/Ar
+101016jnanoen201605050	6	9	Quantity	h	"{""unit"": ""h""}"	90	94	824	828	T1-9	12 h
+101016jnanoen201605050	5	10	MeasuredEntity		"{""HasQuantity"": ""T1-10""}"	12	17	604	609	T3-10	dried
+101016jnanoen201605050	5	10	Quantity	degC	"{""unit"": ""degC""}"	32	40	624	632	T1-10	150 degC
+101016jnanoen201605050	5	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	12	17	604	609	T2-11	dried
+101016jnanoen201605050	5	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	4	7	596	599	T3-11	gel
+101016jnanoen201605050	5	11	Quantity	h	"{""unit"": ""h""}"	45	48	637	640	T1-11	4 h
+101016jnanoen201605050	5	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	54	66	646	658	T2-12	heat-treated
+101016jnanoen201605050	5	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	4	7	596	599	T3-12	gel
+101016jnanoen201605050	5	12	Quantity	degC	"{""unit"": ""degC""}"	70	78	662	670	T1-12	400 degC
+101016jnanoen201605050	5	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	54	66	646	658	T2-13	heat-treated
+101016jnanoen201605050	5	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	4	7	596	599	T3-13	gel
+101016jnanoen201605050	5	13	Quantity	h	"{""unit"": ""h""}"	83	86	675	678	T1-13	5 h

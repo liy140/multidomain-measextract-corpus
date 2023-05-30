@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+EP3204973B1_13	1	1	MeasuredEntity			73	76	73	76	T3-1	NH3
+EP3204973B1_13	1	1	MeasuredProperty			56	69	56	69	T2-1	concentration
+EP3204973B1_13	1	1	Quantity	g/L		94	111	94	111	T1-1	less than 5.0 g/L

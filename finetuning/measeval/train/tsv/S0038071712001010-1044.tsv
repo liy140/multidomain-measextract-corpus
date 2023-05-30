@@ -1,0 +1,6 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0038071712001010-1044	4	1	Quantity	mm2		49	57	626	634	T1-1	∼0.4 mm2
+S0038071712001010-1044	4	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	36	47	613	624	T2-1	small pores
+S0038071712001010-1044	14	2	Quantity	days		28	35	2609	2616	T1-2	84 days
+S0038071712001010-1044	14	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	17	23	2598	2604	T3-2	lasted
+S0038071712001010-1044	14	2	MeasuredEntity		{'HasProperty': 'T3-2'}	6	16	2587	2597	T2-2	experiment

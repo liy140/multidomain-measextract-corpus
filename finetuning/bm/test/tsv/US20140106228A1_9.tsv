@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20140106228A1_9	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	7	43	7	43	T3-1	transition metal composite hydroxide
+US20140106228A1_9	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	75	96	75	96	T2-1	specific surface area
+US20140106228A1_9	1	1	Quantity	m2/g	"{""unit"": ""m2/g""}"	100	112	100	112	T1-1	5 to 30 m2/g

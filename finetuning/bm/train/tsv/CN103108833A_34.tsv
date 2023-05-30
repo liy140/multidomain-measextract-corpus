@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN103108833A_34	1	1	MeasuredEntity			46	55	46	55	T3-1	precursor
+CN103108833A_34	1	1	MeasuredProperty			72	84	72	84	T2-1	surface area
+CN103108833A_34	1	1	Quantity	m2/g		88	95	88	95	T1-1	2-8m2/g

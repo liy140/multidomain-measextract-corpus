@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0927024813001955-1005	3	1	Quantity	°C		145	151	623	629	T1-1	150 °C
+S0927024813001955-1005	3	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	113	127	591	605	T4-1	post-annealing
+S0927024813001955-1005	3	1	MeasuredEntity		{'HasProperty': 'T4-1'}	132	141	610	619	T3-1	ZnO films
+S0927024813001955-1005	4	2	Quantity	%		135	145	766	776	T1-2	up to 100%
+S0927024813001955-1005	4	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	146	173	777	804	T3-2	visible light transmittance
+S0927024813001955-1005	4	2	MeasuredEntity		{'HasProperty': 'T3-2'}	80	85	711	716	T4-2	films

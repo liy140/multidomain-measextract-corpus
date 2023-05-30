@@ -1,0 +1,7 @@
+{"text": "The averaged power extracted during one cycle increased by 22% from 48.4 MW to 59.0 MW (Fig. 10e).", "sentId": 1, "start": 0, "end": 98}
+{"text": "Since the computational domain is symmetric and the simulation time covered one full period, the optimised layout is expected to be symmetric in the x-direction.", "sentId": 2, "start": 99, "end": 260}
+{"text": "The numerical solution, shown in Fig. 10b, indeed shows an almost symmetric result.", "sentId": 3, "start": 261, "end": 344}
+{"text": "The turbine alignment consists of two distorted ∨ shapes whose open ends face the in/-outflow boundaries.", "sentId": 4, "start": 345, "end": 450}
+{"text": "Similar to the previous example, an interpretation of this alignment is to divert the stream towards the corner of the ∨ where turbines can extract large amounts of power.", "sentId": 5, "start": 451, "end": 622}
+{"text": "An additional row of turbines can be seen parallel to the bottom of the domain.", "sentId": 6, "start": 623, "end": 702}
+{"text": "These turbines are positioned to capture energy from the flow passing along the boundary.", "sentId": 7, "start": 703, "end": 792}

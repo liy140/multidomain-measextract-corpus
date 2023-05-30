@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN105594029A_10	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	345	367	345	367	T3-1	mixture in the reactor
+CN105594029A_10	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	377	379	377	379	T2-1	pH
+CN105594029A_10	1	1	Quantity			383	432	383	432	T1-1	adjusted to 12.3 to the reaction solution to 11.8

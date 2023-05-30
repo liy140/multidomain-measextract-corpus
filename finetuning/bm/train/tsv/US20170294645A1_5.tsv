@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20170294645A1_5	1	1	MeasuredEntity			77	112	77	112	T3-1	precursor of transition metal oxide
+US20170294645A1_5	1	1	MeasuredProperty			119	130	119	130	T2-1	tap density
+US20170294645A1_5	1	1	Quantity	g/cc		142	158	142	158	T1-1	1.0 and 2.5 g/cc

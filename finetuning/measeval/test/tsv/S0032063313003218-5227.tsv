@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0032063313003218-5227	1	1	Quantity	K		44	55	44	55	T1-1	up to 700 K
+S0032063313003218-5227	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	29	40	29	40	T3-1	temperature
+S0032063313003218-5227	1	1	MeasuredEntity		{'HasProperty': 'T3-1'}	4	28	4	28	T2-1	Jovian upper atmospheric
+S0032063313003218-5227	2	2	Quantity	years		87	100	244	257	T1-2	over 40 years
+S0032063313003218-5227	2	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	64	71	221	228	T4-2	puzzled
+S0032063313003218-5227	2	2	MeasuredEntity		{'HasProperty': 'T4-2'}	72	82	229	239	T3-2	scientists

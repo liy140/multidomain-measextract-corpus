@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN106745336A_1	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	528	581	528	581	T3-1	hexagonal nanosheeet agglomerated secondary particles
+CN106745336A_1	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	589	606	589	606	T2-1	particle size D50
+CN106745336A_1	1	1	Quantity	μm	"{""unit"": ""\u03bcm""}"	607	614	607	614	T1-1	9-15 μm

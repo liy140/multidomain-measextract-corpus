@@ -1,0 +1,12 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN107611383B_1	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	1518	1537	1518	1537	T3-1	high pH value stage
+CN107611383B_1	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	1502	1510	1502	1510	T2-1	pH value
+CN107611383B_1	1	1	Quantity			1541	1552	1541	1552	T1-1	11.50-12.50
+CN107611383B_1	1	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	1574	1592	1574	1592	T3-2	low pH value stage
+CN107611383B_1	1	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	1558	1566	1558	1566	T2-2	pH value
+CN107611383B_1	1	2	Quantity			1596	1606	1596	1606	T1-2	10.4-11.30
+CN107611383B_1	1	3	MeasuredEntity		"{""HasQuantity"": ""T1-3""}"	1612	1623	1612	1623	T3-3	temperature
+CN107611383B_1	1	3	Quantity	℃	"{""unit"": ""\u2103""}"	1627	1634	1627	1634	T1-3	45-60 ℃
+CN107611383B_1	1	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	1674	1681	1674	1681	T3-4	ammonia
+CN107611383B_1	1	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	1682	1687	1682	1687	T2-4	value
+CN107611383B_1	1	4	Quantity	g/L	"{""unit"": ""g/L""}"	1691	1697	1691	1697	T1-4	3-8g/L

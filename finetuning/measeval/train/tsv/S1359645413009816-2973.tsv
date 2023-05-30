@@ -1,0 +1,10 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S1359645413009816-2973	9	1	Quantity	m		111	129	1020	1038	T3-1	(0.28–0.42)×10-10m
+S1359645413009816-2973	9	1	MeasuredProperty		{'HasQuantity': 'T3-1'}	107	110	1016	1019	T2-1	eGB
+S1359645413009816-2973	9	1	MeasuredEntity		{'HasProperty': 'T2-1'}	69	105	978	1014	T1-1	molecular dynamics simulations on Ni
+S1359645413009816-2973	9	2	Quantity	m		182	200	1091	1109	T3-2	(0.39–0.41)×10-10m
+S1359645413009816-2973	9	2	MeasuredProperty		{'HasQuantity': 'T3-2'}	178	181	1087	1090	T2-2	eGB
+S1359645413009816-2973	9	2	MeasuredEntity		{'HasProperty': 'T2-2'}	69	105	978	1014	T1-2	molecular dynamics simulations on Ni
+S1359645413009816-2973	9	3	Quantity	K		209	215	1118	1124	T1-3	1200 K
+S1359645413009816-2973	9	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	205	206	1114	1115	T3-3	T
+S1359645413009816-2973	9	3	MeasuredEntity		{'HasProperty': 'T3-3'}	69	105	978	1014	T2-3	molecular dynamics simulations on Ni

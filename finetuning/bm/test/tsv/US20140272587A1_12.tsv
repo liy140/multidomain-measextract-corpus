@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20140272587A1_12	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	117	167	117	167	T3-1	lithium composite transition metal oxide particles
+US20140272587A1_12	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	93	109	93	109	T2-1	average diameter
+US20140272587A1_12	1	1	Quantity	μm	"{""unit"": ""\u03bcm""}"	171	187	171	187	T1-1	1.0 μm to 5.5 μm

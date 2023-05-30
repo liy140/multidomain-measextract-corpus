@@ -1,0 +1,5 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0025322712001600-2230	1	1	Quantity			68	71	68	71	T1-1	two
+S0025322712001600-2230	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	72	84	72	84	T2-1	marine cores
+S0025322712001600-2230	2	2	Quantity	years		200	214	286	300	T1-2	last 200 years
+S0025322712001600-2230	2	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	179	192	265	278	T2-2	sedimentation

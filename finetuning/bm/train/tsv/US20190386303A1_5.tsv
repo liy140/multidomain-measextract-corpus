@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20190386303A1_5	1	1	MeasuredEntity			7	26	7	26	T3-1	carbonate precursor
+US20190386303A1_5	1	1	MeasuredProperty			60	74	60	74	T2-1	sodium content
+US20190386303A1_5	1	1	Quantity	wt %		75	102	75	102	T1-1	is between 0.1 and 0.7 wt %
+US20190386303A1_5	1	2	MeasuredEntity			7	26	7	26	T3-2	carbonate precursor
+US20190386303A1_5	1	2	MeasuredProperty			112	126	112	126	T2-2	sulfur content
+US20190386303A1_5	1	2	Quantity	wt %		127	154	127	154	T1-2	is between 0.2 and 0.9 wt %

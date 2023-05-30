@@ -1,0 +1,29 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jelectacta201209106	8	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	41	51	893	903	T2-1	maintained
+101016jelectacta201209106	8	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	4	15	856	867	T3-1	sealed tank
+101016jelectacta201209106	8	1	Quantity	degC	"{""unit"": ""degC""}"	55	63	907	915	T1-1	200 degC
+101016jelectacta201209106	8	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	41	51	893	903	T2-2	maintained
+101016jelectacta201209106	8	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	4	15	856	867	T3-2	sealed tank
+101016jelectacta201209106	8	2	Quantity	h	"{""unit"": ""h""}"	68	72	920	924	T1-2	10 h
+101016jelectacta201209106	9	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	140	145	1066	1071	T2-3	dried
+101016jelectacta201209106	9	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	95	106	1021	1032	T3-3	precipitate
+101016jelectacta201209106	9	3	Quantity	degC	"{""unit"": ""degC""}"	156	163	1082	1089	T1-3	60 degC
+101016jelectacta201209106	7	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	117	122	678	683	T2-4	added
+101016jelectacta201209106	7	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	42	51	603	612	T3-4	Na2S*9H2O
+101016jelectacta201209106	7	4	Quantity	mmol	"{""unit"": ""mmol""}"	34	41	595	602	T1-4	14 mmol
+101016jelectacta201209106	7	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	117	122	678	683	T2-5	added
+101016jelectacta201209106	7	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	61	71	622	632	T3-5	Li2SO4*H2O
+101016jelectacta201209106	7	5	Quantity	mmol	"{""unit"": ""mmol""}"	53	60	614	621	T1-5	40 mmol
+101016jelectacta201209106	7	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	117	122	678	683	T2-6	added
+101016jelectacta201209106	7	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	81	90	642	651	T3-6	MnSO4*H2O
+101016jelectacta201209106	7	6	Quantity	mmol	"{""unit"": ""mmol""}"	73	80	634	641	T1-6	20 mmol
+101016jelectacta201209106	7	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	117	122	678	683	T2-7	added
+101016jelectacta201209106	7	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	103	111	664	672	T3-7	NH4H2PO4
+101016jelectacta201209106	7	7	Quantity	mmol	"{""unit"": ""mmol""}"	95	102	656	663	T1-7	20 mmol
+101016jelectacta201209106	7	8	MeasuredEntity		"{""HasQuantity"": ""T1-8""}"	146	158	707	719	T3-8	Teflon liner
+101016jelectacta201209106	7	8	Quantity	mL	"{""unit"": ""mL""}"	140	145	701	706	T1-8	40 mL
+101016jelectacta201209106	7	9	MeasuredEntity		"{""HasQuantity"": ""T1-9""}"	170	185	731	746	T3-9	distilled water
+101016jelectacta201209106	7	9	Quantity	mL	"{""unit"": ""mL""}"	164	169	725	730	T1-9	30 mL
+101016jelectacta201209106	7	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	201	209	762	770	T2-10	stirring
+101016jelectacta201209106	7	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	34	185	595	746	T3-10	14 mmol Na2S*9H2O, 40 mmol Li2SO4*H2O, 20 mmol MnSO4*H2O and 20 mmol NH4H2PO4 were added in sequence in a 40 mL Teflon liner with 30 mL distilled water
+101016jelectacta201209106	7	10	Quantity	min	"{""unit"": ""min""}"	214	220	775	781	T1-10	30 min

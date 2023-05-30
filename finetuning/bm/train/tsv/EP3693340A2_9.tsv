@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+EP3693340A2_9	1	1	MeasuredEntity			38	92	38	92	T3-1	cobalt oxide particle and the manganese oxide particle
+EP3693340A2_9	1	1	MeasuredProperty			106	136	106	136	T2-1	average particle diameter (D50
+EP3693340A2_9	1	1	Quantity	nm		141	150	141	150	T1-1	10-500 nm

@@ -1,0 +1,4 @@
+{"text": "Further work that could be conducted, as a result of these findings, would be to firstly consider a stacking approach to classification through the combination of multiple techniques.", "sentId": 1, "start": 0, "end": 183}
+{"text": "Such an approach would allow a meta-learner to pick the best model to classify an observation.", "sentId": 2, "start": 184, "end": 278}
+{"text": "Secondly, another interesting extension to the research would be to apply these techniques on much larger data sets which display a wider variety of class distributions.", "sentId": 3, "start": 279, "end": 448}
+{"text": "It would also be of interest to look into the effect of not only the percentage class distribution but also the effect of the actual number of observations in a data set.\n", "sentId": 4, "start": 449, "end": 620}

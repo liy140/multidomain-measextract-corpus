@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20130168600A1_27	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	36	58	36	58	T3-1	the precursor material
+US20130168600A1_27	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	65	76	65	76	T2-1	tap density
+US20130168600A1_27	1	1	Quantity			77	108	77	108	T1-1	in the range from 1.8-2.3 g/cm3

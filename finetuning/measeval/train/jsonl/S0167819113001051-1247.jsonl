@@ -1,0 +1,3 @@
+{"text": "Although each node has 18 cores, the intended use does not require any specific number of cores, merely (any) one to provide node control and some others to run the application.", "sentId": 1, "start": 0, "end": 177}
+{"text": "Indeed for cost purposes it is intended to use some flawed devices; yield estimates suggest that this may improve the usability of manufactured dice from 50% to around 80%.", "sentId": 2, "start": 178, "end": 350}
+{"text": "Based on the area use of the die the majority of flaws may be expected to be in local memories; these may leave a core degraded but still usable although the simplest action is still to shut it down.", "sentId": 3, "start": 351, "end": 550}

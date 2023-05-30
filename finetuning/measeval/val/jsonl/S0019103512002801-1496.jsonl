@@ -1,0 +1,5 @@
+{"text": "Certain channels of LEMMS can accumulate counts with sixteen times higher temporal resolution than the typical rate channel time resolution (∼5.7 s).", "sentId": 1, "start": 0, "end": 149}
+{"text": "These are called priority channels.", "sentId": 2, "start": 150, "end": 185}
+{"text": "The available priority channels for each flyby are given in Table 1.", "sentId": 3, "start": 186, "end": 254}
+{"text": "We will distinguish rate and priority channels using the suffix “_PRIO” for the latter (e.g. C1_PRIO).", "sentId": 4, "start": 255, "end": 357}
+{"text": "Priority channels are especially useful for the identification of short duration structures, such as the small scale flux dropouts near Rhea (Jones et al., 2008).", "sentId": 5, "start": 358, "end": 520}

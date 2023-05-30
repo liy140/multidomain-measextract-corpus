@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+EP3007254A1_1	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	226	246	226	246	T3-1	a nucleation process
+EP3007254A1_1	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	434	436	434	436	T2-1	pH
+EP3007254A1_1	1	1	Quantity			492	504	492	504	T1-1	12.0 to 14.0
+EP3007254A1_1	1	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	510	535	510	535	T3-2	a particle growth process
+EP3007254A1_1	1	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	700	702	700	702	T2-2	pH
+EP3007254A1_1	1	2	Quantity			755	767	755	767	T1-2	10.5 to 12.0

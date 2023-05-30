@@ -1,0 +1,16 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0927775713009606-1074	6	1	Quantity	nm		89	96	849	856	T1-1	> 10 nm
+S0927775713009606-1074	6	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	74	88	834	848	T3-1	pore diameters
+S0927775713009606-1074	6	1	MeasuredEntity		{'HasProperty': 'T3-1'}	38	54	798	814	T4-1	mesopore domains
+S0927775713009606-1074	6	2	Quantity	cm3 g−1		104	117	864	877	T1-2	> 0.5 cm3 g−1
+S0927775713009606-1074	6	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	98	103	858	863	T3-2	Vmeso
+S0927775713009606-1074	6	2	MeasuredEntity		{'HasProperty': 'T3-2'}	38	54	798	814	T4-2	mesopore domains
+S0927775713009606-1074	6	3	Quantity	m2 g−1		143	155	903	915	T1-3	> 170 m2 g−1
+S0927775713009606-1074	6	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	138	142	898	902	T3-3	SBET
+S0927775713009606-1074	6	3	MeasuredEntity		{'HasProperty': 'T3-3'}	38	54	798	814	T4-3	mesopore domains
+S0927775713009606-1074	7	4	Quantity	nm		60	73	1033	1046	T1-4	5–40 nm range
+S0927775713009606-1074	7	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	39	52	1012	1025	T4-4	characterised
+S0927775713009606-1074	7	4	MeasuredEntity		{'HasProperty': 'T4-4'}	4	33	977	1006	T3-4	synthesised CdS nanoparticles
+S0927775713009606-1074	8	5	Quantity	w/w		87	94	1201	1208	T1-5	1 (w/w)
+S0927775713009606-1074	8	5	MeasuredProperty		{'HasQuantity': 'T1-5'}	79	84	1193	1198	T3-5	ratio
+S0927775713009606-1074	8	5	MeasuredEntity		{'HasProperty': 'T3-5'}	68	78	1182	1192	T2-5	CdS/starch

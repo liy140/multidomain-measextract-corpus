@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0016236113008041-3112	6	1	Quantity	%		71	74	766	769	T11-1	10%
+S0016236113008041-3112	6	1	MeasuredProperty		{'HasQuantity': 'T11-1'}	75	79	770	774	T21-1	HNO3
+S0016236113008041-3112	6	1	MeasuredEntity		{'HasProperty': 'T21-1'}	56	60	751	755	T31-1	acid

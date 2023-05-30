@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0921818113002245-1752	2	1	Quantity	mm		135	153	249	267	T1-1	approximately 1 mm
+S0921818113002245-1752	2	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	154	159	268	273	T4-1	thick
+S0921818113002245-1752	2	1	MeasuredEntity		{'HasProperty': 'T4-1'}	99	133	213	247	T3-1	distinct layer of clastic sediment
+S0921818113002245-1752	2	2	Quantity	m		207	214	321	328	T1-2	5.16 m.
+S0921818113002245-1752	2	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	198	203	312	317	T2-2	depth
+S0921818113002245-1752	2	2	MeasuredEntity		{'HasProperty': 'T2-2'}	99	133	213	247	T5-2	distinct layer of clastic sediment

@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20160164090A1_1	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	340	377	340	377	T3-1	aqueous solution of the raw materials
+US20160164090A1_1	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	331	333	331	333	T2-1	pH
+US20160164090A1_1	1	1	Quantity			396	404	396	404	T1-1	10 to 12

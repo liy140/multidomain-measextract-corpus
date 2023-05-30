@@ -1,0 +1,30 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jelectacta201408103	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	238	247	238	247	T2-1	dispersed
+101016jelectacta201408103	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	188	204	188	204	T3-1	Si nanoparticles
+101016jelectacta201408103	1	1	Quantity	g	"{""unit"": ""g""}"	206	225	206	225	T1-1	0.2, 0.6, and 0.8 g
+101016jelectacta201408103	1	2	MeasuredEntity		"{""HasQuantity"": ""T1-2""}"	261	263	261	263	T3-2	OA
+101016jelectacta201408103	1	2	Quantity	mL	"{""unit"": ""mL""}"	251	257	251	257	T1-2	700 mL
+101016jelectacta201408103	1	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	315	324	315	324	T2-3	sonicated
+101016jelectacta201408103	1	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	273	310	273	310	T3-3	Si nanoparticles-dispersed suspension
+101016jelectacta201408103	1	3	Quantity	h	"{""unit"": ""h""}"	329	332	329	332	T1-3	1 h
+101016jelectacta201408103	2	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	86	102	420	436	T2-4	feeding distance
+101016jelectacta201408103	2	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	10	35	344	369	T3-4	electrical wire explosion
+101016jelectacta201408103	2	4	Quantity	mm	"{""unit"": ""mm""}"	106	111	440	445	T1-4	40 mm
+101016jelectacta201408103	2	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	118	132	452	466	T2-5	charge voltage
+101016jelectacta201408103	2	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	10	35	344	369	T3-5	electrical wire explosion
+101016jelectacta201408103	2	5	Quantity	V	"{""unit"": ""V""}"	136	141	470	475	T1-5	320 V
+101016jelectacta201408103	3	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	229	234	751	756	T2-6	dried
+101016jelectacta201408103	3	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	75	114	597	636	T3-6	brownish Ni-Si nanocolloidal suspension
+101016jelectacta201408103	3	6	Quantity	degC	"{""unit"": ""degC""}"	238	246	760	768	T1-6	120 degC
+101016jelectacta201408103	3	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	229	234	751	756	T2-7	dried
+101016jelectacta201408103	3	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	75	114	597	636	T3-7	brownish Ni-Si nanocolloidal suspension
+101016jelectacta201408103	3	7	Quantity	h	"{""unit"": ""h""}"	251	255	773	777	T1-7	10 h
+101016jelectacta201408103	3	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	187	196	709	718	T2-8	Millipore
+101016jelectacta201408103	3	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	152	176	674	698	T3-8	nylon membrane (Durapore
+101016jelectacta201408103	3	8	Quantity	mm	"{""unit"": ""mm""}"	178	185	700	707	T1-8	0.22 mm
+101016jelectacta201408103	4	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	66	104	845	883	T2-9	carbonization process (heat-treatment)
+101016jelectacta201408103	4	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	13	47	792	826	T3-9	carbon-coated Ni-Si nanocomposites
+101016jelectacta201408103	4	9	Quantity	degC	"{""unit"": ""degC""}"	120	128	899	907	T1-9	500 degC
+101016jelectacta201408103	4	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	66	104	845	883	T2-10	carbonization process (heat-treatment)
+101016jelectacta201408103	4	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	13	47	792	826	T3-10	carbon-coated Ni-Si nanocomposites
+101016jelectacta201408103	4	10	Quantity	h	"{""unit"": ""h""}"	133	136	912	915	T1-10	5 h

@@ -1,0 +1,6 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S2211124713006475-1195	3	1	Quantity	days		0	8	429	437	T1-1	Two days
+S2211124713006475-1195	3	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	71	80	500	509	T5-1	dispersed
+S2211124713006475-1195	3	1	MeasuredEntity		{'HasProperty': 'T5-1'}	39	59	468	488	T4-1	surviving GFP+ cells
+S2211124713006475-1195	6	2	Quantity	days		28	34	812	818	T1-2	2 days
+S2211124713006475-1195	6	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	4	27	788	811	T4-2	in vivo fiber outgrowth

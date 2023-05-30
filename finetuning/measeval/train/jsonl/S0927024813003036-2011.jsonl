@@ -1,0 +1,13 @@
+{"text": "Minority carrier lifetime was measured using transient or quasi-steady-state photoconductance [38] methods, with a Sinton WCT-120 lifetime tester.", "sentId": 1, "start": 0, "end": 146}
+{"text": "The injection level range studied varied with the lifetime of the sample, but was usually in the range 1013 cm−3 to 1016 cm−3.", "sentId": 2, "start": 147, "end": 273}
+{"text": "It is our aim to determine the absolute lifetime associated with oxygen precipitation, so care was taken to prevent or factor out well-understood recombination processes.", "sentId": 3, "start": 274, "end": 444}
+{"text": "Boron–oxygen defects were eliminated by storing the samples in the dark after passivation, or by performing a 10 min pre-anneal at 200 °C [39] prior to lifetime measurement.", "sentId": 4, "start": 445, "end": 618}
+{"text": "The samples were subjected to ∼50 close-up flashes from the lifetime tester to dissociate FeB pairs [40], after which an initial lifetime measurement was made immediately.", "sentId": 5, "start": 619, "end": 790}
+{"text": "It is noted that the aggregated illumination time of the flashes of light used to dissociate the iron–boron pairs is very short (<20  ms), so any effect on the formation of boron–oxygen defects is kept to a minimum [39].", "sentId": 6, "start": 791, "end": 1011}
+{"text": "A second lifetime measurement was made more than 24 h later, which was sufficient time to reassociate the FeB pairs [19,34,41].", "sentId": 7, "start": 1012, "end": 1139}
+{"text": "The two lifetime measurements are then analysed to give the concentration of iron that exists in FeB pairs using an established method [30,40,42].", "sentId": 8, "start": 1140, "end": 1286}
+{"text": "This concentration is henceforth referred to as the bulk iron concentration, and excludes iron present in other forms such as iron silicide precipitates, or iron bound to, or precipitated at, oxide precipitates and any surrounding defects.", "sentId": 9, "start": 1287, "end": 1526}
+{"text": "The specific analysis approach used is described in a previous publication [19].", "sentId": 10, "start": 1527, "end": 1607}
+{"text": "The essential feature is that SRH statistics (Eq. (1)) are used with the recombination parameters of Rein and Glunz [30] to determine the bulk iron concentration required to account for a lifetime change at a given injection level.", "sentId": 11, "start": 1608, "end": 1839}
+{"text": "For the results presented in this paper, the injection level used was 0.2p0.", "sentId": 12, "start": 1840, "end": 1916}
+{"text": "The bulk iron concentrations in the “uncontaminated” samples were always ≤1.5×1012 cm−3.", "sentId": 13, "start": 1917, "end": 2005}

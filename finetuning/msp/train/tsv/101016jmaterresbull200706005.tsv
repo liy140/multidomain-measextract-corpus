@@ -1,0 +1,25 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jmaterresbull200706005	5	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	6	13	835	842	T2-1	heating
+101016jmaterresbull200706005	5	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	63	72	892	901	T3-1	La and Mo
+101016jmaterresbull200706005	5	1	Quantity	degC	"{""unit"": ""degC""}"	17	25	846	854	T1-1	~80 degC
+101016jmaterresbull200706005	4	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	52	57	779	784	T2-2	added
+101016jmaterresbull200706005	4	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	29	38	756	765	T3-2	(NH4)S2O8
+101016jmaterresbull200706005	4	2	Quantity	%	"{""unit"": ""%""}"	26	28	753	755	T1-2	5%
+101016jmaterresbull200706005	6	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	43	48	956	961	T2-3	dried
+101016jmaterresbull200706005	6	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	24	37	937	950	T3-3	polyacrylates
+101016jmaterresbull200706005	6	3	Quantity	degC	"{""unit"": ""degC""}"	52	60	965	973	T1-3	120 degC
+101016jmaterresbull200706005	6	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	43	48	956	961	T2-4	dried
+101016jmaterresbull200706005	6	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	24	37	937	950	T3-4	polyacrylates
+101016jmaterresbull200706005	6	4	Quantity	h	"{""unit"": ""h""}"	65	70	978	983	T1-4	1-2 h
+101016jmaterresbull200706005	3	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	207	223	674	690	T2-5	acrylic acid:H2O
+101016jmaterresbull200706005	3	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	184	205	651	672	T3-5	acrylic acid solution
+101016jmaterresbull200706005	3	5	Quantity	wt%	"{""unit"": ""wt%""}"	225	234	692	701	T1-5	70:30 wt%
+101016jmaterresbull200706005	7	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	42	48	1027	1033	T2-6	heated
+101016jmaterresbull200706005	7	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	4	29	989	1014	T3-6	dried polymeric precursor
+101016jmaterresbull200706005	7	6	Quantity	degC	"{""unit"": ""degC""}"	52	60	1037	1045	T1-6	520 degC
+101016jmaterresbull200706005	7	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	42	48	1027	1033	T2-7	heated
+101016jmaterresbull200706005	7	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	4	29	989	1014	T3-7	dried polymeric precursor
+101016jmaterresbull200706005	7	7	Quantity	h	"{""unit"": ""h""}"	65	68	1050	1053	T1-7	5 h
+101016jmaterresbull200706005	7	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	83	95	1068	1080	T2-8	heating rate
+101016jmaterresbull200706005	7	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	4	29	989	1014	T3-8	dried polymeric precursor
+101016jmaterresbull200706005	7	8	Quantity	degC/min	"{""unit"": ""degC/min""}"	99	109	1084	1094	T1-8	5 degC/min

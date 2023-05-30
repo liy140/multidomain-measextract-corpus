@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0022000014000026-17824	1	1	Quantity	μs		103	107	103	107	T11-1	1 μs
+S0022000014000026-17824	1	1	MeasuredProperty		{'HasQuantity': 'T11-1'}	97	101	97	101	T21-1	skew
+S0022000014000026-17824	1	1	MeasuredEntity		{'HasProperty': 'T21-1'}	66	72	66	72	T31-1	pulses

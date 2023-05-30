@@ -1,0 +1,49 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101038srep14146	10	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	14	29	1039	1054	T2-1	MnO2 NWs powder
+101038srep14146	10	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	116	132	1141	1157	T3-1	PAN/DMF solution
+101038srep14146	10	1	Quantity	wt%	"{""unit"": ""wt%""}"	110	115	1135	1140	T1-1	8 wt%
+101038srep14146	10	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	34	40	1059	1065	T2-2	washed
+101038srep14146	10	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	5	29	1030	1054	T3-2	obtained MnO2 NWs powder
+101038srep14146	10	2	Quantity	times	"{""unit"": ""times""}"	41	52	1066	1077	T1-2	three times
+101038srep14146	6	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	99	129	663	693	T2-3	mixed with vigorously stirring
+101038srep14146	6	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	53	58	617	622	T3-3	KMnO4
+101038srep14146	6	3	Quantity	mmol	"{""unit"": ""mmol""}"	61	69	625	633	T1-3	1.5 mmol
+101038srep14146	6	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	99	129	663	693	T2-4	mixed with vigorously stirring
+101038srep14146	6	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	30	39	594	603	T3-4	MnSO4*H2O
+101038srep14146	6	4	Quantity	mmol	"{""unit"": ""mmol""}"	41	47	605	611	T1-4	1 mmol
+101038srep14146	6	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	99	129	663	693	T2-5	mixed with vigorously stirring
+101038srep14146	6	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	72	86	636	650	T3-5	Mn(II)/Mn(VII)
+101038srep14146	6	5	Quantity			89	92	653	656	T1-5	3:2
+101038srep14146	1	6	MeasuredEntity		"{""HasQuantity"": ""T1-6""}"	126	148	126	148	T3-6	Polyacrylonitrile (PAN
+101038srep14146	1	6	Quantity	Mw	"{""unit"": ""Mw""}"	150	160	150	160	T1-6	Mw = 80000
+101038srep14146	7	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	4	12	699	707	T2-7	PH value
+101038srep14146	7	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	20	27	715	722	T3-7	mixture
+101038srep14146	7	7	Quantity			41	43	736	738	T1-7	~2
+101038srep14146	7	8	MeasuredEntity		"{""HasQuantity"": ""T1-8""}"	53	75	748	770	T3-8	H2SO4 aqueous solution
+101038srep14146	7	8	Quantity	M	"{""unit"": ""M""}"	49	52	744	747	T1-8	5 M
+101038srep14146	12	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	30	41	1316	1327	T2-9	electrospun
+101038srep14146	12	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	9	25	1295	1311	T3-9	blended solution
+101038srep14146	12	9	Quantity	μL min-1	"{""unit"": ""\u03bcL min-1""}"	96	107	1382	1393	T1-9	25 μL min-1
+101038srep14146	12	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	30	41	1316	1327	T2-10	electrospun
+101038srep14146	12	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	9	25	1295	1311	T3-10	blended solution
+101038srep14146	12	10	Quantity	kV	"{""unit"": ""kV""}"	134	139	1420	1425	T1-10	20 kV
+101038srep14146	12	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	147	155	1433	1441	T2-11	distance
+101038srep14146	12	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	177	214	1463	1500	T3-11	electrospinning jet and the collector
+101038srep14146	12	11	Quantity	cm	"{""unit"": ""cm""}"	159	164	1445	1450	T1-11	20 cm
+101038srep14146	8	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	54	61	826	833	T2-12	reacted
+101038srep14146	8	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	9	17	781	789	T3-12	solution
+101038srep14146	8	12	Quantity	degC	"{""unit"": ""degC""}"	73	81	845	853	T1-12	140 degC
+101038srep14146	8	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	54	61	826	833	T2-13	reacted
+101038srep14146	8	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	9	17	781	789	T3-13	solution
+101038srep14146	8	13	Quantity	h	"{""unit"": ""h""}"	86	90	858	862	T1-13	12 h
+101038srep14146	11	14	MeasuredEntity		"{""HasQuantity"": ""T1-14""}"	0	18	1190	1208	T3-14	Intensive stirring
+101038srep14146	11	14	Quantity	h	"{""unit"": ""h""}"	37	41	1227	1231	T1-14	12 h
+101038srep14146	13	15	MeasuredProperty		"{""HasQuantity"": ""T1-15""}"	4	18	1506	1520	T2-15	adding amounts
+101038srep14146	13	15	MeasuredEntity		"{""HasProperty"": ""T2-15""}"	79	84	1581	1586	T3-15	MnP-1
+101038srep14146	13	15	Quantity	wt%	"{""unit"": ""wt%""}"	49	55	1551	1557	T1-15	10 wt%
+101038srep14146	13	16	MeasuredProperty		"{""HasQuantity"": ""T1-16""}"	4	18	1506	1520	T2-16	adding amounts
+101038srep14146	13	16	MeasuredEntity		"{""HasProperty"": ""T2-16""}"	86	91	1588	1593	T3-16	MnP-2
+101038srep14146	13	16	Quantity	wt%	"{""unit"": ""wt%""}"	57	63	1559	1565	T1-16	20 wt%
+101038srep14146	13	17	MeasuredProperty		"{""HasQuantity"": ""T1-17""}"	4	18	1506	1520	T2-17	adding amounts
+101038srep14146	13	17	MeasuredEntity		"{""HasProperty"": ""T2-17""}"	96	101	1598	1603	T3-17	MnP-3
+101038srep14146	13	17	Quantity	wt%	"{""unit"": ""wt%""}"	68	74	1570	1576	T1-17	30 wt%

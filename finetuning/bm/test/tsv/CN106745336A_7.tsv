@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN106745336A_7	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	132	151	132	151	T3-1	base liquid ammonia
+CN106745336A_7	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	157	170	157	170	T2-1	concentration
+CN106745336A_7	1	1	Quantity	g/l	"{""unit"": ""g/l""}"	174	184	174	184	T1-1	12 - 14g/l
+CN106745336A_7	1	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	290	297	290	297	T3-2	ammonia
+CN106745336A_7	1	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	298	311	298	311	T2-2	concentration
+CN106745336A_7	1	2	Quantity	g/l	"{""unit"": ""g/l""}"	279	289	279	289	T1-2	12 - 14g/l

@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0032386113005454-2008	1	1	Quantity	°C		69	82	69	82	T1-1	about −100 °C
+S0032386113005454-2008	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	33	42	33	42	T4-1	toughened
+S0032386113005454-2008	1	1	MeasuredEntity		{'HasProperty': 'T4-1'}	4	13	4	13	T3-1	particles

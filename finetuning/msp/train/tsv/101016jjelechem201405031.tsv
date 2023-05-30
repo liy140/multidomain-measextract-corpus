@@ -1,0 +1,39 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jjelechem201405031	7	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	35	41	593	599	T2-1	coated
+101016jjelechem201405031	7	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	10	16	568	574	T3-1	sample
+101016jjelechem201405031	7	1	Quantity	degC	"{""unit"": ""degC""}"	54	62	612	620	T1-1	650 degC
+101016jjelechem201405031	7	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	35	41	593	599	T2-2	coated
+101016jjelechem201405031	7	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	10	16	568	574	T3-2	sample
+101016jjelechem201405031	7	2	Quantity	min	"{""unit"": ""min""}"	67	73	625	631	T1-2	30 min
+101016jjelechem201405031	9	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	64	90	842	868	T2-3	acted as the carbon source
+101016jjelechem201405031	9	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	54	59	832	837	T3-3	pitch
+101016jjelechem201405031	9	3	Quantity	g	"{""unit"": ""g""}"	49	53	827	831	T1-3	10 g
+101016jjelechem201405031	4	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	35	43	297	305	T2-4	vacuumed
+101016jjelechem201405031	4	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	0	9	262	271	T3-4	Si powder
+101016jjelechem201405031	4	4	Quantity	h	"{""unit"": ""h""}"	48	51	310	313	T1-4	1 h
+101016jjelechem201405031	5	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	51	56	366	371	T2-5	added
+101016jjelechem201405031	5	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	30	37	345	352	T3-5	glucose
+101016jjelechem201405031	5	5	Quantity	mL	"{""unit"": ""mL""}"	12	18	327	333	T1-5	100 mL
+101016jjelechem201405031	5	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	51	56	366	371	T2-6	added
+101016jjelechem201405031	5	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	30	37	345	352	T3-6	glucose
+101016jjelechem201405031	5	6	Quantity	g L-1	"{""unit"": ""g L-1""}"	20	29	335	344	T1-6	500 g L-1
+101016jjelechem201405031	5	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	77	86	392	401	T2-7	pyrolyzed
+101016jjelechem201405031	5	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	65	72	380	387	T3-7	mixture
+101016jjelechem201405031	5	7	Quantity	degC	"{""unit"": ""degC""}"	90	98	405	413	T1-7	650 degC
+101016jjelechem201405031	5	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	77	86	392	401	T2-8	pyrolyzed
+101016jjelechem201405031	5	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	65	72	380	387	T3-8	mixture
+101016jjelechem201405031	5	8	Quantity	h	"{""unit"": ""h""}"	103	106	418	421	T1-8	5 h
+101016jjelechem201405031	10	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	27	36	913	922	T2-9	pyrolyzed
+101016jjelechem201405031	10	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	16	22	902	908	T3-9	sample
+101016jjelechem201405031	10	9	Quantity	degC	"{""unit"": ""degC""}"	40	48	926	934	T1-9	800 degC
+101016jjelechem201405031	10	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	27	36	913	922	T2-10	pyrolyzed
+101016jjelechem201405031	10	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	16	22	902	908	T3-10	sample
+101016jjelechem201405031	10	10	Quantity	h	"{""unit"": ""h""}"	53	56	939	942	T1-10	5 h
+101016jjelechem201405031	8	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	59	67	760	768	T2-11	vacuumed
+101016jjelechem201405031	8	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	4	24	705	725	T3-11	as-prepared Si@C@CNT
+101016jjelechem201405031	8	11	Quantity	h	"{""unit"": ""h""}"	72	75	773	776	T1-11	1 h
+101016jjelechem201405031	6	12	MeasuredEntity		"{""HasQuantity"": ""T1-12""}"	82	99	528	545	T3-12	Co(NO3)2 solution
+101016jjelechem201405031	6	12	Quantity	mol L-1	"{""unit"": ""mol L-1""}"	70	81	516	527	T1-12	0.5 mol L-1
+101016jjelechem201405031	6	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	60	66	506	512	T2-13	soaked
+101016jjelechem201405031	6	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	41	55	487	501	T3-13	Si@C composite
+101016jjelechem201405031	6	13	Quantity	min	"{""unit"": ""min""}"	104	110	550	556	T1-13	10 min

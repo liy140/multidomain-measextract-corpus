@@ -1,0 +1,13 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0927024813001955-679	1	1	Quantity	nm		12	19	12	19	T1-1	<200 nm
+S0927024813001955-679	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	2	6	2	6	T4-1	thin
+S0927024813001955-679	1	1	MeasuredEntity		{'HasProperty': 'T4-1'}	21	25	21	25	T2-1	film
+S0927024813001955-679	2	2	Quantity	cm2/Vs		68	82	323	337	T1-2	3.4+0.1 cm2/Vs
+S0927024813001955-679	2	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	47	64	302	319	T3-2	electron mobility
+S0927024813001955-679	2	2	MeasuredEntity		{'HasProperty': 'T3-2'}	6	21	261	276	T2-2	AALD ZnO layers
+S0927024813001955-679	2	3	Quantity	%		88	98	343	353	T1-3	up to 100%
+S0927024813001955-679	2	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	99	129	354	384	T3-3	transmittance to visible light
+S0927024813001955-679	2	3	MeasuredEntity		{'HasProperty': 'T3-3'}	6	21	261	276	T4-3	AALD ZnO layers
+S0927024813001955-679	4	4	Quantity	days		36	50	637	651	T1-4	after 200 days
+S0927024813001955-679	4	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	25	35	626	636	T4-4	maintained
+S0927024813001955-679	4	4	MeasuredEntity		{'HasProperty': 'T4-4'}	4	15	605	616	T2-4	performance

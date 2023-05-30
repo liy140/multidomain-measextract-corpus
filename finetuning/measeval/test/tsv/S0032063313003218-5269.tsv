@@ -1,0 +1,22 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0032063313003218-5269	1	1	Quantity			115	143	115	143	T1-1	from September 8 to 11, 1998
+S0032063313003218-5269	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	29	42	29	42	T3-1	infrared data
+S0032063313003218-5269	1	1	MeasuredEntity		{'HasProperty': 'T3-1'}	51	72	51	72	T2-1	auroral heating event
+S0032063313003218-5269	1	2	Quantity	K		255	265	255	265	T1-2	940–1065 K
+S0032063313003218-5269	1	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	242	253	242	253	T3-2	temperature
+S0032063313003218-5269	1	2	MeasuredEntity		{'HasProperty': 'T3-2'}	230	241	230	241	T2-2	ionospheric
+S0032063313003218-5269	1	3	MeasuredEntity		{'HasProperty': 'T3-3'}	51	72	51	72	T2-3	auroral heating event
+S0032063313003218-5269	1	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	29	42	29	42	T2-4	infrared data
+S0032063313003218-5269	1	4	MeasuredEntity		{'HasProperty': 'T2-4'}	51	72	51	72	T4-4	auroral heating event
+S0032063313003218-5269	1	5	MeasuredEntity		{'HasProperty': 'T4-5'}	51	72	51	72	T6-5	auroral heating event
+S0032063313003218-5269	1	6	MeasuredProperty		{'HasQuantity': 'T1-6'}	29	42	29	42	T4-6	infrared data
+S0032063313003218-5269	1	6	MeasuredEntity		{'HasProperty': 'T4-6'}	51	72	51	72	T2-6	auroral heating event
+S0032063313003218-5269	2	3	Quantity	mW m−2		73	82	341	350	T1-3	67 mW m−2
+S0032063313003218-5269	2	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	25	57	293	325	T3-3	ion drag and Joule heating rates
+S0032063313003218-5269	2	4	Quantity			84	98	352	366	T1-4	on September 8
+S0032063313003218-5269	2	5	Quantity	mW m−2		103	113	371	381	T1-5	277 mW m−2
+S0032063313003218-5269	2	5	MeasuredProperty		{'HasQuantity': 'T1-5'}	25	57	293	325	T4-5	ion drag and Joule heating rates
+S0032063313003218-5269	2	6	Quantity			118	131	386	399	T1-6	September 11)
+S0032063313003218-5269	3	7	Quantity	%		93	97	680	684	T1-7	~20%
+S0032063313003218-5269	3	7	MeasuredProperty		{'HasQuantity': 'T1-7'}	0	13	587	600	T3-7	Cooling rates
+S0032063313003218-5269	3	7	MeasuredEntity		{'HasProperty': 'T3-7'}	105	132	692	719	T2-7	total inferred heating rate

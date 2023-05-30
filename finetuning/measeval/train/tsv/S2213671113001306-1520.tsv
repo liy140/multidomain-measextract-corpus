@@ -1,0 +1,16 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S2213671113001306-1520	2	1	Quantity	degrees		98	108	305	315	T1-1	30-degrees
+S2213671113001306-1520	2	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	112	132	319	339	T4-1	visual-field setting
+S2213671113001306-1520	2	1	MeasuredEntity		{'HasProperty': 'T4-1'}	140	150	347	357	T5-1	Spectralis
+S2213671113001306-1520	3	2	Quantity	μm		32	37	391	396	T1-2	60 μm
+S2213671113001306-1520	3	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	38	54	397	413	T5-2	distance between
+S2213671113001306-1520	3	2	MeasuredEntity		{'HasProperty': 'T5-2'}	60	64	419	423	T3-2	scan
+S2213671113001306-1520	3	3	Quantity	degrees		88	103	447	462	T1-3	20 × 20 degrees
+S2213671113001306-1520	3	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	107	119	466	478	T2-3	visual field
+S2213671113001306-1520	3	3	MeasuredEntity		{'HasProperty': 'T2-3'}	74	80	433	439	T3-3	device
+S2213671113001306-1520	4	4	Quantity	mm		122	128	626	632	T1-4	4.2 mm
+S2213671113001306-1520	4	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	72	98	576	602	T4-4	corneal curvature settings
+S2213671113001306-1520	4	4	MeasuredEntity		{'HasProperty': 'T4-4'}	60	71	564	575	T2-4	Spectralis’
+S2213671113001306-1520	5	5	Quantity			48	58	682	692	T1-5	30 degrees
+S2213671113001306-1520	5	5	MeasuredProperty		{'HasQuantity': 'T1-5'}	62	74	696	708	T3-5	visual field
+S2213671113001306-1520	5	5	MeasuredEntity		{'HasProperty': 'T3-5'}	98	104	732	738	T2-5	device

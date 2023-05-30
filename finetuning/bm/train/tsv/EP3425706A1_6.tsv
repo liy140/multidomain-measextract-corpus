@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+EP3425706A1_6	1	1	MeasuredEntity			392	417	392	417	T3-1	co-precipitation reacting
+EP3425706A1_6	1	1	MeasuredProperty			437	439	437	439	T2-1	pH
+EP3425706A1_6	1	1	Quantity			443	457	443	457	T1-1	10.50 to 12.00
+EP3425706A1_6	1	2	MeasuredEntity			392	417	392	417	T3-2	co-precipitation reacting
+EP3425706A1_6	1	2	MeasuredProperty			464	475	464	475	T2-2	temperature
+EP3425706A1_6	1	2	Quantity	°C		479	491	479	491	T1-2	50°C to 70°C

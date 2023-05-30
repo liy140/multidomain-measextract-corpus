@@ -1,0 +1,6 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0012821X12004384-1594	1	1	Quantity	m		156	168	156	168	T11-1	above 2618 m
+S0012821X12004384-1594	1	1	MeasuredEntity		{'HasQuantity': 'T11-1'}	180	189	180	189	T21-1	CIE onset
+S0012821X12004384-1594	2	2	Quantity	°N		110	114	310	314	T62-2	40°N
+S0012821X12004384-1594	2	2	MeasuredProperty		{'HasQuantity': 'T62-2'}	83	100	283	300	T42-2	southern boundary
+S0012821X12004384-1594	2	2	MeasuredEntity		{'HasProperty': 'T42-2'}	59	77	259	277	T52-2	northern rain belt

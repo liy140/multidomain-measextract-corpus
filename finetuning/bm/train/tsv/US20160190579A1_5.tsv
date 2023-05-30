@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20160190579A1_5	1	1	MeasuredEntity			231	263	231	263	T3-1	transition-metal composite oxide
+US20160190579A1_5	1	1	MeasuredProperty			198	223	198	223	T2-1	average particle diameter
+US20160190579A1_5	1	1	Quantity	μm		294	304	294	304	T1-1	5 to 10 μm

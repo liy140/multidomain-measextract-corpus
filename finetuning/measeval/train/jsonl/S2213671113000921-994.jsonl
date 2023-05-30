@@ -1,0 +1,16 @@
+{"text": "Using a recombinant adeno-associated viral (rAAV)-based gene-targeting method, we inserted the gene-encoding GFP into the SOX2 locus in H9 hESCs (Figure 1A).", "sentId": 1, "start": 0, "end": 157}
+{"text": "Proper homologous recombination led to the replacement of the SOX2 open reading frame with that of GFP and a neomycin selection cassette (SV40-Neo).", "sentId": 2, "start": 158, "end": 306}
+{"text": "After infection with rAAV and G418 drug selection, a total of 36 clones were expanded and screened by Southern blotting for homologous recombination events.", "sentId": 3, "start": 307, "end": 463}
+{"text": "Among these clones, 26 (72%) were found to carry the GFP-Neo cassette in the SOX2 locus (Figure S1A available online).", "sentId": 4, "start": 464, "end": 582}
+{"text": "No clones in which both SOX2 alleles were disrupted were isolated.", "sentId": 5, "start": 583, "end": 649}
+{"text": "Our subsequent analysis focused on one of these clones, clone 23 (hSOX2-23).", "sentId": 6, "start": 650, "end": 726}
+{"text": "We confirmed appropriate gene targeting in this clone using multiple restriction digests followed by Southern blotting (Figures 1B, S1B, and S1C).", "sentId": 7, "start": 727, "end": 873}
+{"text": "We did not observe nontargeted insertions of the rAAV sequences, and cells exhibited a normal karyotype (data not shown).", "sentId": 8, "start": 874, "end": 995}
+{"text": "Flow cytometry of hSOX2-23 revealed that the majority of the cells expressed GFP (Figure 1C).", "sentId": 9, "start": 996, "end": 1089}
+{"text": "By comparison, a drug-selected clone, hSOX2-25, which was negative for targeted insertion (Figure S1A), showed no detectable GFP (Figure S2A).", "sentId": 10, "start": 1090, "end": 1232}
+{"text": "Despite only having one copy of SOX2, hSOX2-23 had similar levels of SOX2, OCT4, and NANOG expression as hSOX2-25 and wild-type (WT) hESCs (Figure S2B).", "sentId": 11, "start": 1233, "end": 1385}
+{"text": "Moreover, the percentage of GFP-positive (GFP+) cells in hSOX2-23 was constant over more than 20 passages.", "sentId": 12, "start": 1386, "end": 1492}
+{"text": "Immunofluorescence (IF) staining of hSOX2-23 showed that 100% of GFP+ cells expressed SOX2 protein (Figure S2C).", "sentId": 13, "start": 1493, "end": 1605}
+{"text": "Additionally, hSOX2-23 colonies had characteristic hESC morphology (Figure S2D) and expressed markers of the undifferentiated state, such as NANOG (Figure S2E).", "sentId": 14, "start": 1606, "end": 1766}
+{"text": "These results show that this rAAV-based gene-targeting method can be used to efficiently disrupt genes by homologous recombination.", "sentId": 15, "start": 1767, "end": 1898}
+{"text": "In addition, the SOX2-GFP hESC marker line can be used to monitor SOX2 expression in undifferentiated hESCs.", "sentId": 16, "start": 1899, "end": 2007}

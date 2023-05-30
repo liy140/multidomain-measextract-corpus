@@ -1,0 +1,5 @@
+{"text": "Several methods, such as adding a DC-side inductor or using an active rectifier, can be used to reduce the harmonic content of the armature currents and thereby reducing the armature resistive loss.", "sentId": 1, "start": 0, "end": 198}
+{"text": "An active rectifier can draw currents with low harmonic content at unity power factor thus minimising the resistive loss for a given voltage and power level.", "sentId": 2, "start": 199, "end": 356}
+{"text": "At unity power factor, the armature current is proportional to the phase emf; it then follows from Eqs.", "sentId": 3, "start": 357, "end": 460}
+{"text": "(18), (19), (24) and (27) that the armature resistive loss is(30)Pr′=2R3(PgωΛ)2,when ωΛ≠0 and the phase currents are drawn at unity power factor.", "sentId": 4, "start": 461, "end": 606}
+{"text": "Core loss can be reduced by reducing thickness of the stator laminations or using stator material with lower hysteresis loss.", "sentId": 5, "start": 607, "end": 732}

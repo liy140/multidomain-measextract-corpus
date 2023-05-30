@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+WO2008043558A1_15	1	1	MeasuredEntity			4	24	4	24	T3-1	Pulverulent compound
+WO2008043558A1_15	1	1	MeasuredProperty			101	115	101	115	T2-1	tapped density
+WO2008043558A1_15	1	1	Quantity	g/cm3		153	171	153	171	T1-1	at least 2.2 g/cm3

@@ -1,0 +1,25 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jjmmm201211056	4	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	23	28	343	348	T2-1	added
+101016jjmmm201211056	4	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	15	18	335	338	T3-1	KOH
+101016jjmmm201211056	4	1	Quantity	g	"{""unit"": ""g""}"	6	11	326	331	T1-1	4.0 g
+101016jjmmm201211056	6	2	MeasuredEntity		"{""HasQuantity"": ""T1-2""}"	117	128	687	698	T3-2	acetic acid
+101016jjmmm201211056	6	2	Quantity	%	"{""unit"": ""%""}"	113	116	683	686	T1-2	10%
+101016jjmmm201211056	3	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	102	111	281	290	T2-3	dissolved
+101016jjmmm201211056	3	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	36	46	215	225	T3-3	FeCl3 6H2O
+101016jjmmm201211056	3	3	Quantity	g	"{""unit"": ""g""}"	25	32	204	211	T1-3	0.487 g
+101016jjmmm201211056	3	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	102	111	281	290	T2-4	dissolved
+101016jjmmm201211056	3	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	62	72	241	251	T3-4	BaCl2 2H2O
+101016jjmmm201211056	3	4	Quantity	g	"{""unit"": ""g""}"	51	58	230	237	T1-4	0.054 g
+101016jjmmm201211056	3	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	80	90	259	269	T2-5	mole ratio
+101016jjmmm201211056	3	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	74	79	253	258	T3-5	Fe/Ba
+101016jjmmm201211056	3	5	Quantity			94	95	273	274	T1-5	8
+101016jjmmm201211056	3	6	MeasuredEntity		"{""HasQuantity"": ""T1-6""}"	124	139	303	318	T3-6	distilled water
+101016jjmmm201211056	3	6	Quantity	mL	"{""unit"": ""mL""}"	115	120	294	299	T1-6	21 mL
+101016jjmmm201211056	5	7	MeasuredEntity		"{""HasQuantity"": ""T1-7""}"	46	84	437	475	T3-7	Teflon-lined stainless-steel autoclave
+101016jjmmm201211056	5	7	Quantity	mL	"{""unit"": ""mL""}"	37	42	428	433	T1-7	30 mL
+101016jjmmm201211056	5	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	89	107	480	498	T2-8	kept it in an oven
+101016jjmmm201211056	5	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	13	21	404	412	T3-8	solution
+101016jjmmm201211056	5	8	Quantity	degC	"{""unit"": ""degC""}"	111	119	502	510	T1-8	220 degC
+101016jjmmm201211056	5	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	89	107	480	498	T2-9	kept it in an oven
+101016jjmmm201211056	5	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	13	21	404	412	T3-9	solution
+101016jjmmm201211056	5	9	Quantity	h	"{""unit"": ""h""}"	124	128	515	519	T1-9	24 h

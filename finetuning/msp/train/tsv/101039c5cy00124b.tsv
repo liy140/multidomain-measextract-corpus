@@ -1,0 +1,28 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101039c5cy00124b	2	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	76	80	347	351	T2-1	SBET
+101039c5cy00124b	2	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	62	74	333	345	T3-1	CeO2 support
+101039c5cy00124b	2	1	Quantity	m2 g-1	"{""unit"": ""m2 g-1""}"	83	94	354	365	T1-1	11.1 m2 g-1
+101039c5cy00124b	2	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	175	185	446	456	T2-2	Cu loading
+101039c5cy00124b	2	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	0	18	271	289	T3-2	CuO/CeO2 catalysts
+101039c5cy00124b	2	2	Quantity	wt.%	"{""unit"": ""wt.%""}"	189	196	460	467	T1-2	10 wt.%
+101039c5cy00124b	3	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	21	32	490	501	T2-3	pre-treated
+101039c5cy00124b	3	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	4	16	473	485	T3-3	CeO2 support
+101039c5cy00124b	3	3	Quantity	degC	"{""unit"": ""degC""}"	36	44	505	513	T1-3	120 degC
+101039c5cy00124b	3	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	21	32	490	501	T2-4	pre-treated
+101039c5cy00124b	3	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	4	16	473	485	T3-4	CeO2 support
+101039c5cy00124b	3	4	Quantity	h	"{""unit"": ""h""}"	49	52	518	521	T1-4	4 h
+101039c5cy00124b	4	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	125	136	706	717	T2-5	calcination
+101039c5cy00124b	4	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	75	81	656	662	T3-5	sample
+101039c5cy00124b	4	5	Quantity	degC	"{""unit"": ""degC""}"	154	169	735	750	T1-5	500 or 800 degC
+101039c5cy00124b	4	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	125	136	706	717	T2-6	calcination
+101039c5cy00124b	4	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	75	81	656	662	T3-6	sample
+101039c5cy00124b	4	6	Quantity	h	"{""unit"": ""h""}"	174	177	755	758	T1-6	4 h
+101039c5cy00124b	4	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	86	91	667	672	T2-7	dried
+101039c5cy00124b	4	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	75	81	656	662	T3-7	sample
+101039c5cy00124b	4	7	Quantity	degC	"{""unit"": ""degC""}"	95	102	676	683	T1-7	90 degC
+101039c5cy00124b	4	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	12	23	593	604	T2-8	impregnated
+101039c5cy00124b	4	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	75	81	656	662	T3-8	sample
+101039c5cy00124b	4	8	Quantity	h	"{""unit"": ""h""}"	65	69	646	650	T1-8	24 h
+101039c5cy00124b	4	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	86	91	667	672	T2-9	dried
+101039c5cy00124b	4	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	75	81	656	662	T3-9	sample
+101039c5cy00124b	4	9	Quantity	h	"{""unit"": ""h""}"	107	111	688	692	T1-9	24 h

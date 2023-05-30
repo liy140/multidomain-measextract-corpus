@@ -1,0 +1,4 @@
+{"text": "Fig. 12 shows the results for the AWI LDDoS attack.", "sentId": 1, "start": 0, "end": 51}
+{"text": "Our CPR-based approach is still effective – the difference in the average CPR for normal TCP flows and LDDoS flows is evident.", "sentId": 2, "start": 52, "end": 178}
+{"text": "However, as Tb decreases (from 10 ms to 0.1 ms), the average CAS of the attack flows under the CAS-based approach also decreases.", "sentId": 3, "start": 179, "end": 308}
+{"text": "When Tb is around 0.5 ms, the average CAS of the normal TCP flows and the LDDoS flows is about the same.", "sentId": 4, "start": 309, "end": 413}

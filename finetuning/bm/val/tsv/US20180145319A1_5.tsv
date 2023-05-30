@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20180145319A1_5	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	161	170	161	170	T3-1	precursor
+US20180145319A1_5	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	180	193	180	193	T2-1	particle size
+US20180145319A1_5	1	1	Quantity	μm	"{""unit"": ""\u03bcm""}"	194	235	194	235	T1-1	in a range of 3 micrometers (μm) to 15 μm
+US20180145319A1_5	1	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	161	170	161	170	T3-2	precursor
+US20180145319A1_5	1	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	242	253	242	253	T2-2	tap density
+US20180145319A1_5	1	2	Quantity	g/cc	"{""unit"": ""g/cc""}"	254	317	254	317	T1-2	in a range of 1.8 grams per cubic centimeter (g/cc) to 2.0 g/cc

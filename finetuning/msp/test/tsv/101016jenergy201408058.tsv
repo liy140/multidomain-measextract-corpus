@@ -1,0 +1,15 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jenergy201408058	3	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	33	41	451	459	T2-1	adjusted
+101016jenergy201408058	3	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	14	28	432	446	T3-1	mixed solution
+101016jenergy201408058	3	1	Quantity			48	61	466	479	T1-1	less than 2.7
+101016jenergy201408058	2	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	116	121	387	392	T2-2	mixed
+101016jenergy201408058	2	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	61	93	332	364	T3-2	poly (sodium 4-styrenesulfonate)
+101016jenergy201408058	2	2	Quantity	mL	"{""unit"": ""mL""}"	100	104	371	375	T1-2	2 mL
+101016jenergy201408058	4	3	MeasuredEntity		"{""HasQuantity"": ""T1-3""}"	53	75	573	595	T3-3	Teflon-lined autoclave
+101016jenergy201408058	4	3	Quantity	mL	"{""unit"": ""mL""}"	46	52	566	572	T1-3	100 mL
+101016jenergy201408058	4	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	80	86	600	606	T2-4	heated
+101016jenergy201408058	4	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	4	22	524	542	T3-4	resultant solution
+101016jenergy201408058	4	4	Quantity	degC	"{""unit"": ""degC""}"	90	98	610	618	T1-4	180 degC
+101016jenergy201408058	4	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	80	86	600	606	T2-5	heated
+101016jenergy201408058	4	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	4	22	524	542	T3-5	resultant solution
+101016jenergy201408058	4	5	Quantity	h	"{""unit"": ""h""}"	103	107	623	627	T1-5	24 h

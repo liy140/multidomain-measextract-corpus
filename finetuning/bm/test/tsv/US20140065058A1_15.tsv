@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20140065058A1_15	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	127	136	127	136	T3-1	reactants
+US20140065058A1_15	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	152	163	152	163	T2-1	temperature
+US20140065058A1_15	1	1	Quantity	° C	"{""unit"": ""\u00b0 C""}"	167	178	167	178	T1-1	30 to 60° C
+US20140065058A1_15	1	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	127	136	127	136	T3-2	reactants
+US20140065058A1_15	1	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	189	191	189	191	T2-2	pH
+US20140065058A1_15	1	2	Quantity			192	200	192	200	T1-2	10 to 12

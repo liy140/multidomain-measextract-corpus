@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN105122517B_23	1	1	MeasuredEntity			8	42	8	42	T3-1	positive electrode active material
+CN105122517B_23	1	1	MeasuredProperty			131	152	131	152	T2-1	specific surface area
+CN105122517B_23	1	1	Quantity	m2/g		156	171	156	171	T1-1	0.7m2/g～3.0m2/g

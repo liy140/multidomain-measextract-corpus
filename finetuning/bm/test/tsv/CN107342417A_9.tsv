@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN107342417A_9	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	86	101	86	101	T3-1	reaction vessel
+CN107342417A_9	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	107	118	107	118	T2-1	temperature
+CN107342417A_9	1	1	Quantity			147	170	147	170	T1-1	50 C-60 degrees Celsius

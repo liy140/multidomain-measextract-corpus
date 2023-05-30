@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN106745336B_5	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	553	582	553	582	T3-1	reaction kettle bottom liquid
+CN106745336B_5	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	537	545	537	545	T2-1	pH value
+CN106745336B_5	1	1	Quantity			586	591	586	591	T1-1	11-12
+CN106745336B_5	1	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	1271	1286	1271	1286	T3-2	reaction system
+CN106745336B_5	1	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	1255	1263	1255	1263	T2-2	pH value
+CN106745336B_5	1	2	Quantity			1307	1312	1307	1312	T1-2	11-12

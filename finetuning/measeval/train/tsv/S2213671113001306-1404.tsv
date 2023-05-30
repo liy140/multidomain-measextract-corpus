@@ -1,0 +1,16 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S2213671113001306-1404	1	1	Quantity	weeks		47	54	47	54	T1-1	4 weeks
+S2213671113001306-1404	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	13	43	13	43	T5-1	sacrificed and perfusion-fixed
+S2213671113001306-1404	1	1	MeasuredEntity		{'HasProperty': 'T5-1'}	0	7	0	7	T4-1	Animals
+S2213671113001306-1404	5	2	Quantity	month		140	147	602	609	T1-2	1 month
+S2213671113001306-1404	5	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	114	122	576	584	T4-2	survival
+S2213671113001306-1404	5	2	MeasuredEntity		{'HasProperty': 'T4-2'}	126	135	588	597	T3-2	human RPE
+S2213671113001306-1404	8	3	Quantity	%		53	70	1080	1097	T1-3	approximately 95%
+S2213671113001306-1404	8	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	38	46	1065	1073	T4-3	survival
+S2213671113001306-1404	8	3	MeasuredEntity		{'HasProperty': 'T4-3'}	23	37	1050	1064	T3-3	human RPE cell
+S2213671113001306-1404	8	4	Quantity	month		71	84	1098	1111	T1-4	after 1 month
+S2213671113001306-1404	8	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	38	46	1065	1073	T4-4	survival
+S2213671113001306-1404	8	4	MeasuredEntity		{'HasProperty': 'T4-4'}	23	37	1050	1064	T3-4	human RPE cell
+S2213671113001306-1404	10	5	Quantity	weeks		110	122	1560	1572	T1-5	over 4 weeks
+S2213671113001306-1404	10	5	MeasuredProperty		{'HasQuantity': 'T1-5'}	22	30	1472	1480	T4-5	survival
+S2213671113001306-1404	10	5	MeasuredEntity		{'HasProperty': 'T4-5'}	34	53	1484	1503	T3-5	polarized human RPE

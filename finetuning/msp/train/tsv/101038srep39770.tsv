@@ -1,0 +1,38 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101038srep39770	2	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	25	33	293	301	T2-1	annealed
+101038srep39770	2	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	11	19	279	287	T3-1	Cu foils
+101038srep39770	2	1	Quantity	degC	"{""unit"": ""degC""}"	46	55	314	323	T1-1	1035 degC
+101038srep39770	2	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	25	33	293	301	T2-2	annealed
+101038srep39770	2	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	11	13	279	281	T3-2	Cu
+101038srep39770	2	2	Quantity	minutes	"{""unit"": ""minutes""}"	84	94	352	362	T1-2	10 minutes
+101038srep39770	2	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	183	190	451	458	T2-3	mixture
+101038srep39770	2	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	202	204	470	472	T3-3	Ar
+101038srep39770	2	3	Quantity	sccm	"{""unit"": ""sccm""}"	194	201	462	469	T1-3	900sccm
+101038srep39770	2	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	183	190	451	458	T2-4	mixture
+101038srep39770	2	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	213	215	481	483	T3-4	H2
+101038srep39770	2	4	Quantity	sccm	"{""unit"": ""sccm""}"	206	212	474	480	T1-4	60sccm
+101038srep39770	2	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	183	190	451	458	T2-5	mixture
+101038srep39770	2	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	226	229	494	497	T3-5	CH4
+101038srep39770	2	5	Quantity	sccm	"{""unit"": ""sccm""}"	220	225	488	493	T1-5	2sccm
+101038srep39770	2	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	155	163	423	431	T2-6	pressure
+101038srep39770	2	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	101	125	369	393	T3-6	graphene was synthesised
+101038srep39770	2	6	Quantity	mbar	"{""unit"": ""mbar""}"	167	174	435	442	T1-6	25 mbar
+101038srep39770	2	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	114	125	382	393	T2-7	synthesised
+101038srep39770	2	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	101	109	369	377	T3-7	graphene
+101038srep39770	2	7	Quantity	minutes	"{""unit"": ""minutes""}"	234	244	502	512	T1-7	15 minutes
+101038srep39770	4	8	MeasuredEntity		"{""HasQuantity"": ""T1-8""}"	4	10	647	653	T3-8	growth
+101038srep39770	4	8	Quantity	degC	"{""unit"": ""degC""}"	23	31	666	674	T1-8	900 degC
+101038srep39770	4	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	37	51	680	694	T2-9	total pressure
+101038srep39770	4	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	85	92	728	735	T3-9	mixture
+101038srep39770	4	9	Quantity	mbar	"{""unit"": ""mbar""}"	55	62	698	705	T1-9	60 mbar
+101038srep39770	4	10	MeasuredEntity		"{""HasQuantity"": ""T1-10""}"	85	92	728	735	T3-10	mixture
+101038srep39770	4	10	Quantity	minutes	"{""unit"": ""minutes""}"	67	77	710	720	T1-10	15 minutes
+101038srep39770	4	11	MeasuredEntity		"{""HasQuantity"": ""T1-11""}"	104	106	747	749	T3-11	Ar
+101038srep39770	4	11	Quantity	sccm	"{""unit"": ""sccm""}"	96	103	739	746	T1-11	300sccm
+101038srep39770	4	12	MeasuredEntity		"{""HasQuantity"": ""T1-12""}"	115	117	758	760	T3-12	H2
+101038srep39770	4	12	Quantity	sccm	"{""unit"": ""sccm""}"	108	114	751	757	T1-12	15sccm
+101038srep39770	4	13	MeasuredEntity		"{""HasQuantity"": ""T1-13""}"	131	139	774	782	T3-13	borazine
+101038srep39770	4	13	Quantity	sccm	"{""unit"": ""sccm""}"	122	127	765	770	T1-13	3sccm
+101038srep39770	1	14	MeasuredProperty		"{""HasQuantity"": ""T1-14""}"	232	237	232	237	T2-14	thick
+101038srep39770	1	14	MeasuredEntity		"{""HasProperty"": ""T2-14""}"	238	266	238	266	T3-14	electropolished copper foils
+101038srep39770	1	14	Quantity	μm	"{""unit"": ""\u03bcm""}"	226	231	226	231	T1-14	25 μm

@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+EP2067196B1_8	1	1	MeasuredEntity			3	23	3	23	T3-1	Pulverulent compound
+EP2067196B1_8	1	1	MeasuredProperty			102	116	102	116	T2-1	tapped density
+EP2067196B1_8	1	1	Quantity	g/cm3		154	172	154	172	T1-1	at least 2.2 g/cm3
+EP2067196B1_8	1	2	MeasuredEntity			3	23	3	23	T3-2	Pulverulent compound
+EP2067196B1_8	1	2	MeasuredProperty			189	203	189	203	T2-2	tapped density
+EP2067196B1_8	1	2	Quantity	g/cm3		241	259	241	259	T1-2	at least 2.4 g/cm3

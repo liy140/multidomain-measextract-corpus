@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20160093885A1_17	1	1	MeasuredEntity			874	897	874	897	T3-1	the secondary particles
+US20160093885A1_17	1	1	MeasuredProperty			908	929	908	929	T2-1	average particle size
+US20160093885A1_17	1	1	Quantity	μm		933	946	933	946	T1-1	1 μm to 15 μm
+US20160093885A1_17	1	2	MeasuredEntity			874	897	874	897	T3-2	the secondary particles
+US20160093885A1_17	1	2	MeasuredProperty			1028	1054	1028	1054	T2-2	particle size distribution
+US20160093885A1_17	1	2	Quantity			1058	1069	1058	1069	T1-2	0.7 or less

@@ -1,0 +1,4 @@
+{"text": "Data were analysed by Philips Automated Powder Diffraction software.", "sentId": 1, "start": 0, "end": 68}
+{"text": "Phase identification was carried out using the Philips software routine, PC-IDENTIFY to access the ICDD PDF database.", "sentId": 2, "start": 69, "end": 186}
+{"text": "Unit cells were indexed using DICVOL91 [25].", "sentId": 3, "start": 187, "end": 231}
+{"text": "Further data were collected over a longer period, from 5≤2θ/°≤120 with a step size of 0.02° over 14 h, in order to obtain data suitable for structure refinement.", "sentId": 4, "start": 232, "end": 393}

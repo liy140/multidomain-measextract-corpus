@@ -1,0 +1,14 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0016236113008041-3127	2	1	Quantity			29	30	271	272	T1-1	4
+S0016236113008041-3127	2	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	31	45	273	287	T2-1	major elements
+S0016236113008041-3127	2	2	Quantity			68	75	310	317	T1-2	up to 9
+S0016236113008041-3127	2	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	76	90	318	332	T2-2	minor elements
+S0016236113008041-3127	3	3	Quantity	°C		231	251	938	958	T1-3	600 °C, up to 750 °C
+S0016236113008041-3127	3	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	191	208	898	915	T5-3	temperature range
+S0016236113008041-3127	3	3	MeasuredEntity		{'HasProperty': 'T5-3'}	48	57	755	764	T3-3	modelling
+S0016236113008041-3127	3	4	Quantity	°C		272	279	979	986	T1-4	1000 °C
+S0016236113008041-3127	3	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	191	202	898	909	T3-4	temperature
+S0016236113008041-3127	3	4	MeasuredEntity		{'HasProperty': 'T3-4'}	48	57	755	764	T5-4	modelling
+S0016236113008041-3127	3	5	Quantity	°C		309	314	1016	1021	T1-5	20 °C
+S0016236113008041-3127	3	5	MeasuredProperty		{'HasQuantity': 'T1-5'}	300	305	1007	1012	T3-5	steps
+S0016236113008041-3127	3	5	MeasuredEntity		{'HasProperty': 'T3-5'}	48	57	755	764	T4-5	modelling

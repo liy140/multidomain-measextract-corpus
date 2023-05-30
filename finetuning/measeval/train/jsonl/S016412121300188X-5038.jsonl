@@ -1,0 +1,2 @@
+{"text": "As an answer to RQ7, this study finds that unless there is significant refactoring of the system, coherent cluster profiles remain stable during system evolution and thus captures the core architecture of the program in all three case studies.", "sentId": 1, "start": 0, "end": 243}
+{"text": "Future work will replicate this longitudinal study on a large code corpus to ascertain whether this stability holds for other programs.", "sentId": 2, "start": 244, "end": 379}

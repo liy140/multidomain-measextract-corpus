@@ -1,0 +1,22 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0006322312001096-1221	2	1	Quantity	%		73	76	279	282	T21-1	95%
+S0006322312001096-1221	2	1	MeasuredEntity		{'HasQuantity': 'T21-1'}	77	97	283	303	T51-1	confidence intervals
+S0006322312001096-1221	2	2	Quantity	%		102	105	308	311	T12-2	10%
+S0006322312001096-1221	2	2	MeasuredProperty		{'HasQuantity': 'T12-2'}	106	123	312	329	T62-2	absolute increase
+S0006322312001096-1221	2	2	MeasuredEntity		{'HasProperty': 'T62-2'}	127	137	333	343	T1-2	risk score
+S0006322312001096-1221	3	3	Quantity	%		77	80	438	441	T43-3	90%
+S0006322312001096-1221	3	3	MeasuredEntity		{'HasQuantity': 'T43-3'}	81	86	442	447	T93-3	power
+S0006322312001096-1221	3	4	Quantity			114	117	475	478	T1-4	.05
+S0006322312001096-1221	3	4	MeasuredEntity		{'HasQuantity': 'T1-4'}	92	110	453	471	T2-4	significance level
+S0006322312001096-1221	3	5	Quantity			136	140	497	501	T2-5	1.14
+S0006322312001096-1221	3	5	MeasuredProperty		{'HasQuantity': 'T2-5'}	122	132	483	493	T1-5	odds ratio
+S0006322312001096-1221	3	5	MeasuredEntity		{'HasProperty': 'T1-5'}	147	192	508	553	T3-5	10% increase in the Framingham CVD risk score
+S0006322312001096-1221	3	6	Quantity	%		147	150	508	511	T34-6	10%
+S0006322312001096-1221	3	6	MeasuredProperty		{'HasQuantity': 'T34-6'}	151	159	512	520	T74-6	increase
+S0006322312001096-1221	3	6	MeasuredEntity		{'HasProperty': 'T74-6'}	167	192	528	553	T84-6	Framingham CVD risk score
+S0006322312001096-1221	4	7	Quantity			107	111	662	666	T1-7	1.40
+S0006322312001096-1221	4	7	MeasuredProperty		{'HasQuantity': 'T1-7'}	90	101	645	656	T2-7	odds ratios
+S0006322312001096-1221	4	7	MeasuredEntity		{'HasProperty': 'T2-7'}	4	40	559	595	T3-7	depressive symptoms defined by CES-D
+S0006322312001096-1221	4	8	Quantity			116	120	671	675	T3-8	1.24
+S0006322312001096-1221	4	8	MeasuredProperty		{'HasQuantity': 'T3-8'}	90	101	645	656	T2-8	odds ratios
+S0006322312001096-1221	4	8	MeasuredEntity		{'HasProperty': 'T2-8'}	45	70	600	625	T1-8	antidepressant medication

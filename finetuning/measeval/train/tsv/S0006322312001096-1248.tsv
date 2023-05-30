@@ -1,0 +1,3 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0006322312001096-1248	2	1	Quantity	%		120	123	590	593	T11-1	95%
+S0006322312001096-1248	2	1	MeasuredEntity		{'HasQuantity': 'T11-1'}	124	126	594	596	T21-1	CI

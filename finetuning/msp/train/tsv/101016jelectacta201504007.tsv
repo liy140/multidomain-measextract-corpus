@@ -1,0 +1,21 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jelectacta201504007	3	1	MeasuredEntity		"{""HasQuantity"": ""T1-1""}"	46	67	706	727	T3-1	12-hydroxystearicacid
+101016jelectacta201504007	3	1	Quantity	%	"{""unit"": ""%""}"	69	72	729	732	T1-1	99%
+101016jelectacta201504007	3	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	22	28	682	688	T2-2	adding
+101016jelectacta201504007	3	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	46	67	706	727	T3-2	12-hydroxystearicacid
+101016jelectacta201504007	3	2	Quantity	wt%	"{""unit"": ""wt%""}"	29	35	689	695	T1-2	20 wt%
+101016jelectacta201504007	2	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	54	62	453	461	T2-3	composed
+101016jelectacta201504007	2	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	79	89	478	488	T3-3	iodine (I2
+101016jelectacta201504007	2	3	Quantity	mol L-1	"{""unit"": ""mol L-1""}"	66	78	465	477	T1-3	0.35 mol L-1
+101016jelectacta201504007	2	4	MeasuredEntity		"{""HasQuantity"": ""T1-4""}"	87	89	486	488	T3-4	I2
+101016jelectacta201504007	2	4	Quantity	%	"{""unit"": ""%""}"	91	94	490	493	T1-4	99%
+101016jelectacta201504007	2	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	54	62	453	461	T2-5	composed
+101016jelectacta201504007	2	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	119	148	518	547	T3-5	anhydrous lithium iodide (LiI
+101016jelectacta201504007	2	5	Quantity	mol L-1	"{""unit"": ""mol L-1""}"	106	118	505	517	T1-5	0.02 mol L-1
+101016jelectacta201504007	2	6	MeasuredEntity		"{""HasQuantity"": ""T1-6""}"	129	148	528	547	T3-6	lithium iodide (LiI
+101016jelectacta201504007	2	6	Quantity	%	"{""unit"": ""%""}"	150	153	549	552	T1-6	99%
+101016jelectacta201504007	2	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	54	62	453	461	T2-7	composed
+101016jelectacta201504007	2	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	180	207	579	606	T3-7	N-methylbenzimidazole (NMBI
+101016jelectacta201504007	2	7	Quantity	mol L-1	"{""unit"": ""mol L-1""}"	168	179	567	578	T1-7	0.5 mol L-1
+101016jelectacta201504007	2	8	MeasuredEntity		"{""HasQuantity"": ""T1-8""}"	180	207	579	606	T3-8	N-methylbenzimidazole (NMBI
+101016jelectacta201504007	2	8	Quantity	%	"{""unit"": ""%""}"	209	212	608	611	T1-8	99%

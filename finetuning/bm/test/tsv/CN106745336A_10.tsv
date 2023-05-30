@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN106745336A_10	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	402	433	402	433	T3-1	secondary particles agglomerate
+CN106745336A_10	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	372	398	372	398	T2-1	size D50 particle diameter
+CN106745336A_10	1	1	Quantity	μm	"{""unit"": ""\u03bcm""}"	437	443	437	443	T1-1	9-15μm

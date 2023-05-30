@@ -1,0 +1,35 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jnanoen201502025	3	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	42	47	503	508	T2-1	dried
+101016jnanoen201502025	3	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	4	12	465	473	T3-1	solution
+101016jnanoen201502025	3	1	Quantity	degC	"{""unit"": ""degC""}"	51	58	512	519	T1-1	80 degC
+101016jnanoen201502025	11	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	134	143	1337	1346	T2-2	pyrolyzed
+101016jnanoen201502025	11	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	94	129	1297	1332	T3-2	mixture of DCDA and ferric chloride
+101016jnanoen201502025	11	2	Quantity	degC	"{""unit"": ""degC""}"	147	155	1350	1358	T1-2	700 degC
+101016jnanoen201502025	2	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	174	183	420	429	T2-3	dissolved
+101016jnanoen201502025	2	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	34	55	280	301	T3-3	dicyandiamide (C2H4N4
+101016jnanoen201502025	2	3	Quantity	g	"{""unit"": ""g""}"	27	30	273	276	T1-3	8 g
+101016jnanoen201502025	2	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	174	183	420	429	T2-4	dissolved
+101016jnanoen201502025	2	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	97	132	343	378	T3-4	ammonium ferric citrate (C6H11FeNO7
+101016jnanoen201502025	2	4	Quantity	g	"{""unit"": ""g""}"	90	93	336	339	T1-4	1 g
+101016jnanoen201502025	2	5	MeasuredEntity		"{""HasQuantity"": ""T1-5""}"	197	213	443	459	T3-5	de-ionized water
+101016jnanoen201502025	2	5	Quantity	mL	"{""unit"": ""mL""}"	187	193	433	439	T1-5	100 mL
+101016jnanoen201502025	5	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	65	74	660	669	T2-6	flow rate
+101016jnanoen201502025	5	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	4	28	599	623	T3-6	pyrolysis of the mixture
+101016jnanoen201502025	5	6	Quantity	mL min-1	"{""unit"": ""mL min-1""}"	78	89	673	684	T1-6	50 mL min-1
+101016jnanoen201502025	6	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	54	58	740	744	T2-7	rate
+101016jnanoen201502025	6	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	4	11	690	697	T3-7	furnace
+101016jnanoen201502025	6	7	Quantity	degC min-1	"{""unit"": ""degC min-1""}"	62	75	748	761	T1-7	10 degC min-1
+101016jnanoen201502025	6	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	80	110	766	796	T2-8	kept at the target temperature
+101016jnanoen201502025	6	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	4	11	690	697	T3-8	furnace
+101016jnanoen201502025	6	8	Quantity	h	"{""unit"": ""h""}"	115	118	801	804	T1-8	2 h
+101016jnanoen201502025	9	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	26	31	1092	1097	T2-9	dried
+101016jnanoen201502025	9	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	13	20	1079	1086	T3-9	samples
+101016jnanoen201502025	9	9	Quantity	degC	"{""unit"": ""degC""}"	35	42	1101	1108	T1-9	60 degC
+101016jnanoen201502025	8	10	MeasuredEntity		"{""HasQuantity"": ""T1-10""}"	39	53	954	968	T3-10	HClO4 solution
+101016jnanoen201502025	8	10	Quantity	M	"{""unit"": ""M""}"	33	38	948	953	T1-10	0.5 M
+101016jnanoen201502025	8	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	22	29	937	944	T2-11	leached
+101016jnanoen201502025	8	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	9	16	924	931	T3-11	samples
+101016jnanoen201502025	8	11	Quantity	degC	"{""unit"": ""degC""}"	57	64	972	979	T1-11	80 degC
+101016jnanoen201502025	8	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	22	29	937	944	T2-12	leached
+101016jnanoen201502025	8	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	9	16	924	931	T3-12	samples
+101016jnanoen201502025	8	12	Quantity	h	"{""unit"": ""h""}"	69	72	984	987	T1-12	8 h

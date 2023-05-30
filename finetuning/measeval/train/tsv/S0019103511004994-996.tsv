@@ -1,0 +1,6 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103511004994-996	3	1	Quantity			69	72	289	292	T1-1	0.1
+S0019103511004994-996	3	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	55	66	275	286	T2-1	parameter a
+S0019103511004994-996	3	2	Quantity	%		108	111	328	331	T1-2	10%
+S0019103511004994-996	3	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	80	104	300	324	T4-2	assumed surface velocity
+S0019103511004994-996	3	2	MeasuredEntity		{'HasProperty': 'T4-2'}	128	145	348	365	T3-2	upstream velocity

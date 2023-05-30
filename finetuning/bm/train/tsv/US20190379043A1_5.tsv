@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20190379043A1_5	1	1	MeasuredEntity			107	137	107	137	T3-1	plate-shaped primary particles
+US20190379043A1_5	1	1	MeasuredProperty			78	99	78	99	T2-1	average particle size
+US20190379043A1_5	1	1	Quantity	μm		159	173	159	173	T1-1	0.3 μm to 3 μm
+US20190379043A1_5	1	2	MeasuredEntity			212	234	212	234	T3-2	fine primary particles
+US20190379043A1_5	1	2	MeasuredProperty			183	204	183	204	T2-2	average particle size
+US20190379043A1_5	1	2	Quantity	μm		256	273	256	273	T1-2	0.01 μm to 0.3 μm

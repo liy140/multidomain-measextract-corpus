@@ -1,0 +1,12 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S1359645413009816-2243	1	1	Quantity	nm		152	158	152	158	T1-1	1.5 nm
+S1359645413009816-2243	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	130	148	130	148	T3-1	nominal resolution
+S1359645413009816-2243	1	1	MeasuredEntity		{'HasProperty': 'T3-1'}	69	121	69	121	T2-1	LEO 1525 field emission scanning electron microscope
+S1359645413009816-2243	1	2	Quantity	kV		162	167	162	167	T1-2	20 kV
+S1359645413009816-2243	1	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	69	121	69	121	T3-2	LEO 1525 field emission scanning electron microscope
+S1359645413009816-2243	2	3	Quantity	K/min		305	312	515	522	T1-3	5 K/min
+S1359645413009816-2243	2	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	289	301	499	511	T2-3	heating rate
+S1359645413009816-2243	2	3	MeasuredEntity		{'HasProperty': 'T2-3'}	86	104	296	314	T3-3	microscopy samples
+S1359645413009816-2243	2	4	Quantity	K/min		376	390	586	600	T1-4	about 30 K/min
+S1359645413009816-2243	2	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	326	372	536	582	T2-4	rapid cooling to ambient temperature at a rate
+S1359645413009816-2243	2	4	MeasuredEntity		{'HasProperty': 'T2-4'}	86	104	296	314	T3-4	microscopy samples

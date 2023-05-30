@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+EP3719889A1_2	1	1	MeasuredEntity			347	372	347	372	T3-1	active material precursor
+EP3719889A1_2	1	1	MeasuredProperty			592	618	592	618	T2-1	ammonium ion concentration
+EP3719889A1_2	1	1	Quantity	g/L		622	654	622	654	T1-1	greater than or equal to 5.0 g/L
+EP3719889A1_2	1	2	MeasuredEntity			347	372	347	372	T3-2	active material precursor
+EP3719889A1_2	1	2	MeasuredProperty			661	669	661	669	T2-2	pH value
+EP3719889A1_2	1	2	Quantity			673	702	673	702	T1-2	greater than or equal to 11.0

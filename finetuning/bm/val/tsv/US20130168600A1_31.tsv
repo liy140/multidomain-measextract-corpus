@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20130168600A1_31	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	58	80	58	80	T3-1	the precursor material
+US20130168600A1_31	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	38	50	38	50	T2-1	sodium level
+US20130168600A1_31	1	1	Quantity	ppm	"{""unit"": ""ppm""}"	84	101	84	101	T1-1	less than 300 ppm

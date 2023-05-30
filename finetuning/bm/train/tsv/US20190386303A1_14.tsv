@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20190386303A1_14	1	1	MeasuredEntity			49	54	49	54	T3-1	seeds
+US20190386303A1_14	1	1	MeasuredProperty			62	86	62	86	T2-1	median particle size D50
+US20190386303A1_14	1	1	Quantity	μm		87	107	87	107	T1-1	between 0.1 and 3 μm

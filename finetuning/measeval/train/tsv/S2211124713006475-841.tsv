@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S2211124713006475-841	1	1	Quantity	weeks		51	58	51	58	T1-1	6 weeks
+S2211124713006475-841	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	59	80	59	80	T3-1	after transplantation
+S2211124713006475-841	1	1	MeasuredEntity		{'HasProperty': 'T3-1'}	4	20	4	20	T2-1	GH plasma levels

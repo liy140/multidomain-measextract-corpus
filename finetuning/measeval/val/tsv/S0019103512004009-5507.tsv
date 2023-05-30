@@ -1,0 +1,10 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103512004009-5507	1	1	Quantity	μbar		197	208	197	208	T21-1	near 1 μbar
+S0019103512004009-5507	1	1	MeasuredProperty		{'HasQuantity': 'T21-1'}	167	171	167	171	T41-1	base
+S0019103512004009-5507	1	1	MeasuredEntity		{'HasProperty': 'T41-1'}	179	193	179	193	T31-1	hot layer of H
+S0019103512004009-5507	1	2	Quantity	K		257	263	257	263	T12-2	8250 K
+S0019103512004009-5507	1	2	MeasuredProperty		{'HasQuantity': 'T12-2'}	214	230	214	230	T52-2	mean temperature
+S0019103512004009-5507	1	2	MeasuredEntity		{'HasProperty': 'T52-2'}	179	193	179	193	T32-2	hot layer of H
+S0019103512004009-5507	1	3	Quantity	Rp		302	311	302	311	T63-3	above 3Rp
+S0019103512004009-5507	1	3	MeasuredProperty		{'HasQuantity': 'T63-3'}	287	301	287	301	T3-3	mostly ionized
+S0019103512004009-5507	1	3	MeasuredEntity		{'HasProperty': 'T3-3'}	273	283	273	283	T2-3	atmosphere

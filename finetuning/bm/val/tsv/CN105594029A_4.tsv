@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN105594029A_4	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	297	306	297	306	T3-1	particles
+CN105594029A_4	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	322	325	322	325	T2-1	D50
+CN105594029A_4	1	1	Quantity	um	"{""unit"": ""um""}"	326	329	326	329	T1-1	4um

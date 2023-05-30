@@ -1,0 +1,19 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103512003533-5318	1	1	Quantity	keV		130	136	130	136	T1-1	10 keV
+S0019103512003533-5318	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	146	157	146	157	T3-1	energy flux
+S0019103512003533-5318	1	1	MeasuredEntity		{'HasProperty': 'T3-1'}	137	145	137	145	T2-1	electron
+S0019103512003533-5318	2	2	Quantity	K		117	126	276	285	T1-2	400–650 K
+S0019103512003533-5318	2	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	84	105	243	264	T2-2	observed temperatures
+S0019103512003533-5318	2	2	MeasuredEntity		{'HasProperty': 'T2-2'}	109	115	268	274	T3-2	Saturn
+S0019103512003533-5318	3	3	Quantity			35	38	403	406	T1-3	two
+S0019103512003533-5318	3	3	MeasuredEntity		{'HasQuantity': 'T1-3'}	39	72	407	440	T2-3	magnetospheric forcing parameters
+S0019103512003533-5318	4	4	Quantity	mV m−1		35	46	649	660	T1-4	∼100 mV m−1
+S0019103512003533-5318	4	4	MeasuredEntity		{'HasQuantity': 'T1-4'}	2	31	616	645	T3-4	magnetospheric electric field
+S0019103512003533-5318	4	5	Quantity	keV		103	109	717	723	T1-5	10 keV
+S0019103512003533-5318	4	5	MeasuredEntity		{'HasQuantity': 'T1-5'}	110	118	724	732	T2-5	electron
+S0019103512003533-5318	4	6	Quantity	mW m−2		127	135	741	749	T1-6	1 mW m−2
+S0019103512003533-5318	4	6	MeasuredProperty		{'HasQuantity': 'T1-6'}	119	123	733	737	T4-6	flux
+S0019103512003533-5318	4	6	MeasuredEntity		{'HasProperty': 'T4-6'}	103	118	717	732	T3-6	10 keV electron
+S0019103512003533-5318	4	7	Quantity	K		174	180	788	794	T1-7	∼800 K
+S0019103512003533-5318	4	7	MeasuredProperty		{'HasQuantity': 'T1-7'}	158	170	772	784	T3-7	temperatures
+S0019103512003533-5318	4	7	MeasuredEntity		{'HasProperty': 'T3-7'}	145	157	759	771	T2-7	thermosphere

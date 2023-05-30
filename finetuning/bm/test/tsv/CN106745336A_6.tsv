@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN106745336A_6	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	94	109	94	109	T3-1	reaction vessel
+CN106745336A_6	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	84	86	84	86	T2-1	pH
+CN106745336A_6	1	1	Quantity			110	119	110	119	T1-1	11.3-11.4
+CN106745336A_6	1	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	153	167	153	167	T3-2	reactor system
+CN106745336A_6	1	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	143	145	143	145	T2-2	pH
+CN106745336A_6	1	2	Quantity			185	194	185	194	T1-2	11.3-11.4

@@ -1,0 +1,8 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103512004009-4007	5	1	Quantity	%		64	67	776	779	T11-1	93%
+S0019103512004009-4007	5	1	MeasuredProperty		{'HasQuantity': 'T11-1'}	19	60	731	772	T21-1	constant photoelectron heating efficiency
+S0019103512004009-4007	5	1	MeasuredEntity		{'HasProperty': 'T21-1'}	0	8	712	720	T91-1	Model C1
+S0019103512004009-4007	6	2	Quantity	eV		69	74	894	899	T42-2	50 eV
+S0019103512004009-4007	6	2	MeasuredEntity		{'HasQuantity': 'T42-2'}	75	82	900	907	T52-2	photons
+S0019103512004009-4007	6	3	Quantity			119	122	944	947	T83-3	0.1
+S0019103512004009-4007	6	3	MeasuredEntity		{'HasQuantity': 'T83-3'}	89	116	914	941	T73-3	electron mixing ratio of xe

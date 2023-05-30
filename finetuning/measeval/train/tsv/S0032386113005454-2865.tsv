@@ -1,0 +1,16 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0032386113005454-2865	1	1	Quantity			3	19	3	19	T1-1	room temperature
+S0032386113005454-2865	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	50	82	50	82	T2-1	S-CSR particle-modified polymers
+S0032386113005454-2865	2	2	Quantity	%		147	164	278	295	T1-2	10 wt% and 20 wt%
+S0032386113005454-2865	2	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	165	194	296	325	T2-2	S-CSR-modified epoxy polymers
+S0032386113005454-2865	5	3	Quantity	μm		55	63	649	657	T1-3	0.296 μm
+S0032386113005454-2865	5	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	4	17	598	611	T2-3	mean diameter
+S0032386113005454-2865	5	3	MeasuredEntity		{'HasProperty': 'T2-3'}	27	35	621	629	T5-3	cavities
+S0032386113005454-2865	6	4	Quantity	μm		115	122	774	781	T1-4	0.18 μm
+S0032386113005454-2865	6	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	38	51	697	710	T2-4	mean diameter
+S0032386113005454-2865	6	4	MeasuredEntity		{'HasProperty': 'T2-4'}	59	74	718	733	T4-4	S-CSR particles
+S0032386113005454-2865	12	5	Quantity			131	147	1662	1678	T1-5	room temperature
+S0032386113005454-2865	12	5	MeasuredEntity		{'HasQuantity': 'T1-5'}	113	120	1644	1651	T2-5	samples
+S0032386113005454-2865	14	6	Quantity	°C		54	61	1755	1762	T1-6	−109 °C
+S0032386113005454-2865	14	6	MeasuredProperty		{'HasQuantity': 'T1-6'}	35	44	1736	1745	T4-6	cavitated
+S0032386113005454-2865	14	6	MeasuredEntity		{'HasProperty': 'T4-6'}	19	34	1720	1735	T3-6	S-CSR particles

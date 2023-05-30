@@ -1,0 +1,36 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0006322312001096-1194	2	1	Quantity	%		37	40	217	220	T31-1	10%
+S0006322312001096-1194	2	1	MeasuredProperty		{'HasQuantity': 'T31-1'}	41	50	221	230	T61-1	increment
+S0006322312001096-1194	2	1	MeasuredEntity		{'HasProperty': 'T61-1'}	54	58	234	238	T71-1	risk
+S0006322312001096-1194	2	2	Quantity			63	67	243	247	T3-2	2.84
+S0006322312001096-1194	2	2	MeasuredProperty		{'HasQuantity': 'T3-2'}	0	32	180	212	T1-2	Age- and sex-adjusted odds ratio
+S0006322312001096-1194	2	2	MeasuredEntity		{'HasProperty': 'T1-2'}	117	162	297	342	T2-2	stroke risk score-incident stroke association
+S0006322312001096-1194	2	3	Quantity	%		69	72	249	252	T22-3	95%
+S0006322312001096-1194	2	3	MeasuredEntity		{'HasQuantity': 'T22-3'}	73	97	253	277	T82-3	confidence interval [CI]
+S0006322312001096-1194	2	4	Quantity			98	107	278	287	T4-4	1.66–4.88
+S0006322312001096-1194	2	4	MeasuredProperty		{'HasQuantity': 'T4-4'}	0	32	180	212	T1-4	Age- and sex-adjusted odds ratio
+S0006322312001096-1194	2	4	MeasuredEntity		{'HasProperty': 'T1-4'}	117	162	297	342	T2-4	stroke risk score-incident stroke association
+S0006322312001096-1194	2	5	Quantity			167	171	347	351	T2-5	2.25
+S0006322312001096-1194	2	5	MeasuredProperty		{'HasQuantity': 'T2-5'}	0	32	180	212	T1-5	Age- and sex-adjusted odds ratio
+S0006322312001096-1194	2	5	MeasuredEntity		{'HasProperty': 'T1-5'}	199	238	379	418	T3-5	CHD risk score-incident CHD association
+S0006322312001096-1194	2	6	Quantity	%		173	176	353	356	T13-6	95%
+S0006322312001096-1194	2	6	MeasuredEntity		{'HasQuantity': 'T13-6'}	177	179	357	359	T93-6	CI
+S0006322312001096-1194	2	7	Quantity			180	189	360	369	T3-7	1.92–2.65
+S0006322312001096-1194	2	7	MeasuredProperty		{'HasQuantity': 'T3-7'}	0	32	180	212	T1-7	Age- and sex-adjusted odds ratio
+S0006322312001096-1194	2	7	MeasuredEntity		{'HasProperty': 'T1-7'}	199	238	379	418	T2-7	CHD risk score-incident CHD association
+S0006322312001096-1194	3	8	Quantity			94	98	514	518	T3-8	1.34
+S0006322312001096-1194	3	8	MeasuredProperty		{'HasQuantity': 'T3-8'}	18	29	438	449	T1-8	odds ratios
+S0006322312001096-1194	3	8	MeasuredEntity		{'HasProperty': 'T1-8'}	54	57	474	477	T2-8	CVD
+S0006322312001096-1194	3	9	Quantity	%		100	103	520	523	T54-9	95%
+S0006322312001096-1194	3	9	MeasuredEntity		{'HasQuantity': 'T54-9'}	104	106	524	526	T104-9	CI
+S0006322312001096-1194	3	10	Quantity			107	116	527	536	T1-10	1.11–1.62
+S0006322312001096-1194	3	10	MeasuredProperty		{'HasQuantity': 'T1-10'}	18	29	438	449	T3-10	odds ratios
+S0006322312001096-1194	3	10	MeasuredEntity		{'HasProperty': 'T3-10'}	54	57	474	477	T2-10	CVD
+S0006322312001096-1194	3	11	Quantity			122	126	542	546	T3-11	2.14
+S0006322312001096-1194	3	11	MeasuredProperty		{'HasQuantity': 'T3-11'}	18	29	438	449	T1-11	odds ratios
+S0006322312001096-1194	3	11	MeasuredEntity		{'HasProperty': 'T1-11'}	85	88	505	508	T2-11	CHD
+S0006322312001096-1194	3	12	Quantity	%		128	131	548	551	T45-12	95%
+S0006322312001096-1194	3	12	MeasuredEntity		{'HasQuantity': 'T45-12'}	132	134	552	554	T115-12	CI
+S0006322312001096-1194	3	13	Quantity			135	144	555	564	T1-13	1.85–2.48
+S0006322312001096-1194	3	13	MeasuredProperty		{'HasQuantity': 'T1-13'}	18	29	438	449	T3-13	odds ratios
+S0006322312001096-1194	3	13	MeasuredEntity		{'HasProperty': 'T3-13'}	85	88	505	508	T2-13	CHD

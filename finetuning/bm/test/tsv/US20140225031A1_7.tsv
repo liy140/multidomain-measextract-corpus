@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20140225031A1_7	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	143	166	143	166	T3-1	metal complex hydroxide
+US20140225031A1_7	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	374	388	374	388	T2-1	tapped density
+US20140225031A1_7	1	1	Quantity	g/ml	"{""unit"": ""g/ml""}"	403	423	403	423	T1-1	1.0 g/ml to 2.0 g/ml

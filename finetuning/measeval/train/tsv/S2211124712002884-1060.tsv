@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S2211124712002884-1060	5	1	Quantity	%		82	85	656	659	T1-1	10%
+S2211124712002884-1060	5	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	86	104	660	678	T3-1	fetal bovine serum
+S2211124712002884-1060	5	1	MeasuredEntity		{'HasProperty': 'T3-1'}	29	63	603	637	T2-1	Dulbecco's modified Eagle's medium
+S2211124712002884-1060	5	2	Quantity	U/ml		164	172	738	746	T1-2	100 U/ml
+S2211124712002884-1060	5	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	139	162	713	736	T3-2	penicillin/streptomycin
+S2211124712002884-1060	5	2	MeasuredEntity		{'HasProperty': 'T3-2'}	29	63	603	637	T4-2	Dulbecco's modified Eagle's medium

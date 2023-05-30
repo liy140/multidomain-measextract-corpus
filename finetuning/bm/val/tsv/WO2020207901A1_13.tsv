@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+WO2020207901A1_13	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	4	47	4	47	T3-1	Particulate transition metal (oxy)hydroxide
+WO2020207901A1_13	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	85	118	85	118	T2-1	specific surface according to BET
+WO2020207901A1_13	1	1	Quantity	m2/g	"{""unit"": ""m2/g""}"	119	152	119	152	T1-1	in the range of from 2 to 70 m2/g

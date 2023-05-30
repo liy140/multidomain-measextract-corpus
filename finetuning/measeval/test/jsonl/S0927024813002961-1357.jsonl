@@ -1,0 +1,6 @@
+{"text": "The degradation of P700 is for most devices not so significant, most of the devices have not more than 0.65%/a degradation.", "sentId": 1, "start": 0, "end": 123}
+{"text": "The only exceptions are a-Si-1 and CIGS-1.", "sentId": 2, "start": 124, "end": 166}
+{"text": "a-Si-1 was a new device at the beginning of the study, so the degradation figure includes the initial Staebler–Wronski degradation despite any precondition being carried out.", "sentId": 3, "start": 167, "end": 341}
+{"text": "This means that the absolute degradation rate might be marginally affected by the initial SWE and a slightly lower rate might be observed over a longer period.", "sentId": 4, "start": 342, "end": 501}
+{"text": "The degradation of the devices is, however, higher than the rest as apparent from Fig. 10.", "sentId": 5, "start": 502, "end": 592}
+{"text": "It should be noted, however, that the PR degradation should be similarly affected but is even higher than the P700 degradation demonstrating the need for long-term energy yield estimation.", "sentId": 6, "start": 593, "end": 781}

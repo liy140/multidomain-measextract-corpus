@@ -1,0 +1,9 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S030881461301604X-1001	1	1	Quantity	%		120	128	120	128	T1-1	68 – 70%
+S030881461301604X-1001	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	107	118	107	118	T2-1	nitric acid
+S030881461301604X-1001	1	2	Quantity	%		150	153	150	153	T1-2	30%
+S030881461301604X-1001	1	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	131	148	131	148	T2-2	hydrochloric acid
+S030881461301604X-1001	1	3	Quantity	%		204	207	204	207	T1-3	30%
+S030881461301604X-1001	1	3	MeasuredEntity		{'HasQuantity': 'T1-3'}	185	202	185	202	T2-3	hydrogen peroxide
+S030881461301604X-1001	1	4	Quantity	%		226	229	226	229	T1-4	98%
+S030881461301604X-1001	1	4	MeasuredEntity		{'HasQuantity': 'T1-4'}	213	224	213	224	T2-4	formic acid

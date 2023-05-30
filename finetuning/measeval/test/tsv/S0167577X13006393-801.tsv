@@ -1,0 +1,10 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0167577X13006393-801	2	1	Quantity	nm		72	87	237	252	T1-1	less than 10 nm
+S0167577X13006393-801	2	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	57	71	222	236	T3-1	analysis depth
+S0167577X13006393-801	2	1	MeasuredEntity		{'HasProperty': 'T3-1'}	6	9	171	174	T4-1	XPS
+S0167577X13006393-801	6	2	MeasuredEntity		{'HasProperty': 'T2-2'}	125	140	967	982	T3-2	dehydroxylation
+S0167577X13006393-801	6	3	MeasuredEntity		{'HasProperty': 'T3-3'}	125	140	967	982	T2-3	dehydroxylation
+S0167577X13006393-801	7	2	Quantity	°C		71	84	1087	1100	T1-2	below 1200 °C
+S0167577X13006393-801	7	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	48	70	1064	1086	T2-2	sintering temperatures
+S0167577X13006393-801	7	3	Quantity			113	123	1129	1139	T1-3	0.4 to 0.5
+S0167577X13006393-801	7	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	92	109	1108	1125	T3-3	conversion degree

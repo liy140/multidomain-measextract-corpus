@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0032063313003218-6078	1	1	Quantity	h		117	121	117	121	T1-1	3 h.
+S0032063313003218-6078	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	96	101	96	101	T4-1	lasts
+S0032063313003218-6078	1	1	MeasuredEntity		{'HasProperty': 'T4-1'}	54	89	54	89	T2-1	magnetospheric compression scenario

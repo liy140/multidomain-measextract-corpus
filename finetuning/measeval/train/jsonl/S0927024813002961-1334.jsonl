@@ -1,0 +1,12 @@
+{"text": "There are several time-scales involved in performance variations of photovoltaic devices.", "sentId": 1, "start": 0, "end": 89}
+{"text": "In the short term, there is the direct influence of the environment as discussed in Section 4.", "sentId": 2, "start": 90, "end": 184}
+{"text": "In the mid-term there is the Staebler–Wronski effect for a-Si [48,49] or pre-conditioning for CIGS, which affects the annual energy prediction by less than 5% typically and are not further explored here.", "sentId": 3, "start": 185, "end": 388}
+{"text": "The effect for CIGS is slightly contradictory as there is no clarity of the time scales involved yet [4,50].", "sentId": 4, "start": 389, "end": 497}
+{"text": "There are also long-term gradual degradation effects which affect all device technologies [51].", "sentId": 5, "start": 498, "end": 593}
+{"text": "In many published discussions there are generalisations of technologies.", "sentId": 6, "start": 594, "end": 666}
+{"text": "It is shown below that such a general behaviour was not observed at CREST.", "sentId": 7, "start": 667, "end": 741}
+{"text": "The maximum power point data of all devices within an irradiance range of 650–750 W/m2 have been extracted and corrected to 700 W/m2 and 25 °C using bi-linear interpolation.", "sentId": 8, "start": 742, "end": 915}
+{"text": "These power values are annotated as P700.", "sentId": 9, "start": 916, "end": 957}
+{"text": "This particular irradiance level was chosen as there is a statistically significant number of data points in each month of the year and thus fewer outliers to affect the analysis.", "sentId": 10, "start": 958, "end": 1137}
+{"text": "The result is shown in Fig. 9 (top graph).", "sentId": 11, "start": 1138, "end": 1180}
+{"text": "To contrast power and energy, the monthly performance ratios are also plotted (bottom graph)Table 2.", "sentId": 12, "start": 1181, "end": 1281}

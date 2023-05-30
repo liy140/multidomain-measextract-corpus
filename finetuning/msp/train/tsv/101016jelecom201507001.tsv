@@ -1,0 +1,10 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jelecom201507001	3	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	36	56	480	500	T2-1	thermally exfoliated
+101016jelecom201507001	3	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	4	18	448	462	T3-1	graphite oxide
+101016jelecom201507001	3	1	Quantity	degC	"{""unit"": ""degC""}"	60	69	504	513	T1-1	1000 degC
+101016jelecom201507001	6	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	45	59	835	849	T2-2	concentrations
+101016jelecom201507001	6	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	0	20	790	810	T3-2	Graphene dispersions
+101016jelecom201507001	6	2	Quantity	mg mL- 1	"{""unit"": ""mg mL- 1""}"	73	101	863	891	T1-2	1.0 mg mL- 1 to 7.0 mg mL- 1
+101016jelecom201507001	6	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	106	121	896	911	T2-3	ultrasonication
+101016jelecom201507001	6	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	0	20	790	810	T3-3	Graphene dispersions
+101016jelecom201507001	6	3	Quantity	mins	"{""unit"": ""mins""}"	137	163	927	953	T1-3	10 mins followed by 5 mins

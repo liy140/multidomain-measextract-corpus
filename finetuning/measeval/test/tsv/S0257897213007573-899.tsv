@@ -1,0 +1,10 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0257897213007573-899	1	1	Quantity	cm− 1		141	153	141	153	T1-1	~ 1354 cm− 1
+S0257897213007573-899	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	87	95	87	95	T3-1	position
+S0257897213007573-899	1	1	MeasuredEntity		{'HasProperty': 'T3-1'}	99	105	99	105	T2-1	D-band
+S0257897213007573-899	5	3	MeasuredEntity		{'HasProperty': 'T3-3'}	26	35	610	619	T4-3	CVD layer
+S0257897213007573-899	6	2	Quantity			50	54	712	716	T1-2	1.32
+S0257897213007573-899	6	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	25	30	687	692	T3-2	ratio
+S0257897213007573-899	6	2	MeasuredEntity		{'HasProperty': 'T3-2'}	32	37	694	699	T2-2	ID/IG
+S0257897213007573-899	6	3	Quantity	nm		92	99	754	761	T1-3	3.75 nm
+S0257897213007573-899	6	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	86	88	748	750	T3-3	La

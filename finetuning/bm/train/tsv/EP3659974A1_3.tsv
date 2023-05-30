@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+EP3659974A1_3	1	1	MeasuredEntity			50	57	50	57	T3-1	process
+EP3659974A1_3	1	1	MeasuredProperty			75	83	75	83	T2-1	pH value
+EP3659974A1_3	1	1	Quantity			84	113	84	113	T1-1	in the range of from 11 to 13

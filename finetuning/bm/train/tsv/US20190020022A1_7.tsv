@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20190020022A1_7	1	1	MeasuredEntity			130	138	130	138	T3-1	ammonium
+US20190020022A1_7	1	1	MeasuredProperty			193	201	193	201	T2-1	compound
+US20190020022A1_7	1	1	Quantity	molar ratio		216	227	216	227	T1-1	molar ratio

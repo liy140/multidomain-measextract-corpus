@@ -1,0 +1,23 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0925443913001385-1319	1	1	Quantity			122	138	122	138	T1-1	approximately 80
+S0925443913001385-1319	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	139	147	139	147	T2-1	proteins
+S0925443913001385-1319	1	2	Quantity			162	164	162	164	T1-2	13
+S0925443913001385-1319	1	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	139	147	139	147	T2-2	proteins
+S0925443913001385-1319	3	3	Quantity			155	157	564	566	T1-3	80
+S0925443913001385-1319	3	3	MeasuredEntity		{'HasQuantity': 'T1-3'}	158	163	567	572	T2-3	genes
+S0925443913001385-1319	8	4	Quantity	proteins		25	48	1403	1426	T1-4	over a hundred proteins
+S0925443913001385-1319	8	4	MeasuredEntity		{'HasQuantity': 'T1-4'}	5	14	1383	1392	T3-4	machinery
+S0925443913001385-1319	13	5	Quantity			45	48	2948	2951	T1-5	one
+S0925443913001385-1319	13	5	MeasuredEntity		{'HasQuantity': 'T1-5'}	49	55	2952	2958	T2-5	family
+S0925443913001385-1319	15	6	Quantity			51	55	3264	3268	T1-6	four
+S0925443913001385-1319	15	6	MeasuredEntity		{'HasQuantity': 'T1-6'}	56	83	3269	3296	T2-6	siblings of the same family
+S0925443913001385-1319	16	7	Quantity	megadalton		42	56	3394	3408	T1-7	~ 2 megadalton
+S0925443913001385-1319	16	7	MeasuredEntity		{'HasQuantity': 'T1-7'}	10	38	3362	3390	T3-7	mammalian mitoribosome (55S)
+S0925443913001385-1319	16	8	Quantity	components		93	106	3445	3458	T1-8	80 components
+S0925443913001385-1319	16	8	MeasuredEntity		{'HasQuantity': 'T1-8'}	10	38	3362	3390	T3-8	mammalian mitoribosome (55S)
+S0925443913001385-1319	18	9	Quantity	%		34	39	3828	3833	T1-9	~ 70%
+S0925443913001385-1319	18	9	MeasuredProperty		{'HasQuantity': 'T1-9'}	40	44	3834	3838	T4-9	rRNA
+S0925443913001385-1319	18	9	MeasuredEntity		{'HasProperty': 'T4-9'}	4	25	3798	3819	T3-9	70S and 80S particles
+S0925443913001385-1319	18	10	Quantity	%		81	86	3875	3880	T1-10	~ 70%
+S0925443913001385-1319	18	10	MeasuredProperty		{'HasQuantity': 'T1-10'}	87	94	3881	3888	T3-10	protein
+S0925443913001385-1319	18	10	MeasuredEntity		{'HasProperty': 'T3-10'}	53	72	3847	3866	T2-10	human mitoribosomes

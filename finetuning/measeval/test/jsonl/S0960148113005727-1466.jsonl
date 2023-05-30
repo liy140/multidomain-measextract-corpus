@@ -1,0 +1,6 @@
+{"text": "The cumulative lifetime output of a 100 MW wind farm with a 28.5% load factor would be 4.99 TWh over 20 years.", "sentId": 1, "start": 0, "end": 110}
+{"text": "If this farm suffers a linear annual deterioration of −0.41 points after the first year, its lifetime output reduces to 4.37 TWh, a fall of 12.5%.", "sentId": 2, "start": 111, "end": 257}
+{"text": "This will increase the cost of electricity from wind generators, as less electricity is produced to recover the costs of construction.", "sentId": 3, "start": 258, "end": 392}
+{"text": "The economic value of the lost output is relatively low as it mostly occurs in the far future.", "sentId": 4, "start": 393, "end": 487}
+{"text": "With a discount rate of 10%, degradation increases the levelised cost of electricity by 9%, from approximately £90 [4,5] to £98 per MWh.", "sentId": 5, "start": 488, "end": 624}
+{"text": "This impact becomes greater if the economic lifetime increases or the discount rate decreases.", "sentId": 6, "start": 625, "end": 719}

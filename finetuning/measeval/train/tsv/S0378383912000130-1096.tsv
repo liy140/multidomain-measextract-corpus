@@ -1,0 +1,6 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0378383912000130-1096	1	1	Quantity	mm		119	125	119	125	T1-1	8.5 mm
+S0378383912000130-1096	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	126	131	126	131	T2-1	beach
+S0378383912000130-1096	1	2	Quantity	mm		139	155	139	155	T1-2	1180 and 1980 mm
+S0378383912000130-1096	1	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	135	136	135	136	T4-2	x
+S0378383912000130-1096	1	2	MeasuredEntity		{'HasProperty': 'T4-2'}	0	102	0	102	T3-2	Time-series of model-predicted (solid lines) and experimentally-measured (dashed lines) hydraulic head

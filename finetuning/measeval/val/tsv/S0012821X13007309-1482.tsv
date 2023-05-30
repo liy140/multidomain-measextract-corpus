@@ -1,0 +1,14 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0012821X13007309-1482	1	1	Quantity	m		92	98	92	98	T11-1	17.7 m
+S0012821X13007309-1482	1	1	MeasuredProperty		{'HasQuantity': 'T11-1'}	99	104	99	104	T21-1	thick
+S0012821X13007309-1482	1	1	MeasuredEntity		{'HasProperty': 'T21-1'}	105	179	105	179	T31-1	section of the Bridge Creek Limestone (∼12 m) and Hartland Shale (∼12.6 m)
+S0012821X13007309-1482	1	2	Quantity	m		144	149	144	149	T52-2	∼12 m
+S0012821X13007309-1482	1	2	MeasuredEntity		{'HasQuantity': 'T52-2'}	120	142	120	142	T42-2	Bridge Creek Limestone
+S0012821X13007309-1482	1	3	Quantity	m		171	178	171	178	T73-3	∼12.6 m
+S0012821X13007309-1482	1	3	MeasuredEntity		{'HasQuantity': 'T73-3'}	155	169	155	169	T63-3	Hartland Shale
+S0012821X13007309-1482	3	4	Quantity			42	46	422	426	T84-4	four
+S0012821X13007309-1482	3	4	MeasuredEntity		{'HasQuantity': 'T84-4'}	47	62	427	442	T94-4	bentonite units
+S0012821X13007309-1482	3	5	Quantity	cm		66	76	446	456	T105-5	1 to 20 cm
+S0012821X13007309-1482	3	5	MeasuredEntity		{'HasQuantity': 'T105-5'}	47	62	427	442	T95-5	bentonite units
+S0012821X13007309-1482	4	6	Quantity	Ma		115	128	624	637	T126-6	93.90±0.15 Ma
+S0012821X13007309-1482	4	6	MeasuredEntity		{'HasQuantity': 'T126-6'}	108	111	617	620	T116-6	CTB

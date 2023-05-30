@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20140186710A1_19	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	186	212	186	212	T3-1	nickel composite hydroxide
+US20140186710A1_19	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	218	229	218	229	T2-1	temperature
+US20140186710A1_19	1	1	Quantity	° C	"{""unit"": ""\u00b0 C""}"	233	246	233	246	T1-1	300 to 750° C

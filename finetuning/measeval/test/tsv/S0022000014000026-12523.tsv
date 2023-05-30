@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0022000014000026-12523	6	1	Quantity			110	111	1231	1232	T1-1	1
+S0022000014000026-12523	6	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	98	106	1219	1227	T3-1	switches
+S0022000014000026-12523	6	1	MeasuredEntity		{'HasProperty': 'T3-1'}	88	97	1209	1218	T2-1	TimeT,s,C

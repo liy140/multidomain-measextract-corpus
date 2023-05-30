@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103512003533-3299	5	1	Quantity	%		327	330	1088	1091	T11-1	50%
+S0019103512003533-3299	5	1	MeasuredProperty		{'HasQuantity': 'T11-1'}	303	323	1064	1084	T21-1	heating efficiencies
+S0019103512003533-3299	5	1	MeasuredEntity		{'HasProperty': 'T21-1'}	0	17	761	778	T31-1	Solar EUV heating

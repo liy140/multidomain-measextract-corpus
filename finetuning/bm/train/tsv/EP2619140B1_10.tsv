@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+EP2619140B1_10	1	1	MeasuredEntity			69	82	69	82	T3-1	the precursor
+EP2619140B1_10	1	1	MeasuredProperty			49	61	49	61	T2-1	sodium level
+EP2619140B1_10	1	1	Quantity	ppm		92	112	92	112	T1-1	is less than 500 ppm

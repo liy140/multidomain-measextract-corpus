@@ -1,0 +1,1145 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101039b910641c	5	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	39	64	837	862	T2-1	poly(tetrafluoroethylene)
+101039b910641c	5	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	71	97	869	895	T3-1	stainless steel containers
+101039b910641c	5	1	Quantity	mL	"{""unit"": ""mL""}"	34	38	832	836	T1-1	23mL
+101039b910641c	15	2	MeasuredEntity		"{""HasQuantity"": ""T1-2""}"	7	8	1825	1826	T3-2	C
+101039b910641c	15	2	Quantity			10	14	1828	1832	T1-2	39.6
+101039b910641c	15	3	MeasuredEntity		"{""HasQuantity"": ""T1-3""}"	16	17	1834	1835	T3-3	H
+101039b910641c	15	3	Quantity			19	23	1837	1841	T1-3	2.33
+101039b910641c	15	4	MeasuredEntity		"{""HasQuantity"": ""T1-4""}"	25	26	1843	1844	T3-4	N
+101039b910641c	15	4	Quantity			28	32	1846	1850	T1-4	6.03
+101039b910641c	17	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	69	74	2285	2290	T2-5	yield
+101039b910641c	17	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	0	11	2216	2227	T3-5	Blue plates
+101039b910641c	17	5	Quantity	%	"{""unit"": ""%""}"	65	68	2281	2284	T1-5	65%
+101039b910641c	23	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	17	21	2560	2564	T2-6	V2O5
+101039b910641c	23	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	5	13	2548	2556	T3-6	solution
+101039b910641c	23	6	Quantity	g	"{""unit"": ""g""}"	23	29	2566	2572	T1-6	0.077g
+101039b910641c	23	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	17	21	2560	2564	T2-7	V2O5
+101039b910641c	23	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	5	13	2548	2556	T3-7	solution
+101039b910641c	23	7	Quantity	mmol	"{""unit"": ""mmol""}"	31	40	2574	2583	T1-7	0.423mmol
+101039b910641c	23	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	43	65	2586	2608	T2-8	cupric acetate hydrate
+101039b910641c	23	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	5	13	2548	2556	T3-8	solution
+101039b910641c	23	8	Quantity	g	"{""unit"": ""g""}"	67	74	2610	2617	T1-8	0.210 g
+101039b910641c	23	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	43	65	2586	2608	T2-9	cupric acetate hydrate
+101039b910641c	23	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	5	13	2548	2556	T3-9	solution
+101039b910641c	23	9	Quantity	mmol	"{""unit"": ""mmol""}"	76	85	2619	2628	T1-9	1.16 mmol
+101039b910641c	23	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	99	110	2642	2653	T2-10	terpyridine
+101039b910641c	23	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	5	13	2548	2556	T3-10	solution
+101039b910641c	23	10	Quantity	g	"{""unit"": ""g""}"	112	119	2655	2662	T1-10	0.103 g
+101039b910641c	23	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	99	110	2642	2653	T2-11	terpyridine
+101039b910641c	23	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	5	13	2548	2556	T3-11	solution
+101039b910641c	23	11	Quantity	mmol	"{""unit"": ""mmol""}"	121	131	2664	2674	T1-11	0.442 mmol
+101039b910641c	23	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	134	161	2677	2704	T2-12	1,3-phenyldiphosphonic acid
+101039b910641c	23	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	5	13	2548	2556	T3-12	solution
+101039b910641c	23	12	Quantity	g	"{""unit"": ""g""}"	163	170	2706	2713	T1-12	0.051 g
+101039b910641c	23	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	134	161	2677	2704	T2-13	1,3-phenyldiphosphonic acid
+101039b910641c	23	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	5	13	2548	2556	T3-13	solution
+101039b910641c	23	13	Quantity	mmol	"{""unit"": ""mmol""}"	172	182	2715	2725	T1-13	0.214 mmol
+101039b910641c	23	14	MeasuredProperty		"{""HasQuantity"": ""T1-14""}"	185	188	2728	2731	T2-14	H2O
+101039b910641c	23	14	MeasuredEntity		"{""HasProperty"": ""T2-14""}"	5	13	2548	2556	T3-14	solution
+101039b910641c	23	14	Quantity	mL	"{""unit"": ""mL""}"	190	197	2733	2740	T1-14	5.00 mL
+101039b910641c	23	15	MeasuredProperty		"{""HasQuantity"": ""T1-15""}"	185	188	2728	2731	T2-15	H2O
+101039b910641c	23	15	MeasuredEntity		"{""HasProperty"": ""T2-15""}"	5	13	2548	2556	T3-15	solution
+101039b910641c	23	15	Quantity	mmol	"{""unit"": ""mmol""}"	199	210	2742	2753	T1-15	277.47 mmol
+101039b910641c	23	16	MeasuredProperty		"{""HasQuantity"": ""T1-16""}"	217	228	2760	2771	T2-16	acetic acid
+101039b910641c	23	16	MeasuredEntity		"{""HasProperty"": ""T2-16""}"	5	13	2548	2556	T3-16	solution
+101039b910641c	23	16	Quantity	mL	"{""unit"": ""mL""}"	230	238	2773	2781	T1-16	0.100 mL
+101039b910641c	23	17	MeasuredProperty		"{""HasQuantity"": ""T1-17""}"	217	228	2760	2771	T2-17	acetic acid
+101039b910641c	23	17	MeasuredEntity		"{""HasProperty"": ""T2-17""}"	5	13	2548	2556	T3-17	solution
+101039b910641c	23	17	Quantity	mmol	"{""unit"": ""mmol""}"	240	249	2783	2792	T1-17	1.74 mmol
+101039b910641c	23	18	MeasuredProperty		"{""HasQuantity"": ""T1-18""}"	258	268	2801	2811	T2-18	mole ratio
+101039b910641c	23	18	MeasuredEntity		"{""HasProperty"": ""T2-18""}"	17	228	2560	2771	T3-18	V2O5 (0.077g, 0.423mmol), cupric acetate hydrate (0.210 g, 1.16 mmol), 2,2':6,2'' terpyridine (0.103 g, 0.442 mmol), 1,3-phenyldiphosphonic acid (0.051 g, 0.214 mmol), H2O (5.00 mL, 277.47 mmol), and acetic acid
+101039b910641c	23	18	Quantity			269	298	2812	2841	T1-18	1.98:5.42:2.07:1.00:1297:8.13
+101039b910641c	23	19	MeasuredProperty		"{""HasQuantity"": ""T1-19""}"	303	309	2846	2852	T2-19	heated
+101039b910641c	23	19	MeasuredEntity		"{""HasProperty"": ""T2-19""}"	5	13	2548	2556	T3-19	solution
+101039b910641c	23	19	Quantity	degC	"{""unit"": ""degC""}"	313	321	2856	2864	T1-19	135 degC
+101039b910641c	23	20	MeasuredProperty		"{""HasQuantity"": ""T1-20""}"	303	309	2846	2852	T2-20	heated
+101039b910641c	23	20	MeasuredEntity		"{""HasProperty"": ""T2-20""}"	5	13	2548	2556	T3-20	solution
+101039b910641c	23	20	Quantity	h	"{""unit"": ""h""}"	326	330	2869	2873	T1-20	60 h
+101039b910641c	23	21	MeasuredProperty		"{""HasQuantity"": ""T1-21""}"	369	374	2912	2917	T2-21	yield
+101039b910641c	23	21	MeasuredEntity		"{""HasProperty"": ""T2-21""}"	344	356	2887	2899	T3-21	green blocks
+101039b910641c	23	21	Quantity	%	"{""unit"": ""%""}"	365	368	2908	2911	T1-21	30%
+101039b910641c	23	22	MeasuredProperty		"{""HasQuantity"": ""T1-22""}"	384	386	2927	2929	T2-22	pH
+101039b910641c	23	22	MeasuredEntity		"{""HasProperty"": ""T2-22""}"	5	13	2548	2556	T3-22	solution
+101039b910641c	23	22	Quantity			388	391	2931	2934	T1-22	3.0
+101039b910641c	23	23	MeasuredProperty		"{""HasQuantity"": ""T1-23""}"	399	401	2942	2944	T2-23	pH
+101039b910641c	23	23	MeasuredEntity		"{""HasProperty"": ""T2-23""}"	5	13	2548	2556	T3-23	solution
+101039b910641c	23	23	Quantity			403	406	2946	2949	T1-23	3.0
+101039b910641c	23	24	MeasuredEntity		"{""HasQuantity"": ""T1-24""}"	344	356	2887	2899	T3-24	green blocks
+101039b910641c	23	24	Quantity			360	361	2903	2904	T1-24	3
+101039b910641c	25	25	MeasuredProperty		"{""HasQuantity"": ""T1-25""}"	17	21	3154	3158	T2-25	V2O5
+101039b910641c	25	25	MeasuredEntity		"{""HasProperty"": ""T2-25""}"	5	13	3142	3150	T3-25	reaction
+101039b910641c	25	25	Quantity	g	"{""unit"": ""g""}"	23	30	3160	3167	T1-25	0.077 g
+101039b910641c	25	26	MeasuredProperty		"{""HasQuantity"": ""T1-26""}"	17	21	3154	3158	T2-26	V2O5
+101039b910641c	25	26	MeasuredEntity		"{""HasProperty"": ""T2-26""}"	5	13	3142	3150	T3-26	reaction
+101039b910641c	25	26	Quantity	mmol	"{""unit"": ""mmol""}"	32	42	3169	3179	T1-26	0.423 mmol
+101039b910641c	25	27	MeasuredProperty		"{""HasQuantity"": ""T1-27""}"	45	67	3182	3204	T2-27	cupric acetate hydrate
+101039b910641c	25	27	MeasuredEntity		"{""HasProperty"": ""T2-27""}"	5	13	3142	3150	T3-27	reaction
+101039b910641c	25	27	Quantity	g	"{""unit"": ""g""}"	69	76	3206	3213	T1-27	0.207 g
+101039b910641c	25	28	MeasuredProperty		"{""HasQuantity"": ""T1-28""}"	45	67	3182	3204	T2-28	cupric acetate hydrate
+101039b910641c	25	28	MeasuredEntity		"{""HasProperty"": ""T2-28""}"	5	13	3142	3150	T3-28	reaction
+101039b910641c	25	28	Quantity	mmol	"{""unit"": ""mmol""}"	78	87	3215	3224	T1-28	1.14 mmol
+101039b910641c	25	29	MeasuredProperty		"{""HasQuantity"": ""T1-29""}"	90	108	3227	3245	T2-29	2,2'dipyridylamine
+101039b910641c	25	29	MeasuredEntity		"{""HasProperty"": ""T2-29""}"	5	13	3142	3150	T3-29	reaction
+101039b910641c	25	29	Quantity	g	"{""unit"": ""g""}"	110	117	3247	3254	T1-29	0.083 g
+101039b910641c	25	30	MeasuredProperty		"{""HasQuantity"": ""T1-30""}"	90	108	3227	3245	T2-30	2,2'dipyridylamine
+101039b910641c	25	30	MeasuredEntity		"{""HasProperty"": ""T2-30""}"	5	13	3142	3150	T3-30	reaction
+101039b910641c	25	30	Quantity	mmol	"{""unit"": ""mmol""}"	119	129	3256	3266	T1-30	0.485 mmol
+101039b910641c	25	31	MeasuredProperty		"{""HasQuantity"": ""T1-31""}"	132	159	3269	3296	T2-31	1,3-phenyldiphosphonic acid
+101039b910641c	25	31	MeasuredEntity		"{""HasProperty"": ""T2-31""}"	5	13	3142	3150	T3-31	reaction
+101039b910641c	25	31	Quantity	g	"{""unit"": ""g""}"	161	168	3298	3305	T1-31	0.049 g
+101039b910641c	25	32	MeasuredProperty		"{""HasQuantity"": ""T1-32""}"	132	159	3269	3296	T2-32	1,3-phenyldiphosphonic acid
+101039b910641c	25	32	MeasuredEntity		"{""HasProperty"": ""T2-32""}"	5	13	3142	3150	T3-32	reaction
+101039b910641c	25	32	Quantity	mmol	"{""unit"": ""mmol""}"	170	180	3307	3317	T1-32	0.206 mmol
+101039b910641c	25	33	MeasuredProperty		"{""HasQuantity"": ""T1-33""}"	183	186	3320	3323	T2-33	H2O
+101039b910641c	25	33	MeasuredEntity		"{""HasProperty"": ""T2-33""}"	5	13	3142	3150	T3-33	reaction
+101039b910641c	25	33	Quantity	mL	"{""unit"": ""mL""}"	188	195	3325	3332	T1-33	5.00 mL
+101039b910641c	25	34	MeasuredProperty		"{""HasQuantity"": ""T1-34""}"	183	186	3320	3323	T2-34	H2O
+101039b910641c	25	34	MeasuredEntity		"{""HasProperty"": ""T2-34""}"	5	13	3142	3150	T3-34	reaction
+101039b910641c	25	34	Quantity	mmol	"{""unit"": ""mmol""}"	197	208	3334	3345	T1-34	277.47 mmol
+101039b910641c	25	35	MeasuredProperty		"{""HasQuantity"": ""T1-35""}"	215	217	3352	3354	T2-35	HF
+101039b910641c	25	35	MeasuredEntity		"{""HasProperty"": ""T2-35""}"	5	13	3142	3150	T3-35	reaction
+101039b910641c	25	35	Quantity	mL	"{""unit"": ""mL""}"	219	227	3356	3364	T1-35	0.100 mL
+101039b910641c	25	36	MeasuredProperty		"{""HasQuantity"": ""T1-36""}"	215	217	3352	3354	T2-36	HF
+101039b910641c	25	36	MeasuredEntity		"{""HasProperty"": ""T2-36""}"	5	13	3142	3150	T3-36	reaction
+101039b910641c	25	36	Quantity	mmol	"{""unit"": ""mmol""}"	229	238	3366	3375	T1-36	2.90 mmol
+101039b910641c	25	37	MeasuredProperty		"{""HasQuantity"": ""T1-37""}"	247	257	3384	3394	T2-37	mole ratio
+101039b910641c	25	37	MeasuredEntity		"{""HasProperty"": ""T2-37""}"	17	217	3154	3354	T3-37	V2O5 (0.077 g, 0.423 mmol), cupric acetate hydrate (0.207 g, 1.14 mmol), 2,2'dipyridylamine (0.083 g, 0.485 mmol), 1,3-phenyldiphosphonic acid (0.049 g, 0.206 mmol), H2O (5.00 mL, 277.47 mmol), and HF
+101039b910641c	25	37	Quantity			258	288	3395	3425	T1-37	2.05:5.53:2.35:1.00:1347:14.08
+101039b910641c	25	38	MeasuredEntity		"{""HasQuantity"": ""T1-38""}"	5	13	3142	3150	T3-38	reaction
+101039b910641c	25	38	Quantity	degC	"{""unit"": ""degC""}"	292	300	3429	3437	T1-38	135 degC
+101039b910641c	25	39	MeasuredEntity		"{""HasQuantity"": ""T1-39""}"	5	13	3142	3150	T3-39	reaction
+101039b910641c	25	39	Quantity	h	"{""unit"": ""h""}"	305	309	3442	3446	T1-39	48 h
+101039b910641c	25	40	MeasuredEntity		"{""HasQuantity"": ""T1-40""}"	310	331	3447	3468	T3-40	produced green plates
+101039b910641c	25	40	Quantity			335	336	3472	3473	T1-40	4
+101039b910641c	25	41	MeasuredProperty		"{""HasQuantity"": ""T1-41""}"	344	349	3481	3486	T2-41	yield
+101039b910641c	25	41	MeasuredEntity		"{""HasProperty"": ""T2-41""}"	319	331	3456	3468	T3-41	green plates
+101039b910641c	25	41	Quantity	%	"{""unit"": ""%""}"	340	343	3477	3480	T1-41	40%
+101039b910641c	25	42	MeasuredProperty		"{""HasQuantity"": ""T1-42""}"	359	361	3496	3498	T2-42	pH
+101039b910641c	25	42	MeasuredEntity		"{""HasProperty"": ""T2-42""}"	5	13	3142	3150	T3-42	reaction
+101039b910641c	25	42	Quantity			363	366	3500	3503	T1-42	2.0
+101039b910641c	25	43	MeasuredProperty		"{""HasQuantity"": ""T1-43""}"	374	376	3511	3513	T2-43	pH
+101039b910641c	25	43	MeasuredEntity		"{""HasProperty"": ""T2-43""}"	5	13	3142	3150	T3-43	reaction
+101039b910641c	25	43	Quantity			378	381	3515	3518	T1-43	1.0
+101039b910641c	33	44	MeasuredEntity		"{""HasQuantity"": ""T1-44""}"	0	17	4238	4255	T3-44	Dark green plates
+101039b910641c	33	44	Quantity			21	22	4259	4260	T1-44	5
+101039b910641c	33	45	MeasuredProperty		"{""HasQuantity"": ""T1-45""}"	75	80	4313	4318	T2-45	yield
+101039b910641c	33	45	MeasuredEntity		"{""HasProperty"": ""T2-45""}"	0	17	4238	4255	T3-45	Dark green plates
+101039b910641c	33	45	Quantity	%	"{""unit"": ""%""}"	71	74	4309	4312	T1-45	85%
+101039b910641c	44	46	MeasuredProperty		"{""HasQuantity"": ""T1-46""}"	23	31	5647	5655	T2-46	isolated
+101039b910641c	44	46	MeasuredEntity		"{""HasProperty"": ""T2-46""}"	0	11	5624	5635	T3-46	Blue plates
+101039b910641c	44	46	Quantity			15	16	5639	5640	T1-46	7
+101039b910641c	44	47	MeasuredProperty		"{""HasQuantity"": ""T1-47""}"	39	44	5663	5668	T2-47	yield
+101039b910641c	44	47	MeasuredEntity		"{""HasProperty"": ""T2-47""}"	0	11	5624	5635	T3-47	Blue plates
+101039b910641c	44	47	Quantity	%	"{""unit"": ""%""}"	35	38	5659	5662	T1-47	65%
+101039b910641c	46	48	MeasuredProperty		"{""HasQuantity"": ""T1-48""}"	14	18	5861	5865	T2-48	V2O5
+101039b910641c	46	48	MeasuredEntity		"{""HasProperty"": ""T2-48""}"	3	10	5850	5857	T3-48	mixture
+101039b910641c	46	48	Quantity	g	"{""unit"": ""g""}"	20	27	5867	5874	T1-48	0.077 g
+101039b910641c	46	49	MeasuredProperty		"{""HasQuantity"": ""T1-49""}"	14	18	5861	5865	T2-49	V2O5
+101039b910641c	46	49	MeasuredEntity		"{""HasProperty"": ""T2-49""}"	3	10	5850	5857	T3-49	mixture
+101039b910641c	46	49	Quantity	mmol	"{""unit"": ""mmol""}"	29	39	5876	5886	T1-49	0.423 mmol
+101039b910641c	46	50	MeasuredProperty		"{""HasQuantity"": ""T1-50""}"	42	64	5889	5911	T2-50	cupric acetate hydrate
+101039b910641c	46	50	MeasuredEntity		"{""HasProperty"": ""T2-50""}"	3	10	5850	5857	T3-50	mixture
+101039b910641c	46	50	Quantity	g	"{""unit"": ""g""}"	66	73	5913	5920	T1-50	0.203 g
+101039b910641c	46	51	MeasuredProperty		"{""HasQuantity"": ""T1-51""}"	42	64	5889	5911	T2-51	cupric acetate hydrate
+101039b910641c	46	51	MeasuredEntity		"{""HasProperty"": ""T2-51""}"	3	10	5850	5857	T3-51	mixture
+101039b910641c	46	51	Quantity	mmol	"{""unit"": ""mmol""}"	75	85	5922	5932	T1-51	0.873 mmol
+101039b910641c	46	52	MeasuredProperty		"{""HasQuantity"": ""T1-52""}"	88	107	5935	5954	T2-52	1,10-phenanthroline
+101039b910641c	46	52	MeasuredEntity		"{""HasProperty"": ""T2-52""}"	3	10	5850	5857	T3-52	mixture
+101039b910641c	46	52	Quantity	g	"{""unit"": ""g""}"	109	116	5956	5963	T1-52	0.084 g
+101039b910641c	46	53	MeasuredProperty		"{""HasQuantity"": ""T1-53""}"	88	107	5935	5954	T2-53	1,10-phenanthroline
+101039b910641c	46	53	MeasuredEntity		"{""HasProperty"": ""T2-53""}"	3	10	5850	5857	T3-53	mixture
+101039b910641c	46	53	Quantity	mmol	"{""unit"": ""mmol""}"	118	128	5965	5975	T1-53	0.466 mmol
+101039b910641c	46	54	MeasuredProperty		"{""HasQuantity"": ""T1-54""}"	131	158	5978	6005	T2-54	1,4-phenyldiphosphonic acid
+101039b910641c	46	54	MeasuredEntity		"{""HasProperty"": ""T2-54""}"	3	10	5850	5857	T3-54	mixture
+101039b910641c	46	54	Quantity	g	"{""unit"": ""g""}"	160	167	6007	6014	T1-54	0.049 g
+101039b910641c	46	55	MeasuredProperty		"{""HasQuantity"": ""T1-55""}"	131	158	5978	6005	T2-55	1,4-phenyldiphosphonic acid
+101039b910641c	46	55	MeasuredEntity		"{""HasProperty"": ""T2-55""}"	3	10	5850	5857	T3-55	mixture
+101039b910641c	46	55	Quantity	mmol	"{""unit"": ""mmol""}"	169	179	6016	6026	T1-55	0.206 mmol
+101039b910641c	46	56	MeasuredProperty		"{""HasQuantity"": ""T1-56""}"	182	185	6029	6032	T2-56	H2O
+101039b910641c	46	56	MeasuredEntity		"{""HasProperty"": ""T2-56""}"	3	10	5850	5857	T3-56	mixture
+101039b910641c	46	56	Quantity	mL	"{""unit"": ""mL""}"	187	194	6034	6041	T1-56	5.00 mL
+101039b910641c	46	57	MeasuredProperty		"{""HasQuantity"": ""T1-57""}"	182	185	6029	6032	T2-57	H2O
+101039b910641c	46	57	MeasuredEntity		"{""HasProperty"": ""T2-57""}"	3	10	5850	5857	T3-57	mixture
+101039b910641c	46	57	Quantity	mmol	"{""unit"": ""mmol""}"	196	207	6043	6054	T1-57	277.47 mmol
+101039b910641c	46	58	MeasuredProperty		"{""HasQuantity"": ""T1-58""}"	214	216	6061	6063	T2-58	HF
+101039b910641c	46	58	MeasuredEntity		"{""HasProperty"": ""T2-58""}"	3	10	5850	5857	T3-58	mixture
+101039b910641c	46	58	Quantity	mL	"{""unit"": ""mL""}"	218	226	6065	6073	T1-58	0.100 mL
+101039b910641c	46	59	MeasuredProperty		"{""HasQuantity"": ""T1-59""}"	214	216	6061	6063	T2-59	HF
+101039b910641c	46	59	MeasuredEntity		"{""HasProperty"": ""T2-59""}"	3	10	5850	5857	T3-59	mixture
+101039b910641c	46	59	Quantity	mmol	"{""unit"": ""mmol""}"	228	237	6075	6084	T1-59	2.90 mmol
+101039b910641c	46	60	MeasuredProperty		"{""HasQuantity"": ""T1-60""}"	248	258	6095	6105	T2-60	mole ratio
+101039b910641c	46	60	MeasuredEntity		"{""HasProperty"": ""T2-60""}"	14	216	5861	6063	T3-60	V2O5 (0.077 g, 0.423 mmol), cupric acetate hydrate (0.203 g, 0.873 mmol), 1,10-phenanthroline (0.084 g, 0.466 mmol), 1,4-phenyldiphosphonic acid (0.049 g, 0.206 mmol), H2O (5.00 mL, 277.47 mmol), and HF
+101039b910641c	46	60	Quantity			259	289	6106	6136	T1-60	2.05:4.24:2.26:1.00:1347:14.08
+101039b910641c	46	61	MeasuredProperty		"{""HasQuantity"": ""T1-61""}"	317	324	6164	6171	T2-61	heating
+101039b910641c	46	61	MeasuredEntity		"{""HasProperty"": ""T2-61""}"	3	10	5850	5857	T3-61	mixture
+101039b910641c	46	61	Quantity	degC	"{""unit"": ""degC""}"	328	336	6175	6183	T1-61	150 degC
+101039b910641c	46	62	MeasuredProperty		"{""HasQuantity"": ""T1-62""}"	317	324	6164	6171	T2-62	heating
+101039b910641c	46	62	MeasuredEntity		"{""HasProperty"": ""T2-62""}"	3	10	5850	5857	T3-62	mixture
+101039b910641c	46	62	Quantity	h	"{""unit"": ""h""}"	341	344	6188	6191	T1-62	72h
+101039b910641c	46	63	MeasuredProperty		"{""HasQuantity"": ""T1-63""}"	364	366	6211	6213	T2-63	pH
+101039b910641c	46	63	MeasuredEntity		"{""HasProperty"": ""T2-63""}"	3	10	5850	5857	T3-63	mixture
+101039b910641c	46	63	Quantity			377	380	6224	6227	T1-63	1.0
+101039b910641c	46	64	MeasuredProperty		"{""HasQuantity"": ""T1-64""}"	364	366	6211	6213	T2-64	pH
+101039b910641c	46	64	MeasuredEntity		"{""HasProperty"": ""T2-64""}"	3	10	5850	5857	T3-64	mixture
+101039b910641c	46	64	Quantity			385	388	6232	6235	T1-64	1.0
+101039b910641c	51	65	MeasuredProperty		"{""HasQuantity"": ""T1-65""}"	23	31	6887	6895	T2-65	isolated
+101039b910641c	51	65	MeasuredEntity		"{""HasProperty"": ""T2-65""}"	0	12	6864	6876	T3-65	Green plates
+101039b910641c	51	65	Quantity			16	17	6880	6881	T1-65	8
+101039b910641c	51	66	MeasuredProperty		"{""HasQuantity"": ""T1-66""}"	39	44	6903	6908	T2-66	yield
+101039b910641c	51	66	MeasuredEntity		"{""HasProperty"": ""T2-66""}"	0	12	6864	6876	T3-66	Green plates
+101039b910641c	51	66	Quantity	%	"{""unit"": ""%""}"	35	38	6899	6902	T1-66	35%
+101039b910641c	53	67	MeasuredProperty		"{""HasQuantity"": ""T1-67""}"	15	19	7088	7092	T2-67	V2O5
+101039b910641c	53	67	MeasuredEntity		"{""HasProperty"": ""T2-67""}"	3	11	7076	7084	T3-67	solution
+101039b910641c	53	67	Quantity	g	"{""unit"": ""g""}"	21	28	7094	7101	T1-67	0.078 g
+101039b910641c	53	68	MeasuredProperty		"{""HasQuantity"": ""T1-68""}"	15	19	7088	7092	T2-68	V2O5
+101039b910641c	53	68	MeasuredEntity		"{""HasProperty"": ""T2-68""}"	3	11	7076	7084	T3-68	solution
+101039b910641c	53	68	Quantity	mmol	"{""unit"": ""mmol""}"	30	40	7103	7113	T1-68	0.428 mmol
+101039b910641c	53	69	MeasuredProperty		"{""HasQuantity"": ""T1-69""}"	43	65	7116	7138	T2-69	cupric acetate hydrate
+101039b910641c	53	69	MeasuredEntity		"{""HasProperty"": ""T2-69""}"	3	11	7076	7084	T3-69	solution
+101039b910641c	53	69	Quantity	g	"{""unit"": ""g""}"	67	74	7140	7147	T1-69	0.201 g
+101039b910641c	53	70	MeasuredProperty		"{""HasQuantity"": ""T1-70""}"	43	65	7116	7138	T2-70	cupric acetate hydrate
+101039b910641c	53	70	MeasuredEntity		"{""HasProperty"": ""T2-70""}"	3	11	7076	7084	T3-70	solution
+101039b910641c	53	70	Quantity	mmol	"{""unit"": ""mmol""}"	76	86	7149	7159	T1-70	0.864 mmol
+101039b910641c	53	71	MeasuredProperty		"{""HasQuantity"": ""T1-71""}"	89	103	7162	7176	T2-71	2,2'-dipyridyl
+101039b910641c	53	71	MeasuredEntity		"{""HasProperty"": ""T2-71""}"	3	11	7076	7084	T3-71	solution
+101039b910641c	53	71	Quantity	g	"{""unit"": ""g""}"	105	112	7178	7185	T1-71	0.065 g
+101039b910641c	53	72	MeasuredProperty		"{""HasQuantity"": ""T1-72""}"	89	103	7162	7176	T2-72	2,2'-dipyridyl
+101039b910641c	53	72	MeasuredEntity		"{""HasProperty"": ""T2-72""}"	3	11	7076	7084	T3-72	solution
+101039b910641c	53	72	Quantity	mmol	"{""unit"": ""mmol""}"	114	124	7187	7197	T1-72	0.416 mmol
+101039b910641c	53	73	MeasuredProperty		"{""HasQuantity"": ""T1-73""}"	127	154	7200	7227	T2-73	1,4-phenyldiphosphonic acid
+101039b910641c	53	73	MeasuredEntity		"{""HasProperty"": ""T2-73""}"	3	11	7076	7084	T3-73	solution
+101039b910641c	53	73	Quantity	g	"{""unit"": ""g""}"	156	163	7229	7236	T1-73	0.047 g
+101039b910641c	53	74	MeasuredProperty		"{""HasQuantity"": ""T1-74""}"	127	154	7200	7227	T2-74	1,4-phenyldiphosphonic acid
+101039b910641c	53	74	MeasuredEntity		"{""HasProperty"": ""T2-74""}"	3	11	7076	7084	T3-74	solution
+101039b910641c	53	74	Quantity	mmol	"{""unit"": ""mmol""}"	165	175	7238	7248	T1-74	0.197 mmol
+101039b910641c	53	75	MeasuredProperty		"{""HasQuantity"": ""T1-75""}"	178	181	7251	7254	T2-75	H2O
+101039b910641c	53	75	MeasuredEntity		"{""HasProperty"": ""T2-75""}"	3	11	7076	7084	T3-75	solution
+101039b910641c	53	75	Quantity	mL	"{""unit"": ""mL""}"	183	190	7256	7263	T1-75	5.00 mL
+101039b910641c	53	76	MeasuredProperty		"{""HasQuantity"": ""T1-76""}"	178	181	7251	7254	T2-76	H2O
+101039b910641c	53	76	MeasuredEntity		"{""HasProperty"": ""T2-76""}"	3	11	7076	7084	T3-76	solution
+101039b910641c	53	76	Quantity	mmol	"{""unit"": ""mmol""}"	192	203	7265	7276	T1-76	277.47 mmol
+101039b910641c	53	77	MeasuredProperty		"{""HasQuantity"": ""T1-77""}"	210	212	7283	7285	T2-77	HF
+101039b910641c	53	77	MeasuredEntity		"{""HasProperty"": ""T2-77""}"	3	11	7076	7084	T3-77	solution
+101039b910641c	53	77	Quantity	mL	"{""unit"": ""mL""}"	214	222	7287	7295	T1-77	0.200 mL
+101039b910641c	53	78	MeasuredProperty		"{""HasQuantity"": ""T1-78""}"	210	212	7283	7285	T2-78	HF
+101039b910641c	53	78	MeasuredEntity		"{""HasProperty"": ""T2-78""}"	3	11	7076	7084	T3-78	solution
+101039b910641c	53	78	Quantity	mmol	"{""unit"": ""mmol""}"	224	233	7297	7306	T1-78	5.80 mmol
+101039b910641c	53	79	MeasuredProperty		"{""HasQuantity"": ""T1-79""}"	244	254	7317	7327	T2-79	mole ratio
+101039b910641c	53	79	MeasuredEntity		"{""HasProperty"": ""T2-79""}"	15	212	7088	7285	T3-79	V2O5 (0.078 g, 0.428 mmol), cupric acetate hydrate (0.201 g, 0.864 mmol), 2,2'-dipyridyl (0.065 g, 0.416 mmol), 1,4-phenyldiphosphonic acid (0.047 g, 0.197 mmol), H2O (5.00 mL, 277.47 mmol), and HF
+101039b910641c	53	79	Quantity			255	285	7328	7358	T1-79	2.17:4.39:2.11:1.00:1408:29.44
+101039b910641c	53	80	MeasuredProperty		"{""HasQuantity"": ""T1-80""}"	313	320	7386	7393	T2-80	heating
+101039b910641c	53	80	MeasuredEntity		"{""HasProperty"": ""T2-80""}"	3	11	7076	7084	T3-80	solution
+101039b910641c	53	80	Quantity	degC	"{""unit"": ""degC""}"	324	332	7397	7405	T1-80	120 degC
+101039b910641c	53	81	MeasuredProperty		"{""HasQuantity"": ""T1-81""}"	313	320	7386	7393	T2-81	heating
+101039b910641c	53	81	MeasuredEntity		"{""HasProperty"": ""T2-81""}"	3	11	7076	7084	T3-81	solution
+101039b910641c	53	81	Quantity	h	"{""unit"": ""h""}"	337	341	7410	7414	T1-81	72 h
+101039b910641c	53	82	MeasuredProperty		"{""HasQuantity"": ""T1-82""}"	368	370	7441	7443	T2-82	pH
+101039b910641c	53	82	MeasuredEntity		"{""HasProperty"": ""T2-82""}"	3	11	7076	7084	T3-82	solution
+101039b910641c	53	82	Quantity			374	377	7447	7450	T1-82	1.0
+101039b910641c	53	83	MeasuredProperty		"{""HasQuantity"": ""T1-83""}"	368	370	7441	7443	T2-83	pH
+101039b910641c	53	83	MeasuredEntity		"{""HasProperty"": ""T2-83""}"	3	11	7076	7084	T3-83	solution
+101039b910641c	53	83	Quantity			378	380	7451	7453	T1-83	.5
+101039b910641c	54	84	MeasuredProperty		"{""HasQuantity"": ""T1-84""}"	28	36	7483	7491	T2-84	isolated
+101039b910641c	54	84	MeasuredEntity		"{""HasProperty"": ""T2-84""}"	0	17	7455	7472	T3-84	Dark green plates
+101039b910641c	54	84	Quantity			21	22	7476	7477	T1-84	9
+101039b910641c	54	85	MeasuredProperty		"{""HasQuantity"": ""T1-85""}"	44	49	7499	7504	T2-85	yield
+101039b910641c	54	85	MeasuredEntity		"{""HasProperty"": ""T2-85""}"	0	17	7455	7472	T3-85	Dark green plates
+101039b910641c	54	85	Quantity	%	"{""unit"": ""%""}"	40	43	7495	7498	T1-85	40%
+101039b910641c	58	86	MeasuredEntity		"{""HasQuantity"": ""T1-86""}"	20	21	7699	7700	T3-86	O
+101039b910641c	58	86	Quantity			21	22	7700	7701	T1-86	5
+101039b910641c	58	87	MeasuredEntity		"{""HasQuantity"": ""T1-87""}"	17	18	7696	7697	T3-87	N
+101039b910641c	58	87	Quantity			18	19	7697	7698	T1-87	2
+101039b910641c	58	88	MeasuredEntity		"{""HasQuantity"": ""T1-88""}"	8	9	7687	7688	T3-88	H
+101039b910641c	58	88	Quantity			9	11	7688	7690	T1-88	10
+101039b910641c	58	89	MeasuredEntity		"{""HasQuantity"": ""T1-89""}"	4	5	7683	7684	T3-89	C
+101039b910641c	58	89	Quantity			5	7	7684	7686	T1-89	13
+101039b910641c	58	90	MeasuredProperty		"{""HasQuantity"": ""T1-90""}"	28	29	7707	7708	T2-90	C
+101039b910641c	58	90	MeasuredEntity		"{""HasProperty"": ""T2-90""}"	4	26	7683	7705	T3-90	C13 H10 Cu F N2 O5 P V
+101039b910641c	58	90	Quantity			31	35	7710	7714	T1-90	35.6
+101039b910641c	58	91	MeasuredProperty		"{""HasQuantity"": ""T1-91""}"	37	38	7716	7717	T2-91	H
+101039b910641c	58	91	MeasuredEntity		"{""HasProperty"": ""T2-91""}"	4	26	7683	7705	T3-91	C13 H10 Cu F N2 O5 P V
+101039b910641c	58	91	Quantity			40	44	7719	7723	T1-91	2.28
+101039b910641c	58	92	MeasuredProperty		"{""HasQuantity"": ""T1-92""}"	46	47	7725	7726	T2-92	N
+101039b910641c	58	92	MeasuredEntity		"{""HasProperty"": ""T2-92""}"	4	26	7683	7705	T3-92	C13 H10 Cu F N2 O5 P V
+101039b910641c	58	92	Quantity			49	53	7728	7732	T1-92	6.38
+101039b910641c	71	93	MeasuredProperty		"{""HasQuantity"": ""T1-93""}"	29	37	8929	8937	T2-93	isolated
+101039b910641c	71	93	MeasuredEntity		"{""HasProperty"": ""T2-93""}"	0	17	8900	8917	T3-93	Dark green blocks
+101039b910641c	71	93	Quantity			21	23	8921	8923	T1-93	11
+101039b910641c	71	94	MeasuredProperty		"{""HasQuantity"": ""T1-94""}"	45	50	8945	8950	T2-94	yield
+101039b910641c	71	94	MeasuredEntity		"{""HasProperty"": ""T2-94""}"	0	17	8900	8917	T3-94	Dark green blocks
+101039b910641c	71	94	Quantity	%	"{""unit"": ""%""}"	41	44	8941	8944	T1-94	10%
+101039b910641c	80	95	MeasuredProperty		"{""HasQuantity"": ""T1-95""}"	17	21	9858	9862	T2-95	V2O5
+101039b910641c	80	95	MeasuredEntity		"{""HasProperty"": ""T2-95""}"	5	13	9846	9854	T3-95	reaction
+101039b910641c	80	95	Quantity	g	"{""unit"": ""g""}"	23	30	9864	9871	T1-95	0.078 g
+101039b910641c	80	96	MeasuredProperty		"{""HasQuantity"": ""T1-96""}"	17	21	9858	9862	T2-96	V2O5
+101039b910641c	80	96	MeasuredEntity		"{""HasProperty"": ""T2-96""}"	5	13	9846	9854	T3-96	reaction
+101039b910641c	80	96	Quantity	mmol	"{""unit"": ""mmol""}"	32	41	9873	9882	T1-96	0.43 mmol
+101039b910641c	80	97	MeasuredProperty		"{""HasQuantity"": ""T1-97""}"	44	66	9885	9907	T2-97	cupric nitrate hydrate
+101039b910641c	80	97	MeasuredEntity		"{""HasProperty"": ""T2-97""}"	5	13	9846	9854	T3-97	reaction
+101039b910641c	80	97	Quantity	g	"{""unit"": ""g""}"	68	75	9909	9916	T1-97	0.205 g
+101039b910641c	80	98	MeasuredProperty		"{""HasQuantity"": ""T1-98""}"	44	66	9885	9907	T2-98	cupric nitrate hydrate
+101039b910641c	80	98	MeasuredEntity		"{""HasProperty"": ""T2-98""}"	5	13	9846	9854	T3-98	reaction
+101039b910641c	80	98	Quantity	mmol	"{""unit"": ""mmol""}"	77	86	9918	9927	T1-98	0.88 mmol
+101039b910641c	80	99	MeasuredProperty		"{""HasQuantity"": ""T1-99""}"	89	103	9930	9944	T2-99	2,2'-dipyridyl
+101039b910641c	80	99	MeasuredEntity		"{""HasProperty"": ""T2-99""}"	5	13	9846	9854	T3-99	reaction
+101039b910641c	80	99	Quantity	g	"{""unit"": ""g""}"	105	112	9946	9953	T1-99	0.066 g
+101039b910641c	80	100	MeasuredProperty		"{""HasQuantity"": ""T1-100""}"	89	103	9930	9944	T2-100	2,2'-dipyridyl
+101039b910641c	80	100	MeasuredEntity		"{""HasProperty"": ""T2-100""}"	5	13	9846	9854	T3-100	reaction
+101039b910641c	80	100	Quantity	mmol	"{""unit"": ""mmol""}"	114	123	9955	9964	T1-100	0.42 mmol
+101039b910641c	80	101	MeasuredProperty		"{""HasQuantity"": ""T1-101""}"	126	156	9967	9997	T2-101	1,3,5-phenyltriphosphonic acid
+101039b910641c	80	101	MeasuredEntity		"{""HasProperty"": ""T2-101""}"	5	13	9846	9854	T3-101	reaction
+101039b910641c	80	101	Quantity	g	"{""unit"": ""g""}"	158	165	9999	10006	T1-101	0.06 7g
+101039b910641c	80	102	MeasuredProperty		"{""HasQuantity"": ""T1-102""}"	126	156	9967	9997	T2-102	1,3,5-phenyltriphosphonic acid
+101039b910641c	80	102	MeasuredEntity		"{""HasProperty"": ""T2-102""}"	5	13	9846	9854	T3-102	reaction
+101039b910641c	80	102	Quantity	mmol	"{""unit"": ""mmol""}"	167	176	10008	10017	T1-102	0.21 mmol
+101039b910641c	80	103	MeasuredProperty		"{""HasQuantity"": ""T1-103""}"	179	182	10020	10023	T2-103	H2O
+101039b910641c	80	103	MeasuredEntity		"{""HasProperty"": ""T2-103""}"	5	13	9846	9854	T3-103	reaction
+101039b910641c	80	103	Quantity	mL	"{""unit"": ""mL""}"	184	191	10025	10032	T1-103	5.00 mL
+101039b910641c	80	104	MeasuredProperty		"{""HasQuantity"": ""T1-104""}"	179	182	10020	10023	T2-104	H2O
+101039b910641c	80	104	MeasuredEntity		"{""HasProperty"": ""T2-104""}"	5	13	9846	9854	T3-104	reaction
+101039b910641c	80	104	Quantity	mmol	"{""unit"": ""mmol""}"	193	204	10034	10045	T1-104	277.47 mmol
+101039b910641c	80	105	MeasuredProperty		"{""HasQuantity"": ""T1-105""}"	210	212	10051	10053	T2-105	HF
+101039b910641c	80	105	MeasuredEntity		"{""HasProperty"": ""T2-105""}"	5	13	9846	9854	T3-105	reaction
+101039b910641c	80	105	Quantity	uL	"{""unit"": ""uL""}"	214	220	10055	10061	T1-105	100 uL
+101039b910641c	80	106	MeasuredProperty		"{""HasQuantity"": ""T1-106""}"	210	212	10051	10053	T2-106	HF
+101039b910641c	80	106	MeasuredEntity		"{""HasProperty"": ""T2-106""}"	5	13	9846	9854	T3-106	reaction
+101039b910641c	80	106	Quantity	mmol	"{""unit"": ""mmol""}"	222	231	10063	10072	T1-106	2.90 mmol
+101039b910641c	80	107	MeasuredProperty		"{""HasQuantity"": ""T1-107""}"	240	250	10081	10091	T2-107	mole ratio
+101039b910641c	80	107	MeasuredEntity		"{""HasProperty"": ""T2-107""}"	17	212	9858	10053	T3-107	V2O5 (0.078 g, 0.43 mmol), cupric nitrate hydrate (0.205 g, 0.88 mmol), 2,2'-dipyridyl (0.066 g, 0.42 mmol), 1,3,5-phenyltriphosphonic acid (0.06 7g, 0.21 mmol), H2O (5.00 mL, 277.47 mmol) and HF
+101039b910641c	80	107	Quantity			251	281	10092	10122	T1-107	2.03:4.18:2.00:1.00:1315:13.74
+101039b910641c	80	108	MeasuredEntity		"{""HasQuantity"": ""T1-108""}"	5	13	9846	9854	T3-108	reaction
+101039b910641c	80	108	Quantity	degC	"{""unit"": ""degC""}"	285	293	10126	10134	T1-108	180 degC
+101039b910641c	80	109	MeasuredEntity		"{""HasQuantity"": ""T1-109""}"	5	13	9846	9854	T3-109	reaction
+101039b910641c	80	109	Quantity	h	"{""unit"": ""h""}"	298	302	10139	10143	T1-109	72 h
+101039b910641c	80	110	MeasuredEntity		"{""HasQuantity"": ""T1-110""}"	312	325	10153	10166	T3-110	green needles
+101039b910641c	80	110	Quantity			329	331	10170	10172	T1-110	13
+101039b910641c	80	111	MeasuredProperty		"{""HasQuantity"": ""T1-111""}"	339	344	10180	10185	T2-111	yield
+101039b910641c	80	111	MeasuredEntity		"{""HasProperty"": ""T2-111""}"	312	325	10153	10166	T3-111	green needles
+101039b910641c	80	111	Quantity	%	"{""unit"": ""%""}"	335	338	10176	10179	T1-111	40%
+101039b910641c	80	112	MeasuredProperty		"{""HasQuantity"": ""T1-112""}"	354	356	10195	10197	T2-112	pH
+101039b910641c	80	112	MeasuredEntity		"{""HasProperty"": ""T2-112""}"	5	13	9846	9854	T3-112	reaction
+101039b910641c	80	112	Quantity			357	360	10198	10201	T1-112	1.0
+101039b910641c	80	113	MeasuredProperty		"{""HasQuantity"": ""T1-113""}"	368	370	10209	10211	T2-113	pH
+101039b910641c	80	113	MeasuredEntity		"{""HasProperty"": ""T2-113""}"	5	13	9846	9854	T3-113	reaction
+101039b910641c	80	113	Quantity			371	374	10212	10215	T1-113	1.0
+101039b910641c	94	114	MeasuredEntity		"{""HasQuantity"": ""T1-114""}"	7	8	11715	11716	T3-114	C
+101039b910641c	94	114	Quantity			10	14	11718	11722	T1-114	38.5
+101039b910641c	94	115	MeasuredEntity		"{""HasQuantity"": ""T1-115""}"	16	17	11724	11725	T3-115	H
+101039b910641c	94	115	Quantity			19	23	11727	11731	T1-115	3.01
+101039b910641c	94	116	MeasuredEntity		"{""HasQuantity"": ""T1-116""}"	25	26	11733	11734	T3-116	N
+101039b910641c	94	116	Quantity			28	32	11736	11740	T1-116	4.72
+101039b910641c	96	117	MeasuredProperty		"{""HasQuantity"": ""T1-117""}"	13	17	11755	11759	T2-117	V2O5
+101039b910641c	96	117	MeasuredEntity		"{""HasProperty"": ""T2-117""}"	2	9	11744	11751	T3-117	mixture
+101039b910641c	96	117	Quantity	g	"{""unit"": ""g""}"	19	26	11761	11768	T1-117	0.079 g
+101039b910641c	96	118	MeasuredProperty		"{""HasQuantity"": ""T1-118""}"	13	17	11755	11759	T2-118	V2O5
+101039b910641c	96	118	MeasuredEntity		"{""HasProperty"": ""T2-118""}"	2	9	11744	11751	T3-118	mixture
+101039b910641c	96	118	Quantity	mmol	"{""unit"": ""mmol""}"	28	38	11770	11780	T1-118	0.434 mmol
+101039b910641c	96	119	MeasuredProperty		"{""HasQuantity"": ""T1-119""}"	41	63	11783	11805	T2-119	cupric acetate hydrate
+101039b910641c	96	119	MeasuredEntity		"{""HasProperty"": ""T2-119""}"	2	9	11744	11751	T3-119	mixture
+101039b910641c	96	119	Quantity	g	"{""unit"": ""g""}"	65	72	11807	11814	T1-119	0.204 g
+101039b910641c	96	120	MeasuredProperty		"{""HasQuantity"": ""T1-120""}"	41	63	11783	11805	T2-120	cupric acetate hydrate
+101039b910641c	96	120	MeasuredEntity		"{""HasProperty"": ""T2-120""}"	2	9	11744	11751	T3-120	mixture
+101039b910641c	96	120	Quantity	mmol	"{""unit"": ""mmol""}"	74	84	11816	11826	T1-120	0.877 mmol
+101039b910641c	96	121	MeasuredProperty		"{""HasQuantity"": ""T1-121""}"	87	112	11829	11854	T2-121	2-pyridyl carboxylic acid
+101039b910641c	96	121	MeasuredEntity		"{""HasProperty"": ""T2-121""}"	2	9	11744	11751	T3-121	mixture
+101039b910641c	96	121	Quantity	g	"{""unit"": ""g""}"	114	121	11856	11863	T1-121	0.128 g
+101039b910641c	96	122	MeasuredProperty		"{""HasQuantity"": ""T1-122""}"	87	112	11829	11854	T2-122	2-pyridyl carboxylic acid
+101039b910641c	96	122	MeasuredEntity		"{""HasProperty"": ""T2-122""}"	2	9	11744	11751	T3-122	mixture
+101039b910641c	96	122	Quantity	mmol	"{""unit"": ""mmol""}"	123	133	11865	11875	T1-122	1.039 mmol
+101039b910641c	96	123	MeasuredProperty		"{""HasQuantity"": ""T1-123""}"	136	163	11878	11905	T2-123	1,4-phenyldiphosphonic acid
+101039b910641c	96	123	MeasuredEntity		"{""HasProperty"": ""T2-123""}"	2	9	11744	11751	T3-123	mixture
+101039b910641c	96	123	Quantity	g	"{""unit"": ""g""}"	165	172	11907	11914	T1-123	0.049 g
+101039b910641c	96	124	MeasuredProperty		"{""HasQuantity"": ""T1-124""}"	136	163	11878	11905	T2-124	1,4-phenyldiphosphonic acid
+101039b910641c	96	124	MeasuredEntity		"{""HasProperty"": ""T2-124""}"	2	9	11744	11751	T3-124	mixture
+101039b910641c	96	124	Quantity	mmol	"{""unit"": ""mmol""}"	174	184	11916	11926	T1-124	0.206 mmol
+101039b910641c	96	125	MeasuredProperty		"{""HasQuantity"": ""T1-125""}"	187	190	11929	11932	T2-125	H2O
+101039b910641c	96	125	MeasuredEntity		"{""HasProperty"": ""T2-125""}"	2	9	11744	11751	T3-125	mixture
+101039b910641c	96	125	Quantity	mL	"{""unit"": ""mL""}"	192	199	11934	11941	T1-125	5.00 mL
+101039b910641c	96	126	MeasuredProperty		"{""HasQuantity"": ""T1-126""}"	187	190	11929	11932	T2-126	H2O
+101039b910641c	96	126	MeasuredEntity		"{""HasProperty"": ""T2-126""}"	2	9	11744	11751	T3-126	mixture
+101039b910641c	96	126	Quantity	mmol	"{""unit"": ""mmol""}"	201	212	11943	11954	T1-126	277.47 mmol
+101039b910641c	96	127	MeasuredProperty		"{""HasQuantity"": ""T1-127""}"	219	221	11961	11963	T2-127	HF
+101039b910641c	96	127	MeasuredEntity		"{""HasProperty"": ""T2-127""}"	2	9	11744	11751	T3-127	mixture
+101039b910641c	96	127	Quantity	mL	"{""unit"": ""mL""}"	223	231	11965	11973	T1-127	0.400 mL
+101039b910641c	96	128	MeasuredProperty		"{""HasQuantity"": ""T1-128""}"	219	221	11961	11963	T2-128	HF
+101039b910641c	96	128	MeasuredEntity		"{""HasProperty"": ""T2-128""}"	2	9	11744	11751	T3-128	mixture
+101039b910641c	96	128	Quantity	mmol	"{""unit"": ""mmol""}"	233	243	11975	11985	T1-128	11.60 mmol
+101039b910641c	96	129	MeasuredProperty		"{""HasQuantity"": ""T1-129""}"	254	264	11996	12006	T2-129	mole ratio
+101039b910641c	96	129	MeasuredEntity		"{""HasProperty"": ""T2-129""}"	13	221	11755	11963	T3-129	V2O5 (0.079 g, 0.434 mmol), cupric acetate hydrate (0.204 g, 0.877 mmol), 2-pyridyl carboxylic acid (0.128 g, 1.039 mmol), 1,4-phenyldiphosphonic acid (0.049 g, 0.206 mmol), H2O (5.00 mL, 277.47 mmol), and HF
+101039b910641c	96	129	Quantity			265	295	12007	12037	T1-129	2.11:4.26:5.04:1.00:1347:56.31
+101039b910641c	97	130	MeasuredProperty		"{""HasQuantity"": ""T1-130""}"	40	47	12079	12086	T2-130	heating
+101039b910641c	97	130	MeasuredEntity		"{""HasProperty"": ""T2-130""}"	4	12	12043	12051	T3-130	reaction
+101039b910641c	97	130	Quantity	degC	"{""unit"": ""degC""}"	51	59	12090	12098	T1-130	120 degC
+101039b910641c	97	131	MeasuredProperty		"{""HasQuantity"": ""T1-131""}"	40	47	12079	12086	T2-131	heating
+101039b910641c	97	131	MeasuredEntity		"{""HasProperty"": ""T2-131""}"	4	12	12043	12051	T3-131	reaction
+101039b910641c	97	131	Quantity	h	"{""unit"": ""h""}"	64	68	12103	12107	T1-131	72 h
+101039b910641c	97	132	MeasuredProperty		"{""HasQuantity"": ""T1-132""}"	95	97	12134	12136	T2-132	pH
+101039b910641c	97	132	MeasuredEntity		"{""HasProperty"": ""T2-132""}"	4	12	12043	12051	T3-132	reaction
+101039b910641c	97	132	Quantity			101	104	12140	12143	T1-132	1.0
+101039b910641c	97	133	MeasuredProperty		"{""HasQuantity"": ""T1-133""}"	95	97	12134	12136	T2-133	pH
+101039b910641c	97	133	MeasuredEntity		"{""HasProperty"": ""T2-133""}"	4	12	12043	12051	T3-133	reaction
+101039b910641c	97	133	Quantity			106	109	12145	12148	T1-133	1.0
+101039b910641c	103	134	MeasuredProperty		"{""HasQuantity"": ""T1-134""}"	17	21	12990	12994	T2-134	V2O5
+101039b910641c	103	134	MeasuredEntity		"{""HasProperty"": ""T2-134""}"	5	13	12978	12986	T3-134	solution
+101039b910641c	103	134	Quantity	g	"{""unit"": ""g""}"	23	30	12996	13003	T1-134	0.079 g
+101039b910641c	103	135	MeasuredProperty		"{""HasQuantity"": ""T1-135""}"	17	21	12990	12994	T2-135	V2O5
+101039b910641c	103	135	MeasuredEntity		"{""HasProperty"": ""T2-135""}"	5	13	12978	12986	T3-135	solution
+101039b910641c	103	135	Quantity	mmol	"{""unit"": ""mmol""}"	32	41	13005	13014	T1-135	0.43 mmol
+101039b910641c	103	136	MeasuredProperty		"{""HasQuantity"": ""T1-136""}"	44	66	13017	13039	T2-136	cupric nitrate hydrate
+101039b910641c	103	136	MeasuredEntity		"{""HasProperty"": ""T2-136""}"	5	13	12978	12986	T3-136	solution
+101039b910641c	103	136	Quantity	g	"{""unit"": ""g""}"	68	75	13041	13048	T1-136	0.203 g
+101039b910641c	103	137	MeasuredProperty		"{""HasQuantity"": ""T1-137""}"	44	66	13017	13039	T2-137	cupric nitrate hydrate
+101039b910641c	103	137	MeasuredEntity		"{""HasProperty"": ""T2-137""}"	5	13	12978	12986	T3-137	solution
+101039b910641c	103	137	Quantity	mmol	"{""unit"": ""mmol""}"	77	86	13050	13059	T1-137	0.87 mmol
+101039b910641c	103	138	MeasuredProperty		"{""HasQuantity"": ""T1-138""}"	89	103	13062	13076	T2-138	2,2'-dipyridyl
+101039b910641c	103	138	MeasuredEntity		"{""HasProperty"": ""T2-138""}"	5	13	12978	12986	T3-138	solution
+101039b910641c	103	138	Quantity	g	"{""unit"": ""g""}"	105	112	13078	13085	T1-138	0.067 g
+101039b910641c	103	139	MeasuredProperty		"{""HasQuantity"": ""T1-139""}"	89	103	13062	13076	T2-139	2,2'-dipyridyl
+101039b910641c	103	139	MeasuredEntity		"{""HasProperty"": ""T2-139""}"	5	13	12978	12986	T3-139	solution
+101039b910641c	103	139	Quantity	mmol	"{""unit"": ""mmol""}"	114	123	13087	13096	T1-139	0.43 mmol
+101039b910641c	103	140	MeasuredProperty		"{""HasQuantity"": ""T1-140""}"	126	156	13099	13129	T2-140	1,3,5-phenyltriphosphonic acid
+101039b910641c	103	140	MeasuredEntity		"{""HasProperty"": ""T2-140""}"	5	13	12978	12986	T3-140	solution
+101039b910641c	103	140	Quantity	g	"{""unit"": ""g""}"	158	165	13131	13138	T1-140	0.067 g
+101039b910641c	103	141	MeasuredProperty		"{""HasQuantity"": ""T1-141""}"	126	156	13099	13129	T2-141	1,3,5-phenyltriphosphonic acid
+101039b910641c	103	141	MeasuredEntity		"{""HasProperty"": ""T2-141""}"	5	13	12978	12986	T3-141	solution
+101039b910641c	103	141	Quantity	mmol	"{""unit"": ""mmol""}"	167	176	13140	13149	T1-141	0.21 mmol
+101039b910641c	103	142	MeasuredProperty		"{""HasQuantity"": ""T1-142""}"	179	182	13152	13155	T2-142	H2O
+101039b910641c	103	142	MeasuredEntity		"{""HasProperty"": ""T2-142""}"	5	13	12978	12986	T3-142	solution
+101039b910641c	103	142	Quantity	mL	"{""unit"": ""mL""}"	184	191	13157	13164	T1-142	5.00 mL
+101039b910641c	103	143	MeasuredProperty		"{""HasQuantity"": ""T1-143""}"	179	182	13152	13155	T2-143	H2O
+101039b910641c	103	143	MeasuredEntity		"{""HasProperty"": ""T2-143""}"	5	13	12978	12986	T3-143	solution
+101039b910641c	103	143	Quantity	mmol	"{""unit"": ""mmol""}"	193	204	13166	13177	T1-143	277.47 mmol
+101039b910641c	103	144	MeasuredProperty		"{""HasQuantity"": ""T1-144""}"	210	212	13183	13185	T2-144	HF
+101039b910641c	103	144	MeasuredEntity		"{""HasProperty"": ""T2-144""}"	5	13	12978	12986	T3-144	solution
+101039b910641c	103	144	Quantity	uL	"{""unit"": ""uL""}"	214	221	13187	13194	T1-144	1000 uL
+101039b910641c	103	145	MeasuredProperty		"{""HasQuantity"": ""T1-145""}"	210	212	13183	13185	T2-145	HF
+101039b910641c	103	145	MeasuredEntity		"{""HasProperty"": ""T2-145""}"	5	13	12978	12986	T3-145	solution
+101039b910641c	103	145	Quantity	mmol	"{""unit"": ""mmol""}"	223	233	13196	13206	T1-145	29.00 mmol
+101039b910641c	103	146	MeasuredProperty		"{""HasQuantity"": ""T1-146""}"	242	252	13215	13225	T2-146	mole ratio
+101039b910641c	103	146	MeasuredEntity		"{""HasProperty"": ""T2-146""}"	17	212	12990	13185	T3-146	V2O5 (0.079 g, 0.43 mmol), cupric nitrate hydrate (0.203 g, 0.87 mmol), 2,2'-dipyridyl (0.067 g, 0.43 mmol), 1,3,5-phenyltriphosphonic acid (0.067 g, 0.21 mmol), H2O (5.00 mL, 277.47 mmol) and HF
+101039b910641c	103	146	Quantity			253	284	13226	13257	T1-146	2.06:4.14:2.03:1.00:1315:137.44
+101039b910641c	103	147	MeasuredProperty		"{""HasQuantity"": ""T1-147""}"	289	295	13262	13268	T2-147	heated
+101039b910641c	103	147	MeasuredEntity		"{""HasProperty"": ""T2-147""}"	5	13	12978	12986	T3-147	solution
+101039b910641c	103	147	Quantity	degC	"{""unit"": ""degC""}"	299	307	13272	13280	T1-147	120 degC
+101039b910641c	103	148	MeasuredProperty		"{""HasQuantity"": ""T1-148""}"	289	295	13262	13268	T2-148	heated
+101039b910641c	103	148	MeasuredEntity		"{""HasProperty"": ""T2-148""}"	5	13	12978	12986	T3-148	solution
+101039b910641c	103	148	Quantity	h	"{""unit"": ""h""}"	312	316	13285	13289	T1-148	72 h
+101039b910641c	103	149	MeasuredEntity		"{""HasQuantity"": ""T1-149""}"	325	336	13298	13309	T3-149	blue blocks
+101039b910641c	103	149	Quantity			340	342	13313	13315	T1-149	18
+101039b910641c	103	150	MeasuredProperty		"{""HasQuantity"": ""T1-150""}"	350	355	13323	13328	T2-150	yield
+101039b910641c	103	150	MeasuredEntity		"{""HasProperty"": ""T2-150""}"	325	336	13298	13309	T3-150	blue blocks
+101039b910641c	103	150	Quantity	%	"{""unit"": ""%""}"	346	349	13319	13322	T1-150	70%
+101039b910641c	103	151	MeasuredProperty		"{""HasQuantity"": ""T1-151""}"	365	367	13338	13340	T2-151	pH
+101039b910641c	103	151	MeasuredEntity		"{""HasProperty"": ""T2-151""}"	5	13	12978	12986	T3-151	solution
+101039b910641c	103	151	Quantity			368	371	13341	13344	T1-151	1.0
+101039b910641c	103	152	MeasuredProperty		"{""HasQuantity"": ""T1-152""}"	379	381	13352	13354	T2-152	pH
+101039b910641c	103	152	MeasuredEntity		"{""HasProperty"": ""T2-152""}"	5	13	12978	12986	T3-152	solution
+101039b910641c	103	152	Quantity			382	385	13355	13358	T1-152	1.0
+101039b910641c	31	153	MeasuredProperty		"{""HasQuantity"": ""T1-153""}"	292	299	4122	4129	T2-153	stirred
+101039b910641c	31	153	MeasuredEntity		"{""HasProperty"": ""T2-153""}"	15	19	3845	3849	T3-153	V2O5
+101039b910641c	31	153	Quantity	g	"{""unit"": ""g""}"	21	28	3851	3858	T1-153	0.077 g
+101039b910641c	31	154	MeasuredProperty		"{""HasQuantity"": ""T1-154""}"	292	299	4122	4129	T2-154	stirred
+101039b910641c	31	154	MeasuredEntity		"{""HasProperty"": ""T2-154""}"	181	184	4011	4014	T3-154	H2O
+101039b910641c	31	154	Quantity	mmol	"{""unit"": ""mmol""}"	195	206	4025	4036	T1-154	277.47 mmol
+101039b910641c	31	155	MeasuredProperty		"{""HasQuantity"": ""T1-155""}"	292	299	4122	4129	T2-155	stirred
+101039b910641c	31	155	MeasuredEntity		"{""HasProperty"": ""T2-155""}"	213	215	4043	4045	T3-155	HF
+101039b910641c	31	155	Quantity	mL	"{""unit"": ""mL""}"	217	225	4047	4055	T1-155	0.200 mL
+101039b910641c	31	156	MeasuredProperty		"{""HasQuantity"": ""T1-156""}"	292	299	4122	4129	T2-156	stirred
+101039b910641c	31	156	MeasuredEntity		"{""HasProperty"": ""T2-156""}"	213	215	4043	4045	T3-156	HF
+101039b910641c	31	156	Quantity	mmol	"{""unit"": ""mmol""}"	227	236	4057	4066	T1-156	5.80 mmol
+101039b910641c	31	157	MeasuredProperty		"{""HasQuantity"": ""T1-157""}"	245	255	4075	4085	T2-157	mole ratio
+101039b910641c	31	157	MeasuredEntity		"{""HasProperty"": ""T2-157""}"	15	237	3845	4067	T3-157	V2O5 (0.077 g, 0.423 mmol), cupric acetate hydrate (0.206 g, 1.13 mmol), 2,2'dipyridylamine (0.084 g, 0.491 mmol), 1,3-phenyldiphosphonic acid (0.052 g, 0.218 mmol), H2O (5.00 mL, 277.47 mmol), and HF (0.200 mL, 5.80 mmol)
+101039b910641c	31	157	Quantity			256	286	4086	4116	T1-157	1.94:5.18:2.25:1.00:1273:26.61
+101039b910641c	31	158	MeasuredProperty		"{""HasQuantity"": ""T1-158""}"	315	322	4145	4152	T2-158	heating
+101039b910641c	31	158	MeasuredEntity		"{""HasProperty"": ""T2-158""}"	5	237	3835	4067	T3-158	reactants V2O5 (0.077 g, 0.423 mmol), cupric acetate hydrate (0.206 g, 1.13 mmol), 2,2'dipyridylamine (0.084 g, 0.491 mmol), 1,3-phenyldiphosphonic acid (0.052 g, 0.218 mmol), H2O (5.00 mL, 277.47 mmol), and HF (0.200 mL, 5.80 mmol)
+101039b910641c	31	158	Quantity	degC	"{""unit"": ""degC""}"	326	334	4156	4164	T1-158	135 degC
+101039b910641c	31	159	MeasuredProperty		"{""HasQuantity"": ""T1-159""}"	315	322	4145	4152	T2-159	heating
+101039b910641c	31	159	MeasuredEntity		"{""HasProperty"": ""T2-159""}"	5	237	3835	4067	T3-159	reactants V2O5 (0.077 g, 0.423 mmol), cupric acetate hydrate (0.206 g, 1.13 mmol), 2,2'dipyridylamine (0.084 g, 0.491 mmol), 1,3-phenyldiphosphonic acid (0.052 g, 0.218 mmol), H2O (5.00 mL, 277.47 mmol), and HF (0.200 mL, 5.80 mmol)
+101039b910641c	31	159	Quantity	h	"{""unit"": ""h""}"	339	342	4169	4172	T1-159	48h
+101039b910641c	31	160	MeasuredProperty		"{""HasQuantity"": ""T1-160""}"	292	299	4122	4129	T2-160	stirred
+101039b910641c	31	160	MeasuredEntity		"{""HasProperty"": ""T2-160""}"	43	65	3873	3895	T3-160	cupric acetate hydrate
+101039b910641c	31	160	Quantity	g	"{""unit"": ""g""}"	67	74	3897	3904	T1-160	0.206 g
+101039b910641c	31	161	MeasuredProperty		"{""HasQuantity"": ""T1-161""}"	292	299	4122	4129	T2-161	stirred
+101039b910641c	31	161	MeasuredEntity		"{""HasProperty"": ""T2-161""}"	88	106	3918	3936	T3-161	2,2'dipyridylamine
+101039b910641c	31	161	Quantity	g	"{""unit"": ""g""}"	108	115	3938	3945	T1-161	0.084 g
+101039b910641c	31	162	MeasuredProperty		"{""HasQuantity"": ""T1-162""}"	292	299	4122	4129	T2-162	stirred
+101039b910641c	31	162	MeasuredEntity		"{""HasProperty"": ""T2-162""}"	88	106	3918	3936	T3-162	2,2'dipyridylamine
+101039b910641c	31	162	Quantity	mmol	"{""unit"": ""mmol""}"	117	127	3947	3957	T1-162	0.491 mmol
+101039b910641c	31	163	MeasuredProperty		"{""HasQuantity"": ""T1-163""}"	292	299	4122	4129	T2-163	stirred
+101039b910641c	31	163	MeasuredEntity		"{""HasProperty"": ""T2-163""}"	130	157	3960	3987	T3-163	1,3-phenyldiphosphonic acid
+101039b910641c	31	163	Quantity	g	"{""unit"": ""g""}"	159	166	3989	3996	T1-163	0.052 g
+101039b910641c	31	164	MeasuredProperty		"{""HasQuantity"": ""T1-164""}"	292	299	4122	4129	T2-164	stirred
+101039b910641c	31	164	MeasuredEntity		"{""HasProperty"": ""T2-164""}"	130	157	3960	3987	T3-164	1,3-phenyldiphosphonic acid
+101039b910641c	31	164	Quantity	mmol	"{""unit"": ""mmol""}"	168	178	3998	4008	T1-164	0.218 mmol
+101039b910641c	31	165	MeasuredProperty		"{""HasQuantity"": ""T1-165""}"	292	299	4122	4129	T2-165	stirred
+101039b910641c	31	165	MeasuredEntity		"{""HasProperty"": ""T2-165""}"	181	184	4011	4014	T3-165	H2O
+101039b910641c	31	165	Quantity	mL	"{""unit"": ""mL""}"	186	193	4016	4023	T1-165	5.00 mL
+101039b910641c	31	166	MeasuredProperty		"{""HasQuantity"": ""T1-166""}"	292	299	4122	4129	T2-166	stirred
+101039b910641c	31	166	MeasuredEntity		"{""HasProperty"": ""T2-166""}"	15	19	3845	3849	T3-166	V2O5
+101039b910641c	31	166	Quantity	mmol	"{""unit"": ""mmol""}"	30	40	3860	3870	T1-166	0.423 mmol
+101039b910641c	31	167	MeasuredProperty		"{""HasQuantity"": ""T1-167""}"	292	299	4122	4129	T2-167	stirred
+101039b910641c	31	167	MeasuredEntity		"{""HasProperty"": ""T2-167""}"	43	65	3873	3895	T3-167	cupric acetate hydrate
+101039b910641c	31	167	Quantity	mmol	"{""unit"": ""mmol""}"	76	85	3906	3915	T1-167	1.13 mmol
+101039b910641c	7	168	MeasuredProperty		"{""HasQuantity"": ""T1-168""}"	10	19	1012	1021	T2-168	distilled
+101039b910641c	7	168	MeasuredEntity		"{""HasProperty"": ""T2-168""}"	0	5	1002	1007	T3-168	Water
+101039b910641c	7	168	Quantity	M	"{""unit"": ""M""}"	26	31	1028	1033	T1-168	3.0 M
+101039b910641c	76	169	MeasuredEntity		"{""HasQuantity"": ""T1-169""}"	7	8	9230	9231	T3-169	C
+101039b910641c	76	169	Quantity			10	14	9233	9237	T1-169	34.8
+101039b910641c	76	170	MeasuredEntity		"{""HasQuantity"": ""T1-170""}"	16	17	9239	9240	T3-170	H
+101039b910641c	76	170	Quantity			19	23	9242	9246	T1-170	2.25
+101039b910641c	76	171	MeasuredEntity		"{""HasQuantity"": ""T1-171""}"	25	26	9248	9249	T3-171	N
+101039b910641c	76	171	Quantity			28	32	9251	9255	T1-171	8.88
+101039b910641c	9	172	MeasuredProperty		"{""HasQuantity"": ""T1-172""}"	3	10	1180	1187	T2-172	mixture
+101039b910641c	9	172	MeasuredEntity		"{""HasProperty"": ""T2-172""}"	14	18	1191	1195	T3-172	V2O5
+101039b910641c	9	172	Quantity	g	"{""unit"": ""g""}"	20	26	1197	1203	T1-172	0.078g
+101039b910641c	9	173	MeasuredProperty		"{""HasQuantity"": ""T1-173""}"	3	10	1180	1187	T2-173	mixture
+101039b910641c	9	173	MeasuredEntity		"{""HasProperty"": ""T2-173""}"	14	18	1191	1195	T3-173	V2O5
+101039b910641c	9	173	Quantity	mmol	"{""unit"": ""mmol""}"	28	37	1205	1214	T1-173	0.429mmol
+101039b910641c	9	174	MeasuredProperty		"{""HasQuantity"": ""T1-174""}"	3	10	1180	1187	T2-174	mixture
+101039b910641c	9	174	MeasuredEntity		"{""HasProperty"": ""T2-174""}"	40	62	1217	1239	T3-174	cupric acetate hydrate
+101039b910641c	9	174	Quantity	g	"{""unit"": ""g""}"	64	70	1241	1247	T1-174	0.212g
+101039b910641c	9	175	MeasuredProperty		"{""HasQuantity"": ""T1-175""}"	3	10	1180	1187	T2-175	mixture
+101039b910641c	9	175	MeasuredEntity		"{""HasProperty"": ""T2-175""}"	40	62	1217	1239	T3-175	cupric acetate hydrate
+101039b910641c	9	175	Quantity	mmol	"{""unit"": ""mmol""}"	72	80	1249	1257	T1-175	1.17mmol
+101039b910641c	9	176	MeasuredProperty		"{""HasQuantity"": ""T1-176""}"	3	10	1180	1187	T2-176	mixture
+101039b910641c	9	176	MeasuredEntity		"{""HasProperty"": ""T2-176""}"	83	102	1260	1279	T3-176	1,10-phenanthroline
+101039b910641c	9	176	Quantity	g	"{""unit"": ""g""}"	104	111	1281	1288	T1-176	0.087 g
+101039b910641c	9	177	MeasuredProperty		"{""HasQuantity"": ""T1-177""}"	3	10	1180	1187	T2-177	mixture
+101039b910641c	9	177	MeasuredEntity		"{""HasProperty"": ""T2-177""}"	83	102	1260	1279	T3-177	1,10-phenanthroline
+101039b910641c	9	177	Quantity	mmol	"{""unit"": ""mmol""}"	113	123	1290	1300	T1-177	0.483 mmol
+101039b910641c	9	178	MeasuredProperty		"{""HasQuantity"": ""T1-178""}"	3	10	1180	1187	T2-178	mixture
+101039b910641c	9	178	MeasuredEntity		"{""HasProperty"": ""T2-178""}"	126	153	1303	1330	T3-178	1,3-phenyldiphosphonic acid
+101039b910641c	9	178	Quantity	g	"{""unit"": ""g""}"	155	162	1332	1339	T1-178	0.048 g
+101039b910641c	9	179	MeasuredProperty		"{""HasQuantity"": ""T1-179""}"	3	10	1180	1187	T2-179	mixture
+101039b910641c	9	179	MeasuredEntity		"{""HasProperty"": ""T2-179""}"	126	153	1303	1330	T3-179	1,3-phenyldiphosphonic acid
+101039b910641c	9	179	Quantity	mmol	"{""unit"": ""mmol""}"	164	174	1341	1351	T1-179	0.202 mmol
+101039b910641c	9	180	MeasuredProperty		"{""HasQuantity"": ""T1-180""}"	3	10	1180	1187	T2-180	mixture
+101039b910641c	9	180	MeasuredEntity		"{""HasProperty"": ""T2-180""}"	181	184	1358	1361	T3-180	H2O
+101039b910641c	9	180	Quantity	mL	"{""unit"": ""mL""}"	186	193	1363	1370	T1-180	5.00 mL
+101039b910641c	9	181	MeasuredProperty		"{""HasQuantity"": ""T1-181""}"	3	10	1180	1187	T2-181	mixture
+101039b910641c	9	181	MeasuredEntity		"{""HasProperty"": ""T2-181""}"	181	184	1358	1361	T3-181	H2O
+101039b910641c	9	181	Quantity	mmol	"{""unit"": ""mmol""}"	195	206	1372	1383	T1-181	277.47 mmol
+101039b910641c	9	182	MeasuredProperty		"{""HasQuantity"": ""T1-182""}"	215	225	1392	1402	T2-182	mole ratio
+101039b910641c	9	182	MeasuredEntity		"{""HasProperty"": ""T2-182""}"	3	207	1180	1384	T3-182	mixture of V2O5 (0.078g, 0.429mmol), cupric acetate hydrate (0.212g, 1.17mmol), 1,10-phenanthroline (0.087 g, 0.483 mmol), 1,3-phenyldiphosphonic acid (0.048 g, 0.202 mmol), and H2O (5.00 mL, 277.47 mmol)
+101039b910641c	9	182	Quantity			226	250	1403	1427	T1-182	2.12:5.79:2.39:1.00:1374
+101039b910641c	9	183	MeasuredProperty		"{""HasQuantity"": ""T1-183""}"	278	285	1455	1462	T2-183	heating
+101039b910641c	9	183	MeasuredEntity		"{""HasProperty"": ""T2-183""}"	3	10	1180	1187	T3-183	mixture
+101039b910641c	9	183	Quantity	degC	"{""unit"": ""degC""}"	289	297	1466	1474	T1-183	150 degC
+101039b910641c	9	184	MeasuredProperty		"{""HasQuantity"": ""T1-184""}"	278	285	1455	1462	T2-184	heating
+101039b910641c	9	184	MeasuredEntity		"{""HasProperty"": ""T2-184""}"	3	10	1180	1187	T3-184	mixture
+101039b910641c	9	184	Quantity	h	"{""unit"": ""h""}"	302	306	1479	1483	T1-184	72 h
+101039b910641c	9	185	MeasuredProperty		"{""HasQuantity"": ""T1-185""}"	326	335	1503	1512	T2-185	pH values
+101039b910641c	9	185	MeasuredEntity		"{""HasProperty"": ""T2-185""}"	3	10	1180	1187	T3-185	mixture
+101039b910641c	9	185	Quantity			339	342	1516	1519	T1-185	3.0
+101039b910641c	9	186	MeasuredProperty		"{""HasQuantity"": ""T1-186""}"	326	335	1503	1512	T2-186	pH values
+101039b910641c	9	186	MeasuredEntity		"{""HasProperty"": ""T2-186""}"	3	10	1180	1187	T3-186	mixture
+101039b910641c	9	186	Quantity			347	350	1524	1527	T1-186	3.0
+101039b910641c	16	187	MeasuredProperty		"{""HasQuantity"": ""T1-187""}"	3	11	1854	1862	T2-187	solution
+101039b910641c	16	187	MeasuredEntity		"{""HasProperty"": ""T2-187""}"	15	19	1866	1870	T3-187	V2O5
+101039b910641c	16	187	Quantity	g	"{""unit"": ""g""}"	21	28	1872	1879	T1-187	0.078 g
+101039b910641c	16	188	MeasuredProperty		"{""HasQuantity"": ""T1-188""}"	3	11	1854	1862	T2-188	solution
+101039b910641c	16	188	MeasuredEntity		"{""HasProperty"": ""T2-188""}"	15	19	1866	1870	T3-188	V2O5
+101039b910641c	16	188	Quantity	mmol	"{""unit"": ""mmol""}"	30	40	1881	1891	T1-188	0.429 mmol
+101039b910641c	16	189	MeasuredProperty		"{""HasQuantity"": ""T1-189""}"	3	11	1854	1862	T2-189	solution
+101039b910641c	16	189	MeasuredEntity		"{""HasProperty"": ""T2-189""}"	43	65	1894	1916	T3-189	cupric nitrate hydrate
+101039b910641c	16	189	Quantity	g	"{""unit"": ""g""}"	67	74	1918	1925	T1-189	0.201 g
+101039b910641c	16	190	MeasuredProperty		"{""HasQuantity"": ""T1-190""}"	3	11	1854	1862	T2-190	solution
+101039b910641c	16	190	MeasuredEntity		"{""HasProperty"": ""T2-190""}"	43	65	1894	1916	T3-190	cupric nitrate hydrate
+101039b910641c	16	190	Quantity	mmol	"{""unit"": ""mmol""}"	76	86	1927	1937	T1-190	0.864 mmol
+101039b910641c	16	191	MeasuredProperty		"{""HasQuantity"": ""T1-191""}"	3	11	1854	1862	T2-191	solution
+101039b910641c	16	191	MeasuredEntity		"{""HasProperty"": ""T2-191""}"	89	108	1940	1959	T3-191	1,10-phenanthroline
+101039b910641c	16	191	Quantity	g	"{""unit"": ""g""}"	110	117	1961	1968	T1-191	0.083 g
+101039b910641c	16	192	MeasuredProperty		"{""HasQuantity"": ""T1-192""}"	3	11	1854	1862	T2-192	solution
+101039b910641c	16	192	MeasuredEntity		"{""HasProperty"": ""T2-192""}"	89	108	1940	1959	T3-192	1,10-phenanthroline
+101039b910641c	16	192	Quantity	mmol	"{""unit"": ""mmol""}"	119	129	1970	1980	T1-192	0.461 mmol
+101039b910641c	16	193	MeasuredProperty		"{""HasQuantity"": ""T1-193""}"	3	11	1854	1862	T2-193	solution
+101039b910641c	16	193	MeasuredEntity		"{""HasProperty"": ""T2-193""}"	132	159	1983	2010	T3-193	1,3-phenyldiphosphonic acid
+101039b910641c	16	193	Quantity	mmol	"{""unit"": ""mmol""}"	169	178	2020	2029	T1-193	0.214mmol
+101039b910641c	16	194	MeasuredProperty		"{""HasQuantity"": ""T1-194""}"	3	11	1854	1862	T2-194	solution
+101039b910641c	16	194	MeasuredEntity		"{""HasProperty"": ""T2-194""}"	181	184	2032	2035	T3-194	H2O
+101039b910641c	16	194	Quantity	mL	"{""unit"": ""mL""}"	186	192	2037	2043	T1-194	5.00mL
+101039b910641c	16	195	MeasuredProperty		"{""HasQuantity"": ""T1-195""}"	3	11	1854	1862	T2-195	solution
+101039b910641c	16	195	MeasuredEntity		"{""HasProperty"": ""T2-195""}"	181	184	2032	2035	T3-195	H2O
+101039b910641c	16	195	Quantity	mmol	"{""unit"": ""mmol""}"	194	204	2045	2055	T1-195	277.47mmol
+101039b910641c	16	196	MeasuredProperty		"{""HasQuantity"": ""T1-196""}"	3	11	1854	1862	T2-196	solution
+101039b910641c	16	196	MeasuredEntity		"{""HasProperty"": ""T2-196""}"	211	213	2062	2064	T3-196	HF
+101039b910641c	16	196	Quantity	mL	"{""unit"": ""mL""}"	215	222	2066	2073	T1-196	0.400mL
+101039b910641c	16	197	MeasuredProperty		"{""HasQuantity"": ""T1-197""}"	3	11	1854	1862	T2-197	solution
+101039b910641c	16	197	MeasuredEntity		"{""HasProperty"": ""T2-197""}"	211	213	2062	2064	T3-197	HF
+101039b910641c	16	197	Quantity	mmol	"{""unit"": ""mmol""}"	224	233	2075	2084	T1-197	11.60mmol
+101039b910641c	16	198	MeasuredProperty		"{""HasQuantity"": ""T1-198""}"	242	252	2093	2103	T2-198	mole ratio
+101039b910641c	16	198	MeasuredEntity		"{""HasProperty"": ""T2-198""}"	3	234	1854	2085	T3-198	solution of V2O5 (0.078 g, 0.429 mmol), cupric nitrate hydrate (0.201 g, 0.864 mmol), 1,10-phenanthroline (0.083 g, 0.461 mmol), 1,3-phenyldiphosphonic acid (0.051g, 0.214mmol), H2O (5.00mL, 277.47mmol), and HF (0.400mL, 11.60mmol)
+101039b910641c	16	198	Quantity			253	283	2104	2134	T1-198	2.00:4.04:2.15:1.00:1297:54.21
+101039b910641c	16	199	MeasuredProperty		"{""HasQuantity"": ""T1-199""}"	288	294	2139	2145	T2-199	heated
+101039b910641c	16	199	MeasuredEntity		"{""HasProperty"": ""T2-199""}"	3	11	1854	1862	T3-199	solution
+101039b910641c	16	199	Quantity	degC	"{""unit"": ""degC""}"	298	306	2149	2157	T1-199	150 degC
+101039b910641c	16	200	MeasuredProperty		"{""HasQuantity"": ""T1-200""}"	288	294	2139	2145	T2-200	heated
+101039b910641c	16	200	MeasuredEntity		"{""HasProperty"": ""T2-200""}"	3	11	1854	1862	T3-200	solution
+101039b910641c	16	200	Quantity	h	"{""unit"": ""h""}"	311	314	2162	2165	T1-200	72h
+101039b910641c	16	201	MeasuredProperty		"{""HasQuantity"": ""T1-201""}"	334	336	2185	2187	T2-201	pH
+101039b910641c	16	201	MeasuredEntity		"{""HasProperty"": ""T2-201""}"	3	11	1854	1862	T3-201	solution
+101039b910641c	16	201	Quantity			337	340	2188	2191	T1-201	1.0
+101039b910641c	16	202	MeasuredProperty		"{""HasQuantity"": ""T1-202""}"	334	336	2185	2187	T2-202	pH
+101039b910641c	16	202	MeasuredEntity		"{""HasProperty"": ""T2-202""}"	3	11	1854	1862	T3-202	solution
+101039b910641c	16	202	Quantity			345	348	2196	2199	T1-202	1.0
+101039b910641c	16	203	MeasuredEntity		"{""HasQuantity"": ""T1-203""}"	132	159	1983	2010	T3-203	1,3-phenyldiphosphonic acid
+101039b910641c	16	203	Quantity	g	"{""unit"": ""g""}"	161	167	2012	2018	T1-203	0.051g
+101039b910641c	43	204	MeasuredEntity		"{""HasQuantity"": ""T1-204""}"	14	18	5231	5235	T3-204	V2O5
+101039b910641c	43	204	Quantity	g	"{""unit"": ""g""}"	20	27	5237	5244	T1-204	0.079 g
+101039b910641c	43	205	MeasuredProperty		"{""HasQuantity"": ""T1-205""}"	3	10	5220	5227	T2-205	mixture
+101039b910641c	43	205	MeasuredEntity		"{""HasProperty"": ""T2-205""}"	14	18	5231	5235	T3-205	V2O5
+101039b910641c	43	205	Quantity	mmol	"{""unit"": ""mmol""}"	29	39	5246	5256	T1-205	0.434 mmol
+101039b910641c	43	206	MeasuredProperty		"{""HasQuantity"": ""T1-206""}"	3	10	5220	5227	T2-206	mixture
+101039b910641c	43	206	MeasuredEntity		"{""HasProperty"": ""T2-206""}"	42	64	5259	5281	T3-206	cupric acetate hydrate
+101039b910641c	43	206	Quantity	g	"{""unit"": ""g""}"	66	73	5283	5290	T1-206	0.200 g
+101039b910641c	43	207	MeasuredProperty		"{""HasQuantity"": ""T1-207""}"	3	10	5220	5227	T2-207	mixture
+101039b910641c	43	207	MeasuredEntity		"{""HasProperty"": ""T2-207""}"	42	64	5259	5281	T3-207	cupric acetate hydrate
+101039b910641c	43	207	Quantity	mmol	"{""unit"": ""mmol""}"	75	85	5292	5302	T1-207	0.860 mmol
+101039b910641c	43	208	MeasuredProperty		"{""HasQuantity"": ""T1-208""}"	3	10	5220	5227	T2-208	mixture
+101039b910641c	43	208	MeasuredEntity		"{""HasProperty"": ""T2-208""}"	88	107	5305	5324	T3-208	1,10-phenanthroline
+101039b910641c	43	208	Quantity	g	"{""unit"": ""g""}"	109	116	5326	5333	T1-208	0.084 g
+101039b910641c	43	209	MeasuredProperty		"{""HasQuantity"": ""T1-209""}"	3	10	5220	5227	T2-209	mixture
+101039b910641c	43	209	MeasuredEntity		"{""HasProperty"": ""T2-209""}"	88	107	5305	5324	T3-209	1,10-phenanthroline
+101039b910641c	43	209	Quantity	mmol	"{""unit"": ""mmol""}"	118	128	5335	5345	T1-209	0.466 mmol
+101039b910641c	43	210	MeasuredProperty		"{""HasQuantity"": ""T1-210""}"	3	10	5220	5227	T2-210	mixture
+101039b910641c	43	210	MeasuredEntity		"{""HasProperty"": ""T2-210""}"	131	158	5348	5375	T3-210	1,4-phenyldiphosphonic acid
+101039b910641c	43	210	Quantity	g	"{""unit"": ""g""}"	160	167	5377	5384	T1-210	0.050 g
+101039b910641c	43	211	MeasuredProperty		"{""HasQuantity"": ""T1-211""}"	3	10	5220	5227	T2-211	mixture
+101039b910641c	43	211	MeasuredEntity		"{""HasProperty"": ""T2-211""}"	131	158	5348	5375	T3-211	1,4-phenyldiphosphonic acid
+101039b910641c	43	211	Quantity	mmol	"{""unit"": ""mmol""}"	169	179	5386	5396	T1-211	0.210 mmol
+101039b910641c	43	212	MeasuredProperty		"{""HasQuantity"": ""T1-212""}"	3	10	5220	5227	T2-212	mixture
+101039b910641c	43	212	MeasuredEntity		"{""HasProperty"": ""T2-212""}"	182	185	5399	5402	T3-212	H2O
+101039b910641c	43	212	Quantity	mL	"{""unit"": ""mL""}"	187	194	5404	5411	T1-212	5.00 mL
+101039b910641c	43	213	MeasuredProperty		"{""HasQuantity"": ""T1-213""}"	3	10	5220	5227	T2-213	mixture
+101039b910641c	43	213	MeasuredEntity		"{""HasProperty"": ""T2-213""}"	182	185	5399	5402	T3-213	H2O
+101039b910641c	43	213	Quantity	mmol	"{""unit"": ""mmol""}"	196	207	5413	5424	T1-213	277.47 mmol
+101039b910641c	43	214	MeasuredProperty		"{""HasQuantity"": ""T1-214""}"	3	10	5220	5227	T2-214	mixture
+101039b910641c	43	214	MeasuredEntity		"{""HasProperty"": ""T2-214""}"	214	216	5431	5433	T3-214	HF
+101039b910641c	43	214	Quantity	mL	"{""unit"": ""mL""}"	218	226	5435	5443	T1-214	0.400 mL
+101039b910641c	43	215	MeasuredProperty		"{""HasQuantity"": ""T1-215""}"	3	10	5220	5227	T2-215	mixture
+101039b910641c	43	215	MeasuredEntity		"{""HasProperty"": ""T2-215""}"	214	216	5431	5433	T3-215	HF
+101039b910641c	43	215	Quantity	mmol	"{""unit"": ""mmol""}"	228	238	5445	5455	T1-215	11.60 mmol
+101039b910641c	43	216	MeasuredProperty		"{""HasQuantity"": ""T1-216""}"	249	259	5466	5476	T2-216	mole ratio
+101039b910641c	43	216	MeasuredEntity		"{""HasProperty"": ""T2-216""}"	3	239	5220	5456	T3-216	mixture of V2O5 (0.079 g, 0.434 mmol), cupric acetate hydrate (0.200 g, 0.860 mmol), 1,10-phenanthroline (0.084 g, 0.466 mmol), 1,4-phenyldiphosphonic acid (0.050 g, 0.210 mmol), H2O (5.00 mL, 277.47 mmol), and HF (0.400 mL, 11.60 mmol)
+101039b910641c	43	216	Quantity			260	290	5477	5507	T1-216	2.07:4.10:2.22:1.00:1321:55.24
+101039b910641c	43	217	MeasuredProperty		"{""HasQuantity"": ""T1-217""}"	318	325	5535	5542	T2-217	heating
+101039b910641c	43	217	MeasuredEntity		"{""HasProperty"": ""T2-217""}"	3	10	5220	5227	T3-217	mixture
+101039b910641c	43	217	Quantity	degC	"{""unit"": ""degC""}"	329	337	5546	5554	T1-217	120 degC
+101039b910641c	43	218	MeasuredProperty		"{""HasQuantity"": ""T1-218""}"	318	325	5535	5542	T2-218	heating
+101039b910641c	43	218	MeasuredEntity		"{""HasProperty"": ""T2-218""}"	3	10	5220	5227	T3-218	mixture
+101039b910641c	43	218	Quantity	h	"{""unit"": ""h""}"	342	346	5559	5563	T1-218	72 h
+101039b910641c	43	219	MeasuredProperty		"{""HasQuantity"": ""T1-219""}"	366	375	5583	5592	T2-219	pH values
+101039b910641c	43	219	MeasuredEntity		"{""HasProperty"": ""T2-219""}"	3	10	5220	5227	T3-219	mixture
+101039b910641c	43	219	Quantity			379	382	5596	5599	T1-219	0.5
+101039b910641c	43	220	MeasuredProperty		"{""HasQuantity"": ""T1-220""}"	366	375	5583	5592	T2-220	pH values
+101039b910641c	43	220	MeasuredEntity		"{""HasProperty"": ""T2-220""}"	3	10	5220	5227	T3-220	mixture
+101039b910641c	43	220	Quantity			387	390	5604	5607	T1-220	0.5
+101039b910641c	82	221	MeasuredProperty		"{""HasQuantity"": ""T1-221""}"	5	14	10328	10337	T2-221	reactants
+101039b910641c	82	221	MeasuredEntity		"{""HasProperty"": ""T2-221""}"	15	19	10338	10342	T3-221	V2O5
+101039b910641c	82	221	Quantity	mmol	"{""unit"": ""mmol""}"	30	126	10353	10449	T1-221	0.44 mmol), cupric nitrate hydrate (0.205 g, 0.88 mmol), 1,10-phenanthroline (0.083 g, 0.46 mmol
+101039b910641c	82	222	MeasuredProperty		"{""HasQuantity"": ""T1-222""}"	5	14	10328	10337	T2-222	reactants
+101039b910641c	82	222	MeasuredEntity		"{""HasProperty"": ""T2-222""}"	182	185	10505	10508	T3-222	H2O
+101039b910641c	82	222	Quantity	mL	"{""unit"": ""mL""}"	187	194	10510	10517	T1-222	5.00 mL
+101039b910641c	82	223	MeasuredProperty		"{""HasQuantity"": ""T1-223""}"	5	14	10328	10337	T2-223	reactants
+101039b910641c	82	223	MeasuredEntity		"{""HasProperty"": ""T2-223""}"	129	159	10452	10482	T3-223	1,3,5-phenyltriphosphonic acid
+101039b910641c	82	223	Quantity	mmol	"{""unit"": ""mmol""}"	170	179	10493	10502	T1-223	0.22 mmol
+101039b910641c	82	224	MeasuredProperty		"{""HasQuantity"": ""T1-224""}"	313	320	10636	10643	T2-224	heating
+101039b910641c	82	224	MeasuredEntity		"{""HasProperty"": ""T2-224""}"	5	14	10328	10337	T3-224	reactants
+101039b910641c	82	224	Quantity	h	"{""unit"": ""h""}"	337	341	10660	10664	T1-224	72 h
+101039b910641c	82	225	MeasuredProperty		"{""HasQuantity"": ""T1-225""}"	243	253	10566	10576	T2-225	mole ratio
+101039b910641c	82	225	MeasuredEntity		"{""HasProperty"": ""T2-225""}"	5	235	10328	10558	T3-225	reactants V2O5 (0.080 g, 0.44 mmol), cupric nitrate hydrate (0.205 g, 0.88 mmol), 1,10-phenanthroline (0.083 g, 0.46 mmol), 1,3,5-phenyltriphosphonic acid (0.069 g, 0.22 mmol), H2O (5.00 mL, 277.47 mmol) and HF (100 uL, 2.90 mmol)
+101039b910641c	82	225	Quantity			254	284	10577	10607	T1-225	2.03:4.06:2.12:1.00:1279:11.34
+101039b910641c	82	226	MeasuredProperty		"{""HasQuantity"": ""T1-226""}"	5	14	10328	10337	T2-226	reactants
+101039b910641c	82	226	MeasuredEntity		"{""HasProperty"": ""T2-226""}"	15	19	10338	10342	T3-226	V2O5
+101039b910641c	82	226	Quantity	g	"{""unit"": ""g""}"	21	28	10344	10351	T1-226	0.080 g
+101039b910641c	82	227	MeasuredProperty		"{""HasQuantity"": ""T1-227""}"	5	14	10328	10337	T2-227	reactants
+101039b910641c	82	227	MeasuredEntity		"{""HasProperty"": ""T2-227""}"	87	106	10410	10429	T3-227	1,10-phenanthroline
+101039b910641c	82	227	Quantity	g	"{""unit"": ""g""}"	108	115	10431	10438	T1-227	0.083 g
+101039b910641c	82	228	MeasuredProperty		"{""HasQuantity"": ""T1-228""}"	5	14	10328	10337	T2-228	reactants
+101039b910641c	82	228	MeasuredEntity		"{""HasProperty"": ""T2-228""}"	42	64	10365	10387	T3-228	cupric nitrate hydrate
+101039b910641c	82	228	Quantity	mmol	"{""unit"": ""mmol""}"	75	84	10398	10407	T1-228	0.88 mmol
+101039b910641c	82	229	MeasuredProperty		"{""HasQuantity"": ""T1-229""}"	5	14	10328	10337	T2-229	reactants
+101039b910641c	82	229	MeasuredEntity		"{""HasProperty"": ""T2-229""}"	182	185	10505	10508	T3-229	H2O
+101039b910641c	82	229	Quantity	mmol	"{""unit"": ""mmol""}"	196	207	10519	10530	T1-229	277.47 mmol
+101039b910641c	82	230	MeasuredProperty		"{""HasQuantity"": ""T1-230""}"	5	14	10328	10337	T2-230	reactants
+101039b910641c	82	230	MeasuredEntity		"{""HasProperty"": ""T2-230""}"	213	215	10536	10538	T3-230	HF
+101039b910641c	82	230	Quantity	mmol	"{""unit"": ""mmol""}"	225	234	10548	10557	T1-230	2.90 mmol
+101039b910641c	82	231	MeasuredProperty		"{""HasQuantity"": ""T1-231""}"	5	14	10328	10337	T2-231	reactants
+101039b910641c	82	231	MeasuredEntity		"{""HasProperty"": ""T2-231""}"	42	64	10365	10387	T3-231	cupric nitrate hydrate
+101039b910641c	82	231	Quantity	g	"{""unit"": ""g""}"	66	73	10389	10396	T1-231	0.205 g
+101039b910641c	82	232	MeasuredProperty		"{""HasQuantity"": ""T1-232""}"	5	14	10328	10337	T2-232	reactants
+101039b910641c	82	232	MeasuredEntity		"{""HasProperty"": ""T2-232""}"	213	215	10536	10538	T3-232	HF
+101039b910641c	82	232	Quantity	uL	"{""unit"": ""uL""}"	217	223	10540	10546	T1-232	100 uL
+101039b910641c	82	233	MeasuredProperty		"{""HasQuantity"": ""T1-233""}"	5	14	10328	10337	T2-233	reactants
+101039b910641c	82	233	MeasuredEntity		"{""HasProperty"": ""T2-233""}"	129	159	10452	10482	T3-233	1,3,5-phenyltriphosphonic acid
+101039b910641c	82	233	Quantity	g	"{""unit"": ""g""}"	161	168	10484	10491	T1-233	0.069 g
+101039b910641c	82	234	MeasuredProperty		"{""HasQuantity"": ""T1-234""}"	313	320	10636	10643	T2-234	heating
+101039b910641c	82	234	MeasuredEntity		"{""HasProperty"": ""T2-234""}"	5	14	10328	10337	T3-234	reactants
+101039b910641c	82	234	Quantity	degC	"{""unit"": ""degC""}"	324	332	10647	10655	T1-234	180 degC
+101039b910641c	87	235	MeasuredProperty		"{""HasQuantity"": ""T1-235""}"	2	9	10929	10936	T2-235	mixture
+101039b910641c	87	235	MeasuredEntity		"{""HasProperty"": ""T2-235""}"	13	17	10940	10944	T3-235	V2O5
+101039b910641c	87	235	Quantity	g	"{""unit"": ""g""}"	19	26	10946	10953	T1-235	0.078 g
+101039b910641c	87	236	MeasuredProperty		"{""HasQuantity"": ""T1-236""}"	2	9	10929	10936	T2-236	mixture
+101039b910641c	87	236	MeasuredEntity		"{""HasProperty"": ""T2-236""}"	13	17	10940	10944	T3-236	V2O5
+101039b910641c	87	236	Quantity	mmol	"{""unit"": ""mmol""}"	28	38	10955	10965	T1-236	0.429 mmol
+101039b910641c	87	237	MeasuredProperty		"{""HasQuantity"": ""T1-237""}"	2	9	10929	10936	T2-237	mixture
+101039b910641c	87	237	MeasuredEntity		"{""HasProperty"": ""T2-237""}"	39	63	10966	10990	T3-237	, cupric nitrate hydrate
+101039b910641c	87	237	Quantity	g	"{""unit"": ""g""}"	65	72	10992	10999	T1-237	0.203 g
+101039b910641c	87	238	MeasuredProperty		"{""HasQuantity"": ""T1-238""}"	2	9	10929	10936	T2-238	mixture
+101039b910641c	87	238	MeasuredEntity		"{""HasProperty"": ""T2-238""}"	41	63	10968	10990	T3-238	cupric nitrate hydrate
+101039b910641c	87	238	Quantity	mmol	"{""unit"": ""mmol""}"	74	84	11001	11011	T1-238	0.873 mmol
+101039b910641c	87	239	MeasuredProperty		"{""HasQuantity"": ""T1-239""}"	2	9	10929	10936	T2-239	mixture
+101039b910641c	87	239	MeasuredEntity		"{""HasProperty"": ""T2-239""}"	87	112	11014	11039	T3-239	2-pyridyl carboxylic acid
+101039b910641c	87	239	Quantity	g	"{""unit"": ""g""}"	114	121	11041	11048	T1-239	0.060 g
+101039b910641c	87	240	MeasuredProperty		"{""HasQuantity"": ""T1-240""}"	2	9	10929	10936	T2-240	mixture
+101039b910641c	87	240	MeasuredEntity		"{""HasProperty"": ""T2-240""}"	87	112	11014	11039	T3-240	2-pyridyl carboxylic acid
+101039b910641c	87	240	Quantity	mmol	"{""unit"": ""mmol""}"	123	133	11050	11060	T1-240	0.487 mmol
+101039b910641c	87	241	MeasuredProperty		"{""HasQuantity"": ""T1-241""}"	2	9	10929	10936	T2-241	mixture
+101039b910641c	87	241	MeasuredEntity		"{""HasProperty"": ""T2-241""}"	136	163	11063	11090	T3-241	1,3-phenyldiphosphonic acid
+101039b910641c	87	241	Quantity	g	"{""unit"": ""g""}"	165	172	11092	11099	T1-241	0.048 g
+101039b910641c	87	242	MeasuredProperty		"{""HasQuantity"": ""T1-242""}"	2	9	10929	10936	T2-242	mixture
+101039b910641c	87	242	MeasuredEntity		"{""HasProperty"": ""T2-242""}"	136	163	11063	11090	T3-242	1,3-phenyldiphosphonic acid
+101039b910641c	87	242	Quantity	mmol	"{""unit"": ""mmol""}"	174	184	11101	11111	T1-242	0.202 mmol
+101039b910641c	87	243	MeasuredProperty		"{""HasQuantity"": ""T1-243""}"	2	9	10929	10936	T2-243	mixture
+101039b910641c	87	243	MeasuredEntity		"{""HasProperty"": ""T2-243""}"	187	190	11114	11117	T3-243	H2O
+101039b910641c	87	243	Quantity	mL	"{""unit"": ""mL""}"	192	199	11119	11126	T1-243	5.00 mL
+101039b910641c	87	244	MeasuredProperty		"{""HasQuantity"": ""T1-244""}"	2	9	10929	10936	T2-244	mixture
+101039b910641c	87	244	MeasuredEntity		"{""HasProperty"": ""T2-244""}"	187	190	11114	11117	T3-244	H2O
+101039b910641c	87	244	Quantity	mmol	"{""unit"": ""mmol""}"	201	212	11128	11139	T1-244	277.47 mmol
+101039b910641c	87	245	MeasuredProperty		"{""HasQuantity"": ""T1-245""}"	2	9	10929	10936	T2-245	mixture
+101039b910641c	87	245	MeasuredEntity		"{""HasProperty"": ""T2-245""}"	219	221	11146	11148	T3-245	HF
+101039b910641c	87	245	Quantity	mL	"{""unit"": ""mL""}"	223	231	11150	11158	T1-245	0.200 mL
+101039b910641c	87	246	MeasuredProperty		"{""HasQuantity"": ""T1-246""}"	2	9	10929	10936	T2-246	mixture
+101039b910641c	87	246	MeasuredEntity		"{""HasProperty"": ""T2-246""}"	219	221	11146	11148	T3-246	HF
+101039b910641c	87	246	Quantity	mmol	"{""unit"": ""mmol""}"	233	242	11160	11169	T1-246	5.80 mmol
+101039b910641c	87	247	MeasuredProperty		"{""HasQuantity"": ""T1-247""}"	251	261	11178	11188	T2-247	mole ratio
+101039b910641c	87	247	MeasuredEntity		"{""HasProperty"": ""T2-247""}"	2	243	10929	11170	T3-247	mixture of V2O5 (0.078 g, 0.429 mmol), cupric nitrate hydrate (0.203 g, 0.873 mmol), 2-pyridyl carboxylic acid (0.060 g, 0.487 mmol), 1,3-phenyldiphosphonic acid (0.048 g, 0.202 mmol), H2O (5.00 mL, 277.47 mmol), and HF (0.200 mL, 5.80 mmol)
+101039b910641c	87	247	Quantity			262	292	11189	11219	T1-247	2.12:4.32:2.41:1.00:1374:28.71
+101039b910641c	87	248	MeasuredProperty		"{""HasQuantity"": ""T1-248""}"	297	303	11224	11230	T2-248	heated
+101039b910641c	87	248	MeasuredEntity		"{""HasProperty"": ""T2-248""}"	2	9	10929	10936	T3-248	mixture
+101039b910641c	87	248	Quantity	degC	"{""unit"": ""degC""}"	307	315	11234	11242	T1-248	135 degC
+101039b910641c	87	249	MeasuredProperty		"{""HasQuantity"": ""T1-249""}"	297	303	11224	11230	T2-249	heated
+101039b910641c	87	249	MeasuredEntity		"{""HasProperty"": ""T2-249""}"	2	9	10929	10936	T3-249	mixture
+101039b910641c	87	249	Quantity	h	"{""unit"": ""h""}"	320	324	11247	11251	T1-249	48 h
+101039b910641c	87	250	MeasuredProperty		"{""HasQuantity"": ""T1-250""}"	344	353	11271	11280	T2-250	pH values
+101039b910641c	87	250	MeasuredEntity		"{""HasProperty"": ""T2-250""}"	2	9	10929	10936	T3-250	mixture
+101039b910641c	87	250	Quantity			357	360	11284	11287	T1-250	1.0
+101039b910641c	87	251	MeasuredProperty		"{""HasQuantity"": ""T1-251""}"	344	353	11271	11280	T2-251	pH values
+101039b910641c	87	251	MeasuredEntity		"{""HasProperty"": ""T2-251""}"	2	9	10929	10936	T3-251	mixture
+101039b910641c	87	251	Quantity			365	368	11292	11295	T1-251	1.0
+101039b910641c	100	252	MeasuredProperty		"{""HasQuantity"": ""T1-252""}"	3	10	12379	12386	T2-252	mixture
+101039b910641c	100	252	MeasuredEntity		"{""HasProperty"": ""T2-252""}"	14	18	12390	12394	T3-252	V2O5
+101039b910641c	100	252	Quantity	g	"{""unit"": ""g""}"	20	27	12396	12403	T1-252	0.078 g
+101039b910641c	100	253	MeasuredProperty		"{""HasQuantity"": ""T1-253""}"	3	10	12379	12386	T2-253	mixture
+101039b910641c	100	253	MeasuredEntity		"{""HasProperty"": ""T2-253""}"	14	18	12390	12394	T3-253	V2O5
+101039b910641c	100	253	Quantity	mmol	"{""unit"": ""mmol""}"	29	38	12405	12414	T1-253	0.43 mmol
+101039b910641c	100	254	MeasuredProperty		"{""HasQuantity"": ""T1-254""}"	3	10	12379	12386	T2-254	mixture
+101039b910641c	100	254	MeasuredEntity		"{""HasProperty"": ""T2-254""}"	41	63	12417	12439	T3-254	cupric nitrate hydrate
+101039b910641c	100	254	Quantity	g	"{""unit"": ""g""}"	65	72	12441	12448	T1-254	0.200 g
+101039b910641c	100	255	MeasuredProperty		"{""HasQuantity"": ""T1-255""}"	3	10	12379	12386	T2-255	mixture
+101039b910641c	100	255	MeasuredEntity		"{""HasProperty"": ""T2-255""}"	41	63	12417	12439	T3-255	cupric nitrate hydrate
+101039b910641c	100	255	Quantity	mmol	"{""unit"": ""mmol""}"	74	83	12450	12459	T1-255	0.86 mmol
+101039b910641c	100	256	MeasuredProperty		"{""HasQuantity"": ""T1-256""}"	3	10	12379	12386	T2-256	mixture
+101039b910641c	100	256	MeasuredEntity		"{""HasProperty"": ""T2-256""}"	86	100	12462	12476	T3-256	2,2'-dipyridyl
+101039b910641c	100	256	Quantity	g	"{""unit"": ""g""}"	102	109	12478	12485	T1-256	0.066 g
+101039b910641c	100	257	MeasuredProperty		"{""HasQuantity"": ""T1-257""}"	3	10	12379	12386	T2-257	mixture
+101039b910641c	100	257	MeasuredEntity		"{""HasProperty"": ""T2-257""}"	86	100	12462	12476	T3-257	2,2'-dipyridyl
+101039b910641c	100	257	Quantity	mmol	"{""unit"": ""mmol""}"	111	120	12487	12496	T1-257	0.42 mmol
+101039b910641c	100	258	MeasuredProperty		"{""HasQuantity"": ""T1-258""}"	3	10	12379	12386	T2-258	mixture
+101039b910641c	100	258	MeasuredEntity		"{""HasProperty"": ""T2-258""}"	123	153	12499	12529	T3-258	1,3,5-phenyltriphosphonic acid
+101039b910641c	100	258	Quantity	g	"{""unit"": ""g""}"	155	162	12531	12538	T1-258	0.068 g
+101039b910641c	100	259	MeasuredProperty		"{""HasQuantity"": ""T1-259""}"	3	10	12379	12386	T2-259	mixture
+101039b910641c	100	259	MeasuredEntity		"{""HasProperty"": ""T2-259""}"	123	153	12499	12529	T3-259	1,3,5-phenyltriphosphonic acid
+101039b910641c	100	259	Quantity	mmol	"{""unit"": ""mmol""}"	164	173	12540	12549	T1-259	0.21 mmol
+101039b910641c	100	260	MeasuredProperty		"{""HasQuantity"": ""T1-260""}"	3	10	12379	12386	T2-260	mixture
+101039b910641c	100	260	MeasuredEntity		"{""HasProperty"": ""T2-260""}"	176	179	12552	12555	T3-260	H2O
+101039b910641c	100	260	Quantity	mL	"{""unit"": ""mL""}"	181	188	12557	12564	T1-260	5.00 mL
+101039b910641c	100	261	MeasuredProperty		"{""HasQuantity"": ""T1-261""}"	3	10	12379	12386	T2-261	mixture
+101039b910641c	100	261	MeasuredEntity		"{""HasProperty"": ""T2-261""}"	176	179	12552	12555	T3-261	H2O
+101039b910641c	100	261	Quantity	mmol	"{""unit"": ""mmol""}"	190	201	12566	12577	T1-261	277.47 mmol
+101039b910641c	100	262	MeasuredProperty		"{""HasQuantity"": ""T1-262""}"	3	10	12379	12386	T2-262	mixture
+101039b910641c	100	262	MeasuredEntity		"{""HasProperty"": ""T2-262""}"	207	209	12583	12585	T3-262	HF
+101039b910641c	100	262	Quantity	uL	"{""unit"": ""uL""}"	211	217	12587	12593	T1-262	800 uL
+101039b910641c	100	263	MeasuredProperty		"{""HasQuantity"": ""T1-263""}"	3	10	12379	12386	T2-263	mixture
+101039b910641c	100	263	MeasuredEntity		"{""HasProperty"": ""T2-263""}"	207	209	12583	12585	T3-263	HF
+101039b910641c	100	263	Quantity	mmol	"{""unit"": ""mmol""}"	219	229	12595	12605	T1-263	23.20 mmol
+101039b910641c	100	264	MeasuredProperty		"{""HasQuantity"": ""T1-264""}"	238	248	12614	12624	T2-264	mole ratio
+101039b910641c	100	264	MeasuredEntity		"{""HasProperty"": ""T2-264""}"	3	230	12379	12606	T3-264	mixture of V2O5 (0.078 g, 0.43 mmol), cupric nitrate hydrate (0.200 g, 0.86 mmol), 2,2'-dipyridyl (0.066 g, 0.42 mmol), 1,3,5-phenyltriphosphonic acid (0.068 g, 0.21 mmol), H2O (5.00 mL, 277.47 mmol) and HF (800 uL, 23.20 mmol)
+101039b910641c	100	264	Quantity			249	280	12625	12656	T1-264	2.00:4.02:1.98:1.00:1297:108.41
+101039b910641c	100	265	MeasuredProperty		"{""HasQuantity"": ""T1-265""}"	285	291	12661	12667	T2-265	heated
+101039b910641c	100	265	MeasuredEntity		"{""HasProperty"": ""T2-265""}"	3	10	12379	12386	T3-265	mixture
+101039b910641c	100	265	Quantity	degC	"{""unit"": ""degC""}"	295	303	12671	12679	T1-265	150 degC
+101039b910641c	100	266	MeasuredProperty		"{""HasQuantity"": ""T1-266""}"	285	291	12661	12667	T2-266	heated
+101039b910641c	100	266	MeasuredEntity		"{""HasProperty"": ""T2-266""}"	3	10	12379	12386	T3-266	mixture
+101039b910641c	100	266	Quantity	h	"{""unit"": ""h""}"	308	312	12684	12688	T1-266	72 h
+101039b910641c	100	267	MeasuredProperty		"{""HasQuantity"": ""T1-267""}"	332	341	12708	12717	T2-267	pH values
+101039b910641c	100	267	MeasuredEntity		"{""HasProperty"": ""T2-267""}"	3	10	12379	12386	T3-267	mixture
+101039b910641c	100	267	Quantity			345	348	12721	12724	T1-267	1.0
+101039b910641c	100	268	MeasuredProperty		"{""HasQuantity"": ""T1-268""}"	332	341	12708	12717	T2-268	pH values
+101039b910641c	100	268	MeasuredEntity		"{""HasProperty"": ""T2-268""}"	3	10	12379	12386	T3-268	mixture
+101039b910641c	100	268	Quantity			353	356	12729	12732	T1-268	1.0
+101039b910641c	105	269	MeasuredProperty		"{""HasQuantity"": ""T1-269""}"	5	13	13526	13534	T2-269	reaction
+101039b910641c	105	269	MeasuredEntity		"{""HasProperty"": ""T2-269""}"	17	21	13538	13542	T3-269	V2O5
+101039b910641c	105	269	Quantity	g	"{""unit"": ""g""}"	23	30	13544	13551	T1-269	0.079 g
+101039b910641c	105	270	MeasuredProperty		"{""HasQuantity"": ""T1-270""}"	5	13	13526	13534	T2-270	reaction
+101039b910641c	105	270	MeasuredEntity		"{""HasProperty"": ""T2-270""}"	17	21	13538	13542	T3-270	V2O5
+101039b910641c	105	270	Quantity	mmol	"{""unit"": ""mmol""}"	32	41	13553	13562	T1-270	0.43 mmol
+101039b910641c	105	271	MeasuredProperty		"{""HasQuantity"": ""T1-271""}"	5	13	13526	13534	T2-271	reaction
+101039b910641c	105	271	MeasuredEntity		"{""HasProperty"": ""T2-271""}"	44	66	13565	13587	T3-271	cupric nitrate hydrate
+101039b910641c	105	271	Quantity	g	"{""unit"": ""g""}"	68	75	13589	13596	T1-271	0.210 g
+101039b910641c	105	272	MeasuredProperty		"{""HasQuantity"": ""T1-272""}"	5	13	13526	13534	T2-272	reaction
+101039b910641c	105	272	MeasuredEntity		"{""HasProperty"": ""T2-272""}"	44	66	13565	13587	T3-272	cupric nitrate hydrate
+101039b910641c	105	272	Quantity	mmol	"{""unit"": ""mmol""}"	77	86	13598	13607	T1-272	0.90 mmol
+101039b910641c	105	273	MeasuredProperty		"{""HasQuantity"": ""T1-273""}"	5	13	13526	13534	T2-273	reaction
+101039b910641c	105	273	MeasuredEntity		"{""HasProperty"": ""T2-273""}"	89	108	13610	13629	T3-273	1,10-phenanthroline
+101039b910641c	105	273	Quantity	g	"{""unit"": ""g""}"	110	117	13631	13638	T1-273	0.086 g
+101039b910641c	105	274	MeasuredProperty		"{""HasQuantity"": ""T1-274""}"	5	13	13526	13534	T2-274	reaction
+101039b910641c	105	274	MeasuredEntity		"{""HasProperty"": ""T2-274""}"	89	108	13610	13629	T3-274	1,10-phenanthroline
+101039b910641c	105	274	Quantity	mmol	"{""unit"": ""mmol""}"	119	128	13640	13649	T1-274	0.48 mmol
+101039b910641c	105	275	MeasuredProperty		"{""HasQuantity"": ""T1-275""}"	5	13	13526	13534	T2-275	reaction
+101039b910641c	105	275	MeasuredEntity		"{""HasProperty"": ""T2-275""}"	131	161	13652	13682	T3-275	1,3,5-phenyltriphosphonic acid
+101039b910641c	105	275	Quantity	g	"{""unit"": ""g""}"	163	170	13684	13691	T1-275	0.067 g
+101039b910641c	105	276	MeasuredProperty		"{""HasQuantity"": ""T1-276""}"	5	13	13526	13534	T2-276	reaction
+101039b910641c	105	276	MeasuredEntity		"{""HasProperty"": ""T2-276""}"	131	161	13652	13682	T3-276	1,3,5-phenyltriphosphonic acid
+101039b910641c	105	276	Quantity	mmol	"{""unit"": ""mmol""}"	172	181	13693	13702	T1-276	0.21 mmol
+101039b910641c	105	277	MeasuredProperty		"{""HasQuantity"": ""T1-277""}"	5	13	13526	13534	T2-277	reaction
+101039b910641c	105	277	MeasuredEntity		"{""HasProperty"": ""T2-277""}"	184	187	13705	13708	T3-277	H2O
+101039b910641c	105	277	Quantity	mL	"{""unit"": ""mL""}"	189	196	13710	13717	T1-277	5.00 mL
+101039b910641c	105	278	MeasuredProperty		"{""HasQuantity"": ""T1-278""}"	5	13	13526	13534	T2-278	reaction
+101039b910641c	105	278	MeasuredEntity		"{""HasProperty"": ""T2-278""}"	184	187	13705	13708	T3-278	H2O
+101039b910641c	105	278	Quantity	mmol	"{""unit"": ""mmol""}"	198	209	13719	13730	T1-278	277.47 mmol
+101039b910641c	105	279	MeasuredProperty		"{""HasQuantity"": ""T1-279""}"	5	13	13526	13534	T2-279	reaction
+101039b910641c	105	279	MeasuredEntity		"{""HasProperty"": ""T2-279""}"	215	217	13736	13738	T3-279	HF
+101039b910641c	105	279	Quantity	uL	"{""unit"": ""uL""}"	219	225	13740	13746	T1-279	800 uL
+101039b910641c	105	280	MeasuredProperty		"{""HasQuantity"": ""T1-280""}"	5	13	13526	13534	T2-280	reaction
+101039b910641c	105	280	MeasuredEntity		"{""HasProperty"": ""T2-280""}"	215	217	13736	13738	T3-280	HF
+101039b910641c	105	280	Quantity	mmol	"{""unit"": ""mmol""}"	227	237	13748	13758	T1-280	23.20 mmol
+101039b910641c	105	281	MeasuredProperty		"{""HasQuantity"": ""T1-281""}"	246	256	13767	13777	T2-281	mole ratio
+101039b910641c	105	281	MeasuredEntity		"{""HasProperty"": ""T2-281""}"	5	238	13526	13759	T3-281	reaction of V2O5 (0.079 g, 0.43 mmol), cupric nitrate hydrate (0.210 g, 0.90 mmol), 1,10-phenanthroline (0.086 g, 0.48 mmol), 1,3,5-phenyltriphosphonic acid (0.067 g, 0.21 mmol), H2O (5.00 mL, 277.47 mmol) and HF (800 uL, 23.20 mmol)
+101039b910641c	105	281	Quantity			257	288	13778	13809	T1-281	2.06:4.28:2.26:1.00:1315:109.95
+101039b910641c	105	282	MeasuredProperty		"{""HasQuantity"": ""T1-282""}"	5	13	13526	13534	T2-282	reaction
+101039b910641c	105	282	MeasuredEntity		"{""HasProperty"": ""T2-282""}"	17	238	13538	13759	T3-282	V2O5 (0.079 g, 0.43 mmol), cupric nitrate hydrate (0.210 g, 0.90 mmol), 1,10-phenanthroline (0.086 g, 0.48 mmol), 1,3,5-phenyltriphosphonic acid (0.067 g, 0.21 mmol), H2O (5.00 mL, 277.47 mmol) and HF (800 uL, 23.20 mmol)
+101039b910641c	105	282	Quantity	degC	"{""unit"": ""degC""}"	292	300	13813	13821	T1-282	180 degC
+101039b910641c	105	283	MeasuredProperty		"{""HasQuantity"": ""T1-283""}"	5	13	13526	13534	T2-283	reaction
+101039b910641c	105	283	MeasuredEntity		"{""HasProperty"": ""T2-283""}"	17	238	13538	13759	T3-283	V2O5 (0.079 g, 0.43 mmol), cupric nitrate hydrate (0.210 g, 0.90 mmol), 1,10-phenanthroline (0.086 g, 0.48 mmol), 1,3,5-phenyltriphosphonic acid (0.067 g, 0.21 mmol), H2O (5.00 mL, 277.47 mmol) and HF (800 uL, 23.20 mmol)
+101039b910641c	105	283	Quantity	h	"{""unit"": ""h""}"	305	309	13826	13830	T1-283	72 h
+101039b910641c	105	284	MeasuredProperty		"{""HasQuantity"": ""T1-284""}"	351	361	13872	13882	T2-284	initial pH
+101039b910641c	105	284	MeasuredEntity		"{""HasProperty"": ""T2-284""}"	5	13	13526	13534	T3-284	reaction
+101039b910641c	105	284	Quantity			362	365	13883	13886	T1-284	1.0
+101039b910641c	105	285	MeasuredProperty		"{""HasQuantity"": ""T1-285""}"	367	375	13888	13896	T2-285	final pH
+101039b910641c	105	285	MeasuredEntity		"{""HasProperty"": ""T2-285""}"	5	13	13526	13534	T3-285	reaction
+101039b910641c	105	285	Quantity			376	379	13897	13900	T1-285	1.0
+101039b910641c	105	286	MeasuredEntity		"{""HasQuantity"": ""T1-286""}"	319	330	13840	13851	T3-286	blue blocks
+101039b910641c	105	286	Quantity			334	336	13855	13857	T1-286	19
+101039b910641c	105	287	MeasuredProperty		"{""HasQuantity"": ""T1-287""}"	344	349	13865	13870	T2-287	yield
+101039b910641c	105	287	MeasuredEntity		"{""HasProperty"": ""T2-287""}"	319	330	13840	13851	T3-287	blue blocks
+101039b910641c	105	287	Quantity	%	"{""unit"": ""%""}"	340	343	13861	13864	T1-287	50%
+101039b910641c	108	288	MeasuredProperty		"{""HasQuantity"": ""T1-288""}"	5	14	14106	14115	T2-288	reactants
+101039b910641c	108	288	MeasuredEntity		"{""HasProperty"": ""T2-288""}"	15	19	14116	14120	T3-288	V2O5
+101039b910641c	108	288	Quantity	g	"{""unit"": ""g""}"	21	28	14122	14129	T1-288	0.081 g
+101039b910641c	108	289	MeasuredProperty		"{""HasQuantity"": ""T1-289""}"	5	14	14106	14115	T2-289	reactants
+101039b910641c	108	289	MeasuredEntity		"{""HasProperty"": ""T2-289""}"	15	19	14116	14120	T3-289	V2O5
+101039b910641c	108	289	Quantity	mmol	"{""unit"": ""mmol""}"	30	39	14131	14140	T1-289	0.45 mmol
+101039b910641c	108	290	MeasuredProperty		"{""HasQuantity"": ""T1-290""}"	5	14	14106	14115	T2-290	reactants
+101039b910641c	108	290	MeasuredEntity		"{""HasProperty"": ""T2-290""}"	42	64	14143	14165	T3-290	cupric acetate hydrate
+101039b910641c	108	290	Quantity	g	"{""unit"": ""g""}"	66	73	14167	14174	T1-290	0.211 g
+101039b910641c	108	291	MeasuredProperty		"{""HasQuantity"": ""T1-291""}"	5	14	14106	14115	T2-291	reactants
+101039b910641c	108	291	MeasuredEntity		"{""HasProperty"": ""T2-291""}"	42	64	14143	14165	T3-291	cupric acetate hydrate
+101039b910641c	108	291	Quantity	mmol	"{""unit"": ""mmol""}"	75	84	14176	14185	T1-291	1.16 mmol
+101039b910641c	108	292	MeasuredProperty		"{""HasQuantity"": ""T1-292""}"	5	14	14106	14115	T2-292	reactants
+101039b910641c	108	292	MeasuredEntity		"{""HasProperty"": ""T2-292""}"	87	107	14188	14208	T3-292	2,2'-bipyridyl amine
+101039b910641c	108	292	Quantity	g	"{""unit"": ""g""}"	109	116	14210	14217	T1-292	0.083 g
+101039b910641c	108	293	MeasuredProperty		"{""HasQuantity"": ""T1-293""}"	5	14	14106	14115	T2-293	reactants
+101039b910641c	108	293	MeasuredEntity		"{""HasProperty"": ""T2-293""}"	87	107	14188	14208	T3-293	2,2'-bipyridyl amine
+101039b910641c	108	293	Quantity	mmol	"{""unit"": ""mmol""}"	118	127	14219	14228	T1-293	0.49 mmol
+101039b910641c	108	294	MeasuredProperty		"{""HasQuantity"": ""T1-294""}"	5	14	14106	14115	T2-294	reactants
+101039b910641c	108	294	MeasuredEntity		"{""HasProperty"": ""T2-294""}"	130	160	14231	14261	T3-294	1,3,5-phenyltriphosphonic acid
+101039b910641c	108	294	Quantity	g	"{""unit"": ""g""}"	162	169	14263	14270	T1-294	0.086 g
+101039b910641c	108	295	MeasuredProperty		"{""HasQuantity"": ""T1-295""}"	5	14	14106	14115	T2-295	reactants
+101039b910641c	108	295	MeasuredEntity		"{""HasProperty"": ""T2-295""}"	130	160	14231	14261	T3-295	1,3,5-phenyltriphosphonic acid
+101039b910641c	108	295	Quantity	mmol	"{""unit"": ""mmol""}"	171	180	14272	14281	T1-295	0.27 mmol
+101039b910641c	108	296	MeasuredProperty		"{""HasQuantity"": ""T1-296""}"	5	14	14106	14115	T2-296	reactants
+101039b910641c	108	296	MeasuredEntity		"{""HasProperty"": ""T2-296""}"	183	186	14284	14287	T3-296	H2O
+101039b910641c	108	296	Quantity	mL	"{""unit"": ""mL""}"	188	195	14289	14296	T1-296	5.00 mL
+101039b910641c	108	297	MeasuredProperty		"{""HasQuantity"": ""T1-297""}"	5	14	14106	14115	T2-297	reactants
+101039b910641c	108	297	MeasuredEntity		"{""HasProperty"": ""T2-297""}"	183	186	14284	14287	T3-297	H2O
+101039b910641c	108	297	Quantity	mmol	"{""unit"": ""mmol""}"	197	208	14298	14309	T1-297	277.47 mmol
+101039b910641c	108	298	MeasuredProperty		"{""HasQuantity"": ""T1-298""}"	5	14	14106	14115	T2-298	reactants
+101039b910641c	108	298	MeasuredEntity		"{""HasProperty"": ""T2-298""}"	214	216	14315	14317	T3-298	HF
+101039b910641c	108	298	Quantity	uL	"{""unit"": ""uL""}"	218	224	14319	14325	T1-298	800 uL
+101039b910641c	108	299	MeasuredProperty		"{""HasQuantity"": ""T1-299""}"	5	14	14106	14115	T2-299	reactants
+101039b910641c	108	299	MeasuredEntity		"{""HasProperty"": ""T2-299""}"	214	216	14315	14317	T3-299	HF
+101039b910641c	108	299	Quantity	mmol	"{""unit"": ""mmol""}"	226	236	14327	14337	T1-299	23.20 mmol
+101039b910641c	108	300	MeasuredProperty		"{""HasQuantity"": ""T1-300""}"	245	255	14346	14356	T2-300	mole ratio
+101039b910641c	108	300	MeasuredEntity		"{""HasProperty"": ""T2-300""}"	5	237	14106	14338	T3-300	reactants V2O5 (0.081 g, 0.45 mmol), cupric acetate hydrate (0.211 g, 1.16 mmol), 2,2'-bipyridyl amine (0.083 g, 0.49 mmol), 1,3,5-phenyltriphosphonic acid (0.086 g, 0.27 mmol), H2O (5.00 mL, 277.47 mmol) and HF (800 uL, 23.20 mmol)
+101039b910641c	108	300	Quantity			256	286	14357	14387	T1-300	1.65:4.30:1.80:1.00:1028:85.93
+101039b910641c	108	301	MeasuredProperty		"{""HasQuantity"": ""T1-301""}"	315	322	14416	14423	T2-301	heating
+101039b910641c	108	301	MeasuredEntity		"{""HasProperty"": ""T2-301""}"	5	14	14106	14115	T3-301	reactants
+101039b910641c	108	301	Quantity	degC	"{""unit"": ""degC""}"	326	334	14427	14435	T1-301	135 degC
+101039b910641c	108	302	MeasuredProperty		"{""HasQuantity"": ""T1-302""}"	315	322	14416	14423	T2-302	heating
+101039b910641c	108	302	MeasuredEntity		"{""HasProperty"": ""T2-302""}"	5	14	14106	14115	T3-302	reactants
+101039b910641c	108	302	Quantity	h	"{""unit"": ""h""}"	339	343	14440	14444	T1-302	72 h
+101039b910641c	62	303	MeasuredProperty		"{""HasQuantity"": ""T1-303""}"	39	44	8230	8235	T2-303	yield
+101039b910641c	62	303	MeasuredEntity		"{""HasProperty"": ""T2-303""}"	0	11	8191	8202	T3-303	Blue blocks
+101039b910641c	62	303	Quantity			37	38	8228	8229	T1-303	%
+101039b910641c	62	304	MeasuredProperty		"{""HasQuantity"": ""T1-304""}"	23	31	8214	8222	T2-304	isolated
+101039b910641c	62	304	MeasuredEntity		"{""HasProperty"": ""T2-304""}"	0	11	8191	8202	T3-304	Blue blocks
+101039b910641c	62	304	Quantity			15	17	8206	8208	T1-304	10
+101039b910641c	84	305	MeasuredProperty		"{""HasQuantity"": ""T1-305""}"	56	64	10786	10794	T2-305	isolated
+101039b910641c	84	305	MeasuredEntity		"{""HasProperty"": ""T2-305""}"	0	13	10730	10743	T3-305	Green needles
+101039b910641c	84	305	Quantity			17	19	10747	10749	T1-305	14
+101039b910641c	84	306	MeasuredProperty		"{""HasQuantity"": ""T1-306""}"	72	77	10802	10807	T2-306	yield
+101039b910641c	84	306	MeasuredEntity		"{""HasProperty"": ""T2-306""}"	0	13	10730	10743	T3-306	Green needles
+101039b910641c	84	306	Quantity	%	"{""unit"": ""%""}"	68	71	10798	10801	T1-306	15%
+101039b910641c	101	307	MeasuredProperty		"{""HasQuantity"": ""T1-307""}"	54	62	12817	12825	T2-307	isolated
+101039b910641c	101	307	MeasuredEntity		"{""HasProperty"": ""T2-307""}"	0	11	12763	12774	T3-307	Blue blocks
+101039b910641c	101	307	Quantity			15	17	12778	12780	T1-307	17
+101039b910641c	101	308	MeasuredProperty		"{""HasQuantity"": ""T1-308""}"	70	75	12833	12838	T2-308	yield
+101039b910641c	101	308	MeasuredEntity		"{""HasProperty"": ""T2-308""}"	0	11	12763	12774	T3-308	Blue blocks
+101039b910641c	101	308	Quantity	%	"{""unit"": ""%""}"	66	69	12829	12832	T1-308	80%
+101039b910641c	39	309	MeasuredProperty		"{""HasQuantity"": ""T1-309""}"	249	259	4848	4858	T2-309	mole ratio
+101039b910641c	39	309	MeasuredEntity		"{""HasProperty"": ""T2-309""}"	15	239	4614	4838	T3-309	V2O5 (0.080 g, 0.440 mmol), cupric acetate hydrate (0.201 g, 0.864 mmol), 1,10-phenanthroline (0.083 g, 0.461 mmol), 1,4-phenyldiphosphonic acid (0.051 g, 0.214 mmol), H2O (5.00 mL, 277.47 mmol), and HF (0.100 mL, 2.90 mmol)
+101039b910641c	39	309	Quantity			260	290	4859	4889	T1-309	2.06:4.14:2.15:1.00:1297:13.55
+101039b910641c	39	310	MeasuredProperty		"{""HasQuantity"": ""T1-310""}"	318	325	4917	4924	T2-310	heating
+101039b910641c	39	310	MeasuredEntity		"{""HasProperty"": ""T2-310""}"	15	239	4614	4838	T3-310	V2O5 (0.080 g, 0.440 mmol), cupric acetate hydrate (0.201 g, 0.864 mmol), 1,10-phenanthroline (0.083 g, 0.461 mmol), 1,4-phenyldiphosphonic acid (0.051 g, 0.214 mmol), H2O (5.00 mL, 277.47 mmol), and HF (0.100 mL, 2.90 mmol)
+101039b910641c	39	310	Quantity	degC	"{""unit"": ""degC""}"	329	337	4928	4936	T1-310	120 degC
+101039b910641c	39	311	MeasuredProperty		"{""HasQuantity"": ""T1-311""}"	318	325	4917	4924	T2-311	heating
+101039b910641c	39	311	MeasuredEntity		"{""HasProperty"": ""T2-311""}"	15	239	4614	4838	T3-311	V2O5 (0.080 g, 0.440 mmol), cupric acetate hydrate (0.201 g, 0.864 mmol), 1,10-phenanthroline (0.083 g, 0.461 mmol), 1,4-phenyldiphosphonic acid (0.051 g, 0.214 mmol), H2O (5.00 mL, 277.47 mmol), and HF (0.100 mL, 2.90 mmol)
+101039b910641c	39	311	Quantity	h	"{""unit"": ""h""}"	342	345	4941	4944	T1-311	72h
+101039b910641c	39	312	MeasuredProperty		"{""HasQuantity"": ""T1-312""}"	295	302	4894	4901	T2-312	stirred
+101039b910641c	39	312	MeasuredEntity		"{""HasProperty"": ""T2-312""}"	15	19	4614	4618	T3-312	V2O5
+101039b910641c	39	312	Quantity	g	"{""unit"": ""g""}"	21	28	4620	4627	T1-312	0.080 g
+101039b910641c	39	313	MeasuredProperty		"{""HasQuantity"": ""T1-313""}"	295	302	4894	4901	T2-313	stirred
+101039b910641c	39	313	MeasuredEntity		"{""HasProperty"": ""T2-313""}"	15	19	4614	4618	T3-313	V2O5
+101039b910641c	39	313	Quantity	mmol	"{""unit"": ""mmol""}"	30	40	4629	4639	T1-313	0.440 mmol
+101039b910641c	39	314	MeasuredProperty		"{""HasQuantity"": ""T1-314""}"	295	302	4894	4901	T2-314	stirred
+101039b910641c	39	314	MeasuredEntity		"{""HasProperty"": ""T2-314""}"	43	65	4642	4664	T3-314	cupric acetate hydrate
+101039b910641c	39	314	Quantity	g	"{""unit"": ""g""}"	67	74	4666	4673	T1-314	0.201 g
+101039b910641c	39	315	MeasuredProperty		"{""HasQuantity"": ""T1-315""}"	295	302	4894	4901	T2-315	stirred
+101039b910641c	39	315	MeasuredEntity		"{""HasProperty"": ""T2-315""}"	43	65	4642	4664	T3-315	cupric acetate hydrate
+101039b910641c	39	315	Quantity	mmol	"{""unit"": ""mmol""}"	76	86	4675	4685	T1-315	0.864 mmol
+101039b910641c	39	316	MeasuredProperty		"{""HasQuantity"": ""T1-316""}"	295	302	4894	4901	T2-316	stirred
+101039b910641c	39	316	MeasuredEntity		"{""HasProperty"": ""T2-316""}"	89	108	4688	4707	T3-316	1,10-phenanthroline
+101039b910641c	39	316	Quantity	g	"{""unit"": ""g""}"	110	117	4709	4716	T1-316	0.083 g
+101039b910641c	39	317	MeasuredProperty		"{""HasQuantity"": ""T1-317""}"	295	302	4894	4901	T2-317	stirred
+101039b910641c	39	317	MeasuredEntity		"{""HasProperty"": ""T2-317""}"	89	108	4688	4707	T3-317	1,10-phenanthroline
+101039b910641c	39	317	Quantity	mmol	"{""unit"": ""mmol""}"	119	129	4718	4728	T1-317	0.461 mmol
+101039b910641c	39	318	MeasuredProperty		"{""HasQuantity"": ""T1-318""}"	295	302	4894	4901	T2-318	stirred
+101039b910641c	39	318	MeasuredEntity		"{""HasProperty"": ""T2-318""}"	132	159	4731	4758	T3-318	1,4-phenyldiphosphonic acid
+101039b910641c	39	318	Quantity	g	"{""unit"": ""g""}"	161	168	4760	4767	T1-318	0.051 g
+101039b910641c	39	319	MeasuredProperty		"{""HasQuantity"": ""T1-319""}"	295	302	4894	4901	T2-319	stirred
+101039b910641c	39	319	MeasuredEntity		"{""HasProperty"": ""T2-319""}"	132	159	4731	4758	T3-319	1,4-phenyldiphosphonic acid
+101039b910641c	39	319	Quantity	mmol	"{""unit"": ""mmol""}"	170	180	4769	4779	T1-319	0.214 mmol
+101039b910641c	39	320	MeasuredProperty		"{""HasQuantity"": ""T1-320""}"	295	302	4894	4901	T2-320	stirred
+101039b910641c	39	320	MeasuredEntity		"{""HasProperty"": ""T2-320""}"	183	186	4782	4785	T3-320	H2O
+101039b910641c	39	320	Quantity	mL	"{""unit"": ""mL""}"	188	195	4787	4794	T1-320	5.00 mL
+101039b910641c	39	321	MeasuredProperty		"{""HasQuantity"": ""T1-321""}"	295	302	4894	4901	T2-321	stirred
+101039b910641c	39	321	MeasuredEntity		"{""HasProperty"": ""T2-321""}"	183	186	4782	4785	T3-321	H2O
+101039b910641c	39	321	Quantity	mmol	"{""unit"": ""mmol""}"	197	208	4796	4807	T1-321	277.47 mmol
+101039b910641c	39	322	MeasuredProperty		"{""HasQuantity"": ""T1-322""}"	295	302	4894	4901	T2-322	stirred
+101039b910641c	39	322	MeasuredEntity		"{""HasProperty"": ""T2-322""}"	215	217	4814	4816	T3-322	HF
+101039b910641c	39	322	Quantity	mL	"{""unit"": ""mL""}"	219	227	4818	4826	T1-322	0.100 mL
+101039b910641c	39	323	MeasuredProperty		"{""HasQuantity"": ""T1-323""}"	295	302	4894	4901	T2-323	stirred
+101039b910641c	39	323	MeasuredEntity		"{""HasProperty"": ""T2-323""}"	215	217	4814	4816	T3-323	HF
+101039b910641c	39	323	Quantity	mmol	"{""unit"": ""mmol""}"	229	238	4828	4837	T1-323	2.90 mmol
+101039b910641c	61	324	MeasuredProperty		"{""HasQuantity"": ""T1-324""}"	251	261	8019	8029	T2-324	mole ratio
+101039b910641c	61	324	MeasuredEntity		"{""HasProperty"": ""T2-324""}"	14	241	7782	8009	T3-324	V2O5 (0.079 g, 0.434 mmol), cupric acetate hydrate (0.201 g, 0.864 mmol), 2,2':6,2'' terpyridine (0.100 g, 0.429 mmol), 1,4-phenyldiphosphonic acid (0.049 g, 0.206 mmol), H2O (5.00 mL, 277.47 mmol), and HF (0.200 mL, 5.80 mmol)
+101039b910641c	61	324	Quantity			262	292	8030	8060	T1-324	2.11:4.19:2.08:1.00:1347:28.16
+101039b910641c	61	325	MeasuredProperty		"{""HasQuantity"": ""T1-325""}"	297	304	8065	8072	T2-325	stirred
+101039b910641c	61	325	MeasuredEntity		"{""HasProperty"": ""T2-325""}"	14	18	7782	7786	T3-325	V2O5
+101039b910641c	61	325	Quantity	g	"{""unit"": ""g""}"	20	27	7788	7795	T1-325	0.079 g
+101039b910641c	61	326	MeasuredProperty		"{""HasQuantity"": ""T1-326""}"	297	304	8065	8072	T2-326	stirred
+101039b910641c	61	326	MeasuredEntity		"{""HasProperty"": ""T2-326""}"	14	18	7782	7786	T3-326	V2O5
+101039b910641c	61	326	Quantity	mmol	"{""unit"": ""mmol""}"	29	39	7797	7807	T1-326	0.434 mmol
+101039b910641c	61	327	MeasuredProperty		"{""HasQuantity"": ""T1-327""}"	297	304	8065	8072	T2-327	stirred
+101039b910641c	61	327	MeasuredEntity		"{""HasProperty"": ""T2-327""}"	42	64	7810	7832	T3-327	cupric acetate hydrate
+101039b910641c	61	327	Quantity	g	"{""unit"": ""g""}"	66	73	7834	7841	T1-327	0.201 g
+101039b910641c	61	328	MeasuredProperty		"{""HasQuantity"": ""T1-328""}"	297	304	8065	8072	T2-328	stirred
+101039b910641c	61	328	MeasuredEntity		"{""HasProperty"": ""T2-328""}"	42	64	7810	7832	T3-328	cupric acetate hydrate
+101039b910641c	61	328	Quantity	mmol	"{""unit"": ""mmol""}"	75	85	7843	7853	T1-328	0.864 mmol
+101039b910641c	61	329	MeasuredProperty		"{""HasQuantity"": ""T1-329""}"	297	304	8065	8072	T2-329	stirred
+101039b910641c	61	329	MeasuredEntity		"{""HasProperty"": ""T2-329""}"	88	110	7856	7878	T3-329	2,2':6,2'' terpyridine
+101039b910641c	61	329	Quantity	g	"{""unit"": ""g""}"	112	119	7880	7887	T1-329	0.100 g
+101039b910641c	61	330	MeasuredProperty		"{""HasQuantity"": ""T1-330""}"	297	304	8065	8072	T2-330	stirred
+101039b910641c	61	330	MeasuredEntity		"{""HasProperty"": ""T2-330""}"	88	110	7856	7878	T3-330	2,2':6,2'' terpyridine
+101039b910641c	61	330	Quantity	mmol	"{""unit"": ""mmol""}"	121	131	7889	7899	T1-330	0.429 mmol
+101039b910641c	61	331	MeasuredProperty		"{""HasQuantity"": ""T1-331""}"	297	304	8065	8072	T2-331	stirred
+101039b910641c	61	331	MeasuredEntity		"{""HasProperty"": ""T2-331""}"	134	161	7902	7929	T3-331	1,4-phenyldiphosphonic acid
+101039b910641c	61	331	Quantity	g	"{""unit"": ""g""}"	163	170	7931	7938	T1-331	0.049 g
+101039b910641c	61	332	MeasuredProperty		"{""HasQuantity"": ""T1-332""}"	297	304	8065	8072	T2-332	stirred
+101039b910641c	61	332	MeasuredEntity		"{""HasProperty"": ""T2-332""}"	134	161	7902	7929	T3-332	1,4-phenyldiphosphonic acid
+101039b910641c	61	332	Quantity	mmol	"{""unit"": ""mmol""}"	172	182	7940	7950	T1-332	0.206 mmol
+101039b910641c	61	333	MeasuredProperty		"{""HasQuantity"": ""T1-333""}"	297	304	8065	8072	T2-333	stirred
+101039b910641c	61	333	MeasuredEntity		"{""HasProperty"": ""T2-333""}"	185	188	7953	7956	T3-333	H2O
+101039b910641c	61	333	Quantity	mL	"{""unit"": ""mL""}"	190	197	7958	7965	T1-333	5.00 mL
+101039b910641c	61	334	MeasuredProperty		"{""HasQuantity"": ""T1-334""}"	297	304	8065	8072	T2-334	stirred
+101039b910641c	61	334	MeasuredEntity		"{""HasProperty"": ""T2-334""}"	185	188	7953	7956	T3-334	H2O
+101039b910641c	61	334	Quantity	mmol	"{""unit"": ""mmol""}"	199	210	7967	7978	T1-334	277.47 mmol
+101039b910641c	61	335	MeasuredProperty		"{""HasQuantity"": ""T1-335""}"	297	304	8065	8072	T2-335	stirred
+101039b910641c	61	335	MeasuredEntity		"{""HasProperty"": ""T2-335""}"	217	219	7985	7987	T3-335	HF
+101039b910641c	61	335	Quantity	mL	"{""unit"": ""mL""}"	221	229	7989	7997	T1-335	0.200 mL
+101039b910641c	61	336	MeasuredProperty		"{""HasQuantity"": ""T1-336""}"	297	304	8065	8072	T2-336	stirred
+101039b910641c	61	336	MeasuredEntity		"{""HasProperty"": ""T2-336""}"	217	219	7985	7987	T3-336	HF
+101039b910641c	61	336	Quantity	mmol	"{""unit"": ""mmol""}"	231	240	7999	8008	T1-336	5.80 mmol
+101039b910641c	61	337	MeasuredProperty		"{""HasQuantity"": ""T1-337""}"	320	327	8088	8095	T2-337	heating
+101039b910641c	61	337	MeasuredEntity		"{""HasProperty"": ""T2-337""}"	2	10	7770	7778	T3-337	reaction
+101039b910641c	61	337	Quantity	degC	"{""unit"": ""degC""}"	331	339	8099	8107	T1-337	180 degC
+101039b910641c	61	338	MeasuredProperty		"{""HasQuantity"": ""T1-338""}"	320	327	8088	8095	T2-338	heating
+101039b910641c	61	338	MeasuredEntity		"{""HasProperty"": ""T2-338""}"	2	10	7770	7778	T3-338	reaction
+101039b910641c	61	338	Quantity	h	"{""unit"": ""h""}"	344	348	8112	8116	T1-338	48 h
+101039b910641c	61	339	MeasuredProperty		"{""HasQuantity"": ""T1-339""}"	368	377	8136	8145	T2-339	pH values
+101039b910641c	61	339	MeasuredEntity		"{""HasProperty"": ""T2-339""}"	2	10	7770	7778	T3-339	reaction
+101039b910641c	61	339	Quantity			381	384	8149	8152	T1-339	1.0
+101039b910641c	61	340	MeasuredProperty		"{""HasQuantity"": ""T1-340""}"	368	377	8136	8145	T2-340	pH values
+101039b910641c	61	340	MeasuredEntity		"{""HasProperty"": ""T2-340""}"	2	10	7770	7778	T3-340	reaction
+101039b910641c	61	340	Quantity			389	392	8157	8160	T1-340	1.0
+101039b910641c	2	341	MeasuredEntity		"{""HasQuantity"": ""T1-341""}"	228	245	398	415	T3-341	hydrofluoric acid
+101039b910641c	2	341	Quantity	%	"{""unit"": ""%""}"	247	256	417	426	T1-341	48 to 51%
+101039b910641c	49	342	MeasuredProperty		"{""HasQuantity"": ""T1-342""}"	14	18	6461	6465	T2-342	V2O5
+101039b910641c	49	342	MeasuredEntity		"{""HasProperty"": ""T2-342""}"	3	10	6450	6457	T3-342	mixture
+101039b910641c	49	342	Quantity	g	"{""unit"": ""g""}"	20	27	6467	6474	T1-342	0.082 g
+101039b910641c	49	343	MeasuredProperty		"{""HasQuantity"": ""T1-343""}"	14	18	6461	6465	T2-343	V2O5
+101039b910641c	49	343	MeasuredEntity		"{""HasProperty"": ""T2-343""}"	3	10	6450	6457	T3-343	mixture
+101039b910641c	49	343	Quantity	mmol	"{""unit"": ""mmol""}"	29	39	6476	6486	T1-343	0.451 mmol
+101039b910641c	49	344	MeasuredProperty		"{""HasQuantity"": ""T1-344""}"	42	64	6489	6511	T2-344	cupric acetate hydrate
+101039b910641c	49	344	MeasuredEntity		"{""HasProperty"": ""T2-344""}"	3	10	6450	6457	T3-344	mixture
+101039b910641c	49	344	Quantity	g	"{""unit"": ""g""}"	66	73	6513	6520	T1-344	0.201 g
+101039b910641c	49	345	MeasuredProperty		"{""HasQuantity"": ""T1-345""}"	42	64	6489	6511	T2-345	cupric acetate hydrate
+101039b910641c	49	345	MeasuredEntity		"{""HasProperty"": ""T2-345""}"	3	10	6450	6457	T3-345	mixture
+101039b910641c	49	345	Quantity	mmol	"{""unit"": ""mmol""}"	75	85	6522	6532	T1-345	0.864 mmol
+101039b910641c	49	346	MeasuredProperty		"{""HasQuantity"": ""T1-346""}"	88	113	6535	6560	T2-346	2-pyridyl carboxylic acid
+101039b910641c	49	346	MeasuredEntity		"{""HasProperty"": ""T2-346""}"	3	10	6450	6457	T3-346	mixture
+101039b910641c	49	346	Quantity	g	"{""unit"": ""g""}"	115	122	6562	6569	T1-346	0.130 g
+101039b910641c	49	347	MeasuredProperty		"{""HasQuantity"": ""T1-347""}"	88	113	6535	6560	T2-347	2-pyridyl carboxylic acid
+101039b910641c	49	347	MeasuredEntity		"{""HasProperty"": ""T2-347""}"	3	10	6450	6457	T3-347	mixture
+101039b910641c	49	347	Quantity	mmol	"{""unit"": ""mmol""}"	124	134	6571	6581	T1-347	1.060 mmol
+101039b910641c	49	348	MeasuredProperty		"{""HasQuantity"": ""T1-348""}"	137	164	6584	6611	T2-348	1,4-phenyldiphosphonic acid
+101039b910641c	49	348	MeasuredEntity		"{""HasProperty"": ""T2-348""}"	3	10	6450	6457	T3-348	mixture
+101039b910641c	49	348	Quantity	g	"{""unit"": ""g""}"	166	173	6613	6620	T1-348	0.050 g
+101039b910641c	49	349	MeasuredProperty		"{""HasQuantity"": ""T1-349""}"	137	164	6584	6611	T2-349	1,4-phenyldiphosphonic acid
+101039b910641c	49	349	MeasuredEntity		"{""HasProperty"": ""T2-349""}"	3	10	6450	6457	T3-349	mixture
+101039b910641c	49	349	Quantity	mmol	"{""unit"": ""mmol""}"	175	185	6622	6632	T1-349	0.210 mmol
+101039b910641c	49	350	MeasuredProperty		"{""HasQuantity"": ""T1-350""}"	188	191	6635	6638	T2-350	H2O
+101039b910641c	49	350	MeasuredEntity		"{""HasProperty"": ""T2-350""}"	3	10	6450	6457	T3-350	mixture
+101039b910641c	49	350	Quantity	mL	"{""unit"": ""mL""}"	193	200	6640	6647	T1-350	5.00 mL
+101039b910641c	49	351	MeasuredProperty		"{""HasQuantity"": ""T1-351""}"	188	191	6635	6638	T2-351	H2O
+101039b910641c	49	351	MeasuredEntity		"{""HasProperty"": ""T2-351""}"	3	10	6450	6457	T3-351	mixture
+101039b910641c	49	351	Quantity	mmol	"{""unit"": ""mmol""}"	202	213	6649	6660	T1-351	277.47 mmol
+101039b910641c	49	352	MeasuredProperty		"{""HasQuantity"": ""T1-352""}"	220	222	6667	6669	T2-352	HF
+101039b910641c	49	352	MeasuredEntity		"{""HasProperty"": ""T2-352""}"	3	10	6450	6457	T3-352	mixture
+101039b910641c	49	352	Quantity	mL	"{""unit"": ""mL""}"	224	232	6671	6679	T1-352	0.200 mL
+101039b910641c	49	353	MeasuredProperty		"{""HasQuantity"": ""T1-353""}"	220	222	6667	6669	T2-353	HF
+101039b910641c	49	353	MeasuredEntity		"{""HasProperty"": ""T2-353""}"	3	10	6450	6457	T3-353	mixture
+101039b910641c	49	353	Quantity	mmol	"{""unit"": ""mmol""}"	234	243	6681	6690	T1-353	5.80 mmol
+101039b910641c	49	354	MeasuredProperty		"{""HasQuantity"": ""T1-354""}"	254	264	6701	6711	T2-354	mole ratio
+101039b910641c	49	354	MeasuredEntity		"{""HasProperty"": ""T2-354""}"	12	244	6459	6691	T3-354	f V2O5 (0.082 g, 0.451 mmol), cupric acetate hydrate (0.201 g, 0.864 mmol), 2-pyridyl carboxylic acid (0.130 g, 1.060 mmol), 1,4-phenyldiphosphonic acid (0.050 g, 0.210 mmol), H2O (5.00 mL, 277.47 mmol), and HF (0.200 mL, 5.80 mmol)
+101039b910641c	49	354	Quantity			265	295	6712	6742	T1-354	2.15:4.11:5.05:1.00:1321:27.61
+101039b910641c	49	355	MeasuredProperty		"{""HasQuantity"": ""T1-355""}"	323	330	6770	6777	T2-355	heating
+101039b910641c	49	355	MeasuredEntity		"{""HasProperty"": ""T2-355""}"	3	10	6450	6457	T3-355	mixture
+101039b910641c	49	355	Quantity	degC	"{""unit"": ""degC""}"	334	342	6781	6789	T1-355	120 degC
+101039b910641c	49	356	MeasuredProperty		"{""HasQuantity"": ""T1-356""}"	323	330	6770	6777	T2-356	heating
+101039b910641c	49	356	MeasuredEntity		"{""HasProperty"": ""T2-356""}"	3	10	6450	6457	T3-356	mixture
+101039b910641c	49	356	Quantity	h	"{""unit"": ""h""}"	347	351	6794	6798	T1-356	72 h
+101039b910641c	69	357	MeasuredProperty		"{""HasQuantity"": ""T1-357""}"	13	17	8503	8507	T2-357	V2O5
+101039b910641c	69	357	MeasuredEntity		"{""HasProperty"": ""T2-357""}"	2	9	8492	8499	T3-357	mixture
+101039b910641c	69	357	Quantity	g	"{""unit"": ""g""}"	19	26	8509	8516	T1-357	0.077 g
+101039b910641c	69	358	MeasuredProperty		"{""HasQuantity"": ""T1-358""}"	13	17	8503	8507	T2-358	V2O5
+101039b910641c	69	358	MeasuredEntity		"{""HasProperty"": ""T2-358""}"	2	9	8492	8499	T3-358	mixture
+101039b910641c	69	358	Quantity	mmol	"{""unit"": ""mmol""}"	28	38	8518	8528	T1-358	0.423 mmol
+101039b910641c	69	359	MeasuredProperty		"{""HasQuantity"": ""T1-359""}"	41	63	8531	8553	T2-359	cupric acetate hydrate
+101039b910641c	69	359	MeasuredEntity		"{""HasProperty"": ""T2-359""}"	2	9	8492	8499	T3-359	mixture
+101039b910641c	69	359	Quantity	g	"{""unit"": ""g""}"	65	72	8555	8562	T1-359	0.202 g
+101039b910641c	69	360	MeasuredProperty		"{""HasQuantity"": ""T1-360""}"	41	63	8531	8553	T2-360	cupric acetate hydrate
+101039b910641c	69	360	MeasuredEntity		"{""HasProperty"": ""T2-360""}"	2	9	8492	8499	T3-360	mixture
+101039b910641c	69	360	Quantity	mmol	"{""unit"": ""mmol""}"	74	84	8564	8574	T1-360	0.868 mmol
+101039b910641c	69	361	MeasuredProperty		"{""HasQuantity"": ""T1-361""}"	87	106	8577	8596	T2-361	2,2'-dipyridylamine
+101039b910641c	69	361	MeasuredEntity		"{""HasProperty"": ""T2-361""}"	2	9	8492	8499	T3-361	mixture
+101039b910641c	69	361	Quantity	g	"{""unit"": ""g""}"	108	115	8598	8605	T1-361	0.075 g
+101039b910641c	69	362	MeasuredProperty		"{""HasQuantity"": ""T1-362""}"	87	106	8577	8596	T2-362	2,2'-dipyridylamine
+101039b910641c	69	362	MeasuredEntity		"{""HasProperty"": ""T2-362""}"	2	9	8492	8499	T3-362	mixture
+101039b910641c	69	362	Quantity	mmol	"{""unit"": ""mmol""}"	117	127	8607	8617	T1-362	0.438 mmol
+101039b910641c	69	363	MeasuredProperty		"{""HasQuantity"": ""T1-363""}"	130	157	8620	8647	T2-363	1,4-phenyldiphosphonic acid
+101039b910641c	69	363	MeasuredEntity		"{""HasProperty"": ""T2-363""}"	2	9	8492	8499	T3-363	mixture
+101039b910641c	69	363	Quantity	g	"{""unit"": ""g""}"	159	166	8649	8656	T1-363	0.049 g
+101039b910641c	69	364	MeasuredProperty		"{""HasQuantity"": ""T1-364""}"	130	157	8620	8647	T2-364	1,4-phenyldiphosphonic acid
+101039b910641c	69	364	MeasuredEntity		"{""HasProperty"": ""T2-364""}"	2	9	8492	8499	T3-364	mixture
+101039b910641c	69	364	Quantity	mmol	"{""unit"": ""mmol""}"	168	178	8658	8668	T1-364	0.206 mmol
+101039b910641c	69	365	MeasuredProperty		"{""HasQuantity"": ""T1-365""}"	181	184	8671	8674	T2-365	H2O
+101039b910641c	69	365	MeasuredEntity		"{""HasProperty"": ""T2-365""}"	2	9	8492	8499	T3-365	mixture
+101039b910641c	69	365	Quantity	mL	"{""unit"": ""mL""}"	186	193	8676	8683	T1-365	5.00 mL
+101039b910641c	69	366	MeasuredProperty		"{""HasQuantity"": ""T1-366""}"	181	184	8671	8674	T2-366	H2O
+101039b910641c	69	366	MeasuredEntity		"{""HasProperty"": ""T2-366""}"	2	9	8492	8499	T3-366	mixture
+101039b910641c	69	366	Quantity	mmol	"{""unit"": ""mmol""}"	195	206	8685	8696	T1-366	277.47 mmol
+101039b910641c	69	367	MeasuredProperty		"{""HasQuantity"": ""T1-367""}"	213	215	8703	8705	T2-367	HF
+101039b910641c	69	367	MeasuredEntity		"{""HasProperty"": ""T2-367""}"	2	9	8492	8499	T3-367	mixture
+101039b910641c	69	367	Quantity	mL	"{""unit"": ""mL""}"	217	225	8707	8715	T1-367	0.100 mL
+101039b910641c	69	368	MeasuredProperty		"{""HasQuantity"": ""T1-368""}"	213	215	8703	8705	T2-368	HF
+101039b910641c	69	368	MeasuredEntity		"{""HasProperty"": ""T2-368""}"	2	9	8492	8499	T3-368	mixture
+101039b910641c	69	368	Quantity	mmol	"{""unit"": ""mmol""}"	227	236	8717	8726	T1-368	2.90 mmol
+101039b910641c	69	369	MeasuredProperty		"{""HasQuantity"": ""T1-369""}"	247	257	8737	8747	T2-369	mole ratio
+101039b910641c	69	369	MeasuredEntity		"{""HasProperty"": ""T2-369""}"	13	237	8503	8727	T3-369	V2O5 (0.077 g, 0.423 mmol), cupric acetate hydrate (0.202 g, 0.868 mmol), 2,2'-dipyridylamine (0.075 g, 0.438 mmol), 1,4-phenyldiphosphonic acid (0.049 g, 0.206 mmol), H2O (5.00 mL, 277.47 mmol), and HF (0.100 mL, 2.90 mmol)
+101039b910641c	69	369	Quantity			258	288	8748	8778	T1-369	2.05:4.21:2.13:1.00:1347:14.08
+101039b910641c	69	370	MeasuredProperty		"{""HasQuantity"": ""T1-370""}"	316	323	8806	8813	T2-370	heating
+101039b910641c	69	370	MeasuredEntity		"{""HasProperty"": ""T2-370""}"	2	9	8492	8499	T3-370	mixture
+101039b910641c	69	370	Quantity	degC	"{""unit"": ""degC""}"	327	335	8817	8825	T1-370	150 degC
+101039b910641c	69	371	MeasuredProperty		"{""HasQuantity"": ""T1-371""}"	316	323	8806	8813	T2-371	heating
+101039b910641c	69	371	MeasuredEntity		"{""HasProperty"": ""T2-371""}"	2	9	8492	8499	T3-371	mixture
+101039b910641c	69	371	Quantity	h	"{""unit"": ""h""}"	340	344	8830	8834	T1-371	96 h
+101039b910641c	78	372	MeasuredProperty		"{""HasQuantity"": ""T1-372""}"	17	21	9333	9337	T2-372	V2O5
+101039b910641c	78	372	MeasuredEntity		"{""HasProperty"": ""T2-372""}"	5	13	9321	9329	T3-372	solution
+101039b910641c	78	372	Quantity	g	"{""unit"": ""g""}"	23	30	9339	9346	T1-372	0.076 g
+101039b910641c	78	373	MeasuredProperty		"{""HasQuantity"": ""T1-373""}"	17	21	9333	9337	T2-373	V2O5
+101039b910641c	78	373	MeasuredEntity		"{""HasProperty"": ""T2-373""}"	5	13	9321	9329	T3-373	solution
+101039b910641c	78	373	Quantity	mmol	"{""unit"": ""mmol""}"	32	41	9348	9357	T1-373	0.42 mmol
+101039b910641c	78	374	MeasuredProperty		"{""HasQuantity"": ""T1-374""}"	44	66	9360	9382	T2-374	cupric nitrate hydrate
+101039b910641c	78	374	MeasuredEntity		"{""HasProperty"": ""T2-374""}"	5	13	9321	9329	T3-374	solution
+101039b910641c	78	374	Quantity	g	"{""unit"": ""g""}"	68	75	9384	9391	T1-374	0.202 g
+101039b910641c	78	375	MeasuredProperty		"{""HasQuantity"": ""T1-375""}"	44	66	9360	9382	T2-375	cupric nitrate hydrate
+101039b910641c	78	375	MeasuredEntity		"{""HasProperty"": ""T2-375""}"	5	13	9321	9329	T3-375	solution
+101039b910641c	78	375	Quantity	mmol	"{""unit"": ""mmol""}"	77	86	9393	9402	T1-375	0.87 mmol
+101039b910641c	78	376	MeasuredProperty		"{""HasQuantity"": ""T1-376""}"	89	103	9405	9419	T2-376	2,2'-dipyridyl
+101039b910641c	78	376	MeasuredEntity		"{""HasProperty"": ""T2-376""}"	5	13	9321	9329	T3-376	solution
+101039b910641c	78	376	Quantity	g	"{""unit"": ""g""}"	105	112	9421	9428	T1-376	0.065 g
+101039b910641c	78	377	MeasuredProperty		"{""HasQuantity"": ""T1-377""}"	89	103	9405	9419	T2-377	2,2'-dipyridyl
+101039b910641c	78	377	MeasuredEntity		"{""HasProperty"": ""T2-377""}"	5	13	9321	9329	T3-377	solution
+101039b910641c	78	377	Quantity	mmol	"{""unit"": ""mmol""}"	114	123	9430	9439	T1-377	0.42 mmol
+101039b910641c	78	378	MeasuredProperty		"{""HasQuantity"": ""T1-378""}"	126	156	9442	9472	T2-378	1,3,5-phenyltriphosphonic acid
+101039b910641c	78	378	MeasuredEntity		"{""HasProperty"": ""T2-378""}"	5	13	9321	9329	T3-378	solution
+101039b910641c	78	378	Quantity	g	"{""unit"": ""g""}"	158	165	9474	9481	T1-378	0.069 g
+101039b910641c	78	379	MeasuredProperty		"{""HasQuantity"": ""T1-379""}"	126	156	9442	9472	T2-379	1,3,5-phenyltriphosphonic acid
+101039b910641c	78	379	MeasuredEntity		"{""HasProperty"": ""T2-379""}"	5	13	9321	9329	T3-379	solution
+101039b910641c	78	379	Quantity	mmol	"{""unit"": ""mmol""}"	167	176	9483	9492	T1-379	0.22 mmol
+101039b910641c	78	380	MeasuredProperty		"{""HasQuantity"": ""T1-380""}"	179	182	9495	9498	T2-380	H2O
+101039b910641c	78	380	MeasuredEntity		"{""HasProperty"": ""T2-380""}"	5	13	9321	9329	T3-380	solution
+101039b910641c	78	380	Quantity	mL	"{""unit"": ""mL""}"	184	191	9500	9507	T1-380	5.00 mL
+101039b910641c	78	381	MeasuredProperty		"{""HasQuantity"": ""T1-381""}"	179	182	9495	9498	T2-381	H2O
+101039b910641c	78	381	MeasuredEntity		"{""HasProperty"": ""T2-381""}"	5	13	9321	9329	T3-381	solution
+101039b910641c	78	381	Quantity	mmol	"{""unit"": ""mmol""}"	193	204	9509	9520	T1-381	277.47 mmol
+101039b910641c	78	382	MeasuredProperty		"{""HasQuantity"": ""T1-382""}"	210	212	9526	9528	T2-382	HF
+101039b910641c	78	382	MeasuredEntity		"{""HasProperty"": ""T2-382""}"	5	13	9321	9329	T3-382	solution
+101039b910641c	78	382	Quantity	uL	"{""unit"": ""uL""}"	214	220	9530	9536	T1-382	400 uL
+101039b910641c	78	383	MeasuredProperty		"{""HasQuantity"": ""T1-383""}"	210	212	9526	9528	T2-383	HF
+101039b910641c	78	383	MeasuredEntity		"{""HasProperty"": ""T2-383""}"	5	13	9321	9329	T3-383	solution
+101039b910641c	78	383	Quantity	mmol	"{""unit"": ""mmol""}"	222	232	9538	9548	T1-383	11.60 mmol
+101039b910641c	78	384	MeasuredProperty		"{""HasQuantity"": ""T1-384""}"	241	251	9557	9567	T2-384	mole ratio
+101039b910641c	78	384	MeasuredEntity		"{""HasProperty"": ""T2-384""}"	17	233	9333	9549	T3-384	V2O5 (0.076 g, 0.42 mmol), cupric nitrate hydrate (0.202 g, 0.87 mmol), 2,2'-dipyridyl (0.065 g, 0.42 mmol), 1,3,5-phenyltriphosphonic acid (0.069 g, 0.22 mmol), H2O (5.00 mL, 277.47 mmol) and HF (400 uL, 11.60 mmol)
+101039b910641c	78	384	Quantity			252	282	9568	9598	T1-384	1.92:4.00:1.92:1.00:1280:53.46
+101039b910641c	78	385	MeasuredProperty		"{""HasQuantity"": ""T1-385""}"	287	293	9603	9609	T2-385	heated
+101039b910641c	78	385	MeasuredEntity		"{""HasProperty"": ""T2-385""}"	5	13	9321	9329	T3-385	solution
+101039b910641c	78	385	Quantity	degC	"{""unit"": ""degC""}"	297	305	9613	9621	T1-385	150 degC
+101039b910641c	78	386	MeasuredProperty		"{""HasQuantity"": ""T1-386""}"	287	293	9603	9609	T2-386	heated
+101039b910641c	78	386	MeasuredEntity		"{""HasProperty"": ""T2-386""}"	5	13	9321	9329	T3-386	solution
+101039b910641c	78	386	Quantity	h	"{""unit"": ""h""}"	310	314	9626	9630	T1-386	72 h
+101039b910641c	78	387	MeasuredProperty		"{""HasQuantity"": ""T1-387""}"	328	339	9644	9655	T2-387	blue blocks
+101039b910641c	78	387	MeasuredEntity		"{""HasProperty"": ""T2-387""}"	5	13	9321	9329	T3-387	solution
+101039b910641c	78	387	Quantity			343	345	9659	9661	T1-387	12
+101039b910641c	78	388	MeasuredProperty		"{""HasQuantity"": ""T1-388""}"	353	358	9669	9674	T2-388	yield
+101039b910641c	78	388	MeasuredEntity		"{""HasProperty"": ""T2-388""}"	5	13	9321	9329	T3-388	solution
+101039b910641c	78	388	Quantity	%	"{""unit"": ""%""}"	349	352	9665	9668	T1-388	60%
+101039b910641c	78	389	MeasuredProperty		"{""HasQuantity"": ""T1-389""}"	360	370	9676	9686	T2-389	initial pH
+101039b910641c	78	389	MeasuredEntity		"{""HasProperty"": ""T2-389""}"	5	13	9321	9329	T3-389	solution
+101039b910641c	78	389	Quantity			371	374	9687	9690	T1-389	1.0
+101039b910641c	78	390	MeasuredProperty		"{""HasQuantity"": ""T1-390""}"	376	384	9692	9700	T2-390	final pH
+101039b910641c	78	390	MeasuredEntity		"{""HasProperty"": ""T2-390""}"	5	13	9321	9329	T3-390	solution
+101039b910641c	78	390	Quantity			385	388	9701	9704	T1-390	1.0

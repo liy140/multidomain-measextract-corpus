@@ -1,0 +1,10 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US10411258B2_1	1	1	MeasuredEntity			510	520	510	520	T3-1	the powder
+US10411258B2_1	1	1	MeasuredProperty			382	408	382	408	T2-1	particle size distribution
+US10411258B2_1	1	1	Quantity	μm		414	419	414	419	T1-1	10 μm
+US10411258B2_1	1	2	MeasuredEntity			362	372	362	372	T3-2	the powder
+US10411258B2_1	1	2	MeasuredProperty			433	449	433	449	T2-2	specific surface
+US10411258B2_1	1	2	Quantity	m<sup>2</sup>/g		455	508	455	508	T1-2	0.9≤BET≤5, the BET being expressed in m<sup>2</sup>/g
+US10411258B2_1	1	3	MeasuredEntity			542	568	542	568	T3-3	sodium and sulfur impurity
+US10411258B2_1	1	3	MeasuredProperty			586	680	586	680	T2-3	(2*Na<sub>wt</sub>)+S<sub>wt </sub>of the sodium (Na<sub>wt</sub>) and sulfur (S<sub>wt</sub>)
+US10411258B2_1	1	3	Quantity	wt %		710	751	710	751	T1-3	more than 0.4 wt % and less than 1.6 wt %

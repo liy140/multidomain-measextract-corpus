@@ -1,0 +1,15 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0012821X13002185-994	1	1	Quantity	Ma		81	89	81	89	T1-1	∼33.7 Ma
+S0012821X13002185-994	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	91	94	91	94	T3-1	Oi1
+S0012821X13002185-994	2	2	Quantity	%		164	173	368	377	T1-2	up to 40%
+S0012821X13002185-994	2	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	112	139	316	343	T4-2	siliceous walled autotrophs
+S0012821X13002185-994	2	2	MeasuredEntity		{'HasProperty': 'T4-2'}	177	195	381	399	T3-2	primary production
+S0012821X13002185-994	5	3	Quantity	‰		42	46	895	899	T1-3	0.6‰
+S0012821X13002185-994	5	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	47	51	900	904	T4-3	rise
+S0012821X13002185-994	5	3	MeasuredEntity		{'HasProperty': 'T4-3'}	55	67	908	920	T3-3	diatom δ30Si
+S0012821X13002185-994	6	4	Quantity	‰		14	18	1078	1082	T1-4	1.5‰
+S0012821X13002185-994	6	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	19	26	1083	1090	T4-4	decline
+S0012821X13002185-994	6	4	MeasuredEntity		{'HasProperty': 'T4-4'}	30	42	1094	1106	T3-4	sponge δ30Si
+S0012821X13002185-994	7	5	Quantity	Ma		56	64	1308	1316	T1-5	∼31.5 Ma
+S0012821X13002185-994	7	5	MeasuredProperty		{'HasQuantity': 'T1-5'}	46	52	1298	1304	T4-5	peaked
+S0012821X13002185-994	7	5	MeasuredEntity		{'HasProperty': 'T4-5'}	0	45	1252	1297	T3-5	Intermediate depth silicic acid concentration

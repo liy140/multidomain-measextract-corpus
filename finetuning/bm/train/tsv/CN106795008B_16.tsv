@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN106795008B_16	1	1	MeasuredEntity			36	38	36	38	T3-1	NH
+CN106795008B_16	1	1	MeasuredProperty			58	71	58	71	T2-1	concentration
+CN106795008B_16	1	1	Quantity	g/L		75	93	75	93	T1-1	lower than 5.0 g/L

@@ -1,0 +1,36 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jjallcom201312206	3	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	72	78	464	470	T2-1	heated
+101016jjallcom201312206	3	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	11	25	403	417	T3-1	KMnO4 solution
+101016jjallcom201312206	3	1	Quantity	M	"{""unit"": ""M""}"	2	7	394	399	T1-1	0.1 M
+101016jjallcom201312206	3	2	MeasuredEntity		"{""HasQuantity"": ""T1-2""}"	72	78	464	470	T3-2	heated
+101016jjallcom201312206	3	2	Quantity	degC	"{""unit"": ""degC""}"	82	89	474	481	T1-2	70 degC
+101016jjallcom201312206	3	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	72	78	464	470	T2-3	heated
+101016jjallcom201312206	3	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	39	42	431	434	T3-3	CNT
+101016jjallcom201312206	3	3	Quantity	g	"{""unit"": ""g""}"	30	35	422	427	T1-3	1.0 g
+101016jjallcom201312206	3	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	143	173	535	565	T2-4	maintained at same temperature
+101016jjallcom201312206	3	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	131	138	523	530	T3-4	mixture
+101016jjallcom201312206	3	4	Quantity	h	"{""unit"": ""h""}"	178	182	570	574	T1-4	12 h
+101016jjallcom201312206	6	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	29	43	863	877	T2-5	rapidly heated
+101016jjallcom201312206	6	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	6	23	840	857	T3-5	solution mixtures
+101016jjallcom201312206	6	5	Quantity	degC	"{""unit"": ""degC""}"	47	55	881	889	T1-5	200 degC
+101016jjallcom201312206	6	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	90	100	924	934	T2-6	maintained
+101016jjallcom201312206	6	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	6	23	840	857	T3-6	solution mixtures
+101016jjallcom201312206	6	6	Quantity	degC	"{""unit"": ""degC""}"	104	112	938	946	T1-6	200 degC
+101016jjallcom201312206	6	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	90	112	924	946	T2-7	maintained at 200 degC
+101016jjallcom201312206	6	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	6	23	840	857	T3-7	solution mixtures
+101016jjallcom201312206	6	7	Quantity	min	"{""unit"": ""min""}"	118	124	952	958	T1-7	30 min
+101016jjallcom201312206	7	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	73	78	1071	1076	T2-8	dried
+101016jjallcom201312206	7	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	4	14	1002	1012	T3-8	suspension
+101016jjallcom201312206	7	8	Quantity	degC	"{""unit"": ""degC""}"	82	90	1080	1088	T1-8	100 degC
+101016jjallcom201312206	7	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	73	78	1071	1076	T2-9	dried
+101016jjallcom201312206	7	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	4	14	1002	1012	T3-9	suspension
+101016jjallcom201312206	7	9	Quantity	h	"{""unit"": ""h""}"	95	99	1093	1097	T1-9	24 h
+101016jjallcom201312206	4	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	52	57	628	633	T2-10	dried
+101016jjallcom201312206	4	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	4	20	580	596	T3-10	black suspension
+101016jjallcom201312206	4	10	Quantity	degC	"{""unit"": ""degC""}"	61	69	637	645	T1-10	100 degC
+101016jjallcom201312206	5	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	108	121	763	776	T2-11	concentration
+101016jjallcom201312206	5	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	125	146	780	801	T3-11	aqueous LiOH solution
+101016jjallcom201312206	5	11	Quantity	M	"{""unit"": ""M""}"	148	176	803	831	T1-11	0.1 M, 0.2 M, 0.5 M, and 1 M
+101016jjallcom201312206	8	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	19	26	1126	1133	T2-12	samples
+101016jjallcom201312206	8	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	30	52	1137	1159	T3-12	LMO/CNT nanocomposites
+101016jjallcom201312206	8	12	Quantity			4	8	1111	1115	T1-12	four

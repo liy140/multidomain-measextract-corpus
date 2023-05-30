@@ -1,0 +1,21 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0012821X13007309-1649	4	1	Quantity	‰		130	134	460	464	T1-1	0.5‰
+S0012821X13007309-1649	4	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	135	154	465	484	T2-1	VPDB negative shift
+S0012821X13007309-1649	4	1	MeasuredEntity		{'HasProperty': 'T2-1'}	109	114	439	444	T3-1	OAE 2
+S0012821X13007309-1649	4	2	Quantity	‰		180	182	510	512	T1-2	4‰
+S0012821X13007309-1649	4	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	183	201	513	531	T3-2	positive excursion
+S0012821X13007309-1649	4	2	MeasuredEntity		{'HasProperty': 'T3-2'}	109	114	439	444	T2-2	OAE 2
+S0012821X13007309-1649	4	3	Quantity	‰		203	218	533	548	T1-3	−27.7 to −23.7‰
+S0012821X13007309-1649	4	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	180	201	510	531	T4-3	4‰ positive excursion
+S0012821X13007309-1649	4	3	MeasuredEntity		{'HasProperty': 'T4-3'}	109	114	439	444	T3-3	OAE 2
+S0012821X13007309-1649	5	4	Quantity	m		35	39	650	654	T1-4	∼2 m
+S0012821X13007309-1649	5	4	MeasuredEntity		{'HasQuantity': 'T1-4'}	19	28	634	643	T3-4	excursion
+S0012821X13007309-1649	6	5	Quantity	‰		47	72	746	771	T1-5	between ∼−23.5‰ to −27.5‰
+S0012821X13007309-1649	6	5	MeasuredProperty		{'HasQuantity': 'T1-5'}	22	36	721	735	T3-5	δ13Corg values
+S0012821X13007309-1649	6	5	MeasuredEntity		{'HasProperty': 'T3-5'}	11	16	710	715	T2-5	OAE 2
+S0012821X13007309-1649	6	6	Quantity	mbsf		118	130	817	829	T1-6	1035.75 mbsf
+S0012821X13007309-1649	6	6	MeasuredProperty		{'HasQuantity': 'T1-6'}	78	96	777	795	T4-6	maximum enrichment
+S0012821X13007309-1649	6	6	MeasuredEntity		{'HasProperty': 'T4-6'}	104	111	803	810	T3-6	δ13Corg
+S0012821X13007309-1649	6	7	Quantity	m		132	139	831	838	T1-7	∼3.52 m
+S0012821X13007309-1649	6	7	MeasuredProperty		{'HasQuantity': 'T1-7'}	78	96	777	795	T5-7	maximum enrichment
+S0012821X13007309-1649	6	7	MeasuredEntity		{'HasProperty': 'T5-7'}	104	111	803	810	T4-7	δ13Corg

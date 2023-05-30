@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103512004009-4350	5	1	Quantity	K		79	86	515	522	T1-1	∼1000 K
+S0019103512004009-4350	5	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	30	49	466	485	T2-1	maximum temperature
+S0019103512004009-4350	5	1	MeasuredEntity		{'HasProperty': 'T2-1'}	57	65	493	501	T3-1	C3 model
+S0019103512004009-4350	5	2	Quantity	K		135	146	571	582	T1-2	1000–2000 K
+S0019103512004009-4350	5	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	30	49	466	485	T7-2	maximum temperature
+S0019103512004009-4350	5	2	MeasuredEntity		{'HasProperty': 'T7-2'}	113	121	549	557	T2-2	C3 model

@@ -1,0 +1,8 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0950705113001895-23699	3	1	Quantity	%		122	138	562	578	T1-1	from 10% to 100%
+S0950705113001895-23699	3	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	112	121	552	561	T3-1	increases
+S0950705113001895-23699	3	1	MeasuredEntity		{'HasProperty': 'T3-1'}	96	111	536	551	T2-1	inserting ratio
+S0950705113001895-23699	4	2	Quantity	%		117	130	724	737	T1-2	less than 85%
+S0950705113001895-23699	4	2	MeasuredEntity		{'HasQuantity': 'T1-2'}	98	113	705	720	T2-2	inserting ratio
+S0950705113001895-23699	4	3	Quantity	%		197	210	804	817	T1-3	more than 85%
+S0950705113001895-23699	4	3	MeasuredEntity		{'HasQuantity': 'T1-3'}	178	193	785	800	T2-3	inserting ratio

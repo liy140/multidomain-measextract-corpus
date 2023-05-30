@@ -1,0 +1,11 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0378112713005288-1720	3	1	Quantity			53	55	334	336	T1-1	15
+S0378112713005288-1720	3	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	56	68	337	349	T2-1	upland sites
+S0378112713005288-1720	3	2	Quantity	m		93	107	374	388	T1-2	120 m to 380 m
+S0378112713005288-1720	3	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	70	79	351	360	T3-2	altitudes
+S0378112713005288-1720	3	2	MeasuredEntity		{'HasProperty': 'T3-2'}	56	68	337	349	T2-2	upland sites
+S0378112713005288-1720	5	3	Quantity	stems/ha		84	110	669	695	T1-3	greater than 1000 stems/ha
+S0378112713005288-1720	5	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	5	27	590	612	T4-3	regeneration densities
+S0378112713005288-1720	5	3	MeasuredEntity		{'HasProperty': 'T4-3'}	31	50	616	635	T5-3	native tree species
+S0378112713005288-1720	6	4	Quantity			7	9	799	801	T1-4	10
+S0378112713005288-1720	6	4	MeasuredEntity		{'HasQuantity': 'T1-4'}	10	35	802	827	T2-4	native woody tree species

@@ -1,0 +1,6 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0006322312001096-1278	3	1	Quantity			98	100	449	451	T2-1	65
+S0006322312001096-1278	3	1	MeasuredProperty		{'HasQuantity': 'T2-1'}	91	94	442	445	T3-1	age
+S0006322312001096-1278	3	1	MeasuredEntity		{'HasProperty': 'T3-1'}	60	79	411	430	T1-1	depressive symptoms
+S0006322312001096-1278	3	2	Quantity	years		284	292	635	643	T11-2	65 years
+S0006322312001096-1278	3	2	MeasuredEntity		{'HasQuantity': 'T11-2'}	247	266	598	617	T4-2	depressive symptoms

@@ -1,0 +1,10 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jelecom200308018	5	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	16	21	719	724	T2-1	dried
+101016jelecom200308018	5	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	4	11	707	714	T3-1	polymer
+101016jelecom200308018	5	1	Quantity	degC	"{""unit"": ""degC""}"	25	32	728	735	T1-1	60 degC
+101016jelecom200308018	3	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	10	21	446	457	T2-2	polymerized
+101016jelecom200308018	3	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	0	5	436	441	T3-2	PABTH
+101016jelecom200308018	3	2	Quantity	h	"{""unit"": ""h""}"	131	135	567	571	T1-2	48 h
+101016jelecom200308018	2	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	191	200	309	318	T2-3	extracted
+101016jelecom200308018	2	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	177	185	295	303	T3-3	products
+101016jelecom200308018	2	3	Quantity	h	"{""unit"": ""h""}"	237	241	355	359	T1-3	24 h

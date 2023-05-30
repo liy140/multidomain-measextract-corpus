@@ -1,0 +1,4 @@
+{"text": "H-band slit-viewing VLT images taken on 6 November 2011 UT, just two days before the close approach of BS1 and BS2.", "sentId": 1, "start": 0, "end": 115}
+{"text": "(The relatively poor quality of the images arises from optimization of image quality for the science detector, which records spectra, instead of the slit viewing detector.", "sentId": 2, "start": 116, "end": 287}
+{"text": "When these images were taken, both detectors could not be in good focus at the same time.) It appears that only BS1 was recorded in this image sequence, perhaps because the filter penetration depth is too shallow to see the apparently deeper BS2 feature, which should have crossed the central meridian about 30 min after BS1.", "sentId": 3, "start": 288, "end": 613}
+{"text": "It may also be that BS2 was of lower reflectivity before passing BS1 than it was afterwards (it is quite obvious in the K′ image of Fig. 13).", "sentId": 4, "start": 614, "end": 755}

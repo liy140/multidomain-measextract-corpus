@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103512002801-2075	1	1	Quantity	km		139	147	139	147	T1-1	15–35 km
+S0019103512002801-2075	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	129	137	129	137	T4-1	diameter
+S0019103512002801-2075	1	1	MeasuredEntity		{'HasProperty': 'T4-1'}	122	126	122	126	T3-1	Rhea
+S0019103512002801-2075	1	2	Quantity	keV		162	184	162	184	T1-2	between 20 and 100 keV
+S0019103512002801-2075	1	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	81	90	81	90	T4-2	energetic
+S0019103512002801-2075	1	2	MeasuredEntity		{'HasProperty': 'T4-2'}	152	161	152	161	T3-2	electrons

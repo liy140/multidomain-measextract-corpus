@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CA2664781C_11	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	200	223	200	223	T3-1	the secondary particles
+CA2664781C_11	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	99	125	99	125	T2-1	particle size distribution
+CA2664781C_11	1	1	Quantity			225	241	225	241	T1-1	is less than 1.4

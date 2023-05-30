@@ -1,0 +1,27 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103512004009-5033	1	1	Quantity	Rp		45	55	45	55	T1-1	near 1.4Rp
+S0019103512004009-5033	1	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	9	19	9	19	T4-1	transition
+S0019103512004009-5033	1	1	MeasuredEntity		{'HasProperty': 'T4-1'}	4	8	4	8	T3-1	H/H+
+S0019103512004009-5033	2	2	Quantity	Rp		117	122	174	179	T1-2	2–3Rp
+S0019103512004009-5033	2	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	90	100	147	157	T3-2	transition
+S0019103512004009-5033	2	2	MeasuredEntity		{'HasProperty': 'T3-2'}	85	89	142	146	T2-2	H/H+
+S0019103512004009-5033	4	3	Quantity	nbar		35	42	380	387	T1-3	30 nbar
+S0019103512004009-5033	4	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	43	48	388	393	T3-3	level
+S0019103512004009-5033	4	3	MeasuredEntity		{'HasProperty': 'T3-3'}	56	64	401	409	T4-3	C2 model
+S0019103512004009-5033	4	4	Quantity	K		68	74	413	419	T1-4	3800 K
+S0019103512004009-5033	4	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	16	27	361	372	T4-4	temperature
+S0019103512004009-5033	4	4	MeasuredEntity		{'HasProperty': 'T4-4'}	56	64	401	409	T3-4	C2 model
+S0019103512004009-5033	4	5	Quantity	K		83	90	428	435	T1-5	1000 K.
+S0019103512004009-5033	4	5	MeasuredProperty		{'HasQuantity': 'T1-5'}	16	27	361	372	T5-5	temperature
+S0019103512004009-5033	4	5	MeasuredEntity		{'HasProperty': 'T5-5'}	56	64	401	409	T4-5	C2 model
+S0019103512004009-5033	4	6	Quantity	μbar		204	210	549	555	T1-6	1 μbar
+S0019103512004009-5033	4	6	MeasuredProperty		{'HasQuantity': 'T1-6'}	199	201	544	546	T3-6	p0
+S0019103512004009-5033	4	6	MeasuredEntity		{'HasProperty': 'T3-6'}	185	195	530	540	T2-6	MC09 model
+S0019103512004009-5033	4	7	Quantity	K		222	228	567	573	T1-7	1300 K
+S0019103512004009-5033	4	7	MeasuredProperty		{'HasQuantity': 'T1-7'}	217	219	562	564	T2-7	T0
+S0019103512004009-5033	4	7	MeasuredEntity		{'HasProperty': 'T2-7'}	185	195	530	540	T3-7	MC09 model
+S0019103512004009-5033	5	8	Quantity	Rp		55	60	697	702	T1-8	3.4Rp
+S0019103512004009-5033	5	8	MeasuredProperty		{'HasQuantity': 'T1-8'}	32	42	674	684	T3-8	transition
+S0019103512004009-5033	5	8	MeasuredEntity		{'HasProperty': 'T3-8'}	27	31	669	673	T2-8	H/H+
+S0019103512004009-5033	7	9	Quantity	%		76	80	1026	1030	T1-9	2–3%
+S0019103512004009-5033	7	9	MeasuredEntity		{'HasQuantity': 'T1-9'}	36	59	986	1009	T2-9	H Lyman α transit depth

@@ -1,0 +1,10 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0032386113009889-2123	6	1	Quantity	MPa		94	106	1001	1013	T1-1	about 70 MPa
+S0032386113009889-2123	6	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	67	90	974	997	T2-1	applied uniaxial stress
+S0032386113009889-2123	6	1	MeasuredEntity		{'HasProperty': 'T2-1'}	39	48	946	955	T3-1	debonding
+S0032386113009889-2123	6	2	Quantity	MPa		166	179	1073	1086	T1-2	about 210 MPa
+S0032386113009889-2123	6	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	127	145	1034	1052	T2-2	hydrostatic stress
+S0032386113009889-2123	6	2	MeasuredEntity		{'HasProperty': 'T2-2'}	39	48	946	955	T3-2	debonding
+S0032386113009889-2123	7	3	Quantity	MPa		97	104	1185	1192	T1-3	210 MPa
+S0032386113009889-2123	7	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	67	93	1155	1181	T2-3	applied hydrostatic stress
+S0032386113009889-2123	7	3	MeasuredEntity		{'HasProperty': 'T2-3'}	10	45	1098	1133	T4-3	finite-element analysis simulations

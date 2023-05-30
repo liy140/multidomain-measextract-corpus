@@ -1,0 +1,16 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101002pssa200881782	4	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	6	17	328	339	T2-1	calcination
+101002pssa200881782	4	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	45	51	367	373	T3-1	powder
+101002pssa200881782	4	1	Quantity	degC	"{""unit"": ""degC""}"	21	30	343	352	T1-1	1250 degC
+101002pssa200881782	4	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	6	17	328	339	T2-2	calcination
+101002pssa200881782	4	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	45	51	367	373	T3-2	powder
+101002pssa200881782	4	2	Quantity	h	"{""unit"": ""h""}"	35	39	357	361	T1-2	12 h
+101002pssa200881782	4	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	78	86	400	408	T2-3	sintered
+101002pssa200881782	4	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	45	51	367	373	T3-3	powder
+101002pssa200881782	4	3	Quantity	h	"{""unit"": ""h""}"	106	110	428	432	T1-3	12 h
+101002pssa200881782	4	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	78	86	400	408	T2-4	sintered
+101002pssa200881782	4	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	45	51	367	373	T3-4	powder
+101002pssa200881782	4	4	Quantity	degC	"{""unit"": ""degC""}"	114	123	436	445	T1-4	1400 degC
+101002pssa200881782	3	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	20	31	232	243	T2-5	high-purity
+101002pssa200881782	3	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	40	69	252	281	T3-5	Pr6O11, MnO and CaCO3 powders
+101002pssa200881782	3	5	Quantity	%	"{""unit"": ""%""}"	33	38	245	250	T1-5	99.9%

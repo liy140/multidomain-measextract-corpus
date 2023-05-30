@@ -1,0 +1,15 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0167577X13006393-399	2	1	Quantity	cm−1		72	86	187	201	T1-1	1065–1280 cm−1
+S0167577X13006393-399	2	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	33	57	148	172	T4-1	C3O characteristic bands
+S0167577X13006393-399	2	1	MeasuredEntity		{'HasProperty': 'T4-1'}	4	22	119	137	T3-1	pure PLGA spectrum
+S0167577X13006393-399	3	2	Quantity	cm−1		102	116	305	319	T1-2	about 964 cm−1
+S0167577X13006393-399	3	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	81	98	284	301	T3-2	ν1 vibration mode
+S0167577X13006393-399	3	2	MeasuredEntity		{'HasProperty': 'T3-2'}	4	29	207	232	T2-2	spectrum of HA nanopowder
+S0167577X13006393-399	3	3	Quantity	cm−1		139	148	342	351	T1-3	1031 cm−1
+S0167577X13006393-399	3	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	118	135	321	338	T3-3	ν3 vibration mode
+S0167577X13006393-399	3	3	MeasuredEntity		{'HasProperty': 'T3-3'}	4	29	207	232	T2-3	spectrum of HA nanopowder
+S0167577X13006393-399	3	4	Quantity	cm−1		153	162	356	365	T1-4	1091 cm−1
+S0167577X13006393-399	3	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	118	135	321	338	T3-4	ν3 vibration mode
+S0167577X13006393-399	3	4	MeasuredEntity		{'HasProperty': 'T3-4'}	4	29	207	232	T2-4	spectrum of HA nanopowder
+S0167577X13006393-399	4	5	Quantity			34	37	427	430	T1-5	50%
+S0167577X13006393-399	4	5	MeasuredEntity		{'HasQuantity': 'T1-5'}	26	33	419	426	T2-5	PLGA–HA

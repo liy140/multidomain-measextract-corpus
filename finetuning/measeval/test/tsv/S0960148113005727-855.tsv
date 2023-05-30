@@ -1,0 +1,22 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0960148113005727-855	2	1	Quantity	%		32	42	174	184	T1-1	1.6 ± 0.2%
+S0960148113005727-855	2	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	52	67	194	209	T2-1	output per year
+S0960148113005727-855	2	1	MeasuredEntity		{'HasProperty': 'T2-1'}	0	13	142	155	T3-1	Wind turbines
+S0960148113005727-855	2	2	Quantity			110	115	252	257	T1-2	28.5%
+S0960148113005727-855	2	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	74	94	216	236	T3-2	average load factors
+S0960148113005727-855	2	2	MeasuredEntity		{'HasProperty': 'T3-2'}	0	13	142	155	T2-2	Wind turbines
+S0960148113005727-855	2	3	Quantity			128	131	270	273	T1-3	21%
+S0960148113005727-855	2	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	74	94	216	236	T3-3	average load factors
+S0960148113005727-855	2	3	MeasuredEntity		{'HasProperty': 'T3-3'}	0	13	142	155	T4-3	Wind turbines
+S0960148113005727-855	2	4	Quantity			139	141	281	283	T1-4	19
+S0960148113005727-855	2	4	MeasuredProperty		{'HasQuantity': 'T1-4'}	135	138	277	280	T2-4	age
+S0960148113005727-855	2	4	MeasuredEntity		{'HasProperty': 'T2-4'}	0	13	142	155	T3-4	Wind turbines
+S0960148113005727-855	4	5	Quantity	%		58	61	439	442	T1-5	12%
+S0960148113005727-855	4	5	MeasuredProperty		{'HasQuantity': 'T1-5'}	14	33	395	414	T3-5	degradation reduces
+S0960148113005727-855	4	5	MeasuredEntity		{'HasProperty': 'T3-5'}	36	54	417	435	T2-5	wind farm's output
+S0960148113005727-855	4	6	Quantity	year		69	80	450	461	T1-6	twenty year
+S0960148113005727-855	4	6	MeasuredProperty		{'HasQuantity': 'T1-6'}	81	89	462	470	T2-6	lifetime
+S0960148113005727-855	4	6	MeasuredEntity		{'HasProperty': 'T2-6'}	36	47	417	428	T3-6	wind farm's
+S0960148113005727-855	4	7	Quantity	%		139	141	520	522	T1-7	9%
+S0960148113005727-855	4	7	MeasuredProperty		{'HasQuantity': 'T1-7'}	106	135	487	516	T2-7	levelised cost of electricity
+S0960148113005727-855	4	7	MeasuredEntity		{'HasProperty': 'T2-7'}	36	47	417	428	T3-7	wind farm's

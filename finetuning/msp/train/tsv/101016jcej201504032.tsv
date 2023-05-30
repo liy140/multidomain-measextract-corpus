@@ -1,0 +1,54 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jcej201504032	12	1	MeasuredEntity		"{""HasQuantity"": ""T1-1""}"	74	119	1290	1335	T3-1	deionized double distilled water (solution A)
+101016jcej201504032	12	1	Quantity	mL	"{""unit"": ""mL""}"	64	70	1280	1286	T1-1	100 mL
+101016jcej201504032	14	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	15	21	1491	1497	T2-2	heated
+101016jcej201504032	14	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	0	10	1476	1486	T3-2	Solution A
+101016jcej201504032	14	2	Quantity	degC	"{""unit"": ""degC""}"	25	32	1501	1508	T1-2	85 degC
+101016jcej201504032	15	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	71	78	1646	1653	T2-3	stirred
+101016jcej201504032	15	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	50	66	1625	1641	T3-3	reaction mixture
+101016jcej201504032	15	3	Quantity	h	"{""unit"": ""h""}"	83	86	1658	1661	T1-3	1 h
+101016jcej201504032	15	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	4	15	1579	1590	T2-4	temperature
+101016jcej201504032	15	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	50	66	1625	1641	T3-4	reaction mixture
+101016jcej201504032	15	4	Quantity	degC	"{""unit"": ""degC""}"	34	41	1609	1616	T1-4	85 degC
+101016jcej201504032	16	5	MeasuredEntity		"{""HasQuantity"": ""T1-5""}"	121	137	1823	1839	T3-5	de-ionized water
+101016jcej201504032	16	5	Quantity	mL	"{""unit"": ""mL""}"	108	117	1810	1819	T1-5	3 x 20 mL
+101016jcej201504032	16	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	212	220	1914	1922	T2-6	calcined
+101016jcej201504032	16	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	196	206	1898	1908	T3-6	precursors
+101016jcej201504032	16	6	Quantity	degC	"{""unit"": ""degC""}"	224	232	1926	1934	T1-6	450 degC
+101016jcej201504032	16	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	212	220	1914	1922	T2-7	calcined
+101016jcej201504032	16	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	196	206	1898	1908	T3-7	precursors
+101016jcej201504032	16	7	Quantity	min	"{""unit"": ""min""}"	237	243	1939	1945	T1-7	90 min
+101016jcej201504032	16	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	142	170	1844	1872	T2-8	dried under vacuum overnight
+101016jcej201504032	16	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	62	91	1764	1793	T3-8	green precipitate that formed
+101016jcej201504032	16	8	Quantity	degC	"{""unit"": ""degC""}"	174	181	1876	1883	T1-8	50 degC
+101016jcej201504032	4	9	MeasuredEntity		"{""HasQuantity"": ""T1-9""}"	41	56	247	262	T3-9	distilled water
+101016jcej201504032	4	9	Quantity	mL	"{""unit"": ""mL""}"	31	37	237	243	T1-9	100 mL
+101016jcej201504032	4	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	18	27	224	233	T2-10	dissolved
+101016jcej201504032	4	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	0	8	206	214	T3-10	Zn(NO3)2
+101016jcej201504032	4	10	Quantity	mmol	"{""unit"": ""mmol""}"	10	16	216	222	T1-10	1 mmol
+101016jcej201504032	5	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	56	58	345	347	T2-11	pH
+101016jcej201504032	5	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	66	74	355	363	T3-11	solution
+101016jcej201504032	5	11	Quantity			82	84	371	373	T1-11	12
+101016jcej201504032	6	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	79	84	454	459	T2-12	dried
+101016jcej201504032	6	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	4	29	379	404	T3-12	resulting white particles
+101016jcej201504032	6	12	Quantity	h	"{""unit"": ""h""}"	89	93	464	468	T1-12	24 h
+101016jcej201504032	6	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	79	84	454	459	T2-13	dried
+101016jcej201504032	6	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	4	29	379	404	T3-13	resulting white particles
+101016jcej201504032	6	13	Quantity	degC	"{""unit"": ""degC""}"	97	104	472	479	T1-13	80 degC
+101016jcej201504032	6	14	MeasuredProperty		"{""HasQuantity"": ""T1-14""}"	35	41	410	416	T2-14	washed
+101016jcej201504032	6	14	MeasuredEntity		"{""HasProperty"": ""T2-14""}"	4	29	379	404	T3-14	resulting white particles
+101016jcej201504032	6	14	Quantity	times	"{""unit"": ""times""}"	42	53	417	428	T1-14	three times
+101016jcej201504032	7	15	MeasuredProperty		"{""HasQuantity"": ""T1-15""}"	0	9	585	594	T2-15	Calcining
+101016jcej201504032	7	15	MeasuredEntity		"{""HasProperty"": ""T2-15""}"	71	74	656	659	T3-15	ZnO
+101016jcej201504032	7	15	Quantity	degC	"{""unit"": ""degC""}"	13	21	598	606	T1-15	500 degC
+101016jcej201504032	7	16	MeasuredProperty		"{""HasQuantity"": ""T1-16""}"	0	9	585	594	T2-16	Calcining
+101016jcej201504032	7	16	MeasuredEntity		"{""HasProperty"": ""T2-16""}"	71	74	656	659	T3-16	ZnO
+101016jcej201504032	7	16	Quantity	h	"{""unit"": ""h""}"	26	29	611	614	T1-16	1 h
+101016jcej201504032	8	17	MeasuredEntity		"{""HasQuantity"": ""T1-17""}"	28	36	693	701	T3-17	Cu-doped
+101016jcej201504032	8	17	Quantity	%	"{""unit"": ""%""}"	25	27	690	692	T1-17	1%
+101016jcej201504032	9	18	MeasuredProperty		"{""HasQuantity"": ""T1-18""}"	101	108	873	880	T2-18	powders
+101016jcej201504032	9	18	MeasuredEntity		"{""HasProperty"": ""T2-18""}"	45	70	817	842	T3-18	high purity Zn(NO3)2*6H2O
+101016jcej201504032	9	18	Quantity	%	"{""unit"": ""%""}"	72	78	844	850	T1-18	99.99%
+101016jcej201504032	9	19	MeasuredProperty		"{""HasQuantity"": ""T1-19""}"	101	108	873	880	T2-19	powders
+101016jcej201504032	9	19	MeasuredEntity		"{""HasProperty"": ""T2-19""}"	84	94	856	866	T3-19	CuSO4*5H2O
+101016jcej201504032	9	19	Quantity	%	"{""unit"": ""%""}"	96	99	868	871	T1-19	99%

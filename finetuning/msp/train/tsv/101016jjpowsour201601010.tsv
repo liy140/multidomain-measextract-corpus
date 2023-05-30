@@ -1,0 +1,78 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jjpowsour201601010	4	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	32	40	604	612	T2-1	prepared
+101016jjpowsour201601010	4	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	19	27	591	599	T3-1	solution
+101016jjpowsour201601010	4	1	Quantity	ml	"{""unit"": ""ml""}"	12	18	584	590	T1-1	150 ml
+101016jjpowsour201601010	4	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	53	75	625	647	T2-2	zinc acetate dihydrate
+101016jjpowsour201601010	4	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	19	27	591	599	T3-2	solution
+101016jjpowsour201601010	4	2	Quantity	M	"{""unit"": ""M""}"	46	52	618	624	T1-2	0.04 M
+101016jjpowsour201601010	4	3	MeasuredProperty		"{""HasQuantity"": ""T1-3""}"	84	106	656	678	T2-3	hexamethylenetetramine
+101016jjpowsour201601010	4	3	MeasuredEntity		"{""HasProperty"": ""T2-3""}"	19	27	591	599	T3-3	solution
+101016jjpowsour201601010	4	3	Quantity	M	"{""unit"": ""M""}"	77	83	649	655	T1-3	0.04 M
+101016jjpowsour201601010	4	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	119	139	691	711	T2-4	poly(ethylene imine)
+101016jjpowsour201601010	4	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	19	27	591	599	T3-4	solution
+101016jjpowsour201601010	4	4	Quantity	M	"{""unit"": ""M""}"	111	118	683	690	T1-4	0.009 M
+101016jjpowsour201601010	5	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	6	16	719	729	T2-5	preheating
+101016jjpowsour201601010	5	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	21	39	734	752	T3-5	precursor solution
+101016jjpowsour201601010	5	5	Quantity	h	"{""unit"": ""h""}"	44	47	757	760	T1-5	1 h
+101016jjpowsour201601010	5	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	6	16	719	729	T2-6	preheating
+101016jjpowsour201601010	5	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	21	39	734	752	T3-6	precursor solution
+101016jjpowsour201601010	5	6	Quantity	degC	"{""unit"": ""degC""}"	51	58	764	771	T1-6	95 degC
+101016jjpowsour201601010	5	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	90	114	803	827	T2-7	dipped into the solution
+101016jjpowsour201601010	5	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	64	84	777	797	T3-7	seeded CC substrates
+101016jjpowsour201601010	5	7	Quantity	h	"{""unit"": ""h""}"	127	130	840	843	T1-7	4 h
+101016jjpowsour201601010	8	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	66	84	1275	1293	T2-8	deposition process
+101016jjpowsour201601010	8	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	43	56	1252	1265	T3-8	silicon shell
+101016jjpowsour201601010	8	8	Quantity	degC	"{""unit"": ""degC""}"	104	112	1313	1321	T1-8	650 degC
+101016jjpowsour201601010	8	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	66	84	1275	1293	T2-9	deposition process
+101016jjpowsour201601010	8	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	43	56	1252	1265	T3-9	silicon shell
+101016jjpowsour201601010	8	9	Quantity	min	"{""unit"": ""min""}"	117	123	1326	1332	T1-9	90 min
+101016jjpowsour201601010	8	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	129	136	1338	1345	T2-10	passing
+101016jjpowsour201601010	8	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	144	148	1353	1357	T3-10	C2H2
+101016jjpowsour201601010	8	10	Quantity	sccm	"{""unit"": ""sccm""}"	137	143	1346	1352	T1-10	4 sccm
+101016jjpowsour201601010	8	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	129	136	1338	1345	T2-11	passing
+101016jjpowsour201601010	8	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	161	163	1370	1372	T3-11	Ar
+101016jjpowsour201601010	8	11	Quantity	sccm	"{""unit"": ""sccm""}"	153	160	1362	1369	T1-11	20 sccm
+101016jjpowsour201601010	8	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	169	177	1378	1386	T2-12	pressure
+101016jjpowsour201601010	8	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	66	84	1275	1293	T3-12	deposition process
+101016jjpowsour201601010	8	12	Quantity	Pa	"{""unit"": ""Pa""}"	181	187	1390	1396	T1-12	500 Pa
+101016jjpowsour201601010	9	13	MeasuredProperty		"{""HasQuantity"": ""T1-13""}"	111	113	1509	1511	T2-13	H2
+101016jjpowsour201601010	9	13	MeasuredEntity		"{""HasProperty"": ""T2-13""}"	117	119	1515	1517	T3-13	N2
+101016jjpowsour201601010	9	13	Quantity	%	"{""unit"": ""%""}"	107	110	1505	1508	T1-13	20%
+101016jjpowsour201601010	9	14	MeasuredProperty		"{""HasQuantity"": ""T1-14""}"	49	56	1447	1454	T2-14	removed
+101016jjpowsour201601010	9	14	MeasuredEntity		"{""HasProperty"": ""T2-14""}"	13	31	1411	1429	T3-14	core ZnO nanowires
+101016jjpowsour201601010	9	14	Quantity	degC	"{""unit"": ""degC""}"	84	92	1482	1490	T1-14	600 degC
+101016jjpowsour201601010	9	15	MeasuredProperty		"{""HasQuantity"": ""T1-15""}"	49	56	1447	1454	T2-15	removed
+101016jjpowsour201601010	9	15	MeasuredEntity		"{""HasProperty"": ""T2-15""}"	13	31	1411	1429	T3-15	core ZnO nanowires
+101016jjpowsour201601010	9	15	Quantity	h	"{""unit"": ""h""}"	97	101	1495	1499	T1-15	12 h
+101016jjpowsour201601010	9	16	MeasuredProperty		"{""HasQuantity"": ""T1-16""}"	49	56	1447	1454	T2-16	removed
+101016jjpowsour201601010	9	16	MeasuredEntity		"{""HasProperty"": ""T2-16""}"	13	31	1411	1429	T3-16	core ZnO nanowires
+101016jjpowsour201601010	9	16	Quantity	Pa	"{""unit"": ""Pa""}"	123	129	1521	1527	T1-16	600 Pa
+101016jjpowsour201601010	7	17	MeasuredProperty		"{""HasQuantity"": ""T1-17""}"	61	72	1132	1143	T2-17	several min
+101016jjpowsour201601010	7	17	MeasuredEntity		"{""HasProperty"": ""T2-17""}"	18	25	1089	1096	T3-17	silicon
+101016jjpowsour201601010	7	17	Quantity	degC	"{""unit"": ""degC""}"	48	56	1119	1127	T1-17	500 degC
+101016jjpowsour201601010	7	18	MeasuredProperty		"{""HasQuantity"": ""T1-18""}"	78	85	1149	1156	T2-18	passing
+101016jjpowsour201601010	7	18	MeasuredEntity		"{""HasProperty"": ""T2-18""}"	93	97	1164	1168	T3-18	SiH4
+101016jjpowsour201601010	7	18	Quantity	sccm	"{""unit"": ""sccm""}"	86	92	1157	1163	T1-18	4 sccm
+101016jjpowsour201601010	7	19	MeasuredProperty		"{""HasQuantity"": ""T1-19""}"	78	85	1149	1156	T2-19	passing
+101016jjpowsour201601010	7	19	MeasuredEntity		"{""HasProperty"": ""T2-19""}"	110	112	1181	1183	T3-19	Ar
+101016jjpowsour201601010	7	19	Quantity	sccm	"{""unit"": ""sccm""}"	102	109	1173	1180	T1-19	20 sccm
+101016jjpowsour201601010	7	20	MeasuredProperty		"{""HasQuantity"": ""T1-20""}"	118	126	1189	1197	T2-20	pressure
+101016jjpowsour201601010	7	20	MeasuredEntity		"{""HasProperty"": ""T2-20""}"	4	31	1075	1102	T3-20	deposition of silicon shell
+101016jjpowsour201601010	7	20	Quantity	Pa	"{""unit"": ""Pa""}"	130	136	1201	1207	T1-20	100 Pa
+101016jjpowsour201601010	3	21	MeasuredEntity		"{""HasQuantity"": ""T1-21""}"	43	82	452	491	T3-21	zinc acetate dihydrate alcohol solution
+101016jjpowsour201601010	3	21	Quantity	M	"{""unit"": ""M""}"	34	42	443	451	T1-21	0.0025 M
+101016jjpowsour201601010	3	22	MeasuredProperty		"{""HasQuantity"": ""T1-22""}"	24	30	433	439	T2-22	soaked
+101016jjpowsour201601010	3	22	MeasuredEntity		"{""HasProperty"": ""T2-22""}"	4	14	413	423	T3-22	cleaned CC
+101016jjpowsour201601010	3	22	Quantity	min	"{""unit"": ""min""}"	87	92	496	501	T1-22	5 min
+101016jjpowsour201601010	3	23	MeasuredProperty		"{""HasQuantity"": ""T1-23""}"	97	105	506	514	T2-23	annealed
+101016jjpowsour201601010	3	23	MeasuredEntity		"{""HasProperty"": ""T2-23""}"	4	14	413	423	T3-23	cleaned CC
+101016jjpowsour201601010	3	23	Quantity	min	"{""unit"": ""min""}"	118	124	527	533	T1-23	20 min
+101016jjpowsour201601010	3	24	MeasuredProperty		"{""HasQuantity"": ""T1-24""}"	97	105	506	514	T2-24	annealed
+101016jjpowsour201601010	3	24	MeasuredEntity		"{""HasProperty"": ""T2-24""}"	4	14	413	423	T3-24	cleaned CC
+101016jjpowsour201601010	3	24	Quantity	degC	"{""unit"": ""degC""}"	128	136	537	545	T1-24	300 degC
+101016jjpowsour201601010	2	25	MeasuredProperty		"{""HasQuantity"": ""T1-25""}"	119	129	336	346	T2-25	sonication
+101016jjpowsour201601010	2	25	MeasuredEntity		"{""HasProperty"": ""T2-25""}"	75	87	292	304	T3-25	small pieces
+101016jjpowsour201601010	2	25	Quantity	min	"{""unit"": ""min""}"	170	176	387	393	T1-25	10 min
+101016jjpowsour201601010	2	26	MeasuredProperty		"{""HasQuantity"": ""T1-26""}"	66	87	283	304	T2-26	cut into small pieces
+101016jjpowsour201601010	2	26	MeasuredEntity		"{""HasProperty"": ""T2-26""}"	11	33	228	250	T3-26	CC substrates (W0S1002
+101016jjpowsour201601010	2	26	Quantity	cm2	"{""unit"": ""cm2""}"	89	96	306	313	T1-26	1-2 cm2

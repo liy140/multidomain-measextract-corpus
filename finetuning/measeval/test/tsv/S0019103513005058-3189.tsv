@@ -1,0 +1,10 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103513005058-3189	7	1	Quantity	°C		35	41	796	802	T1-1	−57 °C
+S0019103513005058-3189	7	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	4	18	765	779	T3-1	eutectic point
+S0019103513005058-3189	7	1	MeasuredEntity		{'HasProperty': 'T3-1'}	22	31	783	792	T4-1	Mg(ClO4)2
+S0019103513005058-3189	7	2	Quantity	°C		97	103	858	864	T1-2	−75 °C
+S0019103513005058-3189	7	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	4	18	765	779	T2-2	eutectic point
+S0019103513005058-3189	7	2	MeasuredEntity		{'HasProperty': 'T2-2'}	84	93	845	854	T3-2	Ca(ClO4)2
+S0019103513005058-3189	8	3	Quantity	g		64	71	953	960	T1-3	∼0.02 g
+S0019103513005058-3189	8	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	72	75	961	964	T2-3	H2O
+S0019103513005058-3189	8	3	MeasuredEntity		{'HasProperty': 'T2-3'}	80	86	969	975	T3-3	g soil

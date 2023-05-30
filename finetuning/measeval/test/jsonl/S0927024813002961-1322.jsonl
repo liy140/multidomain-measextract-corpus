@@ -1,0 +1,5 @@
+{"text": "It has been pointed out in the previous section that the spectrum can have a significant influence for amorphous silicon devices.", "sentId": 1, "start": 0, "end": 129}
+{"text": "The behaviour of devices will depend on the band gap of the absorber material and potentially on the window layer, where this is present.", "sentId": 2, "start": 130, "end": 267}
+{"text": "It is apparent from Fig. 7 that there is only a small spectral dependence for c-Si and CIGS devices.", "sentId": 3, "start": 268, "end": 368}
+{"text": "The absolute level depends on the normalisation, but in terms of relative changes in the generated short-circuit current, the effect accounts for about ±3% for CIGS and c-Si and +10% to −20% for a-Si devices.", "sentId": 4, "start": 369, "end": 577}
+{"text": "The overall impact on annual energy yield is slightly positive for a-Si devices and virtually zero for the other technologies.", "sentId": 5, "start": 578, "end": 704}

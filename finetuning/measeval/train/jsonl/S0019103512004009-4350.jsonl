@@ -1,0 +1,8 @@
+{"text": "The substellar tide is included in the C3 model.", "sentId": 1, "start": 0, "end": 48}
+{"text": "We included it mainly to compare our results with previous models (Garcia Munoz, 2007; Penz et al., 2008; Murray-Clay et al., 2009).", "sentId": 2, "start": 49, "end": 181}
+{"text": "The substellar tide is not a particularly good representation of the stellar tide in a globally averaged sense.", "sentId": 3, "start": 182, "end": 293}
+{"text": "In reality, including tides in the models is much more complicated than simply considering the substellar tide (e.g., Trammell et al., 2011).", "sentId": 4, "start": 294, "end": 435}
+{"text": "Compared to the C1 model, the maximum temperature in the C3 model is cooler by ∼1000 K and at high altitudes the C3 model is cooler by 1000–2000 K. The velocity is faster and hence adiabatic cooling is also more efficient.", "sentId": 5, "start": 436, "end": 658}
+{"text": "The substellar tide drives supersonic escape (see also, Penz et al., 2008) and the sonic point in the C3 model is at a much lower altitude than in the C1 model (see Section 3.1.3).", "sentId": 6, "start": 659, "end": 839}
+{"text": "However, it is not clear how the sonic point behaves as a function of latitude and longitude.", "sentId": 7, "start": 840, "end": 933}
+{"text": "Given that the tide is also likely to induce horizontal flows, it cannot be included accurately in 1D models.", "sentId": 8, "start": 934, "end": 1043}

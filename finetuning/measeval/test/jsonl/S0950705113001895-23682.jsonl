@@ -1,0 +1,7 @@
+{"text": "Similar to the experiment schemes for comparing the efficiencies between static and incremental algorithms when deleting the objects from the universe, we also adopt such schemes to compare the performance of algorithms on the case of inserting the objects into the universe.", "sentId": 1, "start": 0, "end": 275}
+{"text": "Firstly, we compare the two algorithms, i.e., Algorithm 1 and Algorithm 3, on the six data sets in Table 5 with the same updating ratio (the ratio of the number of inserting data and original data), but different sizes of the original data.", "sentId": 2, "start": 276, "end": 516}
+{"text": "Here, we assume the updating ratio is equal to 5%.", "sentId": 3, "start": 517, "end": 567}
+{"text": "The experimental results are shown in Table 8.", "sentId": 4, "start": 568, "end": 614}
+{"text": "More detailed change trendline of each of two algorithms with the increasing size of data sets are presented in Fig. 3.", "sentId": 5, "start": 615, "end": 734}
+{"text": "Secondly, we compare the computational times of the two algorithms with the changing of updating ratios for each data sets.", "sentId": 6, "start": 735, "end": 858}
+{"text": "We show the experimental results in Table 9, and more detailed change trendline of each of two algorithms with the increasing size of data sets are given in Fig. 4.", "sentId": 7, "start": 859, "end": 1023}

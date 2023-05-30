@@ -1,0 +1,11 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103511004994-1382	3	1	Quantity			19	28	370	379	T101-1	2005–2010
+S0019103511004994-1382	3	1	MeasuredEntity		{'HasQuantity': 'T101-1'}	7	18	358	369	T91-1	time period
+S0019103511004994-1382	3	2	Quantity			75	83	426	434	T52-2	14 times
+S0019103511004994-1382	3	2	MeasuredProperty		{'HasQuantity': 'T52-2'}	52	74	403	425	T62-2	flew close by the moon
+S0019103511004994-1382	3	2	MeasuredEntity		{'HasProperty': 'T62-2'}	29	51	380	402	T42-2	the Cassini spacecraft
+S0019103511004994-1382	3	3	Quantity			95	110	446	461	T13-3	as low as 25 km
+S0019103511004994-1382	3	3	MeasuredEntity		{'HasQuantity': 'T13-3'}	29	51	380	402	T43-3	the Cassini spacecraft
+S0019103511004994-1382	5	4	Quantity			93	109	739	755	T24-4	27 keV to 21 MeV
+S0019103511004994-1382	5	4	MeasuredProperty		{'HasQuantity': 'T24-4'}	80	86	726	732	T74-4	energy
+S0019103511004994-1382	5	4	MeasuredEntity		{'HasProperty': 'T74-4'}	51	59	697	705	T84-4	electron

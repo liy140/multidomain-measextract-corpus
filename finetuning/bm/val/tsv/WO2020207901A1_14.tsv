@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+WO2020207901A1_14	1	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	4	48	4	48	T3-1	Particulate transition metal (oxy) hydroxide
+WO2020207901A1_14	1	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	101	160	101	160	T2-1	particle size distribution [(D90) - (D10)] divided by (D50)
+WO2020207901A1_14	1	1	Quantity			161	193	161	193	T1-1	is in the range of from 0.5 to 2

@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN105594031A_3	1	1	MeasuredEntity			117	157	117	157	T3-1	lithium transition metal composite oxide
+CN105594031A_3	1	1	MeasuredProperty			164	190	164	190	T2-1	particle size distribution
+CN105594031A_3	1	1	Quantity			194	228	194	228	T1-1	not more than a maximum value of 2

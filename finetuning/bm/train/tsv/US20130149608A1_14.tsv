@@ -1,0 +1,7 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20130149608A1_14	1	1	MeasuredEntity			61	81	61	81	T3-1	in the first process
+US20130149608A1_14	1	1	MeasuredProperty			37	39	37	39	T2-1	pH
+US20130149608A1_14	1	1	Quantity			120	134	120	134	T1-1	10 to about 11
+US20130149608A1_14	1	2	MeasuredEntity			167	188	167	188	T3-2	in the second process
+US20130149608A1_14	1	2	MeasuredProperty			142	144	142	144	T2-2	pH
+US20130149608A1_14	1	2	Quantity			227	245	227	245	T1-2	11.5 to about 12.0

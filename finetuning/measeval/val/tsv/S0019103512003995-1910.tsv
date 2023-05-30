@@ -1,0 +1,28 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0019103512003995-1910	1	1	Quantity			112	127	112	127	T71-1	four and a half
+S0019103512003995-1910	1	1	MeasuredEntity		{'HasQuantity': 'T71-1'}	128	140	128	140	T81-1	solar cycles
+S0019103512003995-1910	1	2	Quantity			141	162	141	162	T102-2	between 1947 and 1999
+S0019103512003995-1910	1	2	MeasuredEntity		{'HasQuantity': 'T102-2'}	80	102	80	102	T1-2	satellite observations
+S0019103512003995-1910	1	3	MeasuredEntity		{'HasProperty': 'T113-3'}	53	70	53	70	T123-3	Lyman α emissions
+S0019103512003995-1910	1	7	MeasuredEntity		{'HasProperty': 'T177-7'}	53	70	53	70	T127-7	Lyman α emissions
+S0019103512003995-1910	2	3	Quantity			47	57	211	221	T13-3	1% and 37%
+S0019103512003995-1910	2	3	MeasuredProperty		{'HasQuantity': 'T13-3'}	20	31	184	195	T113-3	variability
+S0019103512003995-1910	2	4	Quantity			65	68	229	232	T134-4	one
+S0019103512003995-1910	2	4	MeasuredEntity		{'HasQuantity': 'T134-4'}	69	93	233	257	T144-4	period of solar rotation
+S0019103512003995-1910	2	5	Quantity	days		95	102	259	266	T35-5	27 days
+S0019103512003995-1910	2	5	MeasuredEntity		{'HasQuantity': 'T35-5'}	69	93	233	257	T145-5	period of solar rotation
+S0019103512003995-1910	2	6	Quantity			140	143	304	307	T196-6	one
+S0019103512003995-1910	2	6	MeasuredEntity		{'HasQuantity': 'T196-6'}	144	158	308	322	T206-6	solar rotation
+S0019103512003995-1910	2	7	Quantity	%		175	181	339	345	T27-7	9 ± 6%
+S0019103512003995-1910	2	7	MeasuredProperty		{'HasQuantity': 'T27-7'}	121	132	285	296	T177-7	variability
+S0019103512003995-1910	4	8	Quantity	days		51	62	493	504	T58-8	∼10–11 days
+S0019103512003995-1910	4	8	MeasuredProperty		{'HasQuantity': 'T58-8'}	4	19	446	461	T228-8	rotation period
+S0019103512003995-1910	4	8	MeasuredEntity		{'HasProperty': 'T228-8'}	23	31	465	473	T168-8	HD209458
+S0019103512003995-1910	5	9	Quantity			31	36	557	562	T249-9	three
+S0019103512003995-1910	5	9	MeasuredEntity		{'HasQuantity': 'T249-9'}	47	55	573	581	T219-9	transits
+S0019103512003995-1910	5	10	Quantity	month		71	96	597	622	T2610-10	within a month and a half
+S0019103512003995-1910	5	10	MeasuredProperty		{'HasQuantity': 'T2610-10'}	60	70	586	596	T2310-10	took place
+S0019103512003995-1910	5	10	MeasuredEntity		{'HasProperty': 'T2310-10'}	4	22	530	548	T2910-10	G140M observations
+S0019103512003995-1910	6	11	Quantity	h		25	42	649	666	T611-11	approximately 2 h
+S0019103512003995-1910	6	11	MeasuredProperty		{'HasQuantity': 'T611-11'}	46	50	670	674	T2511-11	time
+S0019103512003995-1910	6	11	MeasuredEntity		{'HasProperty': 'T2511-11'}	5	16	629	640	T3011-11	observation

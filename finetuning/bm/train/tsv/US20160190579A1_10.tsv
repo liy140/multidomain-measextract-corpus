@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+US20160190579A1_10	1	1	MeasuredEntity			278	307	278	307	T3-1	ammonia solution in a reactor
+US20160190579A1_10	1	1	MeasuredProperty			318	320	318	320	T2-1	pH
+US20160190579A1_10	1	1	Quantity			335	355	335	355	T1-1	to 11.8 through 12.3

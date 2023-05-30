@@ -1,0 +1,4 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+CN107342416A_6	1	1	MeasuredEntity			13	51	13	51	T3-1	transition metal oxide-based precursor
+CN107342416A_6	1	1	MeasuredProperty			157	178	157	178	T2-1	specific surface area
+CN107342416A_6	1	1	Quantity	m measured2/g		182	200	182	200	T1-1	5-80 m measured2/g

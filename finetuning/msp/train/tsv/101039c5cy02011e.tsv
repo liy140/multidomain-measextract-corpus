@@ -1,0 +1,43 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101039c5cy02011e	2	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	21	26	134	139	T2-1	Si/Al
+101039c5cy02011e	2	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	13	19	126	132	T3-1	HZSM-5
+101039c5cy02011e	2	1	Quantity			29	31	142	144	T1-1	50
+101039c5cy02011e	3	2	MeasuredProperty		"{""HasQuantity"": ""T1-2""}"	58	63	264	269	T2-2	added
+101039c5cy02011e	3	2	MeasuredEntity		"{""HasProperty"": ""T2-2""}"	0	30	206	236	T3-2	Tetraethyl orthosilicate (TEOS
+101039c5cy02011e	3	2	Quantity	g	"{""unit"": ""g""}"	46	52	252	258	T1-2	15.6 g
+101039c5cy02011e	3	3	MeasuredEntity		"{""HasQuantity"": ""T1-3""}"	91	96	297	302	T3-3	water
+101039c5cy02011e	3	3	Quantity	g	"{""unit"": ""g""}"	98	101	304	307	T1-3	7 g
+101039c5cy02011e	3	4	MeasuredProperty		"{""HasQuantity"": ""T1-4""}"	210	218	416	424	T2-4	in water
+101039c5cy02011e	3	4	MeasuredEntity		"{""HasProperty"": ""T2-4""}"	157	193	363	399	T3-4	tetrapropylammonium hydroxide (TPAOH
+101039c5cy02011e	3	4	Quantity	wt%	"{""unit"": ""wt%""}"	203	209	409	415	T1-4	25 wt%
+101039c5cy02011e	3	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	104	128	310	334	T2-5	sodium aluminate (NaAlO2
+101039c5cy02011e	3	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	71	79	277	285	T3-5	solution
+101039c5cy02011e	3	5	Quantity	g	"{""unit"": ""g""}"	144	151	350	357	T1-5	0.123 g
+101039c5cy02011e	3	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	157	193	363	399	T2-6	tetrapropylammonium hydroxide (TPAOH
+101039c5cy02011e	3	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	71	79	277	285	T3-6	solution
+101039c5cy02011e	3	6	Quantity	g	"{""unit"": ""g""}"	220	227	426	433	T1-6	12.18 g
+101039c5cy02011e	4	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	113	135	549	571	T2-7	hydrothermal treatment
+101039c5cy02011e	4	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	44	61	480	497	T3-7	resulting mixture
+101039c5cy02011e	4	7	Quantity	degC	"{""unit"": ""degC""}"	139	168	575	604	T1-7	120 degC for 2 h and 170 degC
+101039c5cy02011e	4	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	113	135	549	571	T2-8	hydrothermal treatment
+101039c5cy02011e	4	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	44	61	480	497	T3-8	resulting mixture
+101039c5cy02011e	4	8	Quantity	h	"{""unit"": ""h""}"	152	177	588	613	T1-8	2 h and 170 degC for 24 h
+101039c5cy02011e	4	9	MeasuredProperty		"{""HasQuantity"": ""T1-9""}"	12	19	448	455	T2-9	stirred
+101039c5cy02011e	4	9	MeasuredEntity		"{""HasProperty"": ""T2-9""}"	54	61	490	497	T3-9	mixture
+101039c5cy02011e	4	9	Quantity	h	"{""unit"": ""h""}"	35	38	471	474	T1-9	5 h
+101039c5cy02011e	4	10	MeasuredProperty		"{""HasQuantity"": ""T1-10""}"	12	19	448	455	T2-10	stirred
+101039c5cy02011e	4	10	MeasuredEntity		"{""HasProperty"": ""T2-10""}"	54	61	490	497	T3-10	mixture
+101039c5cy02011e	4	10	Quantity	degC	"{""unit"": ""degC""}"	23	30	459	466	T1-10	30 degC
+101039c5cy02011e	5	11	MeasuredProperty		"{""HasQuantity"": ""T1-11""}"	60	68	695	703	T2-11	calcined
+101039c5cy02011e	5	11	MeasuredEntity		"{""HasProperty"": ""T2-11""}"	10	23	645	658	T3-11	solid product
+101039c5cy02011e	5	11	Quantity	degC	"{""unit"": ""degC""}"	72	80	707	715	T1-11	550 degC
+101039c5cy02011e	5	12	MeasuredProperty		"{""HasQuantity"": ""T1-12""}"	60	68	695	703	T2-12	calcined
+101039c5cy02011e	5	12	MeasuredEntity		"{""HasProperty"": ""T2-12""}"	10	23	645	658	T3-12	solid product
+101039c5cy02011e	5	12	Quantity	h	"{""unit"": ""h""}"	85	88	720	723	T1-12	8 h
+101039c5cy02011e	6	13	MeasuredEntity		"{""HasQuantity"": ""T1-13""}"	125	150	932	957	T3-13	calcination in static air
+101039c5cy02011e	6	13	Quantity	degC	"{""unit"": ""degC""}"	154	162	961	969	T1-13	550 degC
+101039c5cy02011e	6	14	MeasuredEntity		"{""HasQuantity"": ""T1-14""}"	125	150	932	957	T3-14	calcination in static air
+101039c5cy02011e	6	14	Quantity	h	"{""unit"": ""h""}"	167	170	974	977	T1-14	8 h
+101039c5cy02011e	6	15	MeasuredProperty		"{""HasQuantity"": ""T1-15""}"	47	78	854	885	T2-15	three consecutive ion exchanges
+101039c5cy02011e	6	15	MeasuredEntity		"{""HasProperty"": ""T2-15""}"	86	109	893	916	T3-15	NH4NO3 aqueous solution
+101039c5cy02011e	6	15	Quantity	M	"{""unit"": ""M""}"	82	85	889	892	T1-15	1 M

@@ -1,0 +1,24 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+101016jjallcom201209067	3	1	MeasuredProperty		"{""HasQuantity"": ""T1-1""}"	122	162	379	419	T2-1	subjected to MA in a planetary ball mill
+101016jjallcom201209067	3	1	MeasuredEntity		"{""HasProperty"": ""T2-1""}"	108	116	365	373	T3-1	mixtures
+101016jjallcom201209067	3	1	Quantity	rpm	"{""unit"": ""rpm""}"	242	249	499	506	T1-1	450 rpm
+101016jjallcom201209067	2	2	MeasuredEntity		"{""HasQuantity"": ""T1-2""}"	36	38	185	187	T3-2	Cu
+101016jjallcom201209067	2	2	Quantity	%	"{""unit"": ""%""}"	40	46	189	195	T1-2	99.99%
+101016jjallcom201209067	2	3	MeasuredEntity		"{""HasQuantity"": ""T1-3""}"	49	51	198	200	T3-3	Fe
+101016jjallcom201209067	2	3	Quantity	%	"{""unit"": ""%""}"	53	59	202	208	T1-3	99.99%
+101016jjallcom201209067	2	4	MeasuredEntity		"{""HasQuantity"": ""T1-4""}"	65	66	214	215	T3-4	S
+101016jjallcom201209067	2	4	Quantity	%	"{""unit"": ""%""}"	68	73	217	222	T1-4	99.9%
+101016jjallcom201209067	5	5	MeasuredProperty		"{""HasQuantity"": ""T1-5""}"	58	70	769	781	T2-5	temperatures
+101016jjallcom201209067	5	5	MeasuredEntity		"{""HasProperty"": ""T2-5""}"	4	22	715	733	T3-5	MA-derived powders
+101016jjallcom201209067	5	5	Quantity	K	"{""unit"": ""K""}"	71	96	782	807	T1-5	ranging from 873 to 923 K
+101016jjallcom201209067	5	6	MeasuredProperty		"{""HasQuantity"": ""T1-6""}"	28	37	739	748	T2-6	densified
+101016jjallcom201209067	5	6	MeasuredEntity		"{""HasProperty"": ""T2-6""}"	4	6	715	717	T3-6	MA
+101016jjallcom201209067	5	6	Quantity	min	"{""unit"": ""min""}"	101	106	812	817	T1-6	5 min
+101016jjallcom201209067	5	7	MeasuredProperty		"{""HasQuantity"": ""T1-7""}"	116	130	827	841	T2-7	axial pressure
+101016jjallcom201209067	5	7	MeasuredEntity		"{""HasProperty"": ""T2-7""}"	4	22	715	733	T3-7	MA-derived powders
+101016jjallcom201209067	5	7	Quantity	MPa	"{""unit"": ""MPa""}"	134	140	845	851	T1-7	50 MPa
+101016jjallcom201209067	4	8	MeasuredProperty		"{""HasQuantity"": ""T1-8""}"	4	16	532	544	T2-8	weight ratio
+101016jjallcom201209067	4	8	MeasuredEntity		"{""HasProperty"": ""T2-8""}"	20	36	548	564	T3-8	balls to powders
+101016jjallcom201209067	4	8	Quantity			49	59	577	587	T1-8	about 20:1
+101016jjallcom201209067	4	9	MeasuredEntity		"{""HasQuantity"": ""T1-9""}"	95	97	623	625	T3-9	Ar
+101016jjallcom201209067	4	9	Quantity	%	"{""unit"": ""%""}"	99	104	627	632	T1-9	99.9%

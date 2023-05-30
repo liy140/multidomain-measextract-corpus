@@ -1,0 +1,9 @@
+{"text": "A transient magnetospheric expansion event creates a significant increase in both power dissipated in the atmosphere due to Joule heating (~6× that of ES) and ion drag energy (~3× that of ES).", "sentId": 1, "start": 0, "end": 192}
+{"text": "Moreover, the power used to accelerate the magnetosphere towards corotation is ~7× that of ES, and is shown in Fig. 10(b).", "sentId": 2, "start": 193, "end": 315}
+{"text": "These increases lead to a total power per hemisphere of ~2600TW which is three times larger than the responsive thermosphere case in Cowley et al. (2007).", "sentId": 3, "start": 316, "end": 470}
+{"text": "These changes in heating and cooling create the local temperature increases discussed above.", "sentId": 4, "start": 471, "end": 563}
+{"text": "For case EF, where we now have the magnetosphere rotating faster than the thermosphere, there is a ~75% decrease in the magnitude of ‘magnetospheric’ power.", "sentId": 5, "start": 564, "end": 720}
+{"text": "The magnetosphere is thus transferring power to the thermosphere in this case, albeit a relatively small amount.", "sentId": 6, "start": 721, "end": 833}
+{"text": "This effectively ‘pulls’ the thermosphere along, increasing its angular velocity in order to return to the steady-state situation where ΩT>ΩM.", "sentId": 7, "start": 834, "end": 976}
+{"text": "We note that energy dissipated via Joule heating also decreases slightly due to the small decrease in flow shear.", "sentId": 8, "start": 977, "end": 1090}
+{"text": "Overall, then, the total power per hemisphere in case EF is only 30% that of case ES.", "sentId": 9, "start": 1091, "end": 1176}

@@ -1,0 +1,3 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S175058361300203X-1280	5	1	Quantity	Hz		131	136	657	662	T1-1	40 Hz
+S175058361300203X-1280	5	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	109	127	635	653	T2-1	dominant frequency

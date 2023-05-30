@@ -1,0 +1,10 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0927024813002961-1322	4	1	Quantity	%		146	155	515	524	T1-1	about ±3%
+S0927024813002961-1322	4	1	MeasuredProperty		{'HasQuantity': 'T1-1'}	126	141	495	510	T3-1	effect accounts
+S0927024813002961-1322	4	1	MeasuredEntity		{'HasProperty': 'T3-1'}	65	120	434	489	T5-1	relative changes in the generated short-circuit current
+S0927024813002961-1322	4	2	Quantity	%		178	190	547	559	T1-2	+10% to −20%
+S0927024813002961-1322	4	2	MeasuredProperty		{'HasQuantity': 'T1-2'}	126	141	495	510	T3-2	effect accounts
+S0927024813002961-1322	4	2	MeasuredEntity		{'HasProperty': 'T3-2'}	65	120	434	489	T5-2	relative changes in the generated short-circuit current
+S0927024813002961-1322	5	3	Quantity			94	98	672	676	T1-3	zero
+S0927024813002961-1322	5	3	MeasuredProperty		{'HasQuantity': 'T1-3'}	4	41	582	619	T2-3	overall impact on annual energy yield
+S0927024813002961-1322	5	3	MeasuredEntity		{'HasProperty': 'T2-3'}	107	125	685	703	T3-3	other technologies

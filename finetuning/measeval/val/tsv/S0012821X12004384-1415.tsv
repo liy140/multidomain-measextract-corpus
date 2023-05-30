@@ -1,0 +1,6 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S0012821X12004384-1415	1	1	Quantity	m		39	58	39	58	T11-1	from 2632 to 2618 m
+S0012821X12004384-1415	1	1	MeasuredEntity		{'HasQuantity': 'T11-1'}	0	37	0	37	T21-1	Dinoflagellate cyst assemblage 1 (DA1
+S0012821X12004384-1415	3	2	Quantity	%		18	31	280	293	T52-2	on average 5%
+S0012821X12004384-1415	3	2	MeasuredProperty		{'HasQuantity': 'T52-2'}	32	48	294	310	T32-2	peridinoid cysts
+S0012821X12004384-1415	3	2	MeasuredEntity		{'HasProperty': 'T32-2'}	0	3	262	265	T42-2	DA1

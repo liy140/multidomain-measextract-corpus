@@ -1,0 +1,3 @@
+docId	sentId	annotSet	entLabel	unit	children	sentStartOffset	sentEndOffset	docStartOffset	docEndOffset	entKey	text
+S2213671113000921-756	1	1	Quantity	μm		69	75	69	75	T1-1	200 μm
+S2213671113000921-756	1	1	MeasuredEntity		{'HasQuantity': 'T1-1'}	48	57	48	57	T2-1	scale bar
