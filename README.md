@@ -16,6 +16,3 @@ Each folder contains a `tsv/` and a `jsonl` sub-folder. Each `tsv` file contains
 
 The single txt file in this folder contains data for task-adaptive-pre-training models. It consists of held-out, pooled, unlabeled data related to the three datasets listed above.
 In the case of `measeval`, its TAPT data is comprised of paragraphs from the [OA-STM Corpus](https://elsevierlabs.github.io/OA-STM-Corpus/) that were not used for the creation of the MeasEval dataset.
-
-## Citation
-
