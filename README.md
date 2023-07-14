@@ -2,7 +2,7 @@
 
 ## Description of contents
 
-A detailed description of corpus creation can be found [here]([arxiv.org](https://aclanthology.org/2023.bionlp-1.1/)).
+A detailed description of corpus creation can be found [here]([https://aclanthology.org/2023.bionlp-1.1/]).
 
 `finetuning/` 
 
